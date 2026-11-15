@@ -1,0 +1,1001 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3500,3250,23
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2400,3600,3000,23
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,4000,3500,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3200,3500,3350,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3800,4000,3900,23
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2000,2500,2250,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3000,3000,23
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,1800,2200,2000,23
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2400,2800,2600,23
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,1700,2000,1850,23
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3600,3300,23
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2500,3000,2750,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2800,3200,3000,23
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,10/11/2025,2400,2800,2600,23
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2500,3500,3000,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,1800,2500,2150,23
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3200,3500,3350,23
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2000,2600,2300,23
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3800,3400,23
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2000,3000,2500,23
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,4000,3500,23
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2500,3200,2850,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3000,3000,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3800,3400,23
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2500,3000,2750,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2500,3000,2750,23
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3000,2750,23
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,2700,2600,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3400,3600,3500,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2400,2800,2600,23
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3000,3000,3000,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3200,3100,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2000,2500,2250,23
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3000,3000,3000,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3000,3400,3200,23
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,1600,3000,2300,23
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3000,2750,23
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3500,3000,23
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3400,3800,3600,23
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,2900,2700,23
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3600,3600,3600,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3800,3800,3800,23
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3000,2750,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2400,3000,3000,23
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2500,3000,3000,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2500,3000,3000,23
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3000,3500,3500,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2800,3200,3200,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3000,3400,3400,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2800,3000,2900,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,Onion,Bellary,Local,12/11/2025,3500,4000,3750,23
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3400,3800,3600,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2500,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3000,3500,3500,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3000,3500,3500,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2500,3000,3000,23
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2500,3000,3000,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,3500,3250,23
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2700,3000,2850,23
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2500,3000,2750,23
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,3600,3300,23
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2500,2900,2700,23
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,4000,3500,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,3800,3400,23
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,3000,3000,23
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,12/11/2025,2500,3000,2750,23
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2800,3200,3000,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,4000,3500,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3000,3000,3000,23
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2000,2600,2300,23
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2600,3000,2800,23
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,3400,3800,3600,23
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2500,3000,2750,23
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,1700,2000,1850,23
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2200,2600,2400,23
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,11/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3200,3500,3350,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3000,2750,23
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3400,3600,3500,23
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2800,3000,2900,23
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,3200,3600,3400,23
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3500,4000,3750,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3500,3250,23
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2800,3000,3000,23
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2000,2500,2500,23
+Tamil Nadu,Coimbatore,Udumalpet APMC,Onion,Bellary,Local,03/11/2025,3000,3500,3500,23
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2600,3000,3000,23
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3500,3500,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2800,3200,3200,23
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2400,2800,2800,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,01/11/2025,3000,3500,3500,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3500,3500,23
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2000,3000,3000,23
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3400,3800,3800,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2800,3200,3200,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2700,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3000,3000,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,04/11/2025,2500,3000,3000,23
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2500,3000,3000,23
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2800,3000,3000,23
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2000,3200,3200,23
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2500,3000,3000,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,1500,2000,1750,23
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,3000,2750,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2500,2500,2500,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2800,3000,2900,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3300,3150,23
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,Onion,Bellary,Local,28/11/2025,3000,3500,3250,23
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3400,3600,3600,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,02/11/2025,2500,3000,3000,23
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,2800,2800,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2400,3000,3000,23
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3800,3800,23
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3000,3000,23
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3800,3800,23
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2000,3600,3600,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2500,3000,3000,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2800,3000,3000,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3000,3000,23
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3000,3000,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3500,3500,23
+Tamil Nadu,Madurai,Usilampatty APMC,Onion,Bellary,Local,06/11/2025,3000,3600,3600,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3000,3000,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2800,3200,3200,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3500,4000,4000,23
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,11/11/2025,2500,2800,2650,23
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3500,3250,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3000,3000,23
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3500,3250,23
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,4000,3500,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3800,3400,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3500,4000,3750,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2200,2600,2400,23
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2800,3000,2900,23
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2400,3000,3000,23
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3800,3800,23
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3000,3000,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2000,2400,2400,23
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2600,3200,3200,23
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3400,3400,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3500,3500,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2500,3000,3000,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3400,3600,3600,23
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,2500,3500,3500,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2000,2500,2500,23
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2400,2600,2600,23
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2700,2900,2900,23
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2500,3600,3600,23
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2500,3000,3000,23
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2500,3200,3200,23
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2500,3000,3000,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2500,3000,3000,23
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2500,3000,3000,23
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2800,3200,3200,23
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3600,3600,23
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3200,3500,3500,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3500,3500,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3200,3200,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2800,3000,3000,23
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2000,3000,3000,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2800,3500,3500,23
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3500,3500,3500,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3400,3400,23
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3200,3200,23
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2200,2600,2600,23
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3000,3000,23
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,3000,3500,3500,23
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2800,3000,3000,23
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2000,2500,2500,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2000,3000,3000,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2800,3200,3200,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,05/11/2025,2500,3000,3000,23
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2000,2500,2500,23
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,1500,2000,2000,23
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2200,2700,2700,23
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2500,2500,2500,23
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2700,3000,3000,23
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2500,3000,3000,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2400,2800,2800,23
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,4000,4000,23
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2500,3000,3000,23
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2000,2500,2500,23
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2500,3000,3000,23
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3500,3500,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3500,3500,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3800,3800,23
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3500,3500,23
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,3000,3600,3600,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,03/11/2025,2200,2500,2500,23
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Onion,Bellary,Local,28/11/2025,2600,3200,2900,23
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3000,3000,23
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2500,3400,2950,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2500,3200,2850,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3000,3000,23
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3500,3250,23
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3000,3500,3250,23
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3500,4000,3750,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,28/11/2025,3500,3500,3500,23
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,28/11/2025,2400,2800,2600,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,2000,3000,3000,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3400,3600,3600,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,01/11/2025,3000,3200,3200,23
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,02/11/2025,2500,3000,3000,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3800,4000,4000,23
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3000,3500,3500,23
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3500,3500,3500,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3000,3400,3400,23
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,04/11/2025,3500,4000,4000,23
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2000,2500,2250,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3500,3500,3500,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3200,3100,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3200,3100,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2500,3000,2750,23
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3500,3250,23
+Tamil Nadu,Vellore,Vellore APMC,Onion,Bellary,Local,25/11/2025,2600,2800,2700,23
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3000,3000,23
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2500,3000,2750,23
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3400,3200,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3500,3250,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2500,3000,2750,23
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,4000,3500,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2000,2500,2250,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3400,3200,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3000,3000,23
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3500,3250,23
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3200,3600,3400,23
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2200,2700,2450,23
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3500,3250,23
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,21/11/2025,3000,3500,3250,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2800,2800,2800,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2500,3000,2750,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,21/11/2025,2500,4000,3250,23
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,4000,3500,23
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,2500,2500,2500,23
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3600,3300,23
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,24/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2500,3000,2750,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2800,3500,3150,23
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,3500,3250,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,Onion,Bellary,Local,22/11/2025,3800,4000,3900,23
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,4000,3500,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2800,3000,2900,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2500,2800,2650,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2500,3000,2750,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2400,2800,2600,23
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3500,4000,3750,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3500,3500,3500,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2500,3000,2750,23
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2700,3000,2850,23
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2200,2600,2400,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3300,4000,3650,23
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2500,2800,2650,23
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,3000,3000,23
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,22/11/2025,3000,3500,3250,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3200,3400,3300,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,3500,3250,23
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,3800,3400,23
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2800,3000,2900,23
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2400,3000,2700,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,3000,3400,3200,23
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,22/11/2025,3000,3000,3000,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,22/11/2025,2800,2800,2800,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3800,4000,3900,23
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,2800,2650,23
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,3000,2750,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3300,3150,23
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3400,3600,3500,23
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,23/11/2025,3000,3000,3000,23
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2800,3500,3150,23
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3800,3400,23
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,3000,2750,23
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,23/11/2025,2400,2800,2600,23
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2200,2500,2350,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3500,3250,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2800,3000,2900,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3800,4000,3900,23
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,2500,2500,23
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2800,2800,2800,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3600,3300,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3500,3250,23
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3000,3000,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,3000,2750,23
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2000,3000,2500,23
+Tamil Nadu,Coimbatore,Udumalpet APMC,Onion,Bellary,Local,24/11/2025,2500,3400,2950,23
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2600,3500,3050,23
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2800,3000,2900,23
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3400,3600,3500,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,3000,2750,23
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,2700,2600,23
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3000,3000,23
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2800,3000,2900,23
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3600,3600,3600,23
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,Onion,Bellary,Local,25/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2200,2700,2450,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2500,3000,2750,23
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3600,3300,23
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,3000,2750,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3200,3600,3400,23
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2500,3500,3000,23
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,4000,4000,4000,23
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3500,3250,23
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2200,2800,2500,23
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2000,3000,2500,23
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2000,2800,2400,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3500,3250,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,2500,2500,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2800,3000,2900,23
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3000,3000,23
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2800,3200,3000,23
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3800,3400,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3800,4000,3900,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3500,3250,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2400,3000,2700,23
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3500,3000,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,2700,2600,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3200,3600,3400,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2800,3000,2900,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2800,2800,2800,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2800,4000,3400,23
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3200,3600,3400,23
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,2800,2800,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,1800,2500,2500,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3500,3500,23
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3000,3000,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3800,4000,4000,23
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3200,3200,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3000,3000,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3000,3000,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3000,3000,23
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3600,3050,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3200,3600,3400,23
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Onion,Bellary,Local,09/11/2025,2500,3200,2850,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2400,3000,2700,23
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3200,3100,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,2500,2500,23
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2400,3600,3000,23
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2800,3500,3150,23
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2200,2700,2450,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2400,2800,2600,23
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3000,2750,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3000,3000,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3600,3300,23
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,2500,2500,23
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3200,3600,3400,23
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3500,3250,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3200,3800,3500,23
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3600,3300,23
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3200,4000,3600,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2400,2800,2600,23
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3300,3400,3350,23
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3000,3000,23
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3500,3250,23
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,2500,2500,23
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Onion,Bellary,Local,13/11/2025,2600,3200,2900,23
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3000,3000,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2000,2500,2250,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,1800,2200,2000,23
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3200,3500,3350,23
+Tamil Nadu,Vellore,Vellore APMC,Onion,Bellary,Local,13/11/2025,2000,2600,2300,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3200,3100,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,3600,3300,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3400,3600,3500,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,3200,3100,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2800,3500,3150,23
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,3500,3250,23
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Onion,Bellary,Local,12/11/2025,2500,3000,2750,23
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/11/2025,2500,2500,2500,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3000,2750,23
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,4000,4000,23
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,1800,2000,2000,23
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3000,3000,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2800,3200,3200,23
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2800,3000,3000,23
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,1800,2500,2500,23
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2800,3200,3200,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3000,3000,23
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3600,3600,23
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2000,3000,3000,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3000,3000,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3000,3000,23
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2800,3000,3000,23
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3400,3800,3800,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3800,3800,23
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3600,3600,23
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3200,3600,3600,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3200,3500,3500,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,2800,2800,23
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3500,3500,3500,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3000,3000,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2700,3000,3000,23
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3200,3200,23
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3000,3000,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3000,3000,23
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2000,2500,2500,23
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2300,2700,2700,23
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3600,3600,23
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3500,3500,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3800,3800,3800,23
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3000,3000,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3000,3000,23
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,3000,3000,3000,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2500,3000,3000,23
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,05/11/2025,2800,3500,3500,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3000,3000,23
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2400,3600,3000,23
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3000,2750,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3200,3500,3350,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3200,3100,23
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2000,2500,2250,23
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3600,3300,23
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3500,3250,23
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2000,3000,2500,23
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,07/11/2025,2400,2800,2600,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,2800,2650,23
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3000,2750,23
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3600,3050,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,4000,3500,23
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2400,3600,3000,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2400,2800,2600,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2400,2800,2600,23
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3600,3300,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2800,3000,2900,23
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3000,3000,23
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2800,3000,2900,23
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3800,4000,3900,23
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2000,2600,2300,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2800,4000,3400,23
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,4000,3500,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2400,2800,2600,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3400,3600,3500,23
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3200,3100,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2000,2500,2500,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2200,2700,2700,23
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3200,3200,23
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2800,3000,3000,23
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3000,3000,23
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3800,3800,23
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3500,3500,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,4000,4000,23
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3000,3000,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3000,3000,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2800,3000,3000,23
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3000,3000,23
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3800,3400,23
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,09/11/2025,2400,2800,2600,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3500,3250,23
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2800,3000,2900,23
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3200,2850,23
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3000,3000,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3000,2750,23
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,2700,2600,23
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3500,3250,23
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2800,3200,3000,23
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3500,3250,23
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2000,2400,2200,23
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2000,2600,2300,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3000,2750,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3000,2750,23
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,3000,3600,3300,23
+Tamil Nadu,Madurai,Usilampatty APMC,Onion,Bellary,Local,09/11/2025,3000,3600,3300,23
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3000,2750,23
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2300,2500,2400,23
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3500,3250,23
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3200,2850,23
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2000,2600,2300,23
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2800,3500,3150,23
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3600,3300,23
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2600,3000,2800,23
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,3000,3600,3300,23
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,13/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3500,3500,3500,23
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3400,3800,3600,23
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3500,4000,3750,23
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3600,3300,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3200,3500,3350,23
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3000,3000,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,20/11/2025,2500,4000,3250,23
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2500,2700,2600,23
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2500,2800,2650,23
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3400,3800,3600,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2800,3200,3000,23
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,Onion,Bellary,Local,20/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Udumalpet APMC,Onion,Bellary,Local,25/11/2025,2800,3500,3150,23
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3500,3250,23
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3200,3800,3500,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2000,2500,2250,23
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3500,4000,3750,23
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2400,2800,2600,23
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2200,2700,2450,23
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,2500,2800,2650,23
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3500,3250,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,07/11/2025,3000,3200,3100,23
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2000,2500,2250,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3600,3300,23
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3000,3600,3300,23
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2600,3000,2800,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,3400,3600,3500,23
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2500,3000,2750,23
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,08/11/2025,2000,3000,2500,23
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2000,3200,3200,23
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3200,3200,23
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3500,3500,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3500,3500,23
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,2500,3000,3000,23
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,06/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3000,2750,23
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,09/11/2025,2500,3500,3000,23
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3500,3500,3500,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2800,3500,3150,23
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2700,3000,2850,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,5000,4000,23
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3400,3600,3500,23
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3500,3250,23
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,21/11/2025,2400,2800,2600,23
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3200,3100,23
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2500,2800,2650,23
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2500,3000,2750,23
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,2500,3500,3000,23
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,2500,3000,2750,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,2500,3000,2750,23
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,2800,3500,3150,23
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3800,3400,23
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3600,3300,23
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3400,3200,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3500,3250,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3500,3250,23
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3200,3400,3300,23
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3000,3000,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3200,3600,3400,23
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3600,3300,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2600,3000,2800,23
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3600,3300,23
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3600,3300,23
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2800,3000,2900,23
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,3000,2750,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2500,3000,2750,23
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3500,3250,23
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3600,3300,23
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,1500,2000,1750,23
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3200,3400,3300,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,2000,2500,2250,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/11/2025,3000,3400,3200,23
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3000,3000,23
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3400,3200,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3800,4000,3900,23
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,25/11/2025,3000,3500,3250,23
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3600,3300,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3300,3150,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2200,2800,2500,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3400,3200,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3300,4000,3650,23
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3000,3000,23
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,4000,3500,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2800,2800,2800,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,3000,3500,3250,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2600,2600,2600,23
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,25/11/2025,2500,3000,2750,23
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,3200,3100,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2400,2800,2600,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2400,2800,2600,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3400,3800,3600,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2000,2500,2250,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2800,3000,2900,23
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2800,3500,3150,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3200,3500,3350,23
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,3500,3250,23
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,17/11/2025,3000,3500,3250,23
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,4000,3500,23
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,17/11/2025,2400,2800,2600,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2500,3000,2750,23
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,3600,3300,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2000,3000,2500,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2400,2800,2600,23
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2500,3000,2750,23
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2500,3000,2750,23
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2200,2700,2450,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,3200,3100,23
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2500,3000,2750,23
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2000,3000,2500,23
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,5000,5500,5250,23
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2500,3000,2750,23
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3600,3300,23
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2000,2500,2250,23
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2800,3600,3200,23
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2000,2500,2250,23
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3500,3500,3500,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,3000,4000,3500,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,17/11/2025,2800,3500,3150,23
+Tamil Nadu,Vellore,Vellore APMC,Onion,Bellary,Local,17/11/2025,2400,2600,2500,23
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3500,3500,3500,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2500,3000,2750,23
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2200,2800,2500,23
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2800,3000,2900,23
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3500,3250,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2800,3000,2900,23
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2500,3200,2850,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3200,3500,3350,23
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3500,3250,23
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2000,3000,2500,23
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2500,3000,2750,23
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2500,2800,2650,23
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2800,3500,3150,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3200,3100,23
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3600,3300,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3500,3250,23
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,4000,3500,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3400,3200,23
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,2500,3600,3050,23
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3000,3000,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3600,3300,23
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2800,3000,2900,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,1500,2000,1750,23
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3200,3200,3200,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3300,3500,3400,23
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,Onion,Bellary,Local,18/11/2025,3000,3500,3250,23
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3000,3500,3250,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2200,2500,2350,23
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3600,3600,3600,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2400,2800,2600,23
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3200,3600,3400,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2800,3500,3150,23
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3000,3000,3000,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2800,2800,2800,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2800,3000,2900,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2800,3000,2900,23
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3600,3050,23
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3400,3800,3600,23
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3000,3000,3000,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3000,3400,3200,23
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2000,2500,2250,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2400,2800,2600,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3000,4000,3500,23
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3400,3500,3450,23
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2800,3600,3200,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3000,2750,23
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,2500,3200,2850,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3500,3500,3500,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,18/11/2025,3200,3800,3500,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3000,2750,23
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3200,3500,3350,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,4000,3500,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2400,2800,2600,23
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3000,2750,23
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,1800,2200,2000,23
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3000,3000,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,14/11/2025,2500,4000,3250,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2400,2800,2600,23
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3200,2850,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2000,2500,2250,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2200,2800,2500,23
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3000,2750,23
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2800,3200,3000,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3400,3800,3600,23
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,2800,2650,23
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2600,3000,2800,23
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3200,3800,3500,23
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3200,3100,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3400,2950,23
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3500,3250,23
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,2500,2500,23
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2400,2800,2600,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3500,3250,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3200,3500,3350,23
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3800,3400,23
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2800,3000,2900,23
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,15/11/2025,3000,3000,3000,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2200,2600,2400,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3500,3250,23
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3600,3300,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3200,3500,3350,23
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2800,3200,3000,23
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3400,3200,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2800,2800,2800,23
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3600,3300,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3000,3000,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2000,3000,2500,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2400,2800,2600,23
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2500,3500,3000,23
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2500,3000,2750,23
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2000,2500,2250,23
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2000,2800,2400,23
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3800,3400,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3200,3400,3300,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2400,2800,2600,23
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3000,3000,23
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2800,4000,3400,23
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,1700,2000,1850,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,Onion,Bellary,Local,15/11/2025,3200,3500,3350,23
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2500,3000,2750,23
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2500,3200,2850,23
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,2500,3000,2750,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3400,3200,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3500,3250,23
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3500,4000,3750,23
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,15/11/2025,3000,3600,3300,23
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,4000,3500,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3200,3100,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2000,2500,2250,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3400,3200,23
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3400,3800,3600,23
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3500,3250,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3500,3250,23
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3200,3100,23
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3000,3000,23
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3300,3500,3400,23
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2000,3000,2500,23
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3500,3250,23
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3500,3250,23
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3500,3250,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2600,2600,2600,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2000,2500,2250,23
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,2500,2500,23
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3500,3250,23
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3600,3300,23
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2700,3000,2850,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2400,2800,2600,23
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3500,3000,23
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3500,3800,3650,23
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3000,3400,3200,23
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,3400,3800,3600,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2000,2500,2250,23
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,16/11/2025,2500,3000,2750,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,19/11/2025,3000,3500,3250,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,25/11/2025,2500,4000,3250,23
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,4000,3500,23
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2800,3000,2900,23
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3500,3250,23
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2500,3000,2750,23
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2800,4000,3400,23
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2600,3000,2800,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,2000,2500,2250,23
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,20/11/2025,3000,3500,3250,23
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3600,3300,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3600,3300,23
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3500,3250,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3500,3500,3500,23
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Onion,Bellary,Local,21/11/2025,2800,3400,3100,23
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3000,3200,3100,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/11/2025,3800,4000,3900,23
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3200,3100,23
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2500,3000,2750,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,2800,3500,3150,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,14/11/2025,3000,3500,3250,23
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3800,4000,3900,23
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3800,3400,23
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,2500,3000,2750,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,24/11/2025,2500,4000,3250,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3300,3150,23
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3400,3600,3500,23
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3600,3300,23
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,4500,5000,4750,23
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,4000,3500,23
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,2400,2800,2600,23
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,10/11/2025,3000,3500,3250,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3000,3000,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3500,3250,23
+Tamil Nadu,Coimbatore,Udumalpet APMC,Onion,Bellary,Local,27/11/2025,3000,3500,3250,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3500,3250,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3500,3500,3500,23
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3400,3200,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3300,4000,3650,23
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3200,3600,3400,23
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3500,3500,3500,23
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2200,2500,2350,23
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3600,3300,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3500,3250,23
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,2700,2600,23
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3000,3000,23
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,3300,3150,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,4700,5000,4850,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3500,3500,3500,23
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3300,3800,3550,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,3000,4000,3500,23
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2000,3400,2700,23
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2000,3000,2500,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3500,3250,23
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2800,3200,3000,23
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3000,3000,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,4000,3500,23
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3000,3000,23
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3200,3400,3300,23
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3600,3800,3700,23
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3600,3300,23
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2000,2500,2250,23
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/11/2025,2500,3000,2750,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3600,3300,23
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2800,3000,2900,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3600,3300,23
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,4000,3500,23
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,3000,3600,3300,23
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3600,3300,23
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/11/2025,3000,3000,3000,23
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,27/11/2025,2000,2800,2400,23
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3600,3300,23
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3800,3800,3800,23
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2800,3200,3000,23
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,4000,3500,23
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2000,2500,2250,23
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3000,3000,23
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3500,3250,23
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,5500,7000,6250,23
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3500,3800,3650,23
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3500,3250,23
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3800,3400,23
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3300,3150,23
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2500,3000,2750,23
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2200,2600,2400,23
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3500,4000,3750,23
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3200,3500,3350,23
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3400,3200,23
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2500,3500,3000,23
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3000,3000,23
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3500,3250,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3400,3800,3600,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3500,3800,3650,23
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2800,2800,2800,23
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2800,3000,2900,23
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3500,3250,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2400,2400,2400,23
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2500,3000,2750,23
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,5000,4000,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3500,3250,23
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3500,3250,23
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2500,3000,2750,23
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3200,3500,3350,23
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,1800,2500,2150,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,2800,3000,2900,23
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,29/11/2025,3000,3000,3000,23
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,30/11/2025,3000,3500,3250,23
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2800,4000,3400,23
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2500,3000,2750,23
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2200,2800,2500,23
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2500,3000,2750,23
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2200,3000,2600,23
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3000,3000,3000,23
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3400,3800,3600,23
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,30/11/2025,2500,4000,3250,23
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2000,2500,2250,23
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3400,4000,3700,23
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3000,4000,3500,23
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2500,3000,2750,23
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2800,3500,3150,23
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2400,2800,2600,23
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3000,3800,3400,23
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2700,3000,2850,23
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3000,3200,3100,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2400,2800,2600,23
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2800,3000,2900,23
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3400,3800,3600,23
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3000,3800,3400,23
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2000,3000,2500,23
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2000,2500,2250,23
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3500,4000,3750,23
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,30/11/2025,3000,3000,3000,23
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3500,3500,3500,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2800,2800,2800,23
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3000,3500,3250,23
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2500,3000,2750,23
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,3200,3500,3350,23
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,30/11/2025,2800,4000,3400,23
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,12/01/2026,1200,1600,1400,23
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/12/2025,3500,4000,3750,23
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/12/2025,3500,3800,3650,23
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/12/2025,3500,4000,3750,23
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/12/2025,4000,4400,4200,23
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/12/2025,3500,4000,3750,23
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3500,4200,3850,23
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3500,4000,3750,23
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,23/12/2025,4000,4500,4250,23
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3200,3600,3400,23
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,4000,4500,4250,23
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3600,4600,4100,23
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3000,3000,3000,23
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3500,4200,3850,23
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,4400,4800,4600,23
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3200,3600,3400,23
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3500,4000,3750,23
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3300,3400,3350,23
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,24/12/2025,3500,3500,3500,23
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,26/12/2025,3500,4000,3750,23

@@ -1,0 +1,789 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Karnataka,Belgaum,Sankeshwar APMC,Rice,Other,Local,13/11/2025,2400,2600,2500,3
+Karnataka,Kolar,Malur APMC,Rice,Sona,Local,13/11/2025,3000,5500,4900,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,06/01/2026,2100,2100,2100,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,12/11/2025,2000,3000,2600,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,07/11/2025,2200,2200,2200,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Broken Rice,Local,01/11/2025,2000,2000,2000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,05/11/2025,2100,3500,2850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,15/11/2025,2050,3050,2650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,24/11/2025,2400,3055,2775,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,25/11/2025,2800,4000,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,26/11/2025,2200,3000,2650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,28/11/2025,2100,3050,2650,3
+Karnataka,Shimoga,Shimoga APMC,Rice,Coarse,Local,06/11/2025,2450,2550,2500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,07/11/2025,3150,4150,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,04/11/2025,3100,4100,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,28/11/2025,4150,6250,5350,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,15/11/2025,4250,6300,5510,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,25/11/2025,2300,2300,2300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,06/11/2025,4175,6350,5750,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,13/11/2025,2900,2900,2900,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,15/11/2025,3100,4150,3810,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,29/11/2025,3000,3950,3500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,11/11/2025,4410,6360,5350,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,11/11/2025,2000,3200,3000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,05/11/2025,4250,5100,4900,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,27/11/2025,2500,3000,2900,3
+Karnataka,Chikmagalur,Koppa APMC,Rice,Jaya,Local,23/11/2025,1800,2000,1900,3
+Karnataka,Bellary,Hospet APMC,Rice,Medium,Local,09/11/2025,4000,4000,4000,3
+Karnataka,Bellary,Hospet APMC,Rice,Medium,Local,03/11/2025,3500,6700,4500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,19/11/2025,2100,2100,2100,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,27/11/2025,3060,5694,5410,3
+Karnataka,Mysore,K.R.Nagar APMC,Rice,Jaya,Local,04/12/2025,6400,6400,6400,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,03/12/2025,250,4320,2890,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,04/12/2025,4200,5684,5588,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,08/12/2025,2500,3500,2763,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,12/12/2025,2250,4300,3760,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,15/12/2025,2200,3000,2602,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,31/12/2025,2400,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,31/12/2025,5694,5694,5694,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,12/12/2025,2700,2700,2700,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,23/12/2025,2600,2600,2600,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,28/12/2025,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,29/12/2025,3000,3000,3000,3
+Karnataka,Kolar,Malur APMC,Rice,Sona,Local,24/12/2025,4000,7500,7100,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,20/12/2025,2500,3500,2700,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Kachha Basmati,Local,15/12/2025,2200,2200,2200,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,04/12/2025,2250,4000,2890,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,10/12/2025,3000,3000,3000,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,17/12/2025,7500,10000,8100,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,11/12/2025,2300,6650,4000,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,24/12/2025,2250,2890,2630,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,29/12/2025,2500,4500,2550,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,02/12/2025,2300,3000,2400,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,03/12/2025,2800,5500,3800,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Basmati,Local,08/12/2025,5300,10000,6000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,01/12/2025,2150,3100,2650,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,05/12/2025,1500,2000,1800,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,06/12/2025,2000,2500,2140,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,10/12/2025,1500,2300,2000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,11/12/2025,2000,2500,2220,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,09/12/2025,2400,2400,2400,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,16/12/2025,2000,2500,2150,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,18/12/2025,2000,2500,2331,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,15/12/2025,2000,2500,2289,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,26/12/2025,1500,2500,2370,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,24/12/2025,2850,3850,3200,3
+Karnataka,Davangere,Honnali APMC,Rice,Broken Rice,Local,27/12/2025,2100,2100,2100,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,29/12/2025,2000,2700,2530,3
+Karnataka,Davangere,Honnali APMC,Rice,Broken Rice,Local,31/12/2025,2150,2150,2150,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,04/12/2025,3000,3850,3500,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,15/12/2025,3000,3000,3000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,23/12/2025,3100,4150,3700,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,31/12/2025,3150,4150,3680,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,16/12/2025,4150,5600,4950,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,17/12/2025,4300,5650,4800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,03/12/2025,4100,6300,5500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,10/12/2025,4000,6000,5000,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Fine,Local,24/12/2025,5679,6320,5684,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,29/01/2026,2200,2800,2400,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,04/02/2026,2200,2800,2300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,02/01/2026,4100,6250,5450,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,06/01/2026,4400,6300,5650,3
+Karnataka,Kolar,Kolar APMC,Rice,Fine,Local,21/01/2026,5600,6000,5820,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,09/02/2026,4450,6500,5655,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,16/02/2026,2200,2800,2300,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,16/02/2026,2530,3950,2530,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,01/01/2026,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,02/01/2026,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,01/01/2026,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,16/01/2026,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,18/01/2026,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,13/02/2026,2700,2700,2700,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Sona Medium,Local,08/01/2026,3550,4000,4000,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,11/02/2026,2400,7070,4090,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,16/02/2026,2400,7065,3880,3
+Karnataka,Hassan,Channarayapatna APMC,Rice,Hassan Dappa,Local,15/02/2026,2700,2700,2700,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,05/01/2026,2000,2700,2545,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,12/01/2026,2000,3000,2628,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,23/01/2026,2500,3500,3160,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,29/01/2026,2500,3500,2886,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,04/02/2026,2500,3000,2606,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,05/02/2026,2000,3500,2281,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,09/02/2026,2000,3500,2637,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,11/02/2026,2500,3000,2768,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,16/02/2026,2200,3000,2536,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,17/02/2026,2500,3200,2750,3
+Karnataka,Mangalore(Dakshin Kannad),Belthangdi APMC,Rice,Kachha Basmati,Local,04/02/2026,2310,5600,4500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,08/01/2026,2400,4000,3430,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,05/01/2026,2300,5400,4100,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,09/01/2026,2400,4800,2400,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,09/01/2026,5350,10100,5350,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,13/01/2026,2100,6630,3935,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,16/01/2026,2465,3600,3000,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,14/01/2026,2350,2500,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,16/01/2026,2200,6000,2200,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,17/01/2026,2330,5040,3700,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,17/01/2026,2300,2300,2300,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,20/01/2026,2500,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,20/01/2026,3120,5730,5380,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,20/01/2026,3500,4100,4000,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,19/01/2026,4000,4000,4000,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,22/01/2026,5435,7878,6075,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,27/01/2026,5735,6861,6039,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,03/02/2026,2320,4000,3200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,02/02/2026,2500,2500,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,03/02/2026,2500,4400,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,09/02/2026,2340,4250,3310,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,09/02/2026,5480,8886,6090,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,12/02/2026,2500,4500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,10/02/2026,2400,4400,3600,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,11/02/2026,5400,5400,5400,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,12/02/2026,3736,6095,5735,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,17/02/2026,2370,4000,3240,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Basmati,Local,01/01/2026,3868,10000,10000,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Basmati,Local,12/01/2026,6343,16781,10000,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Basmati,Grade Range-1,21/01/2026,13276,13276,13276,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Basmati,Grade Range-1,06/02/2026,8280,8280,8280,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,05/01/2026,2200,3250,2800,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,05/01/2026,1500,2500,2135,3
+Karnataka,Mysore,Hunsur APMC,Rice,Broken Rice,Local,06/01/2026,2200,2200,2200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,12/01/2026,1900,1900,1900,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,19/01/2026,2200,3100,2650,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,19/01/2026,1500,2500,2177,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,29/01/2026,2000,2700,2476,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Broken Rice,Local,30/01/2026,2480,2480,2480,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,30/01/2026,1500,2300,2053,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,04/02/2026,2100,3100,2520,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,05/02/2026,2200,3000,2447,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,09/02/2026,2250,2800,2550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,10/02/2026,2350,2700,2650,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Broken Rice,Local,16/02/2026,1900,1900,1900,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,02/01/2026,3150,4025,3575,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,16/01/2026,3200,4000,3500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,17/01/2026,3055,4075,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,28/01/2026,3025,4050,3750,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,04/02/2026,2700,2700,2700,3
+Karnataka,Shimoga,Shimoga APMC,Rice,Coarse,Local,04/02/2026,2500,2500,2500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,11/02/2026,3500,4500,4000,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,10/02/2026,2500,2500,2500,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,11/02/2026,2700,2700,2700,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,29/11/2025,2300,2800,2500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,12/11/2025,2200,3050,2650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,11/11/2025,2150,2800,2510,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,11/11/2025,2000,2500,2100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,14/11/2025,2100,3500,2850,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,14/11/2025,1000,2300,2000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,19/11/2025,2500,3150,2800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,27/11/2025,2200,3100,2600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,06/11/2025,3055,4100,3655,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,05/11/2025,3100,4050,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,17/11/2025,3100,4200,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,18/11/2025,3050,4100,3800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,25/11/2025,3050,4100,3800,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,11/11/2025,2300,2300,2300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,12/11/2025,4450,6350,5455,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,17/11/2025,4250,6250,5550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,26/11/2025,4050,6300,5300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,29/11/2025,4100,6150,5250,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,04/11/2025,4100,6250,5650,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,18/11/2025,2300,2300,2300,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,26/11/2025,3600,5800,4600,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,13/11/2025,2000,2700,2500,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,19/11/2025,4000,4700,4500,3
+Karnataka,Mangalore(Dakshin Kannad),Belthangdi APMC,Rice,Kachha Basmati,Local,05/11/2025,2000,2350,2200,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,15/11/2025,2150,2890,2659,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,15/11/2025,2000,2000,2000,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,21/11/2025,2500,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,25/11/2025,5571,5571,5571,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,26/11/2025,2500,2700,2549,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,29/11/2025,2250,4350,2890,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,04/12/2025,2300,3000,2500,3
+Karnataka,Belgaum,Bailahongal APMC,Rice,Coarse,Local,29/12/2025,1800,2200,2000,3
+Karnataka,Chikmagalur,Koppa APMC,Rice,Jaya,Local,15/01/2026,1700,1800,1750,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,04/12/2025,4150,6300,5550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,20/12/2025,4150,6250,5250,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,23/12/2025,4150,6150,5250,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Basmati,Local,02/12/2025,6450,6471,6460,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Basmati,Local,12/12/2025,6900,9000,7800,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Basmati,Local,15/12/2025,8766,10125,9000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,02/12/2025,2000,2500,2200,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,03/12/2025,2000,2700,2500,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,11/12/2025,3000,3000,3000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,17/12/2025,1500,2300,2028,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Broken Rice,Local,18/12/2025,2300,2300,2300,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,20/12/2025,2100,2100,2100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,26/12/2025,2200,3250,2800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,03/12/2025,3000,3800,3450,3
+Karnataka,Belgaum,Bailahongal APMC,Rice,Coarse,Local,11/12/2025,1800,2300,2000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,15/12/2025,3000,5000,4200,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,26/12/2025,4350,6250,5350,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,30/12/2025,3250,4300,3850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,01/12/2025,4100,6050,5150,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,01/12/2025,5130,5699,5400,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,06/12/2025,2700,3000,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,16/12/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,16/12/2025,4700,4700,4700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,26/12/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,31/12/2025,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,31/12/2025,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,30/12/2025,3000,3000,3000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,16/12/2025,2000,2900,2702,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,01/12/2025,2500,2500,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,16/12/2025,2200,5376,3059,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,17/12/2025,2380,2500,2445,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,18/12/2025,2250,2890,2560,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,20/12/2025,2250,4110,2890,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,23/12/2025,2350,2500,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,22/12/2025,2350,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,22/12/2025,4135,5576,4855,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,FAQ,26/12/2025,3800,3800,3800,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,29/12/2025,2300,2300,2300,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,30/12/2025,2300,7036,4500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,30/12/2025,5855,9313,7500,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,03/12/2025,2700,3500,3100,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,11/12/2025,2500,3500,3089,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,30/12/2025,2300,3500,2541,3
+Karnataka,Mandya,Maddur APMC,Rice,Other,Local,06/02/2026,2300,2300,2300,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,01/01/2026,2300,2300,2300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,03/01/2026,3110,3110,3110,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,16/01/2026,2330,4000,3200,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,21/01/2026,3400,3700,3400,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,30/01/2026,2320,4000,3300,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,05/02/2026,2340,2340,2340,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,27/01/2026,2200,2800,2400,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,28/01/2026,2480,2480,2480,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,05/01/2026,4350,6250,5350,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,16/01/2026,4200,6450,5400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,19/01/2026,4150,6300,5250,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Fine,Local,23/01/2026,5500,5500,5500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,22/01/2026,4500,6350,5500,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,29/01/2026,4000,7190,7070,3
+Karnataka,Bangalore,Ramanagara APMC,Rice,Fine,Local,28/01/2026,5600,6200,6000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,02/02/2026,4250,6250,5350,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,04/02/2026,3092,7362,7070,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,06/02/2026,3430,3430,3430,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,19/01/2026,2500,3000,2827,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,26/01/2026,2000,3000,2464,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,03/02/2026,2000,3000,2540,3
+Karnataka,Chikmagalur,Koppa APMC,Rice,Jaya,Local,15/02/2026,1800,1800,1800,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,05/01/2026,4000,4000,4000,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,14/01/2026,3550,3600,3600,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,17/01/2026,2500,4200,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,27/01/2026,2500,4300,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,31/01/2026,5480,5500,5500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,16/02/2026,2350,4300,3350,3
+Karnataka,Belgaum,Sankeshwar APMC,Rice,Other,Local,01/01/2026,2300,2450,2450,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,16/02/2026,4100,6300,5650,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,09/01/2026,2000,3000,2661,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,16/01/2026,1500,3000,2602,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,30/01/2026,2000,3000,2749,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,07/02/2026,2000,3500,2644,3
+Karnataka,Chikmagalur,Koppa APMC,Rice,Jaya,Local,12/02/2026,1800,1800,1800,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,02/01/2026,2400,2500,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,13/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,14/01/2026,2400,4000,3300,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,21/01/2026,2300,2300,2300,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,22/01/2026,4100,4300,4225,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,27/01/2026,2300,2300,2300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,30/01/2026,2100,5735,5735,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,11/02/2026,2400,4250,3450,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,01/02/2026,2470,2470,2470,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,09/02/2026,2200,2800,2400,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,11/02/2026,2200,2800,2500,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,12/02/2026,2200,2800,2300,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,07/01/2026,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,12/02/2026,2700,3000,3000,3
+Karnataka,Kolar,Malur APMC,Rice,Sona,Local,09/01/2026,3500,5000,3814,3
+Karnataka,Kolar,Malur APMC,Rice,Sona,Local,10/02/2026,4000,6000,5000,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Basmati,Local,10/01/2026,6963,6963,6963,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,09/01/2026,1500,2300,2000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,07/01/2026,1500,2000,1900,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,13/01/2026,2200,3200,2750,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,13/01/2026,1000,2500,2094,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Broken Rice,Grade Range-1,21/01/2026,2740,2740,2740,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,20/01/2026,2200,3100,2850,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,20/01/2026,2000,2000,2000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,22/01/2026,2100,3200,2750,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,27/01/2026,2200,3250,2850,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Broken Rice,Local,27/01/2026,2000,2000,2000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,05/02/2026,2000,3000,2420,3
+Karnataka,Karwar(Uttar Kannad),Mundgod APMC,Rice,Broken Rice,Local,09/02/2026,2500,2500,2500,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,17/02/2026,2200,3000,2434,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,01/01/2026,3100,4050,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,09/01/2026,3300,4000,3700,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,06/01/2026,3150,4250,3650,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,21/01/2026,2600,2600,2600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,19/01/2026,3105,4075,3655,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,20/01/2026,3150,4205,3850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,23/01/2026,3150,4300,3750,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,07/02/2026,3100,4200,3650,3
+Karnataka,Shimoga,Shimoga APMC,Rice,Coarse,Local,08/02/2026,2400,2400,2400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,16/02/2026,3150,4250,3650,3
+Karnataka,Shimoga,Shimoga APMC,Rice,Coarse,Local,11/02/2026,2400,2400,2400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,13/02/2026,3200,4400,3800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,06/11/2025,2155,3600,2855,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,10/11/2025,2100,2850,2505,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,17/11/2025,2100,2100,2100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,18/11/2025,2800,4000,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,21/11/2025,2200,3175,2850,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,26/11/2025,2000,2200,2034,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,29/11/2025,2100,3050,2600,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,06/11/2025,2500,2500,2500,3
+Karnataka,Shimoga,Shimoga APMC,Rice,Coarse,Local,03/11/2025,2300,2500,2400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,19/11/2025,3005,4150,3550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,24/11/2025,3200,3950,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,27/11/2025,3200,3800,3600,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,15/11/2025,2300,2300,2300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,05/11/2025,4155,6250,5655,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,27/11/2025,2000,2500,2300,3
+Karnataka,Belgaum,Bailahongal APMC,Rice,Coarse,Local,29/11/2025,2000,2500,2200,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,03/11/2025,3005,4105,3855,3
+Karnataka,Kolar,Kolar APMC,Rice,Fine,Local,18/11/2025,6600,6800,6700,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,27/11/2025,4000,6350,5500,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,14/11/2025,2000,3300,3000,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,11/11/2025,2300,2300,2300,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,14/11/2025,2890,2890,2890,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,25/11/2025,2200,4900,2749,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,14/11/2025,4200,6350,5800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,24/11/2025,4100,6250,5500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,25/11/2025,4000,6000,5100,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,06/11/2025,3600,5900,4450,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,14/11/2025,3500,5800,4500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,18/12/2025,4200,6300,5100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,22/12/2025,4275,6350,5475,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,15/12/2025,4000,5500,4500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,29/12/2025,4250,6300,5450,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,30/12/2025,4500,6250,5150,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,26/12/2025,3100,4200,3800,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Broken Rice,Local,05/12/2025,2200,2200,2200,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,10/12/2025,2500,4000,3100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,09/12/2025,2800,4000,3600,3
+Karnataka,Mysore,Piriya Pattana APMC,Rice,Broken Rice,Local,16/12/2025,2500,2500,2500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,16/12/2025,2400,4400,3850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,15/12/2025,2500,4500,3800,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,19/12/2025,2000,2700,2564,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,22/12/2025,2400,2400,2400,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,23/12/2025,2000,3000,2800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,29/12/2025,2100,3100,2450,3
+Karnataka,Karwar(Uttar Kannad),Mundgod APMC,Rice,Broken Rice,Local,29/12/2025,2600,2600,2600,3
+Karnataka,Davangere,Honnali APMC,Rice,Broken Rice,Local,30/12/2025,2100,2100,2100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,10/12/2025,3000,4000,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,16/12/2025,3100,5100,4350,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,17/12/2025,3200,5200,4450,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,20/12/2025,3150,4215,3815,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,09/12/2025,3800,5800,5100,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Fine,Local,09/12/2025,5160,5160,5160,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,05/12/2025,2700,3000,2900,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,09/12/2025,2500,3000,2700,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,15/12/2025,2000,2500,2200,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,31/12/2025,2000,3500,2748,3
+Karnataka,Mangalore(Dakshin Kannad),Belthangdi APMC,Rice,Kachha Basmati,Local,17/12/2025,2177,5200,4400,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,02/12/2025,2350,2500,2446,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,03/12/2025,2500,3000,2663,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,04/12/2025,3000,3000,3000,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,17/12/2025,2300,4250,3700,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,20/12/2025,5571,6135,5929,3
+Karnataka,Bellary,Hospet APMC,Rice,Medium,Local,27/12/2025,3450,3450,3450,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,08/12/2025,2000,3000,2450,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,10/12/2025,2500,3200,3000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,23/12/2025,1500,3000,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,02/12/2025,4900,5700,5200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,09/12/2025,2400,3000,2418,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,19/12/2025,2350,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,22/12/2025,2250,4100,2890,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,30/12/2025,2500,2500,2500,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,11/12/2025,2600,4800,3600,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,16/12/2025,3600,4650,3900,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,03/12/2025,2400,2400,2400,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,23/12/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,02/12/2025,2400,6000,2400,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,22/12/2025,3000,3000,3000,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,24/12/2025,2090,2090,2090,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,07/01/2026,3730,11370,11070,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,09/01/2026,3500,5000,4200,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,02/02/2026,2470,5485,2500,3
+Karnataka,Chikmagalur,Chikkamagalore APMC,Rice,Other,Local,23/01/2026,2800,2800,2800,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,30/01/2026,2200,2800,2300,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,05/01/2026,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,09/01/2026,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,09/01/2026,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,17/01/2026,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,23/01/2026,2600,2900,2743,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,28/01/2026,2600,2700,2700,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,04/02/2026,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,05/02/2026,2900,2900,2900,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,11/02/2026,2600,2600,2600,3
+Karnataka,Kolar,Chintamani APMC,Rice,Sona,Local,01/01/2026,4000,5000,4100,3
+Karnataka,Belgaum,Gokak APMC,Rice,Sona,Local,02/02/2026,5500,5500,5500,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,21/01/2026,2200,2800,2400,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,04/02/2026,2480,2480,2480,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Basmati,Grade Range-1,09/02/2026,9031,13679,9031,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Basmati,Grade Range-1,11/02/2026,18970,18970,18970,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,12/01/2026,1900,2400,1900,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,08/01/2026,1500,2500,2141,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,01/01/2026,3000,3000,3000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,09/01/2026,2100,3100,2600,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,12/01/2026,1000,2000,1880,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,14/01/2026,1500,2210,1800,3
+Karnataka,Mysore,Piriya Pattana APMC,Rice,Broken Rice,Local,21/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,17/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,20/01/2026,3820,3820,3820,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,23/01/2026,2000,3000,2675,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,27/01/2026,2500,2500,2500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,28/01/2026,2100,3000,2650,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,01/02/2026,2400,2400,2400,3
+Karnataka,Mandya,Maddur APMC,Rice,Broken Rice,Local,01/02/2026,1600,1600,1600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,07/02/2026,2100,2950,2650,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,07/02/2026,2200,2200,2200,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,09/02/2026,2200,3000,2444,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,11/02/2026,2200,2800,2600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,16/02/2026,2100,3000,2650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,13/02/2026,2200,2950,2550,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,13/02/2026,2000,2500,2266,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,13/01/2026,3250,4100,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,12/01/2026,3150,4150,3875,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,29/01/2026,3150,4157,3655,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,02/02/2026,3150,4150,3655,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,14/02/2026,4000,4000,4000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,07/01/2026,4500,6600,5550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,12/01/2026,4250,6425,5525,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,17/01/2026,4175,6450,5555,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,30/01/2026,4250,6250,5675,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,29/01/2026,4350,6325,5550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,10/02/2026,4350,6400,5500,3
+Karnataka,Bangalore,Ramanagara APMC,Rice,Fine,Local,11/02/2026,5400,6200,6000,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,12/02/2026,2400,7160,3950,3
+Karnataka,Hassan,Channarayapatna APMC,Rice,Hassan Dappa,Local,29/01/2026,2700,2700,2700,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,08/01/2026,2000,3500,2429,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,03/01/2026,2500,3000,2782,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,07/01/2026,2500,3000,2619,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,03/01/2026,2300,4250,3300,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,03/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,06/01/2026,2300,2890,2620,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,07/01/2026,2330,4300,3380,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,07/01/2026,3200,3200,3200,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,12/01/2026,3350,4200,3600,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,12/01/2026,2330,2890,2660,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,14/01/2026,5430,5430,5430,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,14/01/2026,2300,2300,2300,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,23/01/2026,2370,4300,3390,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,23/01/2026,3700,3700,3700,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,22/01/2026,2370,4250,3200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,28/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,27/01/2026,2320,4000,3300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,28/01/2026,5435,6130,6125,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,28/01/2026,2460,4350,2460,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,29/01/2026,2400,4253,3380,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,30/01/2026,2470,3650,2470,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,02/02/2026,2100,5735,5735,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,04/02/2026,2320,2890,2630,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,06/02/2026,4400,4400,4400,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,07/02/2026,2340,5800,4150,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,16/02/2026,2400,6200,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,12/02/2026,2400,4000,3300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,13/02/2026,3035,12331,5735,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,13/02/2026,2500,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,14/02/2026,9000,9000,9000,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,11/11/2025,3400,5900,4500,3
+Karnataka,Mandya,Maddur APMC,Rice,Other,Local,03/11/2025,2500,2500,2500,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,07/11/2025,2300,2300,2300,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,03/11/2025,2300,2300,2300,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,05/11/2025,2300,2300,2300,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,13/11/2025,2300,2300,2300,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,05/11/2025,5870,7005,6575,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,29/11/2025,2000,3000,2800,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,12/11/2025,3000,3600,3500,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,28/11/2025,2000,3000,2700,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,12/11/2025,2150,6280,4000,3
+Karnataka,Shimoga,Shimoga APMC,Rice,Medium,Local,29/11/2025,2350,2500,2450,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,03/11/2025,2300,2960,2701,3
+Karnataka,Bellary,Hospet APMC,Rice,Medium,Local,18/11/2025,3500,3500,3500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,19/11/2025,2150,6720,3330,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,25/11/2025,2250,2890,2550,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,24/11/2025,2500,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,26/11/2025,5296,6650,6590,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,07/11/2025,2200,3175,2850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,04/11/2025,2450,3685,3150,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,13/11/2025,2250,3600,2800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,17/11/2025,2125,3415,2675,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,25/11/2025,2200,2200,2200,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,25/11/2025,4000,6000,5100,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,06/11/2025,3600,5900,4450,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,14/11/2025,3500,5800,4500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,24/12/2025,2090,2090,2090,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,07/01/2026,3730,11370,11070,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,18/12/2025,4200,6300,5100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,22/12/2025,4275,6350,5475,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,15/12/2025,4000,5500,4500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,29/12/2025,4250,6300,5450,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,30/12/2025,4500,6250,5150,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,26/12/2025,3100,4200,3800,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Broken Rice,Local,05/12/2025,2200,2200,2200,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,10/12/2025,2500,4000,3100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,09/12/2025,2800,4000,3600,3
+Karnataka,Mysore,Piriya Pattana APMC,Rice,Broken Rice,Local,16/12/2025,2500,2500,2500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,16/12/2025,2400,4400,3850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,15/12/2025,2500,4500,3800,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,19/12/2025,2000,2700,2564,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,22/12/2025,2400,2400,2400,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,23/12/2025,2000,3000,2800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,29/12/2025,2100,3100,2450,3
+Karnataka,Karwar(Uttar Kannad),Mundgod APMC,Rice,Broken Rice,Local,29/12/2025,2600,2600,2600,3
+Karnataka,Davangere,Honnali APMC,Rice,Broken Rice,Local,30/12/2025,2100,2100,2100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,10/12/2025,3000,4000,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,16/12/2025,3100,5100,4350,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,17/12/2025,3200,5200,4450,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,20/12/2025,3150,4215,3815,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,09/12/2025,3800,5800,5100,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Fine,Local,09/12/2025,5160,5160,5160,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,05/12/2025,2700,3000,2900,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,09/12/2025,2500,3000,2700,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,15/12/2025,2000,2500,2200,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,31/12/2025,2000,3500,2748,3
+Karnataka,Mangalore(Dakshin Kannad),Belthangdi APMC,Rice,Kachha Basmati,Local,17/12/2025,2177,5200,4400,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,02/12/2025,2350,2500,2446,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,03/12/2025,2500,3000,2663,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,04/12/2025,3000,3000,3000,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,17/12/2025,2300,4250,3700,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,20/12/2025,5571,6135,5929,3
+Karnataka,Bellary,Hospet APMC,Rice,Medium,Local,27/12/2025,3450,3450,3450,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,08/12/2025,2000,3000,2450,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,10/12/2025,2500,3200,3000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,23/12/2025,1500,3000,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,02/12/2025,4900,5700,5200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,09/12/2025,2400,3000,2418,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,19/12/2025,2350,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,22/12/2025,2250,4100,2890,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,30/12/2025,2500,2500,2500,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,11/12/2025,2600,4800,3600,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,16/12/2025,3600,4650,3900,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,03/12/2025,2400,2400,2400,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,23/12/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,02/12/2025,2400,6000,2400,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,22/12/2025,3000,3000,3000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,10/02/2026,4350,6400,5500,3
+Karnataka,Bangalore,Ramanagara APMC,Rice,Fine,Local,11/02/2026,5400,6200,6000,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Fine,Grade Range-1,12/02/2026,2400,7160,3950,3
+Karnataka,Hassan,Channarayapatna APMC,Rice,Hassan Dappa,Local,29/01/2026,2700,2700,2700,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,08/01/2026,2000,3500,2429,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,03/01/2026,2500,3000,2782,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,07/01/2026,2500,3000,2619,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,03/01/2026,2300,4250,3300,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,03/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,06/01/2026,2300,2890,2620,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,07/01/2026,2330,4300,3380,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,07/01/2026,3200,3200,3200,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,12/01/2026,3350,4200,3600,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,12/01/2026,2330,2890,2660,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,14/01/2026,5430,5430,5430,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,14/01/2026,2300,2300,2300,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,23/01/2026,2370,4300,3390,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,23/01/2026,3700,3700,3700,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,22/01/2026,2370,4250,3200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,28/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,27/01/2026,2320,4000,3300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,28/01/2026,5435,6130,6125,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,28/01/2026,2460,4350,2460,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,29/01/2026,2400,4253,3380,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,30/01/2026,2470,3650,2470,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,02/02/2026,2100,5735,5735,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,04/02/2026,2320,2890,2630,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,06/02/2026,4400,4400,4400,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,07/02/2026,2340,5800,4150,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,16/02/2026,2400,6200,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,12/02/2026,2400,4000,3300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,13/02/2026,3035,12331,5735,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,13/02/2026,2500,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,14/02/2026,9000,9000,9000,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,30/01/2026,2200,2800,2300,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,04/02/2026,2480,2480,2480,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Basmati,Grade Range-1,09/02/2026,9031,13679,9031,3
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Rice,Basmati,Grade Range-1,11/02/2026,18970,18970,18970,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,12/01/2026,1900,2400,1900,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,08/01/2026,1500,2500,2141,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,01/01/2026,3000,3000,3000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,09/01/2026,2100,3100,2600,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,12/01/2026,1000,2000,1880,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,14/01/2026,1500,2210,1800,3
+Karnataka,Mysore,Piriya Pattana APMC,Rice,Broken Rice,Local,21/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,17/01/2026,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,20/01/2026,3820,3820,3820,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,23/01/2026,2000,3000,2675,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,27/01/2026,2500,2500,2500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,28/01/2026,2100,3000,2650,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,01/02/2026,2400,2400,2400,3
+Karnataka,Mandya,Maddur APMC,Rice,Broken Rice,Local,01/02/2026,1600,1600,1600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,07/02/2026,2100,2950,2650,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,07/02/2026,2200,2200,2200,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,09/02/2026,2200,3000,2444,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,11/02/2026,2200,2800,2600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,16/02/2026,2100,3000,2650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,13/02/2026,2200,2950,2550,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,13/02/2026,2000,2500,2266,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,13/01/2026,3250,4100,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,12/01/2026,3150,4150,3875,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,29/01/2026,3150,4157,3655,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,02/02/2026,3150,4150,3655,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Coarse,Local,14/02/2026,4000,4000,4000,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,02/02/2026,2470,5485,2500,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,09/01/2026,3500,5000,4200,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,21/01/2026,2200,2800,2400,3
+Karnataka,Chikmagalur,Chikkamagalore APMC,Rice,Other,Local,23/01/2026,2800,2800,2800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,07/01/2026,4500,6600,5550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,12/01/2026,4250,6425,5525,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,17/01/2026,4175,6450,5555,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,30/01/2026,4250,6250,5675,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,29/01/2026,4350,6325,5550,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,05/01/2026,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,09/01/2026,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,09/01/2026,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,17/01/2026,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,23/01/2026,2600,2900,2743,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,28/01/2026,2600,2700,2700,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,04/02/2026,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,05/02/2026,2900,2900,2900,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,11/02/2026,2600,2600,2600,3
+Karnataka,Kolar,Chintamani APMC,Rice,Sona,Local,01/01/2026,4000,5000,4100,3
+Karnataka,Belgaum,Gokak APMC,Rice,Sona,Local,02/02/2026,5500,5500,5500,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,26/11/2025,2700,2700,2700,3
+Karnataka,Kolar,Malur APMC,Rice,Sona,Local,12/11/2025,2700,6000,4233,3
+Karnataka,Kolar,Malur APMC,Rice,Sona,Local,29/11/2025,3500,6000,5061,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,25/11/2025,2000,2700,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,13/11/2025,2300,7140,4300,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,17/11/2025,2200,2200,2200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,18/11/2025,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,20/11/2025,2250,4150,3220,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,24/11/2025,2250,4250,2890,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,27/11/2025,2250,2890,2300,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Dappa,Local,20/11/2025,2300,2300,2300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,13/11/2025,4170,6355,5760,3
+Karnataka,Kolar,Kolar APMC,Rice,Fine,Local,19/11/2025,4800,5200,5000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,07/11/2025,4055,6250,5550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,19/11/2025,4100,6200,5150,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,10/11/2025,4400,6350,5355,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,03/11/2025,4255,6210,5550,3
+Karnataka,Bellary,Hospet APMC,Rice,Broken Rice,Local,03/11/2025,3600,3600,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,03/11/2025,2250,3615,3150,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,24/11/2025,2400,2400,2400,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,28/11/2025,1500,2500,2000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,28/11/2025,3100,3950,3600,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Coarse (I.R.20),Local,18/11/2025,3000,3700,3500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,11/11/2025,3160,4300,3670,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,13/11/2025,3050,4100,3655,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,14/11/2025,3100,4200,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,21/11/2025,3000,4000,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,26/11/2025,3100,3850,3550,3
+Karnataka,Shimoga,Sorabha APMC,Rice,Fine,Local,01/12/2025,1750,1800,1750,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Fine,Local,22/12/2025,7400,7400,7400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,24/12/2025,4250,6000,5300,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Fine,Local,29/12/2025,3850,3850,3850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,31/12/2025,4350,6320,5650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,02/12/2025,3175,3950,3550,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,04/12/2025,2000,2700,2585,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,11/12/2025,2400,3000,2416,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,16/12/2025,2300,2300,2300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,11/12/2025,3070,5679,5450,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,19/12/2025,2250,4300,4050,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,26/12/2025,2500,2500,2500,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,31/12/2025,2300,4300,3480,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,06/12/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,08/12/2025,2700,2700,2700,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,15/12/2025,2600,2600,2600,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,19/12/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,20/12/2025,2700,2700,2700,3
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,Rice,Sarbati Raw,Grade Range-1,22/12/2025,2700,2700,2700,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,27/12/2025,3000,3000,3000,3
+Karnataka,Kolar,Malur APMC,Rice,Sona,Local,05/12/2025,2500,7000,4595,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,18/12/2025,1500,3000,2850,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,19/12/2025,2500,3000,2878,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,24/12/2025,2000,2700,2486,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,10/12/2025,1000,10000,9390,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,26/12/2025,2250,2890,2670,3
+Karnataka,Karwar(Uttar Kannad),Haliyala APMC,Rice,Medium,Local,31/12/2025,2300,2300,2300,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Basmati,Local,03/12/2025,5300,12000,7923,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,02/12/2025,2050,2850,2650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,03/12/2025,2100,2950,2655,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,08/12/2025,2000,2500,2200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,10/12/2025,2100,2100,2100,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,12/12/2025,2000,2800,2600,3
+Karnataka,Karwar(Uttar Kannad),Kumta APMC,Rice,Broken Rice,Local,16/12/2025,4400,4400,4400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,17/12/2025,2600,4300,3750,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,22/12/2025,2100,2900,2575,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,20/12/2025,2400,2400,2400,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Broken Rice,Local,22/12/2025,2000,2000,2000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,20/12/2025,1500,2700,2300,3
+Karnataka,Davangere,Honnali APMC,Rice,Broken Rice,Local,26/12/2025,2100,2100,2100,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,24/12/2025,1500,2500,2300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,01/12/2025,3100,3850,3650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,02/12/2025,4150,6250,5350,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,22/12/2025,3200,4250,3850,3
+Karnataka,Hassan,Hassan APMC,Rice,Other,Local,12/02/2026,2520,2520,2520,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,03/01/2026,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,12/01/2026,3000,3000,3000,3
+Karnataka,Davangere,Honnali APMC,Rice,Sarbati Raw,Local,31/01/2026,2600,2600,2600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,09/01/2026,4100,6250,5500,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,13/01/2026,4250,6500,5450,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,23/01/2026,4400,6250,5400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,27/01/2026,4150,6350,5650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,28/01/2026,4250,6400,5655,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,06/02/2026,4250,6250,5675,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,07/02/2026,4500,6625,5625,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,01/01/2026,2200,3075,2650,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,08/01/2026,2200,2200,2200,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,02/01/2026,2100,3025,2565,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,03/01/2026,2150,3155,2600,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,06/01/2026,2000,2000,2000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,06/01/2026,1000,2500,2153,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,07/01/2026,2200,3150,2850,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,12/01/2026,2150,3100,2650,3
+Karnataka,Mysore,Hunsur APMC,Rice,Broken Rice,Local,20/01/2026,2400,2400,2400,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,16/01/2026,2100,3100,2750,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,21/01/2026,2200,2200,2200,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,16/01/2026,1500,3000,2092,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,17/01/2026,2150,3000,2550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,23/01/2026,2100,3200,2750,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Broken Rice,Local,27/01/2026,1500,1500,1500,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Broken Rice,Local,30/01/2026,2100,2200,2100,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,30/01/2026,2100,3100,2650,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,31/01/2026,2100,3150,2550,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,03/02/2026,2100,3150,2550,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,04/02/2026,2000,2500,2273,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Broken Rice,Local,06/02/2026,2100,3100,2650,3
+Karnataka,Davangere,Davangere APMC,Rice,Broken Rice,Local,07/02/2026,2000,2000,2000,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,06/02/2026,2400,2400,2400,3
+Karnataka,Mandya,Srirangapattana APMC,Rice,Broken Rice,Local,12/02/2026,3000,3000,3000,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,11/02/2026,2100,2500,2258,3
+Karnataka,Kolar,Bangarpet APMC,Rice,Broken Rice,Local,16/02/2026,2000,2500,2251,3
+Karnataka,Mandya,K.R. Pet APMC,Rice,Broken Rice,Local,11/02/2026,2300,2300,2300,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,03/01/2026,3100,4100,3650,3
+Karnataka,Karwar(Uttar Kannad),Sirsi APMC,Rice,Coarse,Local,05/01/2026,3600,3600,3600,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,30/01/2026,3255,4100,3750,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,04/02/2026,3150,4100,3570,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,09/02/2026,3200,4350,3800,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Coarse,Local,10/02/2026,3300,4450,3900,3
+Karnataka,Shimoga,Shimoga APMC,Rice,Coarse,Local,12/02/2026,2500,2500,2500,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,05/01/2026,3800,4000,4000,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,06/01/2026,2500,2500,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,23/01/2026,2500,2500,2500,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,29/01/2026,3510,4250,4200,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,10/02/2026,2500,4400,2500,3
+Karnataka,Chamrajnagar,Gundlupet APMC,Rice,Other,Local,01/01/2026,3906,3906,3906,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,01/01/2026,2300,4250,2890,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,06/01/2026,4080,4400,4080,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,12/01/2026,2200,2500,2330,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,16/01/2026,5583,5583,5583,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,17/01/2026,3950,4000,4000,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,03/02/2026,2470,2480,2480,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,04/02/2026,2500,2500,2500,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,09/02/2026,2500,6000,2500,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,06/01/2026,3600,5800,4400,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,29/01/2026,3400,5800,4000,3
+Karnataka,Kalburgi,Kalburgi APMC,Rice,Fine,Local,13/02/2026,4250,6450,5600,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,02/01/2026,2500,3000,2887,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,13/01/2026,1500,3500,2463,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,22/01/2026,2000,3000,2415,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,21/01/2026,2000,3000,2636,3
+Karnataka,Kolar,Bangarpet APMC,Rice,IR 20,Local,13/02/2026,2300,3000,2622,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Kachha Basmati,Local,10/02/2026,2100,2100,2100,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,13/01/2026,2330,4000,3240,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,21/01/2026,2370,2400,2390,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,19/01/2026,5735,5735,5735,3
+Karnataka,Davangere,Davangere APMC,Rice,Medium,Local,31/01/2026,2400,4337,3450,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,03/02/2026,6983,10000,8692,3
+Karnataka,Raichur,Sindhanur APMC,Rice,Medium,Local,02/02/2026,3800,3800,3800,3
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Rice,Medium,Local,07/02/2026,5250,5600,5250,3
+Karnataka,Shimoga,Bhadravathi APMC,Rice,Medium,Local,11/02/2026,2500,2500,2500,3
+Karnataka,Tumkur,Tumkur APMC,Rice,Other,Local,31/01/2026,3500,5600,4200,3
+Karnataka,Mangalore(Dakshin Kannad),Bantwala APMC,Rice,Other,Local,02/02/2026,2200,2800,2300,3

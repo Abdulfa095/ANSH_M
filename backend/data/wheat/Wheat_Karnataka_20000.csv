@@ -1,0 +1,192 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,26/11/2025,3525,3900,3713,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,11/11/2025,2211,3210,2311,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,24/11/2025,2316,2825,2567,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,12/11/2025,2194,2194,2194,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,07/11/2025,3100,3100,3100,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,19/11/2025,2500,3000,2750,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,10/11/2025,2388,2534,2461,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,04/11/2025,2514,2514,2514,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,03/11/2025,3500,4200,3850,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,04/11/2025,3500,4200,3850,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,26/11/2025,2500,2500,2500,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,02/12/2025,2600,3108,2854,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,04/12/2025,2600,2600,2600,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,20/12/2025,2925,2925,2925,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,19/12/2025,2400,2400,2400,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Super Fine,Local,31/12/2025,2550,2550,2550,1
+Karnataka,Davangere,Honnali APMC,Wheat,Super Fine,Local,31/12/2025,2600,2600,2600,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,01/12/2025,2525,3600,3500,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,29/12/2025,2000,2000,2000,1
+Karnataka,Bellary,Hospet APMC,Wheat,Other,Local,17/12/2025,3100,3471,3471,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,09/12/2025,2309,2430,2420,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,02/12/2025,3100,3746,3200,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,30/12/2025,3200,3420,3260,1
+Karnataka,Chikmagalur,Chikkamagalore APMC,Wheat,Other,Local,19/01/2026,2750,2750,2750,1
+Karnataka,Hassan,Hassan APMC,Wheat,Other,Local,04/02/2026,3516,3516,3516,1
+Karnataka,Hassan,Hassan APMC,Wheat,Other,Local,09/02/2026,3350,3650,3350,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,23/01/2026,2926,2926,2926,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,06/02/2026,2500,2739,2600,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,16/01/2026,2200,2200,2200,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,29/01/2026,2500,2500,2500,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Super Fine,Local,04/02/2026,2625,2625,2625,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,06/02/2026,3500,3500,3500,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,09/02/2026,2550,2550,2550,1
+Karnataka,Hassan,Hassan APMC,Wheat,Other,Local,03/02/2026,3543,3552,3552,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,08/01/2026,3100,3480,3275,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,10/01/2026,2156,4511,2350,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,21/01/2026,2600,3932,3211,1
+Karnataka,Kolar,Malur APMC,Wheat,Local,Local,31/01/2026,1800,3000,2895,1
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Wheat,Local,Grade Range-1,02/02/2026,3260,3335,3260,1
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Wheat,Local,Grade Range-1,10/02/2026,3282,3450,3387,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,01/01/2026,3425,3425,3425,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,03/01/2026,2021,4226,2552,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,07/01/2026,2436,2526,2436,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,02/02/2026,3850,3850,3850,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,12/02/2026,2500,3250,2500,1
+Karnataka,Bellary,Hospet APMC,Wheat,Other,Local,15/11/2025,3470,3470,3470,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,29/11/2025,2310,2310,2310,1
+Karnataka,Shimoga,Bhadravathi APMC,Wheat,Local,Local,11/11/2025,3295,3295,3295,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,18/11/2025,3000,3000,3000,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,19/11/2025,2450,2450,2450,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,28/11/2025,3500,4200,3622,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,10/12/2025,2216,2406,2359,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,20/12/2025,2309,4231,2840,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,16/12/2025,2811,3811,3051,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,18/12/2025,2449,3329,3185,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,24/12/2025,2429,4302,3261,1
+Karnataka,Bellary,Hospet APMC,Wheat,Other,Local,01/12/2025,3471,3471,3471,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,10/12/2025,2400,3701,3001,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,27/01/2026,2844,2844,2844,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,28/01/2026,3279,3821,3480,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,02/02/2026,2200,2200,2200,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,02/01/2026,2506,2611,2558,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,01/01/2026,2000,2000,2000,1
+Karnataka,Dharwad,Kalagategi APMC,Wheat,Local,Local,24/01/2026,2500,2500,2500,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,09/02/2026,2510,3835,2717,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,08/01/2026,2466,3502,2673,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,19/01/2026,2000,3375,2000,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,21/01/2026,2486,2652,2564,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,20/01/2026,2526,3831,3614,1
+Karnataka,Chikmagalur,Koppa APMC,Wheat,Other,Local,03/01/2026,1700,1700,1700,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,17/11/2025,2291,2625,2458,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,15/11/2025,2600,2800,2700,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,24/11/2025,2438,2600,2512,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,14/11/2025,2450,2450,2450,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,25/11/2025,2600,2600,2600,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,06/11/2025,3500,4200,3850,1
+Karnataka,Belgaum,Sankeshwar APMC,Wheat,Other,Local,06/11/2025,2900,3068,2950,1
+Karnataka,Bellary,Hospet APMC,Wheat,Other,Local,13/12/2025,3471,3471,3471,1
+Karnataka,Bagalkot,Bagalakot APMC,Wheat,Sona,Local,11/12/2025,2800,2800,2800,1
+Karnataka,Davangere,Honnali APMC,Wheat,Super Fine,Local,30/12/2025,2600,2600,2600,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,11/12/2025,2226,2610,2426,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,09/12/2025,2575,3690,3250,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,20/12/2025,3294,3421,3320,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,22/12/2025,2580,3250,3000,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,02/12/2025,2416,2416,2416,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,16/12/2025,3421,3421,3421,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,18/12/2025,3200,3233,3215,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,31/12/2025,2411,4211,3020,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,31/01/2026,2812,2812,2812,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,03/01/2026,3175,3175,3175,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,21/01/2026,3260,3811,3539,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,10/01/2026,2779,2779,2779,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,01/02/2026,2550,3050,2800,1
+Karnataka,Hassan,Hassan APMC,Wheat,Other,Local,28/01/2026,3500,3650,3500,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,19/01/2026,1971,1971,1971,1
+Karnataka,Bellary,Kottur APMC,Wheat,Jawari,Local,13/01/2026,2500,2500,2500,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,17/01/2026,2156,4200,3104,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,24/01/2026,2239,3911,2888,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,07/02/2026,2466,2552,2531,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,11/02/2026,2410,2910,2593,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,14/02/2026,2516,2516,2516,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,16/02/2026,1510,2716,2231,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,05/01/2026,2111,4352,2533,1
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Wheat,Local,Grade Range-1,21/01/2026,3330,3463,3330,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,20/01/2026,2000,3700,2000,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,28/01/2026,2000,3911,2500,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,31/01/2026,2321,4552,3175,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,05/02/2026,2200,3645,3490,1
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Wheat,Local,Grade Range-1,04/02/2026,3222,3412,3222,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,White,Local,27/11/2025,3358,3403,3385,1
+Karnataka,Belgaum,Sankeshwar APMC,Wheat,Other,Local,13/11/2025,2900,3200,3100,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,07/11/2025,3500,4200,3850,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,14/11/2025,2600,3000,2700,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,28/11/2025,2736,2736,2736,1
+Karnataka,Dharwad,Kalagategi APMC,Wheat,Local,Local,03/11/2025,2500,2500,2500,1
+Karnataka,Dharwad,Kalagategi APMC,Wheat,Local,Local,25/11/2025,2500,2500,2500,1
+Karnataka,Belgaum,Kudchi APMC,Wheat,White,Local,15/12/2025,4900,50200,5000,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,10/12/2025,2352,2352,2352,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,22/12/2025,2319,4325,2731,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,12/12/2025,2310,3370,3370,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,17/12/2025,2011,2511,2300,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,24/12/2025,3250,3813,3500,1
+Karnataka,Kolar,Malur APMC,Wheat,Local,Local,31/12/2025,2600,3000,2882,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,14/02/2026,2274,2274,2274,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,06/01/2026,2019,3200,3200,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,09/01/2026,1509,3699,3699,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,12/01/2026,2156,3719,3719,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,13/01/2026,2600,3111,2600,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,16/01/2026,2600,2600,2600,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,14/01/2026,3350,3600,3350,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,27/01/2026,2500,3911,2500,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,10/02/2026,3125,3485,3125,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,13/02/2026,2989,2989,2989,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,05/01/2026,2400,2400,2400,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,12/01/2026,1800,2400,2140,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,13/01/2026,2400,2400,2400,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,27/01/2026,2400,3231,2840,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,03/02/2026,2550,2550,2550,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,05/02/2026,2700,2700,2700,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,11/02/2026,2700,2700,2700,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,12/02/2026,3509,3821,3672,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,19/01/2026,2310,3970,2672,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,24/01/2026,2500,2500,2500,1
+Karnataka,Dharwad,Kalagategi APMC,Wheat,Local,Local,11/02/2026,2300,2900,2661,1
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Wheat,Local,Grade Range-1,16/02/2026,3219,3600,3219,1
+Karnataka,Chikmagalur,Koppa APMC,Wheat,Other,Local,21/01/2026,1700,1700,1700,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,02/01/2026,2650,2650,2650,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,04/01/2026,3000,3000,3000,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,14/02/2026,2275,2275,2275,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,12/02/2026,2963,2963,2963,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,28/01/2026,2480,2600,2500,1
+Karnataka,Bellary,Hospet APMC,Wheat,Other,Local,16/11/2025,3471,3700,3471,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,12/11/2025,2221,2221,2221,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,13/11/2025,2211,3625,2741,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,03/11/2025,2252,2252,2252,1
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Wheat,Local,Grade Range-1,05/11/2025,3096,3571,3279,1
+Karnataka,Shimoga,Bhadravathi APMC,Wheat,Local,Local,05/11/2025,3210,3210,3210,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,05/11/2025,3500,4200,3850,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,15/11/2025,3600,4200,3900,1
+Karnataka,Shimoga,Shimoga APMC,Wheat,Super Fine,Local,21/11/2025,3000,4500,3500,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,White,Local,21/11/2025,2676,2756,2706,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,01/12/2025,2369,3199,2813,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,30/12/2025,2539,2689,2577,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,15/12/2025,3200,3211,3201,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,03/12/2025,2122,2122,2122,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,29/12/2025,2229,5025,3328,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,16/12/2025,2633,2800,2700,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,11/12/2025,2600,2600,2600,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,24/12/2025,3100,3100,3100,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,29/12/2025,2400,2400,2400,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,04/12/2025,2229,3535,2882,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,21/01/2026,3160,3160,3160,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,03/02/2026,2917,2917,2917,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,04/02/2026,2703,2703,2703,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,13/02/2026,3050,3050,3050,1
+Karnataka,Tumkur,Sira APMC,Wheat,Other,Local,16/02/2026,3320,3320,3320,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,07/01/2026,2248,2248,2248,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,13/01/2026,2600,2600,2600,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,22/01/2026,2955,2955,2955,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,11/02/2026,2974,2974,2974,1
+Karnataka,Bijapur,Bijapur APMC,Wheat,Sona,Local,17/02/2026,2098,2098,2098,1
+Karnataka,Davangere,Davangere APMC,Wheat,Super Fine,Local,14/01/2026,2200,2200,2200,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,02/01/2026,2600,3100,2850,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,22/01/2026,2000,3550,2000,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,29/01/2026,3100,4141,3399,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Jawari,Local,03/02/2026,2416,3424,3352,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,09/01/2026,3125,3650,3225,1
+Karnataka,Dharwad,Kalagategi APMC,Wheat,Local,Local,28/01/2026,2875,2875,2875,1
+Karnataka,Dharwad,Hubli (Amaragol) APMC,Wheat,Local,Local,06/02/2026,3325,3825,3825,1
+Karnataka,Mysore,Mysore (Bandipalya) APMC,Wheat,Local,Grade Range-1,11/02/2026,3314,3440,3359,1
+Karnataka,Bellary,Hospet APMC,Wheat,Other,Local,04/01/2026,3475,3475,3475,1

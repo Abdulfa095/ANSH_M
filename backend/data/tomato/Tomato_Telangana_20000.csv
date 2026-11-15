@@ -1,0 +1,667 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,14/12/2025,0.46,0.5,0.48,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,18/12/2025,0.48,0.56,0.52,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,11/12/2025,0.28,0.36,0.32,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,14/12/2025,0.36,0.5,0.48,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,15/12/2025,0.46,0.52,0.48,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,12/12/2025,0.28,0.34,0.32,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,07/11/2025,0.28,0.28,0.28,78
+Telangana,Hyderabad,Mahboob Manison APMC,Tomato,Deshi,FAQ,01/11/2025,1500.0,3000.0,2500.0,78
+Telangana,Mahbubnagar,Mahabubnagar(Rythu Bazar) APMC,Tomato,Deshi,FAQ,01/11/2025,2800.0,3200.0,3000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,05/11/2025,400.0,1800.0,1500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,06/11/2025,800.0,800.0,800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,10/11/2025,600.0,2200.0,1200.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Grade Range-1,08/11/2025,1000.0,2000.0,1400.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,09/11/2025,2400.0,3200.0,2800.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,07/11/2025,2800.0,2800.0,2800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,21/11/2025,800.0,4000.0,3000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,22/11/2025,800.0,4000.0,3000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,11/11/2025,1500.0,2000.0,1800.0,78
+Telangana,Nalgonda,Venkateswarnagar APMC,Tomato,Local,FAQ,03/11/2025,1500.0,1700.0,1600.0,78
+Telangana,Medak,Vantamamidi APMC,Tomato,Local,FAQ,04/11/2025,1000.0,1500.0,1250.0,78
+Telangana,Medak,Vantamamidi APMC,Tomato,Local,FAQ,05/11/2025,1000.0,1800.0,1400.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,17/11/2025,1200.0,1200.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,24/11/2025,1800.0,2200.0,2000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,27/11/2025,1500.0,2000.0,1800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,28/11/2025,2400.0,3200.0,2800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,30/11/2025,1600.0,2800.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,21/11/2025,1200.0,4800.0,2200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,26/11/2025,600.0,5200.0,2000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,06/11/2025,1600.0,2000.0,1800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,15/11/2025,600.0,3200.0,1200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,01/11/2025,1600.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Tomato,Deshi,Non-FAQ,05/11/2025,2100.0,2100.0,2100.0,78
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar) APMC,Tomato,Deshi,FAQ,03/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,12/11/2025,400.0,2400.0,2000.0,78
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Tomato,Deshi,FAQ,06/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,01/11/2025,3900.0,3900.0,3900.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Deshi,FAQ,01/11/2025,600.0,2200.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,07/01/2026,800.0,2000.0,1600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,02/12/2025,800.0,2400.0,2000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,30/12/2025,400.0,3400.0,2500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,12/12/2025,400.0,2400.0,2000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,29/12/2025,400.0,3200.0,2500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,17/12/2025,800.0,3600.0,2800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,26/12/2025,1000.0,3200.0,2500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,06/12/2025,800.0,2800.0,2400.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,03/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,05/12/2025,1800.0,2200.0,1900.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,09/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,07/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,11/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,15/12/2025,1500.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,13/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,16/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,17/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,21/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,20/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,24/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,28/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,29/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,29/12/2025,1200.0,1800.0,1500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,06/12/2025,800.0,2800.0,2400.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Tomato,Local,02/12/2025,1800.0,2200.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,03/12/2025,1200.0,4400.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,02/12/2025,800.0,3600.0,2000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,03/12/2025,1800.0,2800.0,2000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,17/12/2025,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,15/12/2025,2000.0,3200.0,2600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,16/12/2025,3000.0,3500.0,3250.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,10/12/2025,400.0,2800.0,1800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,18/12/2025,2500.0,3000.0,2750.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,15/12/2025,3600.0,5200.0,4200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,17/12/2025,800.0,3600.0,2800.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,18/12/2025,4800.0,5600.0,5200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,23/12/2025,400.0,3200.0,2400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,26/12/2025,1200.0,3200.0,2000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,31/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,26/12/2025,2400.0,3200.0,2800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,24/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,27/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,30/12/2025,2000.0,2800.0,2600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,03/01/2026,400.0,3000.0,2400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,06/01/2026,800.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,09/01/2026,400.0,2000.0,1400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,09/01/2026,400.0,1800.0,1400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,12/01/2026,400.0,1800.0,1400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,16/01/2026,1000.0,2000.0,1400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,17/01/2026,800.0,2000.0,1200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,17/01/2026,1000.0,1200.0,1100.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,18/01/2026,1000.0,1200.0,1100.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,19/01/2026,600.0,1000.0,800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,22/01/2026,800.0,1200.0,1000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,26/01/2026,600.0,1200.0,800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,27/01/2026,400.0,1200.0,800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,30/01/2026,400.0,1000.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,02/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,06/02/2026,200.0,800.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,10/02/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,12/02/2026,400.0,1200.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,09/02/2026,600.0,800.0,700.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,17/02/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,01/01/2026,1000.0,3200.0,2400.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,02/01/2026,2500.0,3000.0,2750.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,03/01/2026,3500.0,4000.0,3750.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,05/01/2026,3500.0,4000.0,3750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,08/01/2026,1400.0,1600.0,1500.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,10/01/2026,1500.0,2000.0,1750.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,09/01/2026,600.0,2000.0,1200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,13/01/2026,600.0,2400.0,1200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,12/01/2026,600.0,2000.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,19/01/2026,600.0,1400.0,1200.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,23/01/2026,800.0,1600.0,1300.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,26/01/2026,800.0,1400.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,28/01/2026,400.0,1800.0,1400.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,28/01/2026,400.0,1400.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,06/02/2026,400.0,800.0,700.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,13/02/2026,400.0,800.0,650.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,07/02/2026,400.0,800.0,700.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,06/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Local,FAQ,08/01/2026,600.0,1800.0,1500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,13/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,12/02/2026,300.0,800.0,600.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Grade B,07/01/2026,3000.0,4000.0,3500.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,07/02/2026,1910.0,1910.0,1910.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,13/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,17/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,15/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,16/02/2026,500.0,1200.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,31/01/2026,400.0,1000.0,800.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,06/02/2026,400.0,800.0,650.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,07/02/2026,400.0,800.0,650.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,08/02/2026,400.0,800.0,700.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,12/02/2026,600.0,800.0,740.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,25/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,27/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,31/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,08/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,02/02/2026,600.0,1000.0,850.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,17/01/2026,600.0,2000.0,1500.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,16/12/2025,0.36,0.52,0.48,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,10/11/2025,0.24,0.32,0.28,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,25/11/2025,0.54,0.62,0.58,78
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Tomato,Deshi,FAQ,03/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,17/11/2025,800.0,3400.0,2600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,15/11/2025,400.0,3200.0,2400.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Local,11/11/2025,3100.0,3800.0,3200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,09/11/2025,600.0,2200.0,1200.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,11/11/2025,2000.0,2800.0,2400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,13/11/2025,1200.0,2800.0,2000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,26/11/2025,2400.0,4400.0,3200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,18/11/2025,1000.0,4000.0,1600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,25/11/2025,600.0,5200.0,2400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,25/11/2025,3200.0,4800.0,4000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,03/11/2025,2000.0,2500.0,2250.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,05/11/2025,1600.0,2000.0,1800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,13/11/2025,600.0,3600.0,1400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,15/11/2025,2000.0,3200.0,2600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,17/11/2025,2400.0,3600.0,3000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,19/11/2025,2000.0,4000.0,3000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,30/11/2025,1000.0,3200.0,1800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,01/11/2025,400.0,2000.0,1500.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,02/11/2025,3600.0,3600.0,3600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,02/11/2025,400.0,2000.0,1500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Deshi,Non-FAQ,02/11/2025,2000.0,2600.0,2500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,FAQ,02/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,03/11/2025,3200.0,3200.0,3200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Deshi,FAQ,03/11/2025,800.0,2800.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Deshi,Non-FAQ,03/11/2025,3200.0,4000.0,3500.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Deshi,FAQ,05/11/2025,800.0,2400.0,1400.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,Small,07/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,07/11/2025,950.0,950.0,950.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,08/11/2025,950.0,950.0,950.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,11/11/2025,400.0,2400.0,1600.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Medium,17/11/2025,3200.0,3400.0,3300.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,10/11/2025,1500.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,12/11/2025,1500.0,1500.0,1500.0,78
+Telangana,Medak,Vantamamidi APMC,Tomato,Local,FAQ,01/11/2025,1000.0,1500.0,1250.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,15/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,20/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,23/11/2025,1200.0,1200.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,28/11/2025,1800.0,2200.0,2000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,28/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,30/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Local,Grade A,09/12/2025,80000.0,320000.0,160000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,03/12/2025,800.0,2800.0,2200.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,FAQ,08/12/2025,2000.0,2500.0,2250.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,15/12/2025,800.0,4000.0,3000.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Grade B,22/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,28/12/2025,800.0,3200.0,2500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,22/12/2025,400.0,3000.0,2500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,18/12/2025,800.0,3600.0,2800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,12/12/2025,1600.0,2000.0,1800.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,18/12/2025,4900.0,5600.0,5200.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,11/12/2025,2800.0,3600.0,3200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,13/12/2025,400.0,2600.0,2000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,05/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,07/12/2025,1500.0,2200.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,10/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,19/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,22/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,25/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,26/12/2025,1000.0,1800.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,31/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,15/12/2025,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,16/12/2025,800.0,3600.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,29/12/2025,1200.0,3600.0,2400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,29/12/2025,2000.0,2800.0,2600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,31/12/2025,2400.0,4000.0,3200.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,23/12/2025,1200.0,2400.0,1800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,21/12/2025,1000.0,3600.0,2000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,25/12/2025,2400.0,3200.0,2800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,25/12/2025,1200.0,3600.0,2400.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,29/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,05/12/2025,1200.0,2400.0,1800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,12/12/2025,600.0,2400.0,1600.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,19/01/2026,800.0,1600.0,1300.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,01/01/2026,400.0,3400.0,2500.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,05/01/2026,3400.0,4200.0,3800.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,10/01/2026,400.0,1600.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,14/01/2026,400.0,1600.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,25/01/2026,400.0,1200.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,27/01/2026,400.0,1000.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,29/01/2026,400.0,1000.0,800.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,29/01/2026,400.0,1000.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,05/02/2026,400.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,08/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,12/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,06/01/2026,800.0,2000.0,1800.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Medium,13/01/2026,2000.0,2500.0,2250.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,10/01/2026,800.0,1800.0,1500.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Grade B,08/01/2026,1500.0,2500.0,2000.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Medium,12/01/2026,1500.0,2500.0,2000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,30/01/2026,400.0,1000.0,800.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,02/02/2026,1800.0,1800.0,1800.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,04/02/2026,1600.0,1600.0,1600.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,06/02/2026,1800.0,1800.0,1800.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,05/02/2026,1820.0,1820.0,1820.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,11/02/2026,400.0,800.0,700.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,08/02/2026,400.0,800.0,650.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,09/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,06/01/2026,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,07/01/2026,1200.0,1600.0,1400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,15/01/2026,600.0,1600.0,1200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,20/01/2026,400.0,1200.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,23/01/2026,1000.0,1500.0,1250.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,25/01/2026,600.0,1200.0,800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,31/01/2026,200.0,1000.0,600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,02/02/2026,800.0,1200.0,1000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,04/02/2026,700.0,800.0,750.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,04/02/2026,200.0,600.0,400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,05/02/2026,200.0,1000.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,05/02/2026,600.0,700.0,650.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,09/02/2026,200.0,1000.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,13/02/2026,600.0,800.0,700.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,02/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,06/01/2026,1200.0,1600.0,1500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,19/01/2026,1200.0,1800.0,1500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,23/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,26/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,29/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,03/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Local,FAQ,10/02/2026,400.0,800.0,600.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,12/02/2026,800.0,1200.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,14/02/2026,500.0,1000.0,600.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,15/02/2026,500.0,1000.0,800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,13/01/2026,1200.0,1600.0,1400.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,14/01/2026,1200.0,1600.0,1400.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,12/01/2026,2200.0,2600.0,2400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,14/01/2026,1400.0,2000.0,1600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,27/01/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,29/01/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,31/01/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,11/01/2026,400.0,1600.0,1200.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,11/01/2026,800.0,1600.0,1300.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,11/12/2025,0.28,0.34,0.32,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,12/12/2025,28.0,34.0,32.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Local,Grade A,09/12/2025,8.0,32.0,16.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,Local,10/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,10/11/2025,850.0,850.0,850.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,FAQ,03/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Tomato,Deshi,Non-FAQ,02/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Deshi,Non-FAQ,05/11/2025,2000.0,2500.0,2200.0,78
+Telangana,Hyderabad,Mahboob Manison APMC,Tomato,Deshi,FAQ,03/11/2025,1600.0,2400.0,2000.0,78
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Tomato,Deshi,Non-FAQ,03/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Tomato,Deshi,Non-FAQ,06/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,25/11/2025,600.0,4400.0,3000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,23/11/2025,1200.0,4000.0,3200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,28/11/2025,600.0,3000.0,2400.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,10/11/2025,2400.0,3200.0,2800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,29/11/2025,400.0,2600.0,2000.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,06/11/2025,2400.0,3200.0,2800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,Local,08/11/2025,200.0,200.0,200.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Local,12/11/2025,3200.0,4230.0,3600.0,78
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Tomato,Deshi,FAQ,02/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,19/11/2025,800.0,3200.0,2500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,07/11/2025,1800.0,3000.0,2500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,12/11/2025,1500.0,2000.0,1800.0,78
+Telangana,Medak,Vantamamidi APMC,Tomato,Local,FAQ,02/11/2025,1200.0,2000.0,1600.0,78
+Telangana,Nalgonda,Venkateswarnagar APMC,Tomato,Local,FAQ,04/11/2025,1500.0,1700.0,1600.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,13/11/2025,1200.0,1800.0,1500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,15/11/2025,1200.0,1800.0,1500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,21/11/2025,1200.0,1200.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,22/11/2025,1500.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,27/11/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,29/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,05/11/2025,0.34,0.34,0.34,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,27/11/2025,2400.0,4400.0,3200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,17/11/2025,800.0,4000.0,1600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,16/11/2025,1000.0,3600.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,21/11/2025,2400.0,4400.0,3200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,02/11/2025,1600.0,2000.0,1800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Grade A,12/11/2025,1400.0,2400.0,2000.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,12/12/2025,280000.0,340000.0,320000.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,14/12/2025,3600.0,5000.0,4800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,25/12/2025,800.0,3200.0,2500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,28/12/2025,800.0,3200.0,2600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,31/12/2025,1000.0,3600.0,2400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,27/12/2025,1200.0,3600.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,08/12/2025,800.0,2800.0,2000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,11/12/2025,1200.0,2000.0,1600.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,11/12/2025,2800.0,3400.0,3200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,14/12/2025,3000.0,3500.0,3250.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,19/12/2025,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,22/12/2025,1600.0,2400.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,24/12/2025,1200.0,3600.0,2400.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,16/12/2025,3600.0,5200.0,4800.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,17/12/2025,4800.0,5600.0,5200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,21/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,22/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,01/12/2025,1200.0,2000.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,14/12/2025,2000.0,3200.0,2600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,24/12/2025,800.0,3200.0,2600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,04/12/2025,800.0,2800.0,2200.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,FAQ,17/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,17/12/2025,3200.0,5200.0,4800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,01/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,06/12/2025,1200.0,2000.0,1800.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,12/12/2025,1200.0,1800.0,1500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,17/12/2025,1200.0,1800.0,1600.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,19/12/2025,1200.0,1800.0,1500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,25/12/2025,1500.0,1800.0,1600.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,27/12/2025,1000.0,1800.0,1500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,30/12/2025,1000.0,1500.0,1200.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,16/12/2025,3600.0,5200.0,4800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,20/12/2025,800.0,3200.0,2600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,21/12/2025,800.0,3000.0,2400.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Medium,21/01/2026,2000.0001,2000.0001,2000.0001,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,21/01/2026,400.0,1000.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,22/01/2026,400.0,1400.0,1200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,29/01/2026,400.0,1200.0,800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,06/02/2026,700.0,800.0,750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,10/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,11/02/2026,400.0,800.0,700.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,12/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,09/01/2026,1025.0,1025.0,1025.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,11/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,12/01/2026,1200.0,1400.0,1300.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,15/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,17/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,20/01/2026,1200.0,1500.0,1300.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,19/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,23/01/2026,1200.0,1500.0,1300.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,01/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,02/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,05/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,06/02/2026,1000.0,1500.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,12/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,01/01/2026,2400.0,4000.0,3200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,01/01/2026,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,02/01/2026,2400.0,4000.0,3200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,02/01/2026,600.0,3600.0,2200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,05/01/2026,1000.0,2800.0,2000.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,04/01/2026,3600.0,3600.0,3600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,04/01/2026,1200.0,3200.0,2200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,29/01/2026,1000.0,1400.0,1200.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,30/01/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,04/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,05/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,07/02/2026,200.0,800.0,400.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,07/02/2026,700.0,800.0,750.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,11/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,05/02/2026,400.0,800.0,700.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,05/02/2026,400.0,800.0,650.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,13/02/2026,400.0,800.0,700.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,14/02/2026,400.0,800.0,700.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,15/01/2026,400.0,1800.0,1500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,20/01/2026,400.0,1200.0,1000.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,21/01/2026,400.0,1200.0,900.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,02/02/2026,400.0,1000.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,08/01/2026,600.0,1800.0,1500.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,22/01/2026,800.0,1200.0,1050.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,22/01/2026,400.0,1400.0,1200.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,24/01/2026,400.0,1600.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,23/01/2026,400.0,1600.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,24/01/2026,400.0,1400.0,1000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,13/01/2026,2000.0,2500.0,2250.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,20/01/2026,1000.0,1200.0,1100.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,23/01/2026,400.0,1200.0,800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,25/01/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,24/01/2026,1000.0,1400.0,1200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,10/01/2026,600.0,1800.0,1200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,11/01/2026,1500.0,2000.0,1750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,12/01/2026,1400.0,2000.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,18/01/2026,600.0,1000.0,800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,11/02/2026,800.0,1000.0,900.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,14/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,14/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,14/02/2026,400.0,1200.0,600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,17/02/2026,400.0,1200.0,800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,04/11/2025,1600.0,2000.0,1800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,14/11/2025,2000.0,3200.0,2600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,19/11/2025,800.0,4000.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,18/11/2025,2400.0,3600.0,3000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,22/11/2025,1000.0,4800.0,2000.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,25/11/2025,5400.0,6200.0,5800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,24/11/2025,600.0,5200.0,3000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,08/11/2025,600.0,2200.0,1200.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,10/11/2025,1600.0,2400.0,2000.0,78
+Telangana,Hyderabad,Mahboob Manison APMC,Tomato,Deshi,FAQ,05/11/2025,1000.0,2400.0,1600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Deshi,FAQ,04/11/2025,800.0,2600.0,1400.0,78
+Telangana,Hyderabad,Mahboob Manison APMC,Tomato,Deshi,FAQ,02/11/2025,1600.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,FAQ,05/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,09/11/2025,900.0,900.0,900.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,FAQ,01/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Ibrahimputnam APMC,Tomato,Deshi,FAQ,01/11/2025,2000.0,3000.0,2500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Deshi,Non-FAQ,04/11/2025,2500.0,3200.0,2800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,FAQ,04/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,09/11/2025,1500.0,2500.0,2200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,14/11/2025,1500.0,1500.0,1500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,13/11/2025,1500.0,1500.0,1500.0,78
+Telangana,Khammam,Khammam APMC,Tomato,Local,FAQ,01/11/2025,1800.0,2600.0,1800.0,78
+Telangana,Khammam,Khammam APMC,Tomato,Local,FAQ,02/11/2025,1800.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,16/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,17/11/2025,1200.0,1800.0,1500.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,26/11/2025,1800.0,2200.0,2000.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,25/11/2025,1800.0,2200.0,2200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,25/11/2025,1200.0,1200.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,26/11/2025,600.0,3800.0,3000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,14/11/2025,400.0,3000.0,2500.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Medium,18/11/2025,4000.0,4250.0,4125.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,15/12/2025,0.36,0.52,0.42,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,17/12/2025,0.32,0.52,0.48,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,18/12/2025,0.49,0.56,0.52,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,17/12/2025,0.48,0.56,0.52,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,14/12/2025,4600.0,5000.0,4800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Local,FAQ,25/12/2025,800.0,3200.0,2500.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Non-FAQ,12/12/2025,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,18/12/2025,800.0,3600.0,2800.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Medium,23/12/2025,2800.0,3600.0,3200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,02/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,06/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,08/12/2025,1050.0,1050.0,1050.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,12/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,11/12/2025,1200.0,1800.0,1500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,15/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,14/12/2025,1500.0,1800.0,1600.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,18/12/2025,1200.0,1800.0,1300.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,20/12/2025,1500.0,2200.0,1800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,10/12/2025,400.0,2400.0,1800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,11/12/2025,400.0,2400.0,2000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,15/12/2025,800.0,4000.0,3000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,16/12/2025,2400.0,3200.0,2800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,23/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,20/12/2025,1600.0,2400.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,20/12/2025,800.0,3600.0,2000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,21/12/2025,2400.0,3200.0,2800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,30/12/2025,1200.0,3600.0,2600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,25/12/2025,3200.0,3600.0,3400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,24/12/2025,1200.0,2400.0,1800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,27/12/2025,2400.0,2800.0,2600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,28/12/2025,1200.0,3600.0,2400.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,15/12/2025,4600.0,5200.0,4800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,09/12/2025,1200.0,2000.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,04/12/2025,2400.0,3600.0,3000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,07/12/2025,800.0,2400.0,1600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,06/12/2025,600.0,3200.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,08/12/2025,1200.0,2000.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,07/12/2025,1200.0,2000.0,1600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,10/12/2025,1200.0,1600.0,1400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,11/12/2025,600.0,2400.0,1600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,10/01/2026,800.0,1800.0,1500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,13/01/2026,400.0,1600.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,02/01/2026,400.0,3200.0,2400.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,04/01/2026,3600.0,4200.0,3800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,09/01/2026,1200.0,1600.0,1400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,11/01/2026,600.0,1600.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,20/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,22/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,24/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,28/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,10/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,14/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,12/01/2026,800.0,1600.0,1300.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,16/01/2026,400.0,1800.0,1400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,17/01/2026,600.0,2000.0,1500.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,20/01/2026,400.0,1400.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,21/01/2026,400.0,1000.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,26/01/2026,400.0,1200.0,1000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,08/02/2026,200.0,800.0,400.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,08/02/2026,600.0,800.0,700.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,12/02/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,27/01/2026,800.0,1000.0,900.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,28/01/2026,1000.0,1400.0,1200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,31/01/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,01/02/2026,400.0,1800.0,800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,02/02/2026,200.0,1000.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,03/02/2026,700.0,800.0,750.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,11/01/2026,400.0,1600.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,25/01/2026,400.0,1200.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,17/02/2026,400.0,1000.0,800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,05/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Local,FAQ,05/01/2026,1000.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,10/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,14/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,10/02/2026,600.0,1200.0,1000.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,08/02/2026,1920.0,1920.0,1920.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,04/01/2026,3500.0,4000.0,3750.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,16/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,30/01/2026,400.0,1000.0,800.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,01/02/2026,400.0,1200.0,900.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,03/02/2026,400.0,1000.0,800.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,03/02/2026,1630.0,1630.0,1630.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,01/02/2026,1820.0,1820.0,1820.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,02/02/2026,400.0,1000.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,07/02/2026,400.0,800.0,700.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,09/02/2026,400.0,1000.0,800.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,14/02/2026,400.0,800.0,650.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,17/02/2026,400.0,1000.0,800.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Tomato,Local,16/01/2026,1000.0,1500.0,1200.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,20/01/2026,800.0,1200.0,1000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,19/01/2026,400.0,1200.0,600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,22/01/2026,1200.0,1500.0,1350.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,22/01/2026,300.0,1200.0,800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,23/01/2026,1200.0,1600.0,1400.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,24/01/2026,1000.0,1200.0,1100.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,30/01/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,27/11/2025,600.0,4000.0,3000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,18/11/2025,800.0,3200.0,2500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Deshi,FAQ,06/11/2025,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,04/11/2025,400.0,2000.0,1500.0,78
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar) APMC,Tomato,Deshi,FAQ,02/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar) APMC,Tomato,Deshi,FAQ,04/11/2025,2300.0,2300.0,2300.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,13/11/2025,400.0,2600.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Deshi,FAQ,02/11/2025,400.0,2400.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,03/11/2025,400.0,2000.0,1500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,30/11/2025,800.0,2200.0,1800.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,29/11/2025,1200.0,1800.0,1500.0,78
+Telangana,Mahbubnagar,Kalwakurthy APMC,Tomato,Local,FAQ,01/11/2025,1100.0,2500.0,1800.0,78
+Telangana,Medak,Vantamamidi APMC,Tomato,Local,FAQ,03/11/2025,1000.0,1500.0,1250.0,78
+Telangana,Khammam,Khammam APMC,Tomato,Local,FAQ,05/11/2025,1800.0,2400.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,19/11/2025,1200.0,1200.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,20/11/2025,1500.0,1800.0,1600.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,21/11/2025,1200.0,1800.0,1500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,24/11/2025,1200.0,1200.0,1200.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,07/11/2025,2800.0,2800.0,2800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,07/11/2025,600.0,2400.0,1200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,11/11/2025,600.0,2400.0,1400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,12/11/2025,600.0,3200.0,1400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,14/11/2025,600.0,3600.0,1400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,16/11/2025,2400.0,3600.0,3000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,22/11/2025,2400.0,4000.0,3200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,23/11/2025,600.0,5200.0,2400.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,23/11/2025,2000.0,4000.0,3000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Tomato,FAQ,24/11/2025,800.0,4800.0,3500.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,28/11/2025,400.0,4000.0,1600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,27/11/2025,600.0,4400.0,2000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,29/11/2025,1600.0,2800.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,29/11/2025,1100.0,4000.0,1800.0,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,06/11/2025,0.24,0.32,0.28,78
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC",Tomato,Deshi,Local,09/11/2025,0.24,0.32,0.28,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,16/12/2025,0.36,0.52,0.48,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,10/01/2026,600.0,1000.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,14/12/2025,400.0,2600.0,2000.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,26/12/2025,1000.0,3200.0,2500.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,16/12/2025,800.0,3400.0,2600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,31/12/2025,400.0,3200.0,2400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,27/12/2025,800.0,3200.0,2800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,01/12/2025,600.0,2600.0,2400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,05/12/2025,800.0,2800.0,2400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,09/12/2025,400.0,2200.0,1800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,07/12/2025,800.0,2600.0,2200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,04/12/2025,800.0,2800.0,2400.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,08/12/2025,400.0,2600.0,2000.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Medium,09/12/2025,2000.0,2500.0,2250.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,FAQ,07/12/2025,2000.0,2500.0,2250.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,07/12/2025,800.0,2600.0,2200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,12/12/2025,400.0,2400.0,2000.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Non-FAQ,15/12/2025,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,16/12/2025,800.0,3400.0,2600.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,20/12/2025,800.0,3200.0,2800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,21/12/2025,800.0,3000.0,2400.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,03/12/2025,1200.0,2000.0,1800.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,04/12/2025,1000.0,1200.0,1088.89,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,09/12/2025,1200.0,1800.0,1500.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,14/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,18/12/2025,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,23/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,15/12/2025,800.0,3600.0,2000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,26/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,30/12/2025,1000.0,1000.0,1000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,01/12/2025,400.0,2800.0,1800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,02/12/2025,1600.0,2400.0,2000.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,05/12/2025,600.0,3200.0,1600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,04/12/2025,1200.0,3400.0,2000.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,28/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,30/12/2025,3500.0,4000.0,3750.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,12/12/2025,2800.0,3400.0,3200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,17/12/2025,800.0,3600.0,2200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,18/12/2025,800.0,3600.0,2000.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,17/12/2025,2400.0,3200.0,2800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,18/12/2025,2400.0,3200.0,2800.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,20/12/2025,2500.0,3000.0,2750.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,22/12/2025,1000.0,4000.0,2200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,23/12/2025,1000.0,3600.0,2200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,26/12/2025,3600.0,4000.0,3800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,11/01/2026,2000.0,2400.0,2200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,15/01/2026,1000.0,1200.0,1100.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,19/01/2026,1000.0,1400.0,1200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,21/01/2026,1000.0,1500.0,1250.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,21/01/2026,400.0,1000.0,600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,24/01/2026,400.0,1200.0,800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,04/01/2026,400.0,2600.0,2200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,05/01/2026,1000.0,2000.0,1800.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,07/01/2026,800.0,2000.0,1600.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,13/01/2026,800.0,1600.0,1300.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,28/01/2026,600.0,800.0,700.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,01/02/2026,1000.0,1200.0,1100.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Medium,01/02/2026,400.0,800.0,600.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,11/02/2026,400.0,1200.0,600.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,09/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,11/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,06/02/2026,600.0,800.0,700.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,10/02/2026,600.0,1200.0,800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,13/02/2026,600.0,800.0,700.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,15/02/2026,800.0,1000.0,900.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,16/02/2026,800.0,1000.0,900.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,28/01/2026,400.0,1200.0,800.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,03/01/2026,2000.0,2800.0,2400.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,03/01/2026,800.0,3600.0,2200.0,78
+Telangana,Khammam,"Sattupalli (ramalayam),RBZ APMC",Tomato,Tomato,Local,05/01/2026,3800.0,3800.0,3800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,06/01/2026,600.0,2400.0,1200.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,07/01/2026,1500.0,2000.0,1750.0,78
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Tomato,Tomato,Local,06/01/2026,1200.0,2000.0,1600.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,08/01/2026,1500.0,2000.0,1750.0,78
+Telangana,Warangal,Warangal APMC,Tomato,Tomato,FAQ,09/01/2026,1600.0,2000.0,1800.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,07/01/2026,600.0,2000.0,1200.0,78
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,Tomato,Grade B,08/01/2026,600.0,1600.0,1200.0,78
+Telangana,Mahbubnagar,Shadnagar APMC,Tomato,Local,Local,13/01/2026,800.0,1200.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,21/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,06/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,04/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,07/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Karimnagar,Karimnagar APMC,Tomato,Hybrid,Local,28/01/2026,1333.3334,1333.3334,1333.3334,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,01/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,03/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,04/01/2026,1200.0,1200.0,1200.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,07/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,08/01/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,16/02/2026,1000.0,1000.0,1000.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,27/01/2026,400.0,1400.0,1000.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,03/02/2026,400.0,1000.0,800.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,04/02/2026,600.0,1000.0,850.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Deshi,FAQ,04/02/2026,400.0,800.0,700.0,78
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Tomato,Deshi,FAQ,09/02/2026,600.0,800.0,740.0,78
+Telangana,Adilabad,Mancharial APMC,Tomato,Deshi,Non-FAQ,13/02/2026,1820.0,1820.0,1820.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,23/01/2026,400.0,1600.0,1200.0,78
+Telangana,Hyderabad,Bowenpally APMC,Tomato,Hybrid,FAQ,24/01/2026,400.0,1400.0,1000.0,78

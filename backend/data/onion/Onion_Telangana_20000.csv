@@ -1,0 +1,635 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Local,Grade A,09/12/2025,3,18,12,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,Non-FAQ,06/11/2025,2000,2000,2000,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,2nd Sort,FAQ,01/11/2025,400,1800,1300,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,1st Sort,FAQ,01/11/2025,1800,2100,1900,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,1st Sort,Non-FAQ,03/11/2025,1400,1600,1500,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,FAQ,03/11/2025,2400,2400,2400,23
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar) APMC,Onion,1st Sort,FAQ,03/11/2025,2200,2200,2200,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,1st Sort,FAQ,05/11/2025,1700,1900,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,11/11/2025,300,2000,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,13/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,13/11/2025,300,1600,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,17/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,18/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,21/11/2025,300,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,25/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,25/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,28/11/2025,1700,2100,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,28/11/2025,300,1500,1300,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,1st Sort,FAQ,11/01/2026,600,1200,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,02/12/2025,1600,1800,1700,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,03/12/2025,500,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,30/12/2025,600,1800,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,18/12/2025,2400,3200,2800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,06/12/2025,300,1500,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,16/12/2025,500,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,24/12/2025,1000,2200,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,26/12/2025,500,1800,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,27/12/2025,1800,2300,2000,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,31/12/2025,400,2000,1600,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,31/12/2025,2000,2500,2300,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,23/12/2025,426,1820,1064,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,31/12/2025,600,1850,1111,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,12/01/2026,1000,1500,1300,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,19/01/2026,700,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,06/02/2026,400,1500,1000,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,12/02/2026,400,1500,1100,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,13/02/2026,400,1500,1000,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,28/01/2026,1000,1500,1300,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,02/02/2026,500,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,08/02/2026,600,1200,1000,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,05/01/2026,216,1314,1222,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,09/01/2026,516,1722,1530,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,24/01/2026,566,1629,1379,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,23/01/2026,603,1629,1430,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,29/01/2026,416,1159,959,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,09/02/2026,560,1172,872,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,10/02/2026,672,1313,889,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,03/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,08/01/2026,800,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,07/01/2026,400,1800,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,07/01/2026,1900,2200,2000,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,13/01/2026,400,1200,1000,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,12/01/2026,600,2200,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,16/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,16/01/2026,800,1600,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,15/01/2026,1000,2000,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,27/01/2026,400,1800,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,14/02/2026,400,1300,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,01/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,01/01/2026,400,2200,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,02/01/2026,500,2300,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,20/01/2026,600,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,19/01/2026,1800,2200,1900,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,23/01/2026,500,2000,1500,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,26/01/2026,500,1600,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,24/01/2026,1000,2000,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,27/01/2026,600,1600,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,30/01/2026,400,1500,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,30/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,05/02/2026,1400,1600,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,05/02/2026,400,1300,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,07/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,28/01/2026,600,1500,1200,23
+Telangana,Medak,Sadasivpet APMC,Onion,1st Sort,Non-FAQ,01/11/2025,612,1912,1836,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,1st Sort,FAQ,03/11/2025,500,2300,1400,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,FAQ,02/11/2025,2400,2400,2400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,1st Sort,FAQ,05/11/2025,500,2000,1500,23
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar) APMC,Onion,1st Sort,FAQ,04/11/2025,2200,2200,2200,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,2nd Sort,FAQ,05/11/2025,300,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,12/11/2025,300,2000,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,18/11/2025,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,16/11/2025,300,1700,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,18/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,21/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,21/11/2025,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,22/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,23/11/2025,300,1800,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,23/11/2025,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,24/11/2025,300,1700,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,07/11/2025,775,775,775,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,09/11/2025,825,825,825,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,08/11/2025,1600,1800,1700,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,26/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,27/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,28/11/2025,400,2000,1000,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,27/11/2025,300,1700,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Local,Grade A,09/12/2025,30000,180000,120000,23
+Telangana,Mahbubnagar,Devarakadra APMC,Onion,Red,Local,24/12/2025,1100,1700,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,20/12/2025,2600,3000,2800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,24/12/2025,500,2000,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,22/12/2025,300,2500,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,23/12/2025,500,2200,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,24/12/2025,1900,2400,2000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,24/12/2025,300,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,26/12/2025,300,1800,1500,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,25/12/2025,1000,2000,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,28/12/2025,500,1800,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,27/12/2025,400,1700,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,29/12/2025,400,1000,800,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,08/12/2025,1390,1390,1390,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,29/12/2025,569,1550,880,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,01/12/2025,1700,1900,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,01/12/2025,500,1200,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,09/12/2025,1800,2000,1900,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,03/12/2025,300,1800,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,05/12/2025,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,04/12/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,08/12/2025,300,1500,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,10/12/2025,1900,2400,2100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,17/12/2025,1000,2000,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,05/12/2025,300,1700,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,03/12/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,03/12/2025,300,1600,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,04/12/2025,300,1600,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,08/12/2025,1100,1800,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,11/12/2025,400,1800,1500,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,12/12/2025,800,1700,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,23/12/2025,700,2000,1600,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,18/12/2025,600,3000,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,17/12/2025,400,2200,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,09/01/2026,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,17/01/2026,400,2200,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,21/01/2026,500,2000,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,21/01/2026,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,22/01/2026,1700,2000,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,22/01/2026,500,2000,1500,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,24/01/2026,400,1800,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,23/01/2026,1700,2000,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,28/01/2026,500,2000,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,28/01/2026,1600,1800,1700,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,30/01/2026,600,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,01/02/2026,400,2000,1000,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,04/02/2026,300,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,06/02/2026,400,1400,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,07/02/2026,400,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,11/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,07/02/2026,400,1600,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,10/02/2026,400,1900,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,09/02/2026,500,2000,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,08/02/2026,1000,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,10/02/2026,400,1700,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,14/02/2026,400,1300,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,13/02/2026,1600,1800,1700,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,13/02/2026,400,1700,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,02/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,13/01/2026,400,1600,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,02/01/2026,1900,2300,2000,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,01/01/2026,400,1600,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,06/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,08/01/2026,400,1600,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,10/01/2026,500,1800,1500,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,11/01/2026,600,1800,1300,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,01/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,15/01/2026,600,2000,1500,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,25/01/2026,500,1900,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,29/01/2026,400,1500,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,27/01/2026,400,1500,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,02/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,03/02/2026,1500,1700,1600,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,03/01/2026,616,1822,1472,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,21/01/2026,506,1600,1269,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,30/01/2026,355,1122,972,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,03/02/2026,366,1166,1115,23
+Telangana,Medak,Sadasivpet APMC,Onion,1st Sort,Non-FAQ,03/11/2025,360,1720,1521,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,1st Sort,FAQ,03/11/2025,500,1000,800,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,1st Sort,Non-FAQ,01/11/2025,1500,1700,1600,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,1st Sort,FAQ,03/11/2025,1700,1900,1800,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,Non-FAQ,05/11/2025,2400,2400,2400,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,2nd Sort,Non-FAQ,01/11/2025,300,1300,900,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,2nd Sort,FAQ,03/11/2025,300,1500,1200,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,2nd Sort,Non-FAQ,03/11/2025,300,800,700,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Small,Small,15/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,08/11/2025,750,750,750,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,15/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,15/11/2025,800,1800,1500,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,17/11/2025,500,1400,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,29/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,29/11/2025,1700,1900,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,29/11/2025,400,1800,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,19/11/2025,300,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,22/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,25/11/2025,800,1600,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,25/11/2025,300,1900,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,24/11/2025,1700,2100,1900,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,24/11/2025,600,1200,1000,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,12/11/2025,800,1800,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,12/11/2025,300,1500,1400,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,06/12/2025,223,1422,1155,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,10/12/2025,616,1750,1437,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,12/12/2025,688,1919,1789,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,13/12/2025,646,2116,1949,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,17/12/2025,666,2304,1818,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,22/12/2025,444,1766,1412,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,09/12/2025,300,1700,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,02/12/2025,300,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,06/12/2025,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,10/12/2025,600,2000,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,10/12/2025,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,16/12/2025,300,3000,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,17/12/2025,2400,3200,2800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,20/12/2025,400,2200,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,23/12/2025,2300,2600,2400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,21/12/2025,600,2500,2000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,26/12/2025,2000,2500,2300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,27/12/2025,800,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,28/12/2025,1000,1500,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,29/12/2025,600,1800,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,27/12/2025,400,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,09/12/2025,500,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,05/12/2025,1600,1800,1700,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,06/12/2025,300,1700,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,07/12/2025,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,30/12/2025,400,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,31/12/2025,400,1800,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,30/12/2025,2000,2500,2300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,02/02/2026,1300,1500,1400,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,10/02/2026,500,1500,1200,23
+Telangana,Mahbubnagar,Devarakadra APMC,Onion,Red,Local,04/02/2026,1050,1800,1425,23
+Telangana,Mahbubnagar,Devarakadra APMC,Onion,Red,Local,28/01/2026,1060,1750,1405,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,10/01/2026,616,1751,1319,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,07/01/2026,666,1777,1719,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,12/01/2026,444,1556,1422,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,20/01/2026,456,1632,1555,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,28/01/2026,419,1313,1107,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,02/02/2026,379,1145,1112,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,01/01/2026,1900,2200,2000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,08/01/2026,1700,1900,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,06/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,07/01/2026,500,1900,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,09/01/2026,1700,1900,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,09/01/2026,400,1500,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,09/01/2026,600,1500,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,14/01/2026,400,1000,800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,10/01/2026,400,1500,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,10/01/2026,1700,1900,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,14/01/2026,600,1600,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,11/01/2026,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,12/01/2026,400,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,20/01/2026,1700,2100,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,19/01/2026,800,1800,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,21/01/2026,500,1800,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,22/01/2026,400,2000,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,23/01/2026,400,2000,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,23/01/2026,400,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,24/01/2026,1600,1800,1700,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,31/01/2026,1300,1500,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,31/01/2026,200,1200,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,04/02/2026,400,1300,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,04/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,05/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,03/01/2026,1900,2300,2000,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,03/01/2026,600,1800,1500,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,02/01/2026,500,1000,800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,04/01/2026,500,1600,1300,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,29/01/2026,500,1600,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,03/02/2026,800,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,27/01/2026,800,1300,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,25/01/2026,500,1600,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,28/01/2026,400,1500,1100,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,26/01/2026,800,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,20/01/2026,800,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,24/01/2026,700,1300,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,09/02/2026,600,1500,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,10/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,13/02/2026,600,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,11/02/2026,1800,2000,1900,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,12/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,1st Sort,FAQ,01/11/2025,500,2000,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,1st Sort,FAQ,01/11/2025,800,2000,1700,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,1st Sort,FAQ,02/11/2025,500,1800,1400,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,Non-FAQ,02/11/2025,2400,2400,2400,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,Non-FAQ,03/11/2025,2400,2400,2400,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,1st Sort,Non-FAQ,05/11/2025,1400,1600,1500,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,FAQ,05/11/2025,2400,2400,2400,23
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,2nd Sort,Non-FAQ,05/11/2025,300,1000,700,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,17/11/2025,300,1300,900,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,17/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,22/11/2025,300,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,26/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,27/11/2025,300,1500,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,30/11/2025,500,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,29/11/2025,600,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,07/11/2025,1800,2000,1900,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,07/11/2025,300,1700,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,10/11/2025,1600,1800,1700,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,10/11/2025,1000,1800,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,08/11/2025,300,1500,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,06/11/2025,750,750,750,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,10/11/2025,675,675,675,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,11/11/2025,1600,1800,1700,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,13/11/2025,300,1800,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,12/11/2025,1600,1800,1700,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,02/12/2025,300,1500,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,04/12/2025,300,1900,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,07/12/2025,800,2000,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,11/12/2025,300,1800,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,11/12/2025,600,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,20/12/2025,800,2000,1600,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,20/12/2025,600,2400,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,22/12/2025,400,2200,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,30/12/2025,600,2000,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,26/12/2025,500,1800,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,25/12/2025,500,1800,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,29/12/2025,400,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,04/12/2025,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,11/12/2025,1900,2400,2100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,12/12/2025,300,1800,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,15/12/2025,400,2000,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,15/12/2025,2200,2600,2500,23
+Telangana,Medak,Sadasivpet APMC,Onion,Onion,FAQ,18/12/2025,356,1850,1550,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,17/12/2025,300,3000,1600,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,18/12/2025,800,2000,1600,23
+Telangana,Medak,Sadasivpet APMC,Onion,1st Sort,FAQ,02/12/2025,675,1541,1460,23
+Telangana,Medak,Sadasivpet APMC,Onion,1st Sort,FAQ,04/12/2025,486,1442,1420,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,22/01/2026,800,1600,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,10/02/2026,1800,2000,1900,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,14/02/2026,800,1400,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,13/02/2026,400,1500,1100,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,30/01/2026,500,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,07/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,02/02/2026,400,2000,1000,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,03/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,06/02/2026,400,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,12/02/2026,1800,2000,1900,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,11/02/2026,400,1500,1000,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,06/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,09/02/2026,1800,2000,1900,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,09/02/2026,400,1700,1100,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,09/02/2026,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,07/01/2026,600,2000,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,08/01/2026,600,1900,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,14/01/2026,1200,1800,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,13/01/2026,1700,2000,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,17/01/2026,500,2000,1500,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,17/01/2026,400,1600,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,20/01/2026,500,1800,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,19/01/2026,600,1600,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,19/01/2026,400,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,21/01/2026,400,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,22/01/2026,400,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,04/02/2026,1400,1600,1500,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,05/01/2026,400,2300,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,04/01/2026,400,2300,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,05/01/2026,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,09/01/2026,400,2000,1300,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,17/01/2026,626,1689,1466,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,26/01/2026,400,2000,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,27/01/2026,1600,1800,1700,23
+Telangana,Mahbubnagar,Devarakadra APMC,Onion,Local,Local,06/01/2026,1100,1900,1500,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,29/01/2026,500,1800,1100,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,29/01/2026,800,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,10/11/2025,300,1500,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,11/11/2025,300,1500,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,13/11/2025,800,1800,1500,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,28/11/2025,800,1500,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,18/11/2025,300,1800,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,19/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,19/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,19/11/2025,500,1600,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,21/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,22/11/2025,500,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,30/11/2025,400,1600,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,24/11/2025,300,1600,1300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,26/11/2025,300,1900,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,26/11/2025,600,1500,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,27/11/2025,600,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,14/11/2025,300,1800,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,14/11/2025,1000,1500,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,14/11/2025,1700,2000,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,15/11/2025,300,1800,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,1st Sort,FAQ,02/11/2025,400,2000,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,1st Sort,FAQ,04/11/2025,500,2200,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,1st Sort,FAQ,04/11/2025,500,1800,1400,23
+Telangana,Medak,Sadasivpet APMC,Onion,1st Sort,Non-FAQ,04/11/2025,467,1815,1740,23
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar) APMC,Onion,1st Sort,FAQ,02/11/2025,2200,2200,2200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,1st Sort,FAQ,05/11/2025,500,1800,1400,23
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar) APMC,Onion,1st Sort,FAQ,06/11/2025,2000,2000,2000,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,09/11/2025,300,2100,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,08/11/2025,500,2100,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,11/11/2025,800,1700,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,07/11/2025,500,2100,1300,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,05/12/2025,226,999,755,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,09/12/2025,856,1630,1630,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,20/12/2025,777,2225,1660,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,27/12/2025,569,1960,1800,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,13/12/2025,600,1500,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,14/12/2025,800,1800,1500,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,15/12/2025,300,2200,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,23/12/2025,400,2000,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,22/12/2025,2300,2600,2400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,21/12/2025,500,2500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,01/12/2025,800,2000,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,01/12/2025,300,1500,1300,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,02/12/2025,800,1600,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,08/12/2025,400,1600,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,18/12/2025,400,2000,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,05/12/2025,300,1500,1300,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,06/12/2025,1600,1800,1700,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,08/12/2025,1600,1800,1700,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,29/12/2025,2000,2500,2300,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,31/12/2025,400,2200,1100,23
+Telangana,Medak,Sadasivpet APMC,Onion,1st Sort,FAQ,03/12/2025,372,1422,1079,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,14/02/2026,600,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,10/01/2026,500,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,04/02/2026,500,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,05/02/2026,600,1000,850,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,21/01/2026,700,1500,1200,23
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion,Other,FAQ,23/01/2026,700,1500,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,12/02/2026,400,1700,1200,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,12/02/2026,400,1700,1100,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,14/02/2026,300,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,11/02/2026,400,1700,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,30/01/2026,1600,1800,1700,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,31/01/2026,800,1600,1400,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,31/01/2026,400,1800,1200,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,12/01/2026,400,1600,1200,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,02/01/2026,346,1919,1919,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,29/01/2026,1600,1800,1700,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,17/01/2026,1700,2000,1800,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,20/01/2026,400,1600,1100,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,24/01/2026,400,1500,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,02/02/2026,200,1200,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Small,03/02/2026,400,1400,1000,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,06/02/2026,1500,1700,1600,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,07/02/2026,1700,1900,1800,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,08/02/2026,300,1800,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,03/01/2026,600,2300,1400,23
+Telangana,Hyderabad,Bowenpally APMC,Onion,Onion,FAQ,06/01/2026,800,1600,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,06/01/2026,1900,2300,2000,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,13/01/2026,400,2200,1200,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,10/01/2026,500,2000,1400,23
+Telangana,Hyderabad,Hyderabad (F&V) APMC,Onion,Onion,Large,12/01/2026,1700,1900,1800,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,06/01/2026,441,1470,1240,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,13/01/2026,504,1449,1356,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,19/01/2026,555,1700,1555,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,27/01/2026,516,1442,1329,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,04/02/2026,430,1239,1155,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,05/02/2026,365,1239,1151,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,06/02/2026,509,1279,879,23
+Telangana,Medak,Sadasivpet APMC,Onion,Local,FAQ,12/02/2026,552,1359,1309,23
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,10/11/2025,3500,4000,3500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,09/11/2025,3000,4000,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,11/11/2025,1500,5000,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,19/11/2025,3000,3500,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,22/11/2025,2000,4000,3500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,21/11/2025,3000,3500,3000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,28/11/2025,2000,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,29/11/2025,1000,3200,2600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,07/11/2025,2300,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,04/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,05/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,10/12/2025,2000,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,08/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,21/12/2025,2000,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,22/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,11/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,12/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,13/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,15/12/2025,1800,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,17/12/2025,1500,3500,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,18/12/2025,1000,4200,3200,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,02/02/2026,1000,1000,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,08/02/2026,1000,1500,1100,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,20/01/2026,1000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,22/01/2026,1000,1500,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,23/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,27/01/2026,1000,2500,2000,358
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion Green,Onion Green,FAQ,30/01/2026,1000,1000,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,31/01/2026,800,1200,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,04/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,06/01/2026,1500,3000,2600,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,08/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,13/01/2026,1000,2800,2300,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,12/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,16/01/2026,2000,2000,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,01/01/2026,1000,1500,1200,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,01/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,03/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,15/11/2025,3000,3500,3100,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,19/11/2025,2000,5500,4200,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,21/11/2025,2000,5000,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,23/11/2025,2600,3000,2800,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,06/11/2025,2750,2750,2750,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,FAQ,01/11/2025,3000,3000,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,02/11/2025,2000,4000,3500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,FAQ,03/11/2025,3500,4000,3700,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,03/11/2025,2000,5500,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,14/11/2025,3000,3500,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,08/11/2025,2875,2875,2875,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,22/12/2025,2000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,03/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,02/12/2025,1800,2200,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,05/12/2025,1600,2000,1800,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,07/12/2025,2000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,06/12/2025,1000,1200,1000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,10/12/2025,1000,3200,2600,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,07/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,25/12/2025,1500,3000,2600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,28/12/2025,1400,2000,1600,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,28/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,27/12/2025,1600,2000,1800,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,31/12/2025,1500,2000,1500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,16/12/2025,2000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,18/12/2025,3000,3000,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,20/12/2025,2000,4200,3600,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,24/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,26/12/2025,1500,3000,2800,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,25/12/2025,1600,2000,1800,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,15/01/2026,1000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,17/01/2026,1400,2000,1600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,21/01/2026,1300,1800,1500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,24/01/2026,1000,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,26/01/2026,1000,4500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,26/01/2026,1000,1500,1200,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,29/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,04/02/2026,1000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,07/02/2026,1000,1500,1200,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,11/02/2026,800,1200,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,14/02/2026,1000,2000,1500,358
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion Green,Onion Green,FAQ,13/02/2026,1000,1000,1000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,02/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,10/01/2026,1500,3000,2600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,11/01/2026,1000,2000,1500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,13/01/2026,1000,2000,1500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,15/11/2025,3000,3500,3100,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,19/11/2025,2000,5500,4200,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,21/11/2025,2000,5000,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,23/11/2025,2600,3000,2800,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,06/11/2025,2750,2750,2750,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,FAQ,01/11/2025,3000,3000,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,02/11/2025,2000,4000,3500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,FAQ,03/11/2025,3500,4000,3700,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,03/11/2025,2000,5500,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,14/11/2025,3000,3500,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,08/11/2025,2875,2875,2875,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,22/12/2025,2000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,26/12/2025,1600,2000,1800,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,30/12/2025,2000,2000,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,17/12/2025,1500,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,06/02/2026,1000,1500,1200,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,10/02/2026,900,1500,1200,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,12/02/2026,1000,1200,1100,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,21/01/2026,1000,2500,2000,358
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion Green,Onion Green,FAQ,22/01/2026,1000,1000,1000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,24/01/2026,1000,2000,1800,358
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion Green,Onion Green,FAQ,26/01/2026,1000,1000,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,30/01/2026,1000,1500,1200,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,14/01/2026,1000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,10/11/2025,3500,4000,3500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,09/11/2025,3000,4000,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,11/11/2025,1500,5000,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,19/11/2025,3000,3500,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,22/11/2025,2000,4000,3500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,21/11/2025,3000,3500,3000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,28/11/2025,2000,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,29/11/2025,1000,3200,2600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,07/11/2025,2300,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,11/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,12/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,04/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,05/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,10/12/2025,2000,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,08/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,13/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,21/12/2025,2000,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,22/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,15/12/2025,1800,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,17/12/2025,1500,3500,3000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,18/12/2025,1000,4200,3200,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,08/02/2026,1000,1500,1100,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,27/01/2026,1000,2500,2000,358
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion Green,Onion Green,FAQ,30/01/2026,1000,1000,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,31/01/2026,800,1200,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,02/02/2026,1000,1000,1000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,13/01/2026,1000,2800,2300,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,12/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,16/01/2026,2000,2000,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,20/01/2026,1000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,22/01/2026,1000,1500,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,23/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,01/01/2026,1000,1500,1200,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,01/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,03/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,04/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,06/01/2026,1500,3000,2600,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,08/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade A,09/12/2025,14,18,16,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,14/11/2025,1500,5500,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,12/11/2025,2300,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,13/11/2025,2000,5000,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,FAQ,04/11/2025,3000,3000,3000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,13/11/2025,3500,4000,3500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,17/11/2025,4000,4000,4000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,30/11/2025,2000,2500,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,23/11/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,27/11/2025,1000,3200,2600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,08/11/2025,3000,3000,3000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade A,09/12/2025,140000,180000,160000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,27/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,29/12/2025,1300,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,31/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,02/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,11/12/2025,1400,2000,1600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,12/12/2025,2000,2000,2000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,30/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,15/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,16/12/2025,1500,3000,2600,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,01/12/2025,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,02/01/2026,1800,2000,1900,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,03/01/2026,1000,2000,1600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,06/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,10/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,07/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,09/01/2026,1000,3000,2500,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,19/01/2026,1300,1800,1500,358
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",Onion Green,Onion Green,FAQ,23/01/2026,1000,1000,1000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,27/01/2026,1300,2000,1500,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,30/01/2026,800,2000,1600,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,05/02/2026,1000,1500,1200,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,11/02/2026,1000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,09/02/2026,1000,1000,1000,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,10/02/2026,1000,2600,2300,358
+Telangana,Hyderabad,Bowenpally APMC,Onion Green,Onion Green,FAQ,13/02/2026,1000,2500,2000,358
+Telangana,Hyderabad,Gudimalkapur APMC,Onion Green,Onion Green,Grade B,13/02/2026,1000,1300,1200,358

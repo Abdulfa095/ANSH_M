@@ -1,0 +1,501 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Uttar Pradesh,Mahoba,Charkhari APMC,Wheat,147 Average,FAQ,01/11/2025,2500,2500,2500,1
+Uttar Pradesh,Mahoba,Charkhari APMC,Wheat,147 Average,FAQ,03/11/2025,2500,2500,2500,1
+Uttar Pradesh,Aligarh,Charra APMC,Wheat,Dara,FAQ,01/11/2025,2530,2550,2540,1
+Uttar Pradesh,Aligarh,Atrauli APMC,Wheat,Dara,FAQ,01/11/2025,2400,2500,2450,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,01/11/2025,2500,2600,2550,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,01/11/2025,2510,2620,2550,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,FAQ,01/11/2025,2500,2600,2550,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,01/11/2025,2540,2580,2560,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,FAQ,01/11/2025,2455,2600,2530,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,01/11/2025,2580,2630,2600,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,05/11/2025,2530,2630,2580,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,13/11/2025,2530,2530,2530,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,Local,05/11/2025,2550,2550,2550,1
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Dara,FAQ,07/11/2025,2400,2500,2460,1
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Wheat,Dara,FAQ,07/11/2025,2500,2540,2520,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,30/11/2025,2470,2540,2500,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,07/11/2025,2400,2550,2490,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,07/11/2025,2400,2600,2500,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,10/11/2025,2540,2560,2550,1
+Uttar Pradesh,Chitrakut,Karvi APMC,Wheat,Dara,FAQ,07/11/2025,2500,2500,2500,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,09/11/2025,2550,2570,2560,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,Local,09/11/2025,2550,2550,2550,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,06/11/2025,2520,2520,2520,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,07/11/2025,2530,2570,2550,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,11/11/2025,2400,2560,2490,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,07/11/2025,2530,2530,2530,1
+Uttar Pradesh,Etah,Aliganj APMC,Wheat,Dara,FAQ,01/11/2025,2450,2460,2455,1
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,12/11/2025,2480,2600,2560,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,07/11/2025,2530,2630,2580,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,10/11/2025,2545,2560,2550,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,06/11/2025,2400,2500,2470,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,10/11/2025,2470,2600,2550,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,10/11/2025,2530,2600,2565,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,07/11/2025,2550,2550,2550,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,10/11/2025,2460,2520,2500,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,07/11/2025,2475,2550,2500,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,01/11/2025,2475,2525,2500,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,12/11/2025,2480,2530,2510,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,12/11/2025,2450,2540,2500,1
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,Local,11/11/2025,2430,2560,2530,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,Local,07/11/2025,2520,2650,2580,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,11/11/2025,2500,2550,2530,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,11/11/2025,2550,2600,2575,1
+Uttar Pradesh,Ghazipur,Gazipur APMC,Wheat,Dara,FAQ,10/11/2025,2500,2600,2574,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,07/11/2025,2400,2500,2460,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,07/11/2025,2545,2585,2565,1
+Uttar Pradesh,Sitapur,Sitapur APMC,Wheat,Dara,FAQ,07/11/2025,2450,2490,2465,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,FAQ,12/11/2025,2510,2620,2590,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,11/11/2025,2400,2500,2450,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,Local,06/11/2025,2520,2650,2580,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,12/11/2025,2605,2635,2620,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,06/11/2025,2550,2650,2600,1
+Uttar Pradesh,Varanasi,Varanasi APMC,Wheat,Dara,FAQ,11/11/2025,2540,2635,2580,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,11/11/2025,2505,2550,2525,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,08/11/2025,2350,2450,2405,1
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Wheat,Dara,FAQ,12/11/2025,2475,2530,2500,1
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Wheat,Dara,FAQ,08/11/2025,2510,2530,2520,1
+Uttar Pradesh,Unnao,Bangarmau APMC,Wheat,Dara,FAQ,12/11/2025,2500,2600,2550,1
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Wheat,Dara,FAQ,01/11/2025,2480,2520,2500,1
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Wheat,Dara,FAQ,11/11/2025,2500,2600,2560,1
+Uttar Pradesh,Sitapur,Sitapur APMC,Wheat,Dara,FAQ,13/11/2025,2460,2500,2485,1
+Uttar Pradesh,Badaun,Wazirganj APMC,Wheat,Dara,Local,08/11/2025,2500,2525,2505,1
+Uttar Pradesh,Aligarh,Aligarh APMC,Wheat,Dara,FAQ,12/11/2025,2520,2550,2540,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,08/11/2025,2570,2600,2585,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,Grade Range-3,11/11/2025,2475,2540,2500,1
+Uttar Pradesh,Unnao,Unnao APMC,Wheat,Dara,FAQ,10/11/2025,2525,2590,2570,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,11/11/2025,2450,2550,2500,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,10/11/2025,2400,2500,2460,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,10/11/2025,2550,2550,2550,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,12/11/2025,2520,2580,2550,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,12/11/2025,2475,2530,2510,1
+Uttar Pradesh,Amethi,Jafarganj APMC,Wheat,Dara,FAQ,12/11/2025,2540,2580,2560,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,Grade Range-3,13/11/2025,2500,2625,2550,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,13/11/2025,2450,2525,2500,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,Grade Range-2,13/11/2025,2500,2510,2505,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,01/11/2025,2500,2550,2530,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,13/11/2025,2550,2550,2550,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,12/11/2025,2550,2550,2550,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,10/11/2025,2400,2500,2450,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,13/11/2025,2425,2550,2540,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,13/11/2025,2400,2500,2450,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,13/11/2025,2530,2550,2540,1
+Uttar Pradesh,Bulandshahar,Siyana APMC,Wheat,Dara,FAQ,12/11/2025,2500,2540,2520,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,12/11/2025,2490,2520,2510,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,13/11/2025,2500,2570,2540,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,13/11/2025,2555,2590,2575,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,12/11/2025,2455,2525,2485,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,13/11/2025,2450,2650,2550,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,13/11/2025,2560,2660,2610,1
+Uttar Pradesh,Etah,Etah APMC,Wheat,Dara,FAQ,13/11/2025,2425,2600,2570,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,13/11/2025,2590,2625,2610,1
+Uttar Pradesh,Bahraich,Naanpara APMC,Wheat,Dara,FAQ,13/11/2025,2300,2450,2425,1
+Uttar Pradesh,Ghazipur,Gazipur APMC,Wheat,Dara,FAQ,12/11/2025,2550,2590,2575,1
+Uttar Pradesh,Etah,Etah APMC,Wheat,Dara,FAQ,12/11/2025,2425,2600,2570,1
+Uttar Pradesh,Varanasi,Varanasi APMC,Wheat,Dara,FAQ,10/11/2025,2540,2650,2585,1
+Uttar Pradesh,Gonda,Gonda APMC,Wheat,Dara,FAQ,11/11/2025,2535,2560,2550,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,FAQ,01/11/2025,2580,2600,2590,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,Non-FAQ,01/11/2025,2425,2445,2435,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,01/11/2025,2470,2570,2540,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,01/11/2025,2520,2590,2560,1
+Uttar Pradesh,Raebarelli,Raibareilly APMC,Wheat,Dara,FAQ,01/11/2025,2510,2530,2520,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,01/11/2025,2550,2570,2560,1
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,01/11/2025,2500,2700,2600,1
+Uttar Pradesh,Badaun,Bilsi APMC,Wheat,Dara,FAQ,02/11/2025,2500,2600,2550,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,02/11/2025,2465,2565,2515,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,03/11/2025,2450,2550,2500,1
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,03/11/2025,2450,2550,2500,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,03/11/2025,2400,2500,2450,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,03/11/2025,2580,2650,2600,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,FAQ,03/11/2025,2580,2600,2590,1
+Uttar Pradesh,Gonda,Gonda APMC,Wheat,Dara,FAQ,03/11/2025,2540,2575,2550,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,03/11/2025,2475,2575,2525,1
+Uttar Pradesh,Gorakhpur,Chorichora APMC,Wheat,Dara,Non-FAQ,03/11/2025,2425,2460,2450,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,03/11/2025,2500,2550,2525,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,03/11/2025,2540,2640,2590,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,18/11/2025,2501,2550,2525,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,19/11/2025,2450,2560,2500,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,19/11/2025,2500,2540,2525,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,19/11/2025,2540,2610,2570,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,19/11/2025,2460,2520,2490,1
+Uttar Pradesh,Auraiya,Auraiya APMC,Wheat,Dara,FAQ,19/11/2025,2450,2500,2490,1
+Uttar Pradesh,Fatehpur,Bindki APMC,Wheat,Dara,FAQ,19/11/2025,2450,2550,2500,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,19/11/2025,2530,2620,2575,1
+Uttar Pradesh,Shravasti,Bhinga APMC,Wheat,Dara,FAQ,21/11/2025,2470,2610,2550,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,22/11/2025,2450,2600,2560,1
+Uttar Pradesh,Jalaun (Orai),Ait APMC,Wheat,Dara,FAQ,19/11/2025,2500,2500,2500,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,22/11/2025,2570,2600,2580,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,22/11/2025,2510,2560,2535,1
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara,Local,20/11/2025,2500,2500,2500,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,20/11/2025,2450,2530,2510,1
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Wheat,Dara,FAQ,20/11/2025,2400,2600,2500,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,20/11/2025,2450,2530,2500,1
+Uttar Pradesh,Bahraich,Naanpara APMC,Wheat,Dara,FAQ,20/11/2025,2200,2275,2240,1
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Wheat,Dara,FAQ,21/11/2025,2560,2610,2560,1
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Wheat,Dara,Grade Range-2,20/11/2025,2480,2680,2580,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,20/11/2025,2550,2550,2550,1
+Uttar Pradesh,Jalaun (Orai),Ait APMC,Wheat,Dara,FAQ,26/11/2025,2505,2505,2505,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,22/11/2025,2425,2550,2525,1
+Uttar Pradesh,Aligarh,Charra APMC,Wheat,Dara,FAQ,22/11/2025,2580,2600,2590,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,22/11/2025,2480,2580,2530,1
+Uttar Pradesh,Hamirpur,Muskara APMC,Wheat,Dara,FAQ,19/11/2025,2360,2560,2460,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,20/11/2025,2440,2520,2470,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,20/11/2025,2530,2620,2570,1
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,Dara,FAQ,20/11/2025,2460,2550,2510,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,20/11/2025,2450,2530,2500,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,20/11/2025,2510,2620,2550,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,19/11/2025,2530,2650,2590,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,20/11/2025,2450,2500,2475,1
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Wheat,Dara,FAQ,20/11/2025,2440,2540,2490,1
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Wheat,Dara,FAQ,20/11/2025,2515,2540,2530,1
+Uttar Pradesh,Lucknow,Lucknow APMC,Wheat,Dara,FAQ,20/11/2025,2550,2650,2600,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,20/11/2025,2450,2650,2550,1
+Uttar Pradesh,Unnao,Bangarmau APMC,Wheat,Dara,FAQ,19/11/2025,2490,2590,2540,1
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Wheat,Dara,FAQ,20/11/2025,2470,2615,2535,1
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Wheat,Dara,FAQ,20/11/2025,2430,2660,2545,1
+Uttar Pradesh,Varanasi,Varanasi APMC,Wheat,Dara,FAQ,19/11/2025,2535,2640,2580,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,26/11/2025,2550,2550,2550,1
+Uttar Pradesh,Kanpur,Choubepur APMC,Wheat,Dara,Local,25/11/2025,2400,2550,2500,1
+Uttar Pradesh,Ghazipur,Gazipur APMC,Wheat,Dara,Grade Range-3,25/11/2025,2500,2620,2560,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,21/11/2025,2510,2600,2550,1
+Uttar Pradesh,Auraiya,Auraiya APMC,Wheat,Dara,FAQ,21/11/2025,2450,2500,2480,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,21/11/2025,2525,2575,2550,1
+Uttar Pradesh,Bareilly,Bareilly APMC,Wheat,Dara,FAQ,21/11/2025,2500,2600,2552,1
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Wheat,Dara,FAQ,21/11/2025,2450,2585,2525,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,21/11/2025,2450,2530,2500,1
+Uttar Pradesh,Etah,Etah APMC,Wheat,Dara,FAQ,21/11/2025,2425,2600,2545,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,21/11/2025,2550,2570,2565,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,20/11/2025,2510,2565,2530,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,21/11/2025,2512,2564,2545,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,21/11/2025,2540,2600,2560,1
+Uttar Pradesh,Unnao,Bangarmau APMC,Wheat,Dara,FAQ,21/11/2025,2490,2600,2540,1
+Uttar Pradesh,Prayagraj,Jasra APMC,Wheat,Dara,FAQ,21/11/2025,2460,2590,2535,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,23/11/2025,2460,2500,2495,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,23/11/2025,2520,2640,2580,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,24/11/2025,2475,2510,2500,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,24/11/2025,2425,2550,2525,1
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Wheat,Dara,FAQ,24/11/2025,2515,2620,2565,1
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,24/11/2025,2500,2600,2560,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,24/11/2025,2520,2570,2550,1
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,Local,24/11/2025,2420,2530,2470,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,22/11/2025,2570,2670,2620,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,22/11/2025,2490,2550,2525,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,22/11/2025,2500,2600,2550,1
+Uttar Pradesh,Deoria,Devariya APMC,Wheat,Dara,FAQ,22/11/2025,2530,2545,2535,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,22/11/2025,2450,2550,2500,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,22/11/2025,2520,2620,2570,1
+Uttar Pradesh,Ghaziabad,Hapur APMC,Wheat,Dara,FAQ,22/11/2025,2550,2680,2600,1
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Wheat,Dara,FAQ,22/11/2025,2515,2540,2530,1
+Uttar Pradesh,Jhansi,Moth APMC,Wheat,Dara,FAQ,24/11/2025,2450,2500,2470,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,23/11/2025,2410,2530,2480,1
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Wheat,Dara,FAQ,23/11/2025,2400,2420,2410,1
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Wheat,Dara,FAQ,22/11/2025,2530,2620,2570,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,23/11/2025,2425,2550,2530,1
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Wheat,Dara,FAQ,23/11/2025,2510,2550,2530,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,23/11/2025,2450,2530,2490,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,22/11/2025,2450,2500,2470,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,24/11/2025,2450,2650,2550,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,25/11/2025,2525,2650,2590,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,24/11/2025,2510,2620,2550,1
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Wheat,Dara,Grade Range-2,25/11/2025,2500,2700,2600,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,24/11/2025,2520,2560,2540,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,24/11/2025,2450,2540,2500,1
+Uttar Pradesh,Kanpur,Varipaal APMC,Wheat,Dara,FAQ,24/11/2025,2450,2550,2500,1
+Uttar Pradesh,Deoria,Devariya APMC,Wheat,Dara,FAQ,26/11/2025,2520,2530,2525,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,26/11/2025,2540,2580,2560,1
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,26/11/2025,2500,2700,2600,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,26/11/2025,2490,2530,2520,1
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,26/11/2025,2400,2600,2570,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,24/11/2025,2520,2560,2540,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,24/11/2025,2500,2600,2560,1
+Uttar Pradesh,Ghazipur,Gazipur APMC,Wheat,Dara,FAQ,24/11/2025,2500,2650,2550,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,Non-FAQ,24/11/2025,2530,2570,2550,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,24/11/2025,2520,2620,2560,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,24/11/2025,2560,2660,2610,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,24/11/2025,2500,2550,2525,1
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Dara,FAQ,24/11/2025,2400,2500,2460,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,25/11/2025,2560,2600,2580,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,26/11/2025,2400,2520,2470,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,25/11/2025,2480,2550,2520,1
+Uttar Pradesh,Auraiya,Auraiya APMC,Wheat,Dara,FAQ,25/11/2025,2450,2500,2480,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,26/11/2025,2475,2550,2525,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,25/11/2025,2460,2520,2490,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,25/11/2025,2520,2580,2550,1
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Wheat,Dara,FAQ,26/11/2025,2550,2600,2570,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,25/11/2025,2450,2550,2500,1
+Uttar Pradesh,Bulandshahar,Siyana APMC,Wheat,Dara,FAQ,26/11/2025,2400,2430,2420,1
+Uttar Pradesh,Varanasi,Varanasi APMC,Wheat,Dara,FAQ,26/11/2025,2540,2635,2585,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,26/11/2025,2450,2550,2500,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,25/11/2025,2480,2525,2500,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,25/11/2025,2450,2550,2500,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,26/11/2025,2450,2550,2515,1
+Uttar Pradesh,Ghazipur,Gazipur APMC,Wheat,Dara,FAQ,27/11/2025,2500,2620,2580,1
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Wheat,Dara,FAQ,25/11/2025,2550,2600,2550,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,26/11/2025,2550,2575,2565,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,27/11/2025,2465,2530,2500,1
+Uttar Pradesh,Jhansi,Gurusarai APMC,Wheat,Dara,FAQ,25/11/2025,2480,2550,2500,1
+Uttar Pradesh,Sambhal,Bhehjoi APMC,Wheat,Dara,Local,26/11/2025,2500,2555,2525,1
+Uttar Pradesh,Fatehpur,Kishunpur APMC,Wheat,Dara,FAQ,25/11/2025,2480,2520,2500,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,26/11/2025,2540,2610,2570,1
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,Dara,FAQ,26/11/2025,2400,2500,2450,1
+Uttar Pradesh,Unnao,Bangarmau APMC,Wheat,Dara,FAQ,25/11/2025,2470,2560,2510,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,FAQ,26/11/2025,2580,2620,2600,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,25/11/2025,2550,2550,2550,1
+Uttar Pradesh,Basti,Basti APMC,Wheat,Dara,FAQ,28/11/2025,2425,2590,2540,1
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Wheat,Dara,FAQ,28/11/2025,2520,2630,2570,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,28/11/2025,2480,2550,2520,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,Grade Range-3,27/11/2025,2500,2600,2540,1
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,Local,27/11/2025,2480,2570,2520,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,FAQ,27/11/2025,2560,2610,2585,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,27/11/2025,2450,2540,2500,1
+Uttar Pradesh,Jalaun (Orai),Madhogarh APMC,Wheat,Dara,Local,27/11/2025,2400,2450,2420,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,28/11/2025,2520,2630,2585,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,Grade Range-2,25/11/2025,2500,2520,2510,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,27/11/2025,2500,2550,2530,1
+Uttar Pradesh,Kanpur Dehat,Rura APMC,Wheat,Dara,FAQ,27/11/2025,2460,2480,2470,1
+Uttar Pradesh,Aligarh,Charra APMC,Wheat,Dara,FAQ,27/11/2025,2580,2600,2590,1
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Wheat,Dara,FAQ,26/11/2025,2550,2600,2550,1
+Uttar Pradesh,Deoria,Devariya APMC,Wheat,Dara,FAQ,27/11/2025,2530,2540,2535,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,FAQ,27/11/2025,2550,2550,2550,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,28/11/2025,2475,2550,2510,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,28/11/2025,2411,2490,2450,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,Non-FAQ,02/11/2025,2400,2500,2450,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,02/11/2025,2580,2630,2610,1
+Uttar Pradesh,Fatehpur,Bindki APMC,Wheat,Dara,FAQ,02/11/2025,2450,2520,2480,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,02/11/2025,2400,2500,2480,1
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara,FAQ,02/11/2025,2500,2510,2505,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,03/11/2025,2500,2610,2560,1
+Uttar Pradesh,Etah,Etah APMC,Wheat,Dara,FAQ,03/11/2025,2425,2600,2568,1
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Wheat,Dara,FAQ,03/11/2025,2540,2650,2580,1
+Uttar Pradesh,Ghazipur,Gazipur APMC,Wheat,Dara,FAQ,03/11/2025,2550,2600,2580,1
+Uttar Pradesh,Banda,Baberu APMC,Wheat,Dara,FAQ,04/11/2025,2400,2500,2450,1
+Uttar Pradesh,Jalaun (Orai),Madhogarh APMC,Wheat,Dara,Non-FAQ,04/11/2025,2425,2470,2450,1
+Uttar Pradesh,Raebarelli,Salon APMC,Wheat,Dara,Non-FAQ,04/11/2025,2520,2530,2525,1
+Uttar Pradesh,Shahjahanpur,Puwaha APMC,Wheat,Dara,FAQ,04/11/2025,2525,2575,2550,1
+Uttar Pradesh,Siddharth Nagar,Sahiyapur APMC,Wheat,Dara,FAQ,04/11/2025,2500,2650,2560,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,13/11/2025,2510,2580,2540,1
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,Dara,FAQ,09/11/2025,2480,2540,2510,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,12/11/2025,2520,2630,2580,1
+Uttar Pradesh,Sambhal,Muradabad APMC,Wheat,Dara,FAQ,13/11/2025,2530,2570,2550,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,13/11/2025,2445,2520,2480,1
+Uttar Pradesh,Shahjahanpur,Puwaha APMC,Wheat,Dara,FAQ,05/11/2025,2525,2575,2540,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,14/11/2025,2475,2500,2480,1
+Uttar Pradesh,Raebarelli,Raibareilly APMC,Wheat,Dara,FAQ,14/11/2025,2460,2490,2475,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,14/11/2025,2520,2640,2580,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,14/11/2025,2480,2530,2510,1
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Wheat,Dara,FAQ,13/11/2025,2425,2450,2430,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,14/11/2025,2420,2447,2436,1
+Uttar Pradesh,Chitrakut,Karvi APMC,Wheat,Dara,FAQ,14/11/2025,2450,2450,2450,1
+Uttar Pradesh,Etah,Etah APMC,Wheat,Dara,FAQ,14/11/2025,2425,2600,2570,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,14/11/2025,2400,2510,2460,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,14/11/2025,2475,2550,2520,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,14/11/2025,2480,2530,2510,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,14/11/2025,2450,2550,2500,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,14/11/2025,2500,2550,2520,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,14/11/2025,2500,2550,2520,1
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,14/11/2025,2440,2540,2490,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,14/11/2025,2500,2570,2540,1
+Uttar Pradesh,Aligarh,Aligarh APMC,Wheat,Dara,FAQ,14/11/2025,2520,2560,2540,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,14/11/2025,2460,2500,2480,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,17/11/2025,2510,2620,2550,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,FAQ,15/11/2025,2550,2600,2580,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,15/11/2025,2550,2550,2550,1
+Uttar Pradesh,Chitrakut,Karvi APMC,Wheat,Dara,FAQ,15/11/2025,2450,2450,2450,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,15/11/2025,2425,2500,2450,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,15/11/2025,2500,2570,2530,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,15/11/2025,2400,2500,2450,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,14/11/2025,2480,2540,2510,1
+Uttar Pradesh,Bulandshahar,Siyana APMC,Wheat,Dara,FAQ,15/11/2025,2500,2540,2520,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,15/11/2025,2420,2530,2500,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,18/11/2025,2425,2550,2525,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,22/11/2025,2520,2560,2540,1
+Uttar Pradesh,Raebarelli,Raibareilly APMC,Wheat,Dara,FAQ,17/11/2025,2480,2500,2485,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,17/11/2025,2475,2550,2500,1
+Uttar Pradesh,Bahraich,Naanpara APMC,Wheat,Dara,FAQ,17/11/2025,2230,2300,2265,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,16/11/2025,2430,2445,2445,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,FAQ,16/11/2025,2550,2550,2550,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,16/11/2025,2450,2530,2485,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,18/11/2025,2520,2535,2525,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,17/11/2025,2530,2600,2550,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,18/11/2025,2490,2550,2520,1
+Uttar Pradesh,Basti,Basti APMC,Wheat,Dara,FAQ,18/11/2025,2425,2610,2560,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,18/11/2025,2520,2640,2580,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,19/11/2025,2515,2570,2535,1
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Wheat,Dara,FAQ,19/11/2025,2550,2600,2580,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,19/11/2025,2500,2550,2525,1
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Wheat,Dara,FAQ,16/11/2025,2435,2665,2550,1
+Uttar Pradesh,Sambhal,Muradabad APMC,Wheat,Dara,FAQ,22/11/2025,2520,2570,2550,1
+Uttar Pradesh,Jalaun (Orai),Ait APMC,Wheat,Dara,FAQ,21/11/2025,2525,2525,2525,1
+Uttar Pradesh,Firozabad,Tundla APMC,Wheat,Dara,FAQ,21/11/2025,2570,2570,2570,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,21/11/2025,2550,2550,2550,1
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,21/11/2025,2400,2600,2550,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,21/11/2025,2550,2550,2550,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,21/11/2025,2500,2640,2570,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,21/11/2025,2400,2530,2480,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,19/11/2025,2600,2635,2620,1
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Wheat,Dara,FAQ,19/11/2025,2500,2600,2545,1
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Wheat,Dara,FAQ,01/11/2025,2485,2685,2585,1
+Uttar Pradesh,Jhansi,Gurusarai APMC,Wheat,Dara,FAQ,01/11/2025,2460,2710,2560,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,01/11/2025,2560,2580,2570,1
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Wheat,Dara,FAQ,01/11/2025,2425,2600,2500,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,01/11/2025,2400,2510,2470,1
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Wheat,Dara,FAQ,01/11/2025,2520,2560,2540,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,01/11/2025,2480,2550,2520,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,02/11/2025,2570,2600,2585,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,FAQ,02/11/2025,2500,2520,2510,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,03/11/2025,2530,2610,2565,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,03/11/2025,2550,2590,2570,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,03/11/2025,2450,2550,2510,1
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Wheat,Dara,FAQ,03/11/2025,2500,2530,2515,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,03/11/2025,2500,2530,2525,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,03/11/2025,2400,2500,2455,1
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Dara,FAQ,03/11/2025,2460,2480,2475,1
+Uttar Pradesh,Maharajganj,Partaval APMC,Wheat,Dara,FAQ,03/11/2025,2450,2580,2520,1
+Uttar Pradesh,Pillibhit,Puranpur APMC,Wheat,Dara,FAQ,03/11/2025,2600,2680,2640,1
+Uttar Pradesh,Agra,Khairagarh APMC,Wheat,Dara,FAQ,01/11/2025,2500,2560,2530,1
+Uttar Pradesh,Banda,Baberu APMC,Wheat,Dara,FAQ,01/11/2025,2400,2500,2450,1
+Uttar Pradesh,Muzaffarnagar,Khatauli APMC,Wheat,Dara,FAQ,01/11/2025,2400,2600,2500,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,04/11/2025,2520,2600,2560,1
+Uttar Pradesh,Ayodhya,Rudauli APMC,Wheat,Dara,FAQ,04/11/2025,2450,2690,2540,1
+Uttar Pradesh,Bahraich,Naanpara APMC,Wheat,Dara,FAQ,04/11/2025,2400,2450,2425,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,04/11/2025,2470,2550,2520,1
+Uttar Pradesh,Basti,Basti APMC,Wheat,Dara,FAQ,04/11/2025,2425,2600,2550,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,04/11/2025,2510,2550,2530,1
+Uttar Pradesh,Chitrakut,Karvi APMC,Wheat,Dara,FAQ,04/11/2025,2400,2500,2450,1
+Uttar Pradesh,Ghazipur,Gazipur APMC,Wheat,Dara,FAQ,04/11/2025,2500,2650,2590,1
+Uttar Pradesh,Hamirpur,Muskara APMC,Wheat,Dara,FAQ,04/11/2025,2380,2580,2480,1
+Uttar Pradesh,Hathras,Sikandraraau APMC,Wheat,Dara,FAQ,04/11/2025,2470,2530,2485,1
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Wheat,Dara,FAQ,04/11/2025,2485,2685,2585,1
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,04/11/2025,2430,2530,2480,1
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Wheat,Dara,Non-FAQ,04/11/2025,2430,2450,2440,1
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Wheat,Dara,FAQ,04/11/2025,2425,2500,2450,1
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Wheat,Dara,Non-FAQ,04/11/2025,2350,2410,2390,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,04/11/2025,2460,2630,2545,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,04/11/2025,2500,2700,2600,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,04/11/2025,2500,2650,2565,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,04/11/2025,2500,2550,2530,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,04/11/2025,2515,2550,2540,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,04/11/2025,2420,2460,2440,1
+Uttar Pradesh,Lakhimpur,Paliakala APMC,Wheat,Dara,FAQ,02/11/2025,2450,2500,2475,1
+Uttar Pradesh,Shahjahanpur,Puwaha APMC,Wheat,Dara,FAQ,02/11/2025,2500,2550,2525,1
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,Dara,FAQ,02/11/2025,2500,2520,2510,1
+Uttar Pradesh,Aligarh,Atrauli APMC,Wheat,Dara,FAQ,05/11/2025,2400,2500,2450,1
+Uttar Pradesh,Etah,Aliganj APMC,Wheat,Dara,FAQ,05/11/2025,2450,2465,2455,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,05/11/2025,2465,2565,2515,1
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Wheat,Dara,FAQ,05/11/2025,2450,2460,2453,1
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Wheat,Dara,FAQ,05/11/2025,2500,2520,2510,1
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Wheat,Dara,Non-FAQ,05/11/2025,2435,2460,2450,1
+Uttar Pradesh,Lucknow,Lucknow APMC,Wheat,Dara,FAQ,05/11/2025,2450,2650,2590,1
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Wheat,Dara,FAQ,05/11/2025,2490,2510,2501,1
+Uttar Pradesh,Unnao,Unnao APMC,Wheat,Dara,FAQ,05/11/2025,2540,2590,2570,1
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Wheat,Dara,FAQ,09/11/2025,2450,2645,2560,1
+Uttar Pradesh,Ayodhya,Faizabad APMC,Wheat,Dara,Non-FAQ,03/11/2025,2440,2490,2480,1
+Uttar Pradesh,Aligarh,Charra APMC,Wheat,Dara,FAQ,06/11/2025,2530,2550,2540,1
+Uttar Pradesh,Ballia,Vilthararoad APMC,Wheat,Dara,Non-FAQ,06/11/2025,2700,2800,2750,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,06/11/2025,2470,2550,2520,1
+Uttar Pradesh,Gorakhpur,Chorichora APMC,Wheat,Dara,Non-FAQ,06/11/2025,2425,2480,2450,1
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Wheat,Dara,FAQ,06/11/2025,2500,2520,2511,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,06/11/2025,2460,2630,2540,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,06/11/2025,2500,2540,2520,1
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,06/11/2025,2500,2700,2600,1
+Uttar Pradesh,Prayagraj,Jasra APMC,Wheat,Dara,FAQ,14/11/2025,2445,2575,2510,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,Non-FAQ,15/11/2025,2475,2530,2500,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,15/11/2025,2500,2550,2535,1
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Wheat,Dara,FAQ,17/11/2025,2560,2610,2560,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,Grade Range-2,15/11/2025,2510,2530,2520,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,15/11/2025,2510,2610,2560,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,15/11/2025,2425,2560,2540,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,15/11/2025,2500,2550,2530,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,16/11/2025,2450,2500,2480,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,15/11/2025,2420,2440,2440,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,15/11/2025,2590,2625,2610,1
+Uttar Pradesh,Bareilly,Bareilly APMC,Wheat,Dara,FAQ,18/11/2025,2500,2580,2560,1
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Wheat,Dara,FAQ,18/11/2025,2480,2500,2491,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,18/11/2025,2500,2550,2525,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,16/11/2025,2470,2570,2530,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,15/11/2025,2450,2530,2485,1
+Uttar Pradesh,Badaun,Bilsi APMC,Wheat,Dara,FAQ,17/11/2025,2550,2550,2550,1
+Uttar Pradesh,Badaun,Bilsi APMC,Wheat,Dara,FAQ,16/11/2025,2550,2550,2550,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,17/11/2025,2460,2525,2490,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,17/11/2025,2480,2530,2510,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,17/11/2025,2520,2600,2560,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,FAQ,18/11/2025,2550,2600,2580,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,17/11/2025,2500,2550,2525,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,17/11/2025,2480,2520,2510,1
+Uttar Pradesh,Maharajganj,Partaval APMC,Wheat,Dara,FAQ,18/11/2025,2450,2585,2520,1
+Uttar Pradesh,Unnao,Bangarmau APMC,Wheat,Dara,FAQ,18/11/2025,2510,2610,2560,1
+Uttar Pradesh,Jhansi,Moth APMC,Wheat,Dara,FAQ,18/11/2025,2450,2530,2500,1
+Uttar Pradesh,Jhansi,Mauranipur APMC,Wheat,Dara,FAQ,18/11/2025,2425,2600,2460,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,18/11/2025,2460,2550,2510,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,17/11/2025,2500,2600,2560,1
+Uttar Pradesh,Varanasi,Varanasi APMC,Wheat,Dara,FAQ,17/11/2025,2540,2650,2585,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,17/11/2025,2470,2540,2500,1
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,17/11/2025,2460,2620,2550,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,16/11/2025,2400,2500,2450,1
+Uttar Pradesh,Deoria,Devariya APMC,Wheat,Dara,FAQ,17/11/2025,2520,2530,2525,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,17/11/2025,2500,2525,2515,1
+Uttar Pradesh,Jhansi,Gurusarai APMC,Wheat,Dara,FAQ,18/11/2025,2450,2600,2540,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,19/11/2025,2510,2620,2550,1
+Uttar Pradesh,Unnao,Unnao APMC,Wheat,Dara,FAQ,18/11/2025,2525,2680,2565,1
+Uttar Pradesh,Aligarh,Khair APMC,Wheat,Other,Grade Range-3,13/11/2025,2500,2500,2500,1
+Uttar Pradesh,Hamirpur,Raath APMC,Wheat,Other,FAQ,02/11/2025,2400,2450,2425,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,28/01/2026,2450,2650,2550,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,05/12/2025,2510,2560,2540,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,05/12/2025,2500,2650,2580,1
+Uttar Pradesh,Shamli,Shamli APMC,Wheat,Dara,FAQ,10/12/2025,2560,2640,2600,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,06/12/2025,2520,2560,2540,1
+Uttar Pradesh,Bulandshahar,Siyana APMC,Wheat,Dara,FAQ,09/12/2025,2500,2520,2510,1
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,09/12/2025,2450,2550,2500,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,09/12/2025,2400,2500,2450,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,06/12/2025,2520,2580,2550,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,06/12/2025,2560,2580,2570,1
+Uttar Pradesh,Shravasti,Bhinga APMC,Wheat,Dara,FAQ,05/12/2025,2390,2525,2460,1
+Uttar Pradesh,Sambhal,Muradabad APMC,Wheat,Dara,FAQ,05/12/2025,2530,2570,2550,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,FAQ,06/12/2025,2555,2595,2575,1
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Wheat,Dara,FAQ,05/12/2025,2550,2600,2550,1
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Wheat,Dara,FAQ,06/12/2025,2420,2430,2428,1
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,Local,06/12/2025,2400,2560,2450,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,07/12/2025,2520,2580,2550,1
+Uttar Pradesh,Raebarelli,Raibareilly APMC,Wheat,Dara,FAQ,08/12/2025,2490,2520,2510,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,08/12/2025,2400,2500,2450,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,09/12/2025,2440,2520,2500,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,09/12/2025,2510,2550,2530,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,09/12/2025,2530,2620,2570,1
+Uttar Pradesh,Hathras,Sikandraraau APMC,Wheat,Dara,FAQ,10/12/2025,2440,2530,2500,1
+Uttar Pradesh,Agra,Jagnair APMC,Wheat,Dara,FAQ,08/12/2025,2500,2550,2525,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,11/12/2025,2520,2610,2560,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,10/12/2025,2500,2535,2515,1
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Wheat,Dara,FAQ,10/12/2025,2545,2600,2580,1
+Uttar Pradesh,Badaun,Wazirganj APMC,Wheat,Dara,FAQ,10/12/2025,2500,2505,2500,1
+Uttar Pradesh,Kanpur,Choubepur APMC,Wheat,Dara,Local,10/12/2025,2400,2550,2500,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,09/12/2025,2460,2530,2490,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,10/12/2025,2550,2570,2565,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,10/12/2025,2500,2600,2550,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,10/12/2025,2510,2560,2530,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,10/12/2025,2450,2550,2500,1
+Uttar Pradesh,Bareilly,Bareilly APMC,Wheat,Dara,FAQ,10/12/2025,2500,2600,2550,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,10/12/2025,2400,2520,2475,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,10/12/2025,2480,2540,2500,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,07/12/2025,2440,2560,2500,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,Grade Range-2,07/12/2025,2500,2520,2510,1
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,Local,10/12/2025,2475,2590,2541,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,Grade Range-2,12/12/2025,2500,2520,2510,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,Local,10/12/2025,2500,2560,2540,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,08/12/2025,2550,2570,2560,1
+Uttar Pradesh,Barabanki,Barabanki APMC,Wheat,Dara,FAQ,08/12/2025,2580,2580,2580,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,08/12/2025,2470,2540,2500,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,07/12/2025,2485,2550,2510,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,08/12/2025,2475,2525,2500,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,Grade Range-3,08/12/2025,2500,2600,2560,1
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Wheat,Dara,FAQ,08/12/2025,2460,2610,2535,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,08/12/2025,2460,2530,2500,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,FAQ,08/12/2025,2545,2605,2585,1
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara,Local,08/12/2025,2500,2500,2500,1
+Uttar Pradesh,Fatehpur,Kishunpur APMC,Wheat,Dara,FAQ,08/12/2025,2470,2520,2490,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,08/12/2025,2400,2500,2490,1
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,Dara,FAQ,08/12/2025,2400,2450,2425,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,FAQ,08/12/2025,2550,2550,2550,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,07/12/2025,2530,2550,2545,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,08/12/2025,2520,2600,2560,1
+Uttar Pradesh,Basti,Basti APMC,Wheat,Dara,FAQ,07/12/2025,2520,2570,2550,1

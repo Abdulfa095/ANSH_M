@@ -1,0 +1,1989 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Rajasthan,Alwar,Alwar (F&V) APMC,Onion,Other,FAQ,03/11/2025,500.0,1750,1125.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,03/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,21/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,25/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,27/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,28/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,01/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,20/11/2025,1000.0,1200,1200.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,27/11/2025,1000.0,1100,1100.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,24/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,27/11/2025,500.0,800,650.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,28/11/2025,2400.0,3000,2800.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,02/11/2025,800.0,1500,1150.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Non-FAQ,03/11/2025,400.0,600,500.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,FAQ,03/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,03/11/2025,1000.0,1800,1400.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,03/11/2025,310.0,1180,650.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Other,FAQ,04/11/2025,1300.0,1700,1500.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,12/11/2025,700.0,1400,1050.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,14/11/2025,800.0,1762,1340.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,13/11/2025,450.0,1375,875.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,18/11/2025,1700.0,2000,1850.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,17/11/2025,500.0,1500,950.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,16/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,19/11/2025,1600.0,2000,1800.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,20/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,19/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,20/11/2025,2000.0,2400,2200.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,20/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,20/11/2025,275.0,1000,650.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,20/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,24/11/2025,400.0,1500,950.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,23/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,24/11/2025,500.0,1500,900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,24/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Alwar,Alwar FV,Onion,Other,FAQ,02/11/2025,500.0,1750,1125.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Non-FAQ,05/11/2025,400.0,1000,700.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,05/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Non-FAQ,05/11/2025,2000.0,2400,2200.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,30/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Local,14/11/2025,1200.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,16/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,19/11/2025,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,20/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,21/11/2025,1300.0,1400,1371.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,23/11/2025,1100.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,25/11/2025,1200.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,28/11/2025,1200.0,1400,1283.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,27/11/2025,1700.0,1700,1700.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,28/11/2025,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,27/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,27/11/2025,1300.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,28/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,10/11/2025,1300.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,11/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,12/11/2025,1200.0,1400,1400.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,14/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,01/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,Non-FAQ,03/11/2025,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,05/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,11/11/2025,1400.0,1500,1450.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,12/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,03/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,04/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Local,15/11/2025,1100.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,18/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,17/11/2025,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,18/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,29/11/2025,1600.0,2700,2000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,09/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Kotputli- Behror,Kotputli APMC,Onion,Onion,FAQ,09/11/2025,750.0,750,750.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Grade B,11/11/2025,1300.0,2500,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,07/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,13/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,FAQ,03/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,FAQ,03/11/2025,1500.0,2700,2000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,03/11/2025,600.0,1300,950.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,14/11/2025,1870.0,2095,2039.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,14/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,21/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,24/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,23/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,26/11/2025,600.0,1300,950.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,27/11/2025,600.0,1200,900.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,29/11/2025,600.0,1200,900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,11/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,11/11/2025,800.0,1600,1300.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,13/11/2025,800.0,1300,1050.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,01/11/2025,301.0,1071,626.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,01/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,18/12/2025,300.0,600,400.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,FAQ,07/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,02/12/2025,600.0,1300,950.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,01/12/2025,800.0,1700,1300.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,02/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,04/12/2025,600.0,1200,900.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,04/12/2025,1200.0,2500,1800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,06/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Onion,Medium,12/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,11/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,17/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,14/12/2025,700.0,1800,1250.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,14/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,16/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,16/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,17/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,19/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,09/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Local,10/12/2025,1200.0,1600,1500.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,11/12/2025,600.0,1000,800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,18/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,14/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,16/12/2025,700.0,1600,1150.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,16/12/2025,1500.0,2800,2100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,19/12/2025,800.0,1500,1150.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,20/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,20/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,22/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,23/12/2025,800.0,1400,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,24/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,24/12/2025,1600.0,2400,2000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,24/12/2025,1400.0,1600,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,26/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,26/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,29/12/2025,700.0,1200,950.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,27/12/2025,1400.0,1800,1600.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,30/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,29/12/2025,1300.0,1700,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,01/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,02/12/2025,800.0,1600,1200.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,02/12/2025,900.0,1100,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,04/12/2025,800.0,1000,900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,03/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,08/12/2025,900.0,1300,1100.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,04/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,09/12/2025,500.0,2000,1250.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Grade C,07/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Local,10/12/2025,700.0,2500,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,10/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,11/12/2025,1600.0,1800,1700.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,12/12/2025,800.0,1300,1100.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,12/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,11/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,12/12/2025,1800.0,2000,1900.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,12/12/2025,900.0,2500,1700.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Grade C,14/12/2025,700.0,1400,1200.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,16/12/2025,800.0,1500,1150.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,15/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,15/12/2025,750.0,2750,1750.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,15/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,17/12/2025,800.0,2000,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,16/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,17/12/2025,1800.0,2000,1900.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,16/12/2025,1000.0,2200,1600.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,17/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,17/12/2025,400.0,1400,900.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,17/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,22/12/2025,500.0,2000,1125.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,19/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,18/12/2025,1000.0,1500,1250.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,22/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,22/12/2025,1000.0,1100,1050.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,20/12/2025,1000.0,1100,1050.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,21/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,Medium,24/12/2025,500.0,1500,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,26/12/2025,1000.0,1600,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,25/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,25/12/2025,500.0,2150,1250.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,28/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,26/12/2025,400.0,1800,1450.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,28/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,28/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,28/12/2025,1250.0,1250,1250.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,30/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,29/12/2025,500.0,1800,1190.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,29/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,30/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,31/12/2025,410.0,1831,1550.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,09/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,18/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,02/12/2025,1300.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,01/12/2025,1300.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,03/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,03/12/2025,1000.0,1400,1200.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,04/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,04/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,05/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,09/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,09/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,08/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,10/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,13/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,15/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,16/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,17/12/2025,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,17/12/2025,1400.0,2000,1586.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,18/12/2025,1500.0,3000,2090.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,19/12/2025,1500.0,2000,1627.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,21/12/2025,1500.0,2100,2100.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,22/12/2025,1600.0,2200,2200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,24/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,27/12/2025,1500.0,1900,1900.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,28/12/2025,1800.0,1800,1800.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,29/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,30/12/2025,1800.0,2000,1914.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,28/12/2025,1500.0,1800,1608.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,29/12/2025,1400.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,29/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,29/12/2025,2000.0,2300,2125.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,27/12/2025,1300.0,1500,1300.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,03/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,06/02/2026,1000.0,1600,1500.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,28/01/2026,900.0,900,900.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,28/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,30/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,11/02/2026,1400.0,1400,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,13/02/2026,600.0,1200,900.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,12/02/2026,400.0,800,600.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,10/02/2026,900.0,1100,1000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,12/02/2026,1600.0,2200,1800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,09/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,20/01/2026,1300.0,2500,1900.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,14/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,17/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,19/01/2026,800.0,2000,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,19/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,20/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,18/01/2026,800.0,1800,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,18/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,18/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,22/01/2026,1300.0,1600,1450.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,21/01/2026,425.0,1325,975.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,23/01/2026,800.0,2100,1530.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,24/01/2026,900.0,1100,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,23/01/2026,800.0,1600,1200.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,26/01/2026,800.0,1600,1200.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,28/01/2026,1600.0,2200,2000.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,30/01/2026,1975.0,2025,2000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,30/01/2026,320.0,1375,750.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,29/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,30/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,30/01/2026,1000.0,1100,1050.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,30/01/2026,800.0,1600,1200.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,31/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,02/02/2026,700.0,2000,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,01/02/2026,1200.0,1800,1500.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,05/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,03/02/2026,440.0,1351,840.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,05/02/2026,800.0,1500,1150.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,04/02/2026,700.0,2100,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,05/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,03/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,05/02/2026,1000.0,1100,1050.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,04/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,06/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,04/02/2026,430.0,1200,620.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,10/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,09/02/2026,800.0,1400,1100.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,08/02/2026,1900.0,2400,2200.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,09/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,09/02/2026,1800.0,2400,2000.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,12/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,10/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,11/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,11/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,12/02/2026,1000.0,1200,1100.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,01/01/2026,1250.0,1300,1281.25,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,04/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,06/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,02/01/2026,1300.0,2500,2000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,02/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,01/01/2026,1200.0,1600,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,04/01/2026,700.0,1400,1050.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,04/01/2026,1100.0,1100,1100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,06/01/2026,800.0,1300,1050.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,12/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,15/01/2026,900.0,1300,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,21/01/2026,800.0,800,800.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,20/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,05/02/2026,1340.0,1340,1340.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,09/02/2026,1340.0,1340,1340.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,13/02/2026,1350.0,1350,1350.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,02/01/2026,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,02/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,04/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,04/01/2026,2000.0,2500,2100.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,05/01/2026,2000.0,2200,2075.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,06/01/2026,1300.0,1400,1350.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,10/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,06/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,08/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,07/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,08/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,08/01/2026,1700.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,10/01/2026,1800.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,12/01/2026,1500.0,1800,1650.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,12/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,14/01/2026,2000.0,2000,2000.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,12/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,13/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,20/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,16/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,16/01/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,16/01/2026,1800.0,2000,1933.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,19/01/2026,1500.0,1800,1671.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,17/01/2026,1800.0,2000,1886.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,18/01/2026,1600.0,1800,1709.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,20/01/2026,1700.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,26/01/2026,2200.0,3500,2683.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,21/01/2026,1500.0,1800,1629.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,21/01/2026,1600.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,23/01/2026,1500.0,2100,2100.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,23/01/2026,2000.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,26/01/2026,2300.0,2300,2300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,28/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,28/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,28/01/2026,2500.0,2500,2500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,31/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,01/02/2026,1400.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,02/02/2026,1600.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,01/02/2026,1500.0,1800,1650.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,03/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,02/02/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,05/02/2026,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,08/02/2026,1400.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,08/02/2026,1800.0,2000,1889.0,23
+Rajasthan,Balotra,Balotra APMC,Onion,1st Sort,Non-FAQ,13/02/2026,1600.0,1600,1600.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,13/02/2026,1100.0,1100,1100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,01/01/2026,510.0,1830,1480.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,01/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,01/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,02/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,02/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,03/01/2026,1575.0,1625,1600.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,03/01/2026,420.0,1560,950.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,05/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,05/01/2026,1600.0,2000,1800.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,07/01/2026,500.0,1625,1125.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,09/01/2026,800.0,2200,1600.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,08/01/2026,800.0,1800,1300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,08/01/2026,900.0,1100,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,08/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,07/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,14/01/2026,1000.0,1050,1020.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,12/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,11/01/2026,500.0,1500,925.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,14/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,13/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,20/01/2026,1750.0,1750,1750.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,20/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,14/01/2026,900.0,1100,1000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,14/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,29/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,25/01/2026,800.0,800,800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,01/02/2026,1200.0,1600,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,03/02/2026,1400.0,1600,1500.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,04/02/2026,1500.0,2600,2100.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Onion,Medium,06/02/2026,1900.0,2300,2100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,06/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,10/02/2026,500.0,1400,950.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,07/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Onion,Medium,10/02/2026,1700.0,2100,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,10/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,22/01/2026,800.0,1200,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,22/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,24/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,23/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,24/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,28/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,28/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,30/01/2026,1000.0,2200,1500.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,30/01/2026,1350.0,1600,1475.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,02/02/2026,1200.0,1800,1500.0,23
+Rajasthan,Pali,Pali APMC,Onion,Local,Medium,12/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Medium,Medium,20/01/2026,500.0,1800,1250.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,07/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,10/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,09/11/2025,1200.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,11/11/2025,1600.0,1800,1700.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,07/11/2025,1200.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,10/11/2025,1500.0,1600,1513.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,13/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Dungarpur,Dungarpur APMC,Onion,1st Sort,Medium,09/11/2025,2000.0,2500,2200.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,12/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Balotra,Balotra APMC,Onion,1st Sort,FAQ,01/11/2025,1550.0,1600,1580.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,01/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,01/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,1st Sort,FAQ,03/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,FAQ,03/11/2025,1200.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,03/11/2025,1150.0,1150,1150.0,23
+Rajasthan,Ganganagar,Suratgarh APMC,Onion,1st Sort,FAQ,04/11/2025,850.0,1150,900.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,05/11/2025,1400.0,1500,1473.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,FAQ,05/11/2025,1000.0,1500,1500.0,23
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Onion,1st Sort,FAQ,04/11/2025,3500.0,4000,3800.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,13/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Dungarpur,Dungarpur APMC,Onion,1st Sort,Medium,14/11/2025,2000.0,2500,2200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,16/11/2025,1500.0,1600,1525.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,16/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,18/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,FAQ,16/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,19/11/2025,1500.0,1700,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,24/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,22/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,19/11/2025,1100.0,1300,1300.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,21/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,19/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,20/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,26/11/2025,1200.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,21/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,25/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,24/11/2025,1200.0,1500,1405.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,24/11/2025,1200.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,27/11/2025,1200.0,1500,1367.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,29/11/2025,1700.0,1700,1700.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,29/11/2025,1000.0,1200,1200.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,18/11/2025,800.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,25/11/2025,1000.0,1300,1300.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,11/11/2025,1800.0,1800,1800.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,13/11/2025,600.0,1600,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,FAQ,01/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,01/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,FAQ,05/11/2025,1200.0,2400,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,16/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,17/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Grade B,17/11/2025,1200.0,1900,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,Grade B,17/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,19/11/2025,1400.0,2100,1700.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,19/11/2025,600.0,1200,900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,19/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,19/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,24/11/2025,1500.0,2200,1800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,24/11/2025,1200.0,1500,1300.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,21/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,21/11/2025,600.0,1300,950.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,25/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,02/11/2025,600.0,1300,950.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,10/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,06/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Grade B,08/11/2025,1300.0,2000,1600.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,12/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,26/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,25/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,16/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,28/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,24/11/2025,300.0,950,600.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,26/11/2025,400.0,1500,950.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,26/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,27/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,26/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,27/11/2025,800.0,1200,1000.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,30/11/2025,800.0,1500,1100.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,28/11/2025,425.0,1350,875.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,30/11/2025,800.0,1200,1000.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,28/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,29/11/2025,231.0,650,550.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,14/11/2025,500.0,1200,800.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,18/11/2025,800.0,1800,1600.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,19/11/2025,300.0,1500,900.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,18/11/2025,500.0,1527,950.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,19/11/2025,500.0,1500,1000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,19/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,21/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,22/11/2025,2400.0,2400,2400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,23/11/2025,800.0,1200,1000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,24/11/2025,2000.0,2200,2100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,21/11/2025,350.0,950,550.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,27/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,FAQ,03/11/2025,400.0,1000,700.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,12/11/2025,800.0,1300,1050.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,14/11/2025,300.0,1400,850.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,15/11/2025,800.0,1300,1050.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,18/11/2025,300.0,1500,900.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,15/11/2025,862.0,1760,1380.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,07/11/2025,1000.0,1500,1250.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,11/11/2025,400.0,1200,850.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,12/11/2025,900.0,1100,1000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,12/11/2025,2200.0,2400,2300.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Non-FAQ,01/11/2025,2200.0,2600,2400.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,FAQ,01/11/2025,500.0,1100,800.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,FAQ,04/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,FAQ,04/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,04/11/2025,400.0,1300,750.0,23
+Rajasthan,Alwar,Alwar FV,Onion,Other,FAQ,03/11/2025,500.0,1750,1125.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Non-FAQ,06/11/2025,500.0,800,650.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,26/11/2025,1600.0,2400,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,29/11/2025,1100.0,1100,1100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,10/12/2025,500.0,2010,1550.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,01/12/2025,600.0,1000,700.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,02/12/2025,500.0,1500,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,02/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,02/12/2025,800.0,1200,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,03/12/2025,800.0,1000,900.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,03/12/2025,300.0,1020,600.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,03/12/2025,400.0,1400,850.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,04/12/2025,1700.0,2000,1850.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,05/12/2025,1800.0,2200,2000.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,08/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,09/12/2025,1400.0,1800,1650.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,08/12/2025,625.0,2125,1375.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,09/12/2025,800.0,1200,1000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,16/12/2025,700.0,1600,1150.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,16/12/2025,1500.0,2800,2100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,19/12/2025,800.0,1500,1150.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,20/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,20/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,22/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,23/12/2025,800.0,1400,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,24/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,24/12/2025,1600.0,2400,2000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,24/12/2025,1400.0,1600,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,26/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,26/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,29/12/2025,700.0,1200,950.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,27/12/2025,1400.0,1800,1600.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,30/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,29/12/2025,1300.0,1700,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,01/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,02/12/2025,800.0,1600,1200.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,02/12/2025,900.0,1100,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,04/12/2025,800.0,1000,900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,03/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,08/12/2025,900.0,1300,1100.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,04/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,09/12/2025,500.0,2000,1250.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Grade C,07/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Local,10/12/2025,700.0,2500,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,10/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,11/12/2025,1600.0,1800,1700.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,12/12/2025,800.0,1300,1100.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,12/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,11/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,12/12/2025,1800.0,2000,1900.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,12/12/2025,900.0,2500,1700.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Grade C,14/12/2025,700.0,1400,1200.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,16/12/2025,800.0,1500,1150.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,15/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,15/12/2025,750.0,2750,1750.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,15/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,17/12/2025,800.0,2000,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,16/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,17/12/2025,1800.0,2000,1900.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,16/12/2025,1000.0,2200,1600.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,17/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,17/12/2025,400.0,1400,900.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,17/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,22/12/2025,500.0,2000,1125.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,19/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,18/12/2025,1000.0,1500,1250.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,22/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,22/12/2025,1000.0,1100,1050.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,20/12/2025,1000.0,1100,1050.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,21/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,Medium,24/12/2025,500.0,1500,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,26/12/2025,1000.0,1600,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,25/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,25/12/2025,500.0,2150,1250.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,28/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,26/12/2025,400.0,1800,1450.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,28/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,28/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,28/12/2025,1250.0,1250,1250.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,30/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,29/12/2025,500.0,1800,1190.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,29/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,30/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,31/12/2025,410.0,1831,1550.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,09/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,18/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,02/12/2025,1300.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,01/12/2025,1300.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,03/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,03/12/2025,1000.0,1400,1200.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,04/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,04/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,05/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,09/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,09/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,08/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,10/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,13/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,15/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,16/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,17/12/2025,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,17/12/2025,1400.0,2000,1586.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,18/12/2025,1500.0,3000,2090.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,19/12/2025,1500.0,2000,1627.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,21/12/2025,1500.0,2100,2100.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,22/12/2025,1600.0,2200,2200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,24/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,27/12/2025,1500.0,1900,1900.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,28/12/2025,1800.0,1800,1800.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,29/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,30/12/2025,1800.0,2000,1914.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,28/12/2025,1500.0,1800,1608.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,29/12/2025,1400.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,29/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,29/12/2025,2000.0,2300,2125.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,27/12/2025,1300.0,1500,1300.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,03/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,06/02/2026,1000.0,1600,1500.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,28/01/2026,900.0,900,900.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,28/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,30/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,11/02/2026,1400.0,1400,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,13/02/2026,600.0,1200,900.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,12/02/2026,400.0,800,600.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,10/02/2026,900.0,1100,1000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,12/02/2026,1600.0,2200,1800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,09/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,20/01/2026,1300.0,2500,1900.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,14/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,17/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,19/01/2026,800.0,2000,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,19/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,20/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,18/01/2026,800.0,1800,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,18/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,18/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,22/01/2026,1300.0,1600,1450.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,21/01/2026,425.0,1325,975.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,23/01/2026,800.0,2100,1530.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,24/01/2026,900.0,1100,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,23/01/2026,800.0,1600,1200.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,26/01/2026,800.0,1600,1200.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,28/01/2026,1600.0,2200,2000.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,30/01/2026,1975.0,2025,2000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,30/01/2026,320.0,1375,750.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,29/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,30/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,30/01/2026,1000.0,1100,1050.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,30/01/2026,800.0,1600,1200.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,31/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,02/02/2026,700.0,2000,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,01/02/2026,1200.0,1800,1500.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,05/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,03/02/2026,440.0,1351,840.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,05/02/2026,800.0,1500,1150.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,04/02/2026,700.0,2100,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,05/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,03/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,05/02/2026,1000.0,1100,1050.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,04/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,06/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,04/02/2026,430.0,1200,620.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,10/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,09/02/2026,800.0,1400,1100.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,08/02/2026,1900.0,2400,2200.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,09/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,09/02/2026,1800.0,2400,2000.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,12/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,10/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,11/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,11/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,12/02/2026,1000.0,1200,1100.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,01/01/2026,1250.0,1300,1281.25,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,04/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,06/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,02/01/2026,1300.0,2500,2000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,02/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,01/01/2026,1200.0,1600,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,04/01/2026,700.0,1400,1050.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,04/01/2026,1100.0,1100,1100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,06/01/2026,800.0,1300,1050.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,12/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,15/01/2026,900.0,1300,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,21/01/2026,800.0,800,800.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,20/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,05/02/2026,1340.0,1340,1340.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,09/02/2026,1340.0,1340,1340.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,13/02/2026,1350.0,1350,1350.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,02/01/2026,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,02/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,04/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,04/01/2026,2000.0,2500,2100.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,05/01/2026,2000.0,2200,2075.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,06/01/2026,1300.0,1400,1350.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,10/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,06/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,08/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,07/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,08/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,08/01/2026,1700.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,10/01/2026,1800.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,12/01/2026,1500.0,1800,1650.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,12/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,14/01/2026,2000.0,2000,2000.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,12/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,13/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,20/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,16/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,16/01/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,16/01/2026,1800.0,2000,1933.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,19/01/2026,1500.0,1800,1671.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,17/01/2026,1800.0,2000,1886.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,18/01/2026,1600.0,1800,1709.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,20/01/2026,1700.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,26/01/2026,2200.0,3500,2683.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,21/01/2026,1500.0,1800,1629.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,21/01/2026,1600.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,23/01/2026,1500.0,2100,2100.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,23/01/2026,2000.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,26/01/2026,2300.0,2300,2300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,28/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,28/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,28/01/2026,2500.0,2500,2500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,31/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,01/02/2026,1400.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,02/02/2026,1600.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,01/02/2026,1500.0,1800,1650.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,03/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,02/02/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,05/02/2026,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,08/02/2026,1400.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,08/02/2026,1800.0,2000,1889.0,23
+Rajasthan,Balotra,Balotra APMC,Onion,1st Sort,Non-FAQ,13/02/2026,1600.0,1600,1600.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,13/02/2026,1100.0,1100,1100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,01/01/2026,510.0,1830,1480.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,01/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,01/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,02/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,02/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,03/01/2026,1575.0,1625,1600.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,03/01/2026,420.0,1560,950.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,05/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,05/01/2026,1600.0,2000,1800.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,07/01/2026,500.0,1625,1125.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,09/01/2026,800.0,2200,1600.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,08/01/2026,800.0,1800,1300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,08/01/2026,900.0,1100,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,08/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,07/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,14/01/2026,1000.0,1050,1020.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,12/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,11/01/2026,500.0,1500,925.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,14/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,13/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,20/01/2026,1750.0,1750,1750.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,20/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,14/01/2026,900.0,1100,1000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,14/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,29/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,25/01/2026,800.0,800,800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,01/02/2026,1200.0,1600,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,03/02/2026,1400.0,1600,1500.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,04/02/2026,1500.0,2600,2100.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Onion,Medium,06/02/2026,1900.0,2300,2100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,06/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,10/02/2026,500.0,1400,950.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,07/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Onion,Medium,10/02/2026,1700.0,2100,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,10/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,22/01/2026,800.0,1200,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,22/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,24/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,23/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,24/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,28/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,28/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,30/01/2026,1000.0,2200,1500.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,30/01/2026,1350.0,1600,1475.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,02/02/2026,1200.0,1800,1500.0,23
+Rajasthan,Pali,Pali APMC,Onion,Local,Medium,12/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Medium,Medium,20/01/2026,500.0,1800,1250.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,24/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,13/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,16/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Alwar,Alwar (F&V) APMC,Onion,Other,FAQ,02/11/2025,500.0,1750,1125.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,03/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Non-FAQ,09/11/2025,1400.0,1500,1471.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,29/11/2025,1400.0,1500,1482.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,10/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,10/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Medium,11/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Ganganagar,Suratgarh APMC,Onion,1st Sort,FAQ,01/11/2025,850.0,1150,900.0,23
+Rajasthan,Balotra,Balotra APMC,Onion,1st Sort,FAQ,02/11/2025,1400.0,1600,1550.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,02/11/2025,1100.0,1100,1100.0,23
+Rajasthan,Ganganagar,Suratgarh APMC,Onion,1st Sort,FAQ,03/11/2025,850.0,1150,900.0,23
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Onion,1st Sort,FAQ,01/11/2025,2500.0,3000,2800.0,23
+Rajasthan,Hanumangarh,Hanumangarh Town APMC,Onion,1st Sort,Non-FAQ,01/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,FAQ,04/11/2025,1000.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,13/11/2025,1500.0,1700,1671.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,14/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,25/11/2025,1200.0,1500,1394.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,26/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,27/11/2025,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,04/11/2025,1400.0,1500,1487.0,23
+Rajasthan,Ganganagar,Suratgarh APMC,Onion,1st Sort,FAQ,06/11/2025,850.0,1150,900.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,22/11/2025,1200.0,1400,1400.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,24/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,25/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,16/11/2025,600.0,1400,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,17/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,21/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,22/11/2025,500.0,1400,950.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,23/11/2025,1200.0,1500,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,22/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,25/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,24/11/2025,500.0,1300,900.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,30/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,26/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Local,26/11/2025,1000.0,1400,1200.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,26/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,28/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,27/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,28/11/2025,600.0,1300,950.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,24/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,25/11/2025,600.0,1200,900.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,FAQ,26/11/2025,600.0,1200,900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,25/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,26/11/2025,241.0,788,550.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,26/11/2025,500.0,1412,950.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,27/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,28/11/2025,200.0,615,511.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,27/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,27/11/2025,400.0,600,500.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,28/11/2025,400.0,1500,950.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,30/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,29/11/2025,800.0,1200,1000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,28/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,10/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,10/11/2025,2200.0,2600,2400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,10/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,FAQ,03/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,03/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Non-FAQ,06/11/2025,1800.0,2000,1900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,09/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,14/11/2025,2000.0,2200,2100.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,14/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,17/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,17/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,17/11/2025,250.0,1500,1334.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,17/11/2025,1800.0,2200,2000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,13/11/2025,2400.0,2600,2500.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,FAQ,01/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,01/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,16/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,10/11/2025,600.0,1700,1150.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,12/11/2025,1800.0,1800,1800.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,12/11/2025,600.0,1600,1100.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,FAQ,01/11/2025,1600.0,2400,2000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,02/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,03/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,FAQ,04/11/2025,1400.0,2600,1900.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,FAQ,06/11/2025,1300.0,2500,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,10/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,09/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,02/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,10/12/2025,1200.0,2000,1500.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,10/12/2025,600.0,1000,800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,07/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,08/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,10/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,24/12/2025,700.0,1400,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,22/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,22/12/2025,1500.0,2700,2000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,25/12/2025,700.0,1200,950.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,26/12/2025,700.0,1200,950.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,28/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,31/12/2025,700.0,1300,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,01/12/2025,1800.0,2000,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,01/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,05/12/2025,1000.0,2500,1700.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,04/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,13/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,15/12/2025,700.0,1600,1150.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,17/12/2025,700.0,1800,1250.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,23/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,18/12/2025,700.0,1800,1250.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,23/12/2025,1500.0,2500,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,30/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,30/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,31/12/2025,1200.0,2500,2000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,30/12/2025,1300.0,2600,2100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,15/12/2025,400.0,1990,1195.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,17/12/2025,750.0,2500,1625.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,23/12/2025,800.0,1800,1300.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,23/12/2025,900.0,1100,1000.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,20/12/2025,800.0,1000,900.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,20/12/2025,1500.0,1800,1650.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,19/12/2025,900.0,1100,1000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,21/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,22/12/2025,580.0,1600,1100.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,21/12/2025,800.0,1500,1150.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,22/12/2025,1400.0,1800,1600.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,21/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,22/12/2025,800.0,1800,1300.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,19/12/2025,625.0,2125,1150.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,22/12/2025,800.0,1800,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,27/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,26/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,03/12/2025,1200.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,05/12/2025,1400.0,1500,1450.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,08/12/2025,900.0,1000,950.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,07/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,12/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,12/12/2025,1400.0,1500,1450.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,16/12/2025,1600.0,2400,2400.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,22/12/2025,1600.0,1600,1600.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,17/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,16/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,18/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,23/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,19/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,19/12/2025,1800.0,2300,2300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,20/12/2025,1800.0,2200,2200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,22/12/2025,1500.0,1800,1620.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,27/12/2025,1750.0,1750,1750.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,28/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,28/12/2025,1500.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,30/12/2025,1400.0,1500,1450.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,01/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,01/12/2025,400.0,1350,800.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,02/12/2025,304.0,910,500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,03/12/2025,700.0,1500,1100.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,03/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,03/12/2025,1600.0,2200,1800.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,02/12/2025,425.0,1338,800.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,04/12/2025,490.0,960,740.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,04/12/2025,400.0,1500,950.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,04/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,10/12/2025,1500.0,1700,1600.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,11/12/2025,1250.0,1250,1250.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,15/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,23/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,21/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,31/12/2025,800.0,2000,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,31/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,05/12/2025,400.0,1500,950.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,09/12/2025,700.0,2500,1562.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,07/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,07/12/2025,800.0,1000,900.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,11/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Other,Local,12/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,11/12/2025,1000.0,2200,1600.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,13/12/2025,1000.0,1600,1300.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,16/12/2025,1000.0,2500,1750.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,16/12/2025,1000.0,1500,1250.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,19/12/2025,400.0,1351,1020.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,15/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,29/12/2025,1300.0,1600,1300.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Medium,Medium,31/12/2025,700.0,2000,1350.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,05/01/2026,700.0,1400,1050.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,06/01/2026,1300.0,2100,1700.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,06/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,07/01/2026,1100.0,1100,1100.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,07/01/2026,1200.0,3200,1800.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,08/01/2026,800.0,2000,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,09/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,12/01/2026,1000.0,2500,2000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,14/01/2026,1200.0,2000,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,12/01/2026,800.0,2800,1400.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,02/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,04/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,04/01/2026,1500.0,1600,1600.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,09/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,13/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,12/01/2026,1800.0,2200,2029.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,09/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,14/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,11/01/2026,1600.0,2500,1889.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,15/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,16/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,23/01/2026,1100.0,1300,1200.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,22/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,22/01/2026,1500.0,2000,1769.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,25/01/2026,1500.0,1600,1571.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,25/01/2026,1700.0,2100,2100.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,27/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,27/01/2026,1500.0,1800,1610.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,29/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,29/01/2026,1500.0,1600,1550.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,30/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,03/02/2026,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,02/02/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,02/02/2026,1500.0,2000,1723.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,04/02/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,05/02/2026,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,06/02/2026,1500.0,3000,1927.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,05/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,08/02/2026,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,06/02/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,09/02/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,10/02/2026,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,12/02/2026,1500.0,1800,1800.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,02/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,09/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,12/01/2026,1500.0,1700,1700.0,23
+Rajasthan,Pali,Pali APMC,Onion,Local,Medium,11/01/2026,1450.0,1450,1450.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,01/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,03/01/2026,1100.0,1100,1100.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,05/01/2026,1200.0,2000,1600.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,04/01/2026,1200.0,1600,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,08/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Local,06/01/2026,500.0,1750,1250.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,06/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,09/01/2026,320.0,1500,950.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,08/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,09/01/2026,800.0,1800,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,07/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,13/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,04/01/2026,1200.0,1600,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,05/01/2026,700.0,1400,1050.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,06/01/2026,1300.0,2100,1700.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,06/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,07/01/2026,1100.0,1100,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,08/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,07/01/2026,1200.0,3200,1800.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,09/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,12/01/2026,1000.0,2500,2000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,14/01/2026,1200.0,2000,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,12/01/2026,800.0,2800,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,24/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,26/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Beawar,Bijaynagar APMC,Onion,Other,Local,26/01/2026,800.0,1500,1000.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,26/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,27/01/2026,900.0,1100,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,29/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,Medium,02/02/2026,500.0,1800,1250.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,02/02/2026,1700.0,2100,2000.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,Medium,05/02/2026,500.0,1500,1000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,02/02/2026,300.0,1700,900.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,04/02/2026,1000.0,1100,1050.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,05/02/2026,800.0,1600,1200.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,03/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,07/02/2026,420.0,1300,860.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,04/02/2026,800.0,1600,1200.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,03/02/2026,500.0,1000,700.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,04/02/2026,1000.0,1300,1150.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,05/02/2026,1100.0,1300,1200.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,07/02/2026,1200.0,1600,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,06/02/2026,1300.0,1600,1450.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,10/02/2026,1800.0,2400,2100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,09/02/2026,550.0,1230,800.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,08/02/2026,800.0,2000,1400.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,10/02/2026,700.0,1800,1250.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,10/02/2026,1000.0,1500,1250.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,08/02/2026,900.0,1000,950.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,08/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,09/02/2026,1000.0,1600,1300.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,09/02/2026,1200.0,1500,1350.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,Medium,09/02/2026,600.0,1800,1200.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,09/02/2026,1100.0,1300,1200.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,09/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,04/02/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,05/02/2026,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,06/02/2026,1500.0,3000,1927.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,05/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,08/02/2026,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,06/02/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,09/02/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,10/02/2026,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,12/02/2026,1500.0,1800,1800.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,13/02/2026,1200.0,1400,1300.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,02/02/2026,1400.0,1600,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,06/02/2026,1400.0,1800,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,11/02/2026,500.0,1200,850.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Onion,Medium,09/02/2026,1800.0,2200,2000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,08/02/2026,1400.0,1800,1600.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,09/02/2026,1500.0,1700,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,12/02/2026,500.0,1200,850.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,10/02/2026,1400.0,1800,1600.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,16/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,19/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,26/01/2026,1270.0,1270,1270.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Red,Medium,27/01/2026,500.0,1600,1050.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,03/02/2026,1350.0,1350,1350.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,08/02/2026,1360.0,1360,1360.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,16/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,20/01/2026,400.0,1450,610.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,19/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,21/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,21/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,20/01/2026,1700.0,2200,1900.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,22/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,22/01/2026,430.0,1500,1251.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,22/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,22/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,26/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,27/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,Medium,28/01/2026,600.0,1500,1050.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,31/01/2026,1100.0,2300,1700.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,02/02/2026,700.0,1500,1100.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,05/02/2026,1200.0,1600,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,01/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,11/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,23/01/2026,1200.0,2200,1600.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,27/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,26/01/2026,600.0,1600,1100.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,30/01/2026,1300.0,1700,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,08/11/2025,1200.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,11/11/2025,1200.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,13/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,FAQ,03/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,FAQ,04/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Ganganagar,Suratgarh APMC,Onion,1st Sort,FAQ,05/11/2025,850.0,1150,900.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,18/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,24/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,24/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,25/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,26/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,27/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,13/11/2025,1300.0,1500,1500.0,23
+Rajasthan,Balotra,Balotra APMC,Onion,1st Sort,FAQ,03/11/2025,1500.0,1600,1550.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,Non-FAQ,04/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,Non-FAQ,06/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,06/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,15/11/2025,1500.0,1700,1585.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,18/11/2025,1500.0,1700,1550.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,16/11/2025,1200.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,23/11/2025,1400.0,1500,1450.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,20/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,20/11/2025,1500.0,1700,1600.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,26/11/2025,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,28/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,28/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,18/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,21/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,01/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,13/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,20/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,24/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,26/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Grade A,07/11/2025,1400.0,2500,1900.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Medium,09/11/2025,1000.0,1400,1200.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,08/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Local,11/11/2025,1200.0,1500,1300.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,14/11/2025,600.0,1700,1150.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,18/11/2025,1300.0,2000,1600.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Grade C,15/11/2025,1400.0,2300,1900.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,18/11/2025,1350.0,1550,1450.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,26/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Onion,Medium,26/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,27/11/2025,1500.0,2300,1800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,28/11/2025,1100.0,1100,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,27/11/2025,1100.0,1100,1100.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,28/11/2025,1500.0,2400,1900.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,18/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,18/11/2025,600.0,1400,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,Grade B,18/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,23/11/2025,500.0,1400,950.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,20/11/2025,600.0,1300,950.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Large,20/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,13/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,06/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,05/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,08/11/2025,1000.0,1500,1250.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,10/11/2025,800.0,1300,1050.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,11/11/2025,800.0,1500,1150.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,11/11/2025,2000.0,2400,2200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,12/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Other,FAQ,01/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,FAQ,02/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,02/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,03/11/2025,800.0,1500,1150.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,04/11/2025,800.0,1600,1200.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,04/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Non-FAQ,04/11/2025,1600.0,2000,1800.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,FAQ,05/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,18/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,18/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,20/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,19/11/2025,350.0,1045,750.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,21/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,23/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,24/11/2025,800.0,1200,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,25/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Local,25/11/2025,500.0,1375,900.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,27/11/2025,500.0,1500,1000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,27/11/2025,2200.0,2400,2300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,30/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,29/11/2025,1100.0,1300,1200.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Other,FAQ,06/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,06/11/2025,800.0,1500,1150.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,13/11/2025,800.0,1600,1300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,11/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,13/11/2025,900.0,1100,1000.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,14/11/2025,700.0,1600,1400.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,24/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,30/12/2025,900.0,900,900.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,09/12/2025,2400.0,3000,2800.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,01/12/2025,800.0,1500,1100.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,26/12/2025,400.0,700,500.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,01/12/2025,500.0,1500,1000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,02/12/2025,1700.0,2000,1850.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,03/12/2025,300.0,1500,900.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,04/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,09/12/2025,800.0,1200,1000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,06/12/2025,1700.0,2000,1850.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,FAQ,06/12/2025,800.0,1000,900.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,09/12/2025,700.0,1650,1150.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,10/12/2025,800.0,1300,1050.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,06/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,08/12/2025,400.0,800,600.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,07/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,08/12/2025,500.0,1600,750.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,09/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,10/12/2025,600.0,2000,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,09/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,10/12/2025,1000.0,2200,1600.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Other,Local,11/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Local,11/12/2025,750.0,2500,1450.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,12/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,12/12/2025,1000.0,1300,1200.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,15/12/2025,1400.0,1600,1500.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,15/12/2025,800.0,2500,1650.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,12/12/2025,550.0,2200,1250.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,15/12/2025,1000.0,2200,1600.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,16/12/2025,421.0,1681,1300.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,16/12/2025,800.0,1800,1300.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,16/12/2025,750.0,2500,1625.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,18/12/2025,1000.0,1100,1050.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,17/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,19/12/2025,800.0,1600,1200.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,19/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,23/12/2025,523.0,2061,1251.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,23/12/2025,1500.0,1800,1650.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,19/12/2025,800.0,1700,1250.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,23/12/2025,500.0,1700,1100.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,20/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,01/12/2025,300.0,730,680.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,22/12/2025,1000.0,18000,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,24/12/2025,1000.0,1800,1400.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,21/12/2025,900.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,24/12/2025,1600.0,1800,1700.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,24/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,24/12/2025,500.0,1700,1100.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,23/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,26/12/2025,1400.0,1800,1600.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,26/12/2025,500.0,2150,1250.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,29/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,26/12/2025,1675.0,1725,1700.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,28/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,31/12/2025,1600.0,1600,1600.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,29/12/2025,1400.0,1600,1500.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,29/12/2025,850.0,850,850.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,31/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,30/12/2025,800.0,2200,1600.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,30/12/2025,900.0,1100,1000.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,28/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,30/12/2025,900.0,1350,1150.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,31/12/2025,1350.0,1350,1350.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,01/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,04/12/2025,1200.0,1400,1400.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,05/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,09/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,05/12/2025,1200.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,09/12/2025,1200.0,1500,1359.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,10/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,10/12/2025,900.0,1100,1000.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,10/12/2025,1200.0,1700,1418.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,11/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,11/12/2025,1400.0,2000,1829.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,12/12/2025,1800.0,2000,1833.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,14/12/2025,1500.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,15/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,16/12/2025,1100.0,1200,1150.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,17/12/2025,1600.0,2300,2300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,16/12/2025,1500.0,2000,1733.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,18/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,21/12/2025,1800.0,2000,1900.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,21/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,22/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,22/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,20/12/2025,1100.0,1200,1150.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,25/12/2025,1500.0,2000,1778.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,23/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,23/12/2025,1500.0,2100,2100.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,25/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,27/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,26/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,29/12/2025,1900.0,1900,1900.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,30/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,30/12/2025,1500.0,1700,1700.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,03/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,22/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,24/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,03/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,03/12/2025,1250.0,1450,1350.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,05/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,08/12/2025,600.0,1000,800.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,12/12/2025,600.0,1200,900.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,17/12/2025,1400.0,2700,2000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,16/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,19/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,18/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,18/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,24/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,22/12/2025,700.0,1400,1050.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,25/12/2025,1200.0,1800,1500.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,27/12/2025,1700.0,2500,2000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,28/12/2025,1300.0,1800,1550.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,29/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,30/12/2025,700.0,1300,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,04/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,05/12/2025,1250.0,1450,1350.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,09/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,07/12/2025,600.0,1000,800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,07/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,15/12/2025,1200.0,2300,1700.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,01/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,01/01/2026,1300.0,2600,2100.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,02/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,05/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,06/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,06/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,08/01/2026,1000.0,1400,1200.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,13/01/2026,900.0,1300,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,09/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,08/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,09/01/2026,1500.0,2800,2200.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,13/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,13/01/2026,1100.0,2600,2000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,16/01/2026,900.0,1300,1100.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,17/01/2026,1500.0,2300,1800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,17/01/2026,800.0,800,800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,19/01/2026,800.0,1200,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,10/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,11/01/2026,1100.0,1100,1100.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Local,14/01/2026,1500.0,1800,1600.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,14/01/2026,900.0,1300,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,16/01/2026,800.0,800,800.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,22/01/2026,1300.0,2600,1900.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,04/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,10/02/2026,1000.0,1600,1200.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,24/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,23/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,27/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,03/02/2026,700.0,1500,1100.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,02/02/2026,1400.0,2700,2100.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,27/01/2026,1260.0,1260,1260.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,28/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,29/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Red,Medium,11/02/2026,500.0,1500,1000.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,11/02/2026,1320.0,1320,1320.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,12/02/2026,1350.0,1350,1350.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,21/01/2026,800.0,1200,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,29/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,29/01/2026,700.0,1500,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,30/01/2026,1100.0,1100,1100.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,06/02/2026,1400.0,2500,1900.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,11/02/2026,1000.0,1200,1100.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,12/02/2026,1400.0,1400,1400.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,13/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,11/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,12/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,05/02/2026,1300.0,2400,2000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,07/02/2026,1300.0,2600,2000.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,06/02/2026,600.0,1200,900.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,06/02/2026,1300.0,1500,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,07/02/2026,1400.0,1600,1500.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Local,09/02/2026,1500.0,1800,1600.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,10/02/2026,1200.0,2400,1800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,11/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,13/02/2026,500.0,1200,850.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,01/01/2026,500.0,2250,1325.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,02/01/2026,1000.0,2200,1600.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,03/01/2026,1300.0,1600,1450.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,05/01/2026,430.0,1780,1080.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,04/01/2026,1100.0,1300,1200.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,07/01/2026,800.0,1800,1300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,05/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,06/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,05/01/2026,1200.0,1200,1200.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,12/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,06/01/2026,410.0,1600,950.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,07/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,07/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,06/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,07/01/2026,1675.0,1725,1700.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,07/01/2026,400.0,1600,880.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,07/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,09/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,10/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,10/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,09/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,14/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,12/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,11/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,12/01/2026,350.0,1880,1250.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,15/01/2026,463.0,1350,950.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,15/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,18/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Pali,Pali APMC,Onion,Other,Medium,19/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,20/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,27/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,26/01/2026,1100.0,1300,1200.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,27/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,28/01/2026,450.0,1610,900.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,20/01/2026,800.0,1800,1300.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,19/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,19/01/2026,1000.0,1050,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,21/01/2026,800.0,2000,1400.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,21/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,21/01/2026,420.0,1600,800.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,21/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,21/01/2026,900.0,1100,1000.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,22/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,22/01/2026,800.0,1800,1300.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,22/01/2026,1700.0,2400,2100.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,21/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,22/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,23/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,25/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,29/01/2026,800.0,1600,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,27/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,29/01/2026,700.0,2000,1300.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,29/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,28/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,29/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,31/01/2026,1975.0,2025,2000.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,31/01/2026,300.0,1290,800.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,02/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,03/02/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,03/02/2026,800.0,1600,1200.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,02/02/2026,1200.0,1400,1300.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,06/02/2026,800.0,1600,1200.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,05/02/2026,301.0,1451,680.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,05/02/2026,1100.0,1300,1200.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,06/02/2026,800.0,2300,1600.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,11/02/2026,600.0,1200,900.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,07/02/2026,1000.0,1500,1250.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,FAQ,08/02/2026,800.0,1400,1100.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,10/02/2026,600.0,1540,1070.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,09/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,09/02/2026,700.0,2300,1500.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,10/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,13/02/2026,1200.0,1700,1450.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,11/02/2026,1000.0,1600,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,11/02/2026,1000.0,2000,1500.0,23
+Rajasthan,Pali,Pali APMC,Onion,Local,Medium,12/01/2026,950.0,950,950.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,02/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,01/01/2026,1500.0,1800,1650.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,02/01/2026,1800.0,2000,1960.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,07/01/2026,1500.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,07/01/2026,2000.0,2500,2167.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,08/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,10/01/2026,1500.0,1800,1650.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,09/01/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,09/01/2026,2000.0,2200,2200.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,08/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,13/01/2026,1500.0,2200,2200.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,FAQ,17/01/2026,1500.0,1800,1650.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,20/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Medium,19/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,19/01/2026,1200.0,1600,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,18/01/2026,1900.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,19/01/2026,1800.0,2000,2000.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,21/01/2026,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,20/01/2026,1500.0,1800,1550.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,22/01/2026,2100.0,2100,2100.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,23/01/2026,1600.0,1800,1733.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,24/01/2026,1500.0,2000,1712.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,24/01/2026,1600.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,29/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,25/01/2026,2200.0,2200,2200.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,26/01/2026,1500.0,1800,1800.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,30/01/2026,1100.0,1300,1200.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,28/01/2026,1500.0,1700,1592.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,29/01/2026,2400.0,2400,2400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,29/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,30/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,02/02/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,03/02/2026,1500.0,1700,1617.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,04/02/2026,1400.0,1600,1472.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,07/02/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,05/02/2026,1500.0,1600,1544.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,07/02/2026,1500.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,11/02/2026,1400.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,10/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,10/02/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,10/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,13/02/2026,1300.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,11/02/2026,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,12/02/2026,1500.0,2000,1690.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,12/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,11/02/2026,1300.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,12/02/2026,1000.0,1200,1100.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,08/12/2025,975.0,1025,1000.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,27/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Hanumangarh(Urlivas) APMC,Onion,1st Sort,Non-FAQ,20/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,12/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Onion,1st Sort,Non-FAQ,18/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,25/11/2025,2200.0,2400,2300.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,25/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,26/11/2025,2400.0,2600,2500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,26/11/2025,900.0,1700,1250.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,27/11/2025,450.0,1400,950.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,28/11/2025,1800.0,2200,2000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,28/11/2025,800.0,1200,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,28/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,14/11/2025,500.0,800,650.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,13/11/2025,1400.0,2700,2000.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,13/11/2025,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,12/11/2025,1200.0,2600,1800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,FAQ,02/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,FAQ,04/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,28/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,30/11/2025,600.0,1300,950.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,12/11/2025,1000.0,1800,1400.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,10/11/2025,375.0,1200,800.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,10/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,11/11/2025,1000.0,1000,1000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,01/11/2025,800.0,1500,1150.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,FAQ,01/11/2025,600.0,1300,950.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,FAQ,02/11/2025,600.0,1300,950.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Other,FAQ,03/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,05/11/2025,1200.0,1600,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,FAQ,05/11/2025,800.0,1500,1150.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,12/11/2025,375.0,1250,875.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,13/11/2025,500.0,1000,700.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,17/11/2025,800.0,1800,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,18/11/2025,301.0,1140,885.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,17/11/2025,800.0,1300,1050.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,16/11/2025,1000.0,1200,1100.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,19/11/2025,800.0,1300,1050.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,21/11/2025,2200.0,2400,2300.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,21/11/2025,400.0,1300,850.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,20/11/2025,800.0,1300,1050.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,22/11/2025,2000.0,2200,2100.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,20/11/2025,300.0,1500,900.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,21/11/2025,500.0,1500,950.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,25/11/2025,270.0,890,710.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Other,FAQ,05/11/2025,1300.0,1700,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,13/11/2025,1000.0,2000,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,14/11/2025,800.0,1300,1050.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,15/11/2025,1600.0,2000,1800.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,18/11/2025,1000.0,1400,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,17/11/2025,600.0,1400,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,19/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,20/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,20/11/2025,1450.0,1650,1550.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,22/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,23/11/2025,1500.0,2200,1800.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,20/11/2025,1500.0,2200,1800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,24/11/2025,1200.0,1200,1200.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,25/11/2025,600.0,1300,950.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,25/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,14/11/2025,1400.0,1600,1500.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,14/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,15/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,15/11/2025,600.0,1700,1150.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,1st Sort,FAQ,10/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,12/11/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,12/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,02/11/2025,1400.0,1500,1440.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,26/11/2025,1200.0,1500,1425.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,17/11/2025,2.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,18/11/2025,1200.0,1400,1400.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,20/11/2025,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,22/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,23/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,20/11/2025,1100.0,1400,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,21/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,21/11/2025,1200.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,25/11/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,26/11/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,28/11/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,14/11/2025,1500.0,1600,1515.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,17/11/2025,1100.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,17/11/2025,1500.0,1700,1614.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,17/11/2025,1200.0,1400,1300.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,22/11/2025,1200.0,1400,1400.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,21/11/2025,1000.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,25/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,08/12/2025,2400.0,3000,2800.0,23
+Rajasthan,Baran,Baran APMC,Onion,Other,Local,12/12/2025,500.0,800,600.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,16/12/2025,4000.0,4400,4200.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,02/12/2025,1000.0,2300,1600.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,02/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,03/12/2025,600.0,1300,950.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,06/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,08/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,12/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,11/12/2025,1300.0,2200,1600.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,13/12/2025,1100.0,2000,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,15/12/2025,1300.0,1600,1450.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,17/12/2025,1350.0,1550,1450.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,04/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,05/12/2025,600.0,1100,850.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,09/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,09/12/2025,600.0,1000,800.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,08/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,12/12/2025,1200.0,2100,1500.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,15/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,18/12/2025,1500.0,2600,1900.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,19/12/2025,1400.0,2500,1800.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,21/12/2025,1200.0,1600,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,26/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,29/12/2025,1700.0,2500,2000.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,11/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,01/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,02/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,04/12/2025,1300.0,1500,1423.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,03/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,04/12/2025,1000.0,1100,1050.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,FAQ,05/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,08/12/2025,1100.0,1300,1300.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,07/12/2025,2.3,3000,2700.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,08/12/2025,1200.0,1500,1383.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,12/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,13/12/2025,1000.0,2000,1720.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,13/12/2025,1500.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,Grade A,19/12/2025,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,20/12/2025,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,23/12/2025,1500.0,2000,1763.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,24/12/2025,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,24/12/2025,1500.0,2200,2200.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,25/12/2025,1200.0,1400,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,26/12/2025,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,26/12/2025,1800.0,2000,1927.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,01/12/2025,1800.0,2200,2000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,01/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,02/12/2025,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,05/12/2025,300.0,1131,700.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,03/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,09/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,23/12/2025,1000.0,1200,1100.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,23/12/2025,1000.0,1000,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,27/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,31/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,28/12/2025,800.0,2200,1600.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,30/12/2025,1000.0,1050,1020.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,30/12/2025,1000.0,1700,1350.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,31/12/2025,900.0,2200,1550.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,01/12/2025,1200.0,1200,1200.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Local,21/12/2025,1200.0,1500,1300.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,28/12/2025,700.0,1200,950.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,27/12/2025,1100.0,1100,1100.0,23
+Rajasthan,Sirohi,Abu Road APMC,Onion,Other,Local,08/12/2025,1275.0,1325,1300.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,06/12/2025,450.0,760,500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,05/12/2025,1100.0,1300,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,08/12/2025,1200.0,2000,1600.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,10/12/2025,700.0,1300,1050.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,08/12/2025,1400.0,1400,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,08/12/2025,600.0,1100,850.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,Medium,08/12/2025,300.0,2000,1150.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Grade C,08/12/2025,1000.0,1500,1300.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,11/12/2025,800.0,1800,1300.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,11/12/2025,400.0,1800,1300.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,12/12/2025,400.0,1670,1150.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,13/12/2025,1600.0,1800,1700.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,15/12/2025,1000.0,1700,1350.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,14/12/2025,1000.0,1600,1300.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,17/12/2025,1000.0,2200,1600.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,18/12/2025,1000.0,1750,1350.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,17/12/2025,900.0,1100,1000.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,17/12/2025,1000.0,1500,1250.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,23/12/2025,800.0,2000,1300.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,18/12/2025,800.0,1800,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,25/12/2025,1300.0,1300,1300.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,27/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,27/12/2025,1600.0,1800,1700.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,31/12/2025,1500.0,2500,2000.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,29/12/2025,1000.0,1100,1050.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,29/12/2025,500.0,2375,1425.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,30/12/2025,900.0,2200,1550.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,10/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,12/02/2026,1200.0,1600,1400.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,12/02/2026,1200.0,1700,1450.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,11/02/2026,1300.0,1600,1450.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,12/02/2026,700.0,1600,1200.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,05/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,02/02/2026,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,07/02/2026,1350.0,1350,1350.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,10/02/2026,1320.0,1320,1320.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,11/02/2026,1400.0,1800,1600.0,23
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Onion,Medium,12/02/2026,1600.0,2000,1800.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,13/02/2026,1300.0,2500,1900.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,01/01/2026,1000.0,1100,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,01/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,02/01/2026,550.0,1700,1250.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,02/01/2026,1100.0,1300,1200.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,06/01/2026,1100.0,2200,1650.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,05/01/2026,500.0,1750,1250.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,06/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,05/01/2026,800.0,2000,1400.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,05/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,06/01/2026,1100.0,1300,1200.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Other,Grade Range-1,07/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,06/01/2026,800.0,2200,1500.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,09/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,09/01/2026,800.0,2000,1400.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,08/01/2026,500.0,1625,1250.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,08/01/2026,800.0,2200,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,12/01/2026,700.0,2300,1500.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,13/01/2026,700.0,2200,1400.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,09/01/2026,1200.0,1200,1200.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,12/01/2026,1000.0,1100,1020.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,12/01/2026,1500.0,2000,1750.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,13/01/2026,450.0,1400,1000.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,13/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,15/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,15/01/2026,400.0,1701,650.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,15/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,16/01/2026,800.0,2000,1400.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Local,15/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,17/01/2026,800.0,1600,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,16/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,19/01/2026,1700.0,2300,2000.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,07/01/2026,1260.0,1260,1260.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,08/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,15/01/2026,1300.0,1300,1300.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,20/01/2026,1250.0,1250,1250.0,23
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,22/01/2026,1270.0,1270,1270.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,14/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,16/01/2026,1400.0,2200,1700.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,21/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,27/01/2026,1200.0,1600,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,29/01/2026,1200.0,1200,1200.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,03/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,04/02/2026,1200.0,1200,1200.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,04/02/2026,1400.0,1600,1500.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,04/02/2026,1400.0,1800,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,02/01/2026,700.0,1200,950.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,03/01/2026,1200.0,1600,1400.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,05/01/2026,1200.0,1400,1300.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,05/01/2026,1000.0,1000,1000.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,07/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,09/01/2026,800.0,2000,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,14/01/2026,800.0,1500,1150.0,23
+Rajasthan,Jalore,Jalore APMC,Onion,Onion,Local,16/01/2026,1200.0,1500,1300.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,21/01/2026,600.0,1500,1050.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,15/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,20/01/2026,700.0,1500,1100.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,19/01/2026,800.0,800,800.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,22/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,23/01/2026,500.0,1500,1000.0,23
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,24/01/2026,1600.0,1800,1700.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,01/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,03/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,06/01/2026,2000.0,2200,2114.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,FAQ,05/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,05/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,06/01/2026,1500.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,07/01/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,07/01/2026,1500.0,1800,1650.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,09/01/2026,1800.0,2500,1929.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,13/01/2026,1500.0,1800,1620.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,10/01/2026,2000.0,2500,2167.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,10/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,14/01/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,11/01/2026,1500.0,1900,1900.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,11/01/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,12/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,11/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,13/01/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,14/01/2026,1800.0,2300,2300.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,14/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,15/01/2026,1800.0,2000,1914.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,15/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,17/01/2026,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,19/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,21/01/2026,2000.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,22/01/2026,1500.0,1700,1600.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,23/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,24/01/2026,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,27/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,27/01/2026,2400.0,2400,2400.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,27/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,28/01/2026,1800.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,28/01/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,29/01/2026,1700.0,1700,1700.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,01/02/2026,1400.0,1500,1455.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,05/02/2026,1300.0,1500,1400.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,04/02/2026,1300.0,1400,1350.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,05/02/2026,1500.0,2000,2000.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,03/02/2026,1500.0,1800,1800.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,03/02/2026,1500.0,1500,1500.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,04/02/2026,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Local,03/02/2026,1500.0,2000,1750.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,04/02/2026,1300.0,1300,1300.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,06/02/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,06/02/2026,1400.0,1800,1800.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade B,10/02/2026,1600.0,2500,1925.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,09/02/2026,1300.0,1500,1400.0,23
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,12/02/2026,1400.0,1400,1400.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,10/02/2026,1600.0,1600,1600.0,23
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,FAQ,13/02/2026,1600.0,1800,1753.0,23
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Onion,1st Sort,Non-FAQ,11/02/2026,1700.0,1700,1700.0,23
+Rajasthan,Churu,Churu APMC,Onion,1st Sort,FAQ,13/02/2026,1100.0,1300,1200.0,23
+Rajasthan,Hanumangarh,Dablirathan APMC,Onion,1st Sort,Grade A,12/02/2026,1500.0,1600,1550.0,23
+Rajasthan,Jaipur Rural,Bassi APMC,Onion,Other,Local,30/01/2026,1400.0,1600,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,01/02/2026,800.0,1600,1200.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,02/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,03/02/2026,800.0,1600,1200.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,03/02/2026,1000.0,1200,1100.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,04/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,05/02/2026,700.0,2200,1500.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,06/02/2026,900.0,1100,1000.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,03/02/2026,750.0,750,750.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,06/02/2026,300.0,1344,930.0,23
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,09/02/2026,1000.0,1000,1000.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,12/02/2026,600.0,1200,900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,09/02/2026,1000.0,1800,1400.0,23
+Rajasthan,Alwar,Alwar APMC,Onion,Other,Medium,11/02/2026,1800.0,2300,2100.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,27/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,27/01/2026,1000.0,1100,1050.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,27/01/2026,620.0,1671,790.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,28/01/2026,700.0,2200,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,28/01/2026,900.0,1100,1000.0,23
+Rajasthan,Sanchore,Sanchore APMC,Onion,Other,Local,29/01/2026,1000.0,1100,1000.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,03/02/2026,700.0,2200,1500.0,23
+Rajasthan,Bikaner,Bikaner (F&V) APMC,Onion,Other,Medium,19/01/2026,1400.0,1400,1400.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,18/01/2026,1100.0,1300,1200.0,23
+Rajasthan,Churu,Sujangarh APMC,Onion,Other,Local,20/01/2026,1000.0,1200,1100.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,21/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,23/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,28/01/2026,1200.0,1800,1500.0,23
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,Other,Medium,28/01/2026,800.0,1600,1200.0,23
+Rajasthan,Jaipur Rural,Chomu (F&V) APMC,Onion,Other,Non-FAQ,27/01/2026,1000.0,2000,1500.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,29/01/2026,300.0,1400,900.0,23
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,29/01/2026,1000.0,1800,1400.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Other,Medium,31/01/2026,500.0,1800,1250.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,30/01/2026,700.0,1800,1400.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,11/01/2026,800.0,2000,1400.0,23
+Rajasthan,Bharatpur,Bayana APMC,Onion,Onion,Local,12/01/2026,800.0,800,800.0,23
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,09/02/2026,500.0,1400,950.0,23
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,09/02/2026,1500.0,1700,1600.0,23
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,09/02/2026,1300.0,2800,1900.0,23
+Rajasthan,Bhilwara,Bhilwara APMC,Onion,Other,FAQ,19/01/2026,1000.0,2500,1750.0,23
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,16/01/2026,410.0,1430,920.0,23
+Rajasthan,Ajmer,Ajmer(F&V) APMC,Onion,Other,Medium,20/01/2026,800.0,2200,1500.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,05/02/2026,800.0,1500,1500.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Medium,Medium,29/01/2026,500.0,1500,1000.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Medium,Medium,04/02/2026,500.0,1800,1150.0,23
+Rajasthan,Jhunjhunu,Jhunjhunu APMC,Onion,Local,FAQ,20/01/2026,1600.0,1600,1600.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Medium,Medium,30/01/2026,500.0,1400,950.0,23
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion,Medium,Medium,21/01/2026,500.0,1500,1000.0,23
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota) APMC,Onion Green,Other,FAQ,03/11/2025,500.0,1500,1000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,17/11/2025,2000.0,3000,2500.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,19/11/2025,1000.0,1200,1100.0,358
+Rajasthan,Jodhpur,Paota - Jodhpur FV APMC,Onion Green,Other,FAQ,02/11/2025,500.0,1500,1000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,09/11/2025,1000.0,1500,1200.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,27/11/2025,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,03/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,05/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,06/12/2025,1500.0,2000,1800.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,26/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,27/12/2025,1500.0,2000,1800.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,10/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,12/12/2025,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,13/12/2025,1000.0,1500,1200.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,13/12/2025,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,23/12/2025,1500.0,2000,1800.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,18/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,12/12/2025,600.0,1500,1200.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,01/01/2026,1500.0,2000,1750.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,08/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,13/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,14/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,16/01/2026,1500.0,2000,1800.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,15/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,26/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,30/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,03/02/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,09/02/2026,1000.0,1800,1400.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,10/02/2026,1500.0,1800,1600.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,12/02/2026,1200.0,1500,1300.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,20/01/2026,500.0,1200,1000.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,30/01/2026,500.0,2000,1200.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,13/11/2025,800.0,1000,900.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,12/11/2025,2000.0,2500,2250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,27/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Other,FAQ,02/11/2025,1000.0,1400,1200.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Other,FAQ,03/11/2025,1000.0,1200,1100.0,358
+Rajasthan,Jodhpur,Paota - Jodhpur FV APMC,Onion Green,Other,FAQ,01/11/2025,500.0,1500,1000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,13/11/2025,2000.0,3500,2750.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,14/11/2025,1500.0,2000,1800.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,21/11/2025,1000.0,1200,1100.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,18/11/2025,2000.0,2500,2250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,15/11/2025,1000.0,1200,1100.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,16/11/2025,1000.0,1200,1100.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,20/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,23/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,16/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,18/12/2025,1000.0,1400,1200.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,17/12/2025,1000.0,2000,1500.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,22/12/2025,1000.0,2000,1500.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,24/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,29/12/2025,1000.0,1500,1250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,28/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,02/12/2025,1000.0,1400,1200.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,07/12/2025,1000.0,2000,1500.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,11/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,11/12/2025,2000.0,2500,2250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,01/12/2025,1500.0,4000,2750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,08/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,12/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,18/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,23/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,28/01/2026,1000.0,2000,1500.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,05/02/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,07/02/2026,1500.0,2000,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,13/02/2026,1500.0,2500,2000.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,22/01/2026,500.0,1200,1000.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,27/01/2026,500.0,1200,800.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,04/02/2026,500.0,1500,1000.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,12/02/2026,600.0,1500,1200.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,23/11/2025,800.0,1000,900.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,25/11/2025,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,26/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,14/11/2025,2000.0,2500,2250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,17/11/2025,1000.0,1200,1100.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,12/11/2025,800.0,1200,1000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,11/11/2025,1000.0,1500,1200.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,28/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Other,FAQ,01/11/2025,800.0,1000,900.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Other,FAQ,06/11/2025,800.0,1000,900.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,07/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,09/12/2025,1000.0,1200,1100.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,27/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,28/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,31/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,14/12/2025,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,14/12/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,16/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,17/12/2025,1000.0,1200,1100.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,19/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,21/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,15/12/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,05/01/2026,1000.0,1800,1400.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,07/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,13/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,09/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,16/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,17/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,29/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,29/01/2026,1000.0,2000,1500.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,10/02/2026,1000.0,1800,1400.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,12/02/2026,1500.0,2500,2000.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,21/01/2026,500.0,1400,1000.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,02/02/2026,500.0,2000,1200.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Other,Local,10/11/2025,1000.0,1500,1200.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Other,Local,08/11/2025,1500.0,1800,1700.0,358
+Rajasthan,Jodhpur,Paota - Jodhpur FV APMC,Onion Green,Other,FAQ,03/11/2025,500.0,1500,1000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,25/11/2025,2000.0,3000,2500.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,26/11/2025,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,28/11/2025,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,11/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,30/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,08/11/2025,2000.0,2500,2250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,07/11/2025,2000.0,2500,2250.0,358
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota) APMC,Onion Green,Other,FAQ,01/11/2025,500.0,1500,1000.0,358
+Rajasthan,Sanchore,Sanchore APMC,Onion Green,Other,Local,06/01/2026,1000.0,1100,1050.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,25/12/2025,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,30/12/2025,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,02/12/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,03/12/2025,1500.0,2500,2000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,10/12/2025,2000.0,2500,2250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,06/01/2026,800.0,1000,900.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,11/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,10/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,14/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,20/01/2026,1000.0,2000,1500.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,31/01/2026,1000.0,2000,1500.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,01/02/2026,1000.0,1500,1250.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,10/02/2026,500.0,1300,1000.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,13/02/2026,500.0,1500,1000.0,358
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota) APMC,Onion Green,Other,FAQ,02/11/2025,500.0,1500,1000.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,15/11/2025,2000.0,2500,2250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,24/11/2025,2000.0,3000,2500.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,19/11/2025,2000.0,2500,2250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,22/11/2025,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,29/11/2025,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,29/11/2025,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,10/11/2025,2000.0,3000,2500.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Other,FAQ,04/11/2025,800.0,1000,900.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,24/12/2025,800.0,1500,1200.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,15/12/2025,1000.0,1400,1200.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,23/12/2025,1500.0,2000,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,04/12/2025,2000.0,2500,2250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,09/12/2025,2000.0,2500,2250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,06/12/2025,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,08/12/2025,1000.0,1400,1200.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,08/12/2025,1000.0,2500,1750.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,10/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,12/01/2026,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,11/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,15/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,21/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,22/01/2026,1000.0,1500,1250.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,31/01/2026,1200.0,1400,1300.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,04/02/2026,1200.0,1500,1300.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,04/02/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,06/02/2026,1000.0,1500,1250.0,358
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion Green,Onion Green,Medium,11/02/2026,1500.0,2500,2000.0,358
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,11/02/2026,1000.0,1200,1100.0,358
+Rajasthan,Jodhpur,Jodhpur (F&V) APMC,Onion Green,Other,Medium,03/02/2026,500.0,1500,1000.0,358

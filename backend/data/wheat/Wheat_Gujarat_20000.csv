@@ -1,0 +1,1501 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,29/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,04/11/2025,2255.0,2625.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,18/11/2025,2150.0,2620.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,24/11/2025,2300.0,2700.0,2550.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,27/11/2025,2350.0,2600.0,2520.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,28/11/2025,2250.0,2650.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,29/11/2025,2300.0,2620.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,15/11/2025,2375.0,3000.0,2535.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,19/11/2025,2350.0,2800.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,20/11/2025,2375.0,3160.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,29/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,10/11/2025,2530.0,3080.0,2850.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,12/11/2025,2750.0,3105.0,3000.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,18/11/2025,2650.0,3000.0,2900.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,20/11/2025,2650.0,3000.0,2850.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,22/11/2025,2500.0,2800.0,2700.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,24/11/2025,2650.0,2950.0,2750.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,26/11/2025,2650.0,3040.0,2900.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,147 Average,FAQ,04/11/2025,2400.0,2625.0,2625.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,FAQ,06/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,22/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,21/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,25/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,05/11/2025,2275.0,2575.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,17/11/2025,2350.0,2620.0,2500.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,White,FAQ,01/11/2025,2480.0,2480.0,2480.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,12/11/2025,2225.0,2675.0,2415.0,1
+Gujarat,Jamnagar,Dhrol APMC,Wheat,Other,Local,08/11/2025,506.0,542.0,524.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,13/11/2025,2400.0,2715.0,2557.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,13/11/2025,2145.0,2550.0,2500.0,1
+Gujarat,Anand,Khambhat APMC,Wheat,Other,Local,12/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,13/11/2025,2500.0,2500.0,2500.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,11/11/2025,2560.0,2760.0,2650.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,14/11/2025,2145.0,2645.0,2450.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,Non-FAQ,01/11/2025,2250.0,2400.0,2325.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,FAQ,01/11/2025,2450.0,2550.0,2500.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Other,FAQ,01/11/2025,2425.0,2600.0,2480.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Other,FAQ,03/11/2025,2380.0,2670.0,2525.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,FAQ,03/11/2025,2425.0,2450.0,2450.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,03/11/2025,2425.0,2550.0,2487.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,03/11/2025,2500.0,2750.0,2625.0,1
+Gujarat,Botad,Botad APMC,Wheat,Other,Non-FAQ,04/11/2025,2600.0,2870.0,2750.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,FAQ,04/11/2025,2400.0,2870.0,2675.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,FAQ,04/11/2025,2470.0,2625.0,2515.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,04/11/2025,2450.0,2580.0,2550.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Other,FAQ,04/11/2025,2400.0,2660.0,2550.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,FAQ,04/11/2025,2500.0,2600.0,2600.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,05/11/2025,2460.0,2550.0,2505.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,05/11/2025,2000.0,2750.0,2500.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Other,FAQ,05/11/2025,2425.0,2605.0,2525.0,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,05/11/2025,2500.0,2705.0,2603.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,05/11/2025,2500.0,2750.0,2625.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Other,Non-FAQ,06/11/2025,2350.0,2450.0,2400.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,06/11/2025,2555.0,2740.0,2650.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,12/11/2025,2500.0,2625.0,2562.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,14/11/2025,2550.0,2600.0,2575.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,14/11/2025,2500.0,2625.0,2562.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,14/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,14/11/2025,2500.0,2600.0,2600.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,14/11/2025,2450.0,2750.0,2550.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,14/11/2025,2425.0,3105.0,2765.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,14/11/2025,2570.0,2825.0,2697.5,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,29/11/2025,2250.0,2700.0,2450.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,15/11/2025,2000.0,2630.0,2450.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,Local,13/11/2025,2622.0,2622.0,2622.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,FAQ,06/11/2025,2195.0,2575.0,2515.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,08/11/2025,2500.0,2700.0,2600.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,Local,10/11/2025,2000.0,2685.0,2600.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,10/11/2025,2500.0,2650.0,2575.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,11/11/2025,2565.0,2775.0,2700.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,10/11/2025,2450.0,2600.0,2525.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,10/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,10/11/2025,2535.0,2825.0,2750.0,1
+Gujarat,Mehsana,Vijapur APMC,Wheat,Other,FAQ,07/11/2025,2540.0,2540.0,2540.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,Local,10/11/2025,2850.0,3000.0,2925.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,Local,12/11/2025,2000.0,2700.0,2500.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,07/11/2025,2455.0,2800.0,2500.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,07/11/2025,2305.0,2305.0,2305.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,Local,13/11/2025,2000.0,2750.0,2500.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,03/11/2025,2505.0,2725.0,2625.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Other,FAQ,03/11/2025,2500.0,2600.0,2550.0,1
+Gujarat,Devbhumi Dwarka,Jam Khambalia APMC,Wheat,Other,Non-FAQ,03/11/2025,2250.0,2545.0,2505.0,1
+Gujarat,Jamnagar,Dhrol APMC,Wheat,Other,FAQ,03/11/2025,2250.0,2780.0,2515.0,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,03/11/2025,2550.0,2700.0,2625.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,14/11/2025,2470.0,3050.0,2750.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,13/11/2025,2505.0,2800.0,2700.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,15/11/2025,2500.0,2500.0,2500.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,15/11/2025,2500.0,2825.0,2650.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,15/11/2025,2450.0,2770.0,2635.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,02/12/2025,2375.0,2570.0,2470.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,03/12/2025,2450.0,2660.0,2555.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,06/12/2025,2400.0,2500.0,2450.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,05/12/2025,2400.0,2500.0,2450.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Deshi,Local,10/12/2025,2602.5,2602.5,2602.5,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Deshi,FAQ,10/12/2025,2622.0,2622.0,2622.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Deshi,Local,16/12/2025,2663.0,2663.0,2663.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,16/12/2025,2500.0,2625.0,2560.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,19/12/2025,2500.0,2545.0,2520.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Deshi,Local,22/12/2025,2640.0,2640.0,2640.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,22/12/2025,2450.0,2640.0,2545.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Deshi,FAQ,31/12/2025,2552.0,2552.0,2552.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,31/12/2025,2400.0,2500.0,2450.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,03/12/2025,2500.0,2675.0,2585.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,25/12/2025,2475.0,2550.0,2512.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,01/12/2025,2355.0,3095.0,2725.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,05/12/2025,2580.0,3315.0,2948.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,19/12/2025,2085.0,2855.0,2470.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,27/12/2025,2000.0,2805.0,2405.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,01/12/2025,2500.0,2815.0,2650.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,02/12/2025,2500.0,2710.0,2625.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,03/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,04/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,08/12/2025,2400.0,2850.0,2650.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,16/12/2025,2400.0,2650.0,2525.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,17/12/2025,2425.0,2715.0,2525.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,17/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,18/12/2025,2325.0,2700.0,2500.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,23/12/2025,2450.0,2655.0,2600.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,23/12/2025,2350.0,2505.0,2480.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,23/12/2025,2400.0,2735.0,2550.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,20/12/2025,2485.0,2725.0,2520.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,22/12/2025,2450.0,2685.0,2500.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,24/12/2025,2450.0,2730.0,2580.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,22/12/2025,2475.0,2785.0,2575.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,25/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,27/12/2025,2425.0,2650.0,2575.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,27/12/2025,2420.0,2645.0,2565.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,31/12/2025,2375.0,2555.0,2450.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,01/12/2025,2420.0,2630.0,2520.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,05/12/2025,2355.0,2555.0,2500.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,10/12/2025,2370.0,2560.0,2450.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,11/12/2025,2450.0,3140.0,2690.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,23/12/2025,2350.0,2555.0,2450.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,02/12/2025,2250.0,2350.0,2300.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,02/12/2025,2500.0,2800.0,2650.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,03/12/2025,2550.0,2655.0,2605.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,05/12/2025,2500.0,2650.0,2610.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,13/12/2025,2400.0,2500.0,2500.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,12/12/2025,2250.0,2575.0,2525.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,12/12/2025,2500.0,2645.0,2590.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,15/12/2025,2500.0,2675.0,2590.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,17/12/2025,2490.0,2615.0,2565.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,18/12/2025,2400.0,2605.0,2525.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,22/12/2025,2505.0,2670.0,2600.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,27/12/2025,2075.0,2325.0,2200.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,30/12/2025,2400.0,2755.0,2625.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,01/12/2025,2350.0,2585.0,2505.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,02/12/2025,2190.0,2565.0,2505.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,04/12/2025,2175.0,2535.0,2425.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,09/12/2025,2200.0,2625.0,2510.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,09/12/2025,2500.0,2655.0,2655.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,13/12/2025,2500.0,2580.0,2580.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,16/12/2025,2475.0,2610.0,2610.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,19/12/2025,2375.0,2565.0,2470.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,08/12/2025,2395.0,2655.0,2525.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,13/12/2025,2275.0,2550.0,2500.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,02/12/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,04/12/2025,2650.0,2750.0,2700.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,16/12/2025,2750.0,2850.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,17/12/2025,2750.0,2850.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,22/12/2025,2750.0,2850.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,27/12/2025,2750.0,2860.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,31/12/2025,2760.0,2860.0,2800.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,02/12/2025,2230.0,2645.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,08/12/2025,2150.0,2620.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,15/12/2025,2175.0,2620.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,20/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,24/12/2025,2250.0,2775.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,05/12/2025,2300.0,2675.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,23/12/2025,2400.0,2800.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,20/12/2025,2400.0,2800.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,30/12/2025,2410.0,2775.0,2525.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,02/12/2025,2675.0,2900.0,2825.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,08/12/2025,2500.0,2885.0,2750.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,17/12/2025,2555.0,2945.0,2725.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,19/12/2025,2525.0,2835.0,2670.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,22/12/2025,2565.0,3035.0,2850.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,30/12/2025,2550.0,2695.0,2640.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,31/12/2025,2500.0,2865.0,2755.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,26/12/2025,2450.0,2680.0,2565.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,27/12/2025,2460.0,2565.0,2512.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,29/12/2025,2400.0,2635.0,2517.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,15/12/2025,2250.0,2810.0,2530.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,18/12/2025,2250.0,2715.0,2485.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,27/12/2025,2450.0,3095.0,2773.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,31/12/2025,2300.0,3090.0,2695.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,01/12/2025,2555.0,2555.0,2555.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,03/12/2025,2400.0,2805.0,2600.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,05/12/2025,2450.0,2655.0,2550.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,FAQ,05/12/2025,2300.0,2500.0,2400.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,10/12/2025,2445.0,2755.0,2550.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,10/12/2025,2500.0,2600.0,2550.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,12/12/2025,2450.0,2600.0,2575.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,15/12/2025,2595.0,2595.0,2595.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,30/12/2025,2400.0,2505.0,2500.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,03/12/2025,2350.0,2620.0,2505.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,01/12/2025,2475.0,2795.0,2640.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,01/12/2025,2580.0,2725.0,2610.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,03/12/2025,2405.0,2775.0,2600.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,05/12/2025,2615.0,2640.0,2615.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,11/12/2025,2400.0,3000.0,2725.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,11/12/2025,2400.0,2615.0,2525.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,11/12/2025,2500.0,2635.0,2600.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,13/12/2025,2500.0,2580.0,2535.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,23/12/2025,2400.0,2750.0,2650.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,18/12/2025,2430.0,2855.0,2635.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,22/12/2025,2485.0,2485.0,2485.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,24/12/2025,2535.0,2605.0,2555.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,27/12/2025,2405.0,2655.0,2600.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,30/12/2025,2400.0,2740.0,2675.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,02/12/2025,2475.0,2645.0,2645.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,03/12/2025,2150.0,2590.0,2450.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,03/12/2025,2475.0,2620.0,2620.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,04/12/2025,2250.0,2625.0,2435.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,10/12/2025,1930.0,2520.0,2410.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,06/12/2025,2070.0,2510.0,2425.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,15/12/2025,2500.0,2625.0,2625.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,18/12/2025,2350.0,2560.0,2455.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,29/12/2025,2400.0,2600.0,2500.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,01/12/2025,2500.0,2600.0,2550.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,01/12/2025,2475.0,2475.0,2475.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,01/12/2025,2500.0,2580.0,2540.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,01/12/2025,2375.0,2665.0,2520.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,01/12/2025,2465.0,2500.0,2500.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,01/12/2025,2075.0,2655.0,2575.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,01/12/2025,2450.0,2550.0,2550.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,02/12/2025,2460.0,2695.0,2600.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,02/12/2025,2560.0,2560.0,2560.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,02/12/2025,2400.0,2690.0,2550.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,04/12/2025,2485.0,2610.0,2575.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,09/12/2025,2425.0,2625.0,2550.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,03/12/2025,2400.0,2762.5,2581.25,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,02/12/2025,2450.0,2805.0,2600.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,03/12/2025,2590.0,2615.0,2602.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,03/12/2025,2500.0,2550.0,2525.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,03/12/2025,2475.0,2855.0,2665.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,03/12/2025,2400.0,2600.0,2525.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,03/12/2025,2350.0,2730.0,2630.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,05/12/2025,2600.0,2600.0,2600.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,04/12/2025,2350.0,2750.0,2655.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,04/12/2025,2550.0,2655.0,2602.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,04/12/2025,2500.0,2575.0,2540.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,04/12/2025,2450.0,2540.0,2492.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,04/12/2025,2000.0,2700.0,2500.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,04/12/2025,2540.0,2580.0,2560.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,09/12/2025,2500.0,2530.0,2515.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,09/12/2025,2465.0,2960.0,2712.5,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,09/12/2025,2250.0,2875.0,2550.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,05/12/2025,2500.0,2740.0,2650.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,06/12/2025,2250.0,2875.0,2500.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,06/12/2025,2460.0,2830.0,2665.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,05/12/2025,2480.0,2500.0,2490.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Other,Local,06/12/2025,2400.0,2725.0,2550.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,09/12/2025,2500.0,2575.0,2537.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,09/12/2025,2575.0,2700.0,2700.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,08/12/2025,2350.0,2775.0,2610.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,10/12/2025,2575.0,2575.0,2575.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,10/12/2025,2200.0,2540.0,2495.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,08/12/2025,2345.0,2670.0,2585.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,08/12/2025,2250.0,2875.0,2625.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,08/12/2025,2525.0,2650.0,2600.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,10/12/2025,2500.0,2500.0,2500.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,10/12/2025,2525.0,2570.0,2548.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,11/12/2025,2410.0,2625.0,2517.5,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,11/12/2025,2525.0,2590.0,2558.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,11/12/2025,2000.0,2775.0,2415.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,10/12/2025,2500.0,2750.0,2625.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,11/12/2025,2450.0,2550.0,2550.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,12/12/2025,2430.0,2460.0,2450.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,Local,12/12/2025,2500.0,2600.0,2550.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,13/12/2025,2335.0,2705.0,2615.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,13/12/2025,2590.0,2830.0,2710.0,1
+Gujarat,Banaskanth,Diyodar APMC,Wheat,Other,FAQ,15/12/2025,2335.0,2510.0,2450.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,16/12/2025,2250.0,2715.0,2575.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,17/12/2025,2480.0,2500.0,2490.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,18/12/2025,2520.0,2575.0,2550.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,23/12/2025,2825.0,2825.0,2825.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,19/12/2025,2575.0,2700.0,2637.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,18/12/2025,2400.0,2670.0,2575.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,18/12/2025,2580.0,2820.0,2700.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,23/12/2025,2470.0,2725.0,2650.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,23/12/2025,2425.0,2575.0,2500.0,1
+Gujarat,Anand,Borsad APMC,Wheat,Other,Local,19/12/2025,2475.0,2475.0,2475.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,24/12/2025,2350.0,2690.0,2575.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,20/12/2025,2000.0,2790.0,2625.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,19/12/2025,2570.0,2665.0,2650.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,Local,20/12/2025,2525.0,2575.0,2550.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,20/12/2025,2125.0,2650.0,2550.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,22/12/2025,2350.0,2545.0,2460.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,22/12/2025,2500.0,2530.0,2515.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,22/12/2025,2455.0,2555.0,2510.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,25/12/2025,2470.0,2655.0,2550.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,24/12/2025,2350.0,2650.0,2500.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,24/12/2025,2400.0,2605.0,2525.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,25/12/2025,2745.0,2745.0,2745.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,25/12/2025,2350.0,2755.0,2552.5,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,24/12/2025,2250.0,2625.0,2400.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,22/12/2025,2450.0,2770.0,2610.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,25/12/2025,2350.0,2545.0,2425.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,23/12/2025,2400.0,2570.0,2500.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,24/12/2025,2425.0,2505.0,2485.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,24/12/2025,2500.0,2590.0,2540.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,24/12/2025,2475.0,2600.0,2537.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,24/12/2025,2425.0,2855.0,2750.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,25/12/2025,2450.0,2550.0,2500.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,27/12/2025,2450.0,2550.0,2500.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,26/12/2025,2255.0,2600.0,2425.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,26/12/2025,2675.0,2855.0,2750.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,26/12/2025,2250.0,2650.0,2425.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,26/12/2025,2480.0,2725.0,2650.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,25/12/2025,2400.0,2595.0,2525.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,29/12/2025,2440.0,2650.0,2575.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,27/12/2025,2000.0,2725.0,2560.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,27/12/2025,2500.0,2700.0,2700.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,27/12/2025,2400.0,2650.0,2500.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,30/12/2025,2380.0,2655.0,2515.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,30/12/2025,2480.0,2520.0,2500.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,29/12/2025,2400.0,2675.0,2550.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,29/12/2025,2500.0,2700.0,2600.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,30/12/2025,2550.0,2615.0,2583.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,30/12/2025,2375.0,2580.0,2500.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,31/12/2025,2400.0,2430.0,2420.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,31/12/2025,2400.0,2755.0,2577.5,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,18/12/2025,2270.0,2850.0,2690.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,02/12/2025,2510.0,2940.0,2620.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,04/12/2025,2500.0,3130.0,2590.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,12/12/2025,2500.0,3110.0,2640.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,22/12/2025,2500.0,3250.0,2630.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,18/12/2025,2540.0,3350.0,2660.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,26/12/2025,2510.0,2930.0,2700.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,01/12/2025,2525.0,2650.0,2600.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,01/12/2025,2590.0,2950.0,2670.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,04/12/2025,2500.0,2625.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,05/12/2025,2500.0,2605.0,2550.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,04/12/2025,2520.0,2845.0,2640.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,06/12/2025,2400.0,2625.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,10/12/2025,2450.0,2635.0,2550.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,08/12/2025,2545.0,3105.0,2650.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,17/12/2025,2635.0,2635.0,2635.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,10/12/2025,2500.0,2970.0,2675.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,12/12/2025,2510.0,3045.0,2630.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,17/12/2025,2400.0,2585.0,2535.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,18/12/2025,2520.0,3500.0,2680.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,20/12/2025,2465.0,2465.0,2465.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,20/12/2025,2400.0,2580.0,2525.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,22/12/2025,2525.0,2900.0,2660.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,25/12/2025,2585.0,2585.0,2585.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,25/12/2025,2450.0,2640.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,27/12/2025,2450.0,2600.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,29/12/2025,2450.0,2610.0,2550.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,24/12/2025,2540.0,2950.0,2675.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,30/12/2025,2510.0,3255.0,2670.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,31/12/2025,2565.0,2565.0,2565.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,02/12/2025,2425.0,2690.0,2550.0,1
+Gujarat,Surendranagar,Dhragradhra APMC,Wheat,Wheat,Local,06/12/2025,2575.0,2600.0,2590.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,15/11/2025,2250.0,2770.0,2580.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,19/11/2025,2520.0,2565.0,2540.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,19/11/2025,2475.0,2675.0,2575.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,19/11/2025,2500.0,2700.0,2600.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,20/11/2025,2500.0,2600.0,2550.0,1
+Gujarat,Sabarkantha,Malpur APMC,Wheat,Other,FAQ,20/11/2025,2450.0,2500.0,2475.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,Local,20/11/2025,2900.0,3015.0,2957.5,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,20/11/2025,2475.0,2550.0,2512.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,19/11/2025,2500.0,2625.0,2562.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,20/11/2025,2200.0,2725.0,2575.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,20/11/2025,2425.0,2660.0,2600.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,26/11/2025,2450.0,2500.0,2500.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,21/11/2025,2450.0,2450.0,2450.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,21/11/2025,2550.0,2625.0,2587.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,21/11/2025,2375.0,2675.0,2650.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,21/11/2025,2430.0,2685.0,2600.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,24/11/2025,2440.0,2480.0,2460.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,22/11/2025,2425.0,2665.0,2545.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,Non-FAQ,25/11/2025,2500.0,2750.0,2625.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,24/11/2025,2450.0,2550.0,2550.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,Local,25/11/2025,2550.0,2620.0,2585.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,Local,25/11/2025,2250.0,3005.0,2627.5,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,25/11/2025,2595.0,2795.0,2695.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,24/11/2025,2350.0,2600.0,2475.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,Local,24/11/2025,2500.0,2640.0,2570.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,27/11/2025,2400.0,2725.0,2550.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,26/11/2025,2480.0,2750.0,2650.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,26/11/2025,2500.0,2700.0,2600.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,27/11/2025,2250.0,2750.0,2500.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,26/11/2025,2250.0,2750.0,2500.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,27/11/2025,2400.0,2705.0,2575.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,28/11/2025,2705.0,2705.0,2705.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,26/11/2025,2475.0,2600.0,2550.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,27/11/2025,2450.0,2450.0,2450.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Other,Local,27/11/2025,2500.0,2600.0,2550.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,28/11/2025,2500.0,2560.0,2560.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,28/11/2025,2450.0,2750.0,2600.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,28/11/2025,2455.0,2640.0,2575.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,27/11/2025,2600.0,2600.0,2600.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,27/11/2025,2500.0,2650.0,2550.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,27/11/2025,2425.0,2650.0,2575.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,27/11/2025,2455.0,2655.0,2500.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,28/11/2025,2555.0,2740.0,2675.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,29/11/2025,2465.0,2485.0,2475.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,29/11/2025,2465.0,2685.0,2575.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,29/11/2025,2465.0,2710.0,2600.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,29/11/2025,2450.0,2550.0,2500.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,11/11/2025,6325.0,6325.0,6325.0,1
+Gujarat,Jamnagar,Dhrol APMC,Wheat,Other,Local,13/11/2025,467.0,518.0,493.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,15/11/2025,2500.0,3155.0,2850.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,15/11/2025,2600.0,2600.0,2600.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,18/11/2025,2450.0,2490.0,2470.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,18/11/2025,2500.0,2725.0,2600.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,17/11/2025,2440.0,2520.0,2480.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,17/11/2025,2440.0,2860.0,2675.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,19/11/2025,2450.0,2500.0,2500.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,Other,Local,18/11/2025,2510.0,3195.0,2853.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,21/11/2025,2540.0,2620.0,2580.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,19/11/2025,2580.0,2965.0,2675.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,19/11/2025,2425.0,2622.0,2523.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,19/11/2025,2560.0,2950.0,2755.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,22/11/2025,2550.0,2825.0,2688.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,28/11/2025,2400.0,2835.0,2715.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,24/11/2025,2540.0,3120.0,2620.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,29/11/2025,2350.0,2910.0,2630.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,18/11/2025,2205.0,3005.0,2770.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,22/11/2025,2525.0,3125.0,2690.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,10/11/2025,2000.0,3100.0,2680.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,13/11/2025,2500.0,3070.0,2760.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,25/11/2025,2500.0,3000.0,2630.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,13/11/2025,2595.0,3155.0,2720.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,11/11/2025,2705.0,2705.0,2705.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,14/11/2025,2635.0,2635.0,2635.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,21/11/2025,2450.0,2650.0,2575.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,24/11/2025,2125.0,2675.0,2575.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,29/11/2025,2590.0,3000.0,2670.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,04/11/2025,2425.0,2840.0,2600.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,22/11/2025,2510.0,2700.0,2600.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,24/11/2025,2425.0,2750.0,2600.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,12/11/2025,2300.0,2655.0,2500.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,01/11/2025,2630.0,3110.0,2740.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,12/11/2025,2645.0,2645.0,2645.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,21/11/2025,2600.0,3125.0,2740.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,25/11/2025,2600.0,3005.0,2700.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,12/11/2025,2550.0,2925.0,2750.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,03/11/2025,2515.0,2910.0,2700.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,20/11/2025,2425.0,2715.0,2600.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,25/11/2025,2540.0,2755.0,2650.0,1
+Gujarat,Surendranagar,Dhragradhra APMC,Wheat,Wheat,Local,10/11/2025,2755.0,2755.0,2755.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,Wheat,FAQ,04/11/2025,2630.0,2645.0,2640.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,Local,07/11/2025,2500.0,2500.0,2500.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,10/11/2025,2460.0,2645.0,2645.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,12/11/2025,2125.0,2850.0,2490.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,FAQ,03/11/2025,2050.0,2855.0,2452.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,03/11/2025,2455.0,2665.0,2560.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,04/11/2025,2460.0,2680.0,2570.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,19/11/2025,2470.0,2585.0,2585.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,22/11/2025,2450.0,2550.0,2550.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,25/11/2025,2460.0,2600.0,2600.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,24/11/2025,2425.0,2755.0,2590.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,28/11/2025,2380.0,2600.0,2485.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,29/11/2025,2375.0,2685.0,2560.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Medium,Local,11/11/2025,2500.0,2760.0,2600.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,25/11/2025,2375.0,2575.0,2475.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,FAQ,07/11/2025,2450.0,2625.0,2500.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,11/11/2025,2640.0,2820.0,2690.0,1
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Wheat,Lok-1,FAQ,03/11/2025,2650.0,2850.0,2750.0,1
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Wheat,Lok-1,FAQ,05/11/2025,2600.0,2700.0,2650.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,13/11/2025,2375.0,2725.0,2600.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,17/11/2025,2455.0,2705.0,2575.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,25/11/2025,2455.0,2710.0,2600.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,24/11/2025,2405.0,2705.0,2600.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,10/11/2025,2400.0,2655.0,2500.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,07/11/2025,2590.0,2735.0,2640.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,07/11/2025,2650.0,3000.0,2850.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,08/11/2025,2650.0,3050.0,2900.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,08/11/2025,2400.0,2500.0,2500.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,07/11/2025,2250.0,2640.0,2525.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,Non-FAQ,12/11/2025,2400.0,2400.0,2400.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,Non-FAQ,08/11/2025,2250.0,2250.0,2250.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan,Non-FAQ,13/11/2025,2330.0,2600.0,2505.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,13/11/2025,2525.0,2725.0,2625.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan,Non-FAQ,11/11/2025,2250.0,2605.0,2500.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,13/11/2025,2300.0,2705.0,2500.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,Lokwan,FAQ,01/11/2025,2750.0,2850.0,2800.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,01/11/2025,2400.0,2835.0,2525.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,04/11/2025,2400.0,2600.0,2600.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,06/11/2025,2400.0,2575.0,2575.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,13/11/2025,2555.0,2555.0,2555.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,13/11/2025,2400.0,2550.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,14/11/2025,2300.0,2630.0,2500.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,15/11/2025,2250.0,2660.0,2500.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,18/11/2025,2450.0,2670.0,2575.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,18/11/2025,2670.0,2675.0,2670.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,15/11/2025,2425.0,2640.0,2605.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,17/11/2025,2500.0,2955.0,2750.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,21/11/2025,2350.0,2425.0,2425.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,21/11/2025,2575.0,2675.0,2610.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,21/11/2025,2400.0,2885.0,2650.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,20/11/2025,2350.0,2695.0,2575.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,20/11/2025,2500.0,3125.0,2700.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,26/11/2025,2400.0,2450.0,2450.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,25/11/2025,2250.0,2650.0,2500.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,24/11/2025,2575.0,2800.0,2625.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,24/11/2025,2625.0,2775.0,2700.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,05/12/2025,2250.0,2875.0,2500.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,04/12/2025,2250.0,2725.0,2500.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,04/12/2025,2600.0,2600.0,2600.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,05/12/2025,2855.0,2905.0,2880.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,09/12/2025,2530.0,2655.0,2585.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,09/12/2025,2450.0,2720.0,2585.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,08/12/2025,2500.0,2750.0,2625.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,05/12/2025,2540.0,2645.0,2593.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,05/12/2025,2350.0,2825.0,2645.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,06/12/2025,2600.0,2600.0,2600.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,09/12/2025,2430.0,2550.0,2550.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,05/12/2025,1750.0,2690.0,2475.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,08/12/2025,2355.0,2605.0,2605.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,06/12/2025,2565.0,2775.0,2700.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,05/12/2025,2440.0,2685.0,2600.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,06/12/2025,2500.0,2800.0,2650.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,06/12/2025,2490.0,2655.0,2575.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,09/12/2025,2505.0,2800.0,2600.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,06/12/2025,2450.0,2655.0,2550.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,10/12/2025,2275.0,2627.0,2451.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,10/12/2025,2500.0,2575.0,2537.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,10/12/2025,2600.0,2625.0,2615.0,1
+Gujarat,Anand,Borsad APMC,Wheat,Other,Local,10/12/2025,2425.0,2425.0,2425.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,08/12/2025,2450.0,2505.0,2475.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,08/12/2025,2500.0,2610.0,2555.0,1
+Gujarat,Patan,Harij APMC,Wheat,Other,Local,10/12/2025,2375.0,2695.0,2535.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,09/12/2025,2375.0,2525.0,2500.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,11/12/2025,2525.0,2530.0,2530.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,11/12/2025,2500.0,2550.0,2525.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,11/12/2025,2505.0,2710.0,2650.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,11/12/2025,2500.0,2750.0,2625.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,10/12/2025,2550.0,2635.0,2592.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,11/12/2025,2000.0,2800.0,2500.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,11/12/2025,2505.0,2705.0,2625.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,11/12/2025,2400.0,2675.0,2550.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,12/12/2025,2455.0,2630.0,2540.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,12/12/2025,2250.0,2875.0,2500.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,Local,12/12/2025,2460.0,2525.0,2492.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,13/12/2025,2450.0,2585.0,2517.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,13/12/2025,2505.0,2800.0,2652.5,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,12/12/2025,2000.0,2800.0,2400.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,13/12/2025,2660.0,2850.0,2750.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,13/12/2025,2400.0,2650.0,2550.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,12/12/2025,2450.0,2815.0,2675.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,13/12/2025,2450.0,2550.0,2550.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,13/12/2025,2450.0,2450.0,2450.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,12/12/2025,2300.0,2535.0,2475.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,15/12/2025,2500.0,2580.0,2540.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,15/12/2025,2375.0,2450.0,2412.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,15/12/2025,2455.0,2705.0,2600.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,16/12/2025,2400.0,2570.0,2485.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,16/12/2025,2350.0,2490.0,2420.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,16/12/2025,2450.0,2705.0,2575.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,17/12/2025,2450.0,2500.0,2500.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,17/12/2025,2775.0,2775.0,2775.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,18/12/2025,2400.0,2540.0,2500.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,30/12/2025,1850.0,2705.0,2545.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,23/12/2025,2455.0,2940.0,2700.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Deshi,Local,06/12/2025,2610.0,2610.0,2610.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Deshi,Local,11/12/2025,2620.0,2620.0,2620.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,15/12/2025,2400.0,2500.0,2450.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,18/12/2025,2400.0,2500.0,2450.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,22/12/2025,2400.0,2500.0,2450.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,18/12/2025,2475.0,2625.0,2550.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,01/12/2025,1750.0,2870.0,2310.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,03/12/2025,1880.0,2915.0,2400.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,09/12/2025,2155.0,2800.0,2480.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,13/12/2025,2390.0,2805.0,2600.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,17/12/2025,2275.0,2820.0,2550.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,22/12/2025,2490.0,3375.0,2933.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,09/12/2025,2450.0,2625.0,2575.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,06/12/2025,2475.0,2625.0,2575.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,08/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,08/12/2025,2450.0,2630.0,2575.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,10/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,09/12/2025,2250.0,2480.0,2440.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,13/12/2025,2400.0,2625.0,2575.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,13/12/2025,2300.0,2480.0,2400.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,11/12/2025,2250.0,2650.0,2500.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,13/12/2025,2515.0,2515.0,2515.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,15/12/2025,2350.0,2510.0,2450.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,17/12/2025,2200.0,2505.0,2420.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,23/12/2025,2750.0,2770.0,2760.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,20/12/2025,2450.0,2625.0,2575.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,26/12/2025,2250.0,2500.0,2425.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Local,Local,26/12/2025,2525.0,2735.0,2625.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,29/12/2025,2450.0,2645.0,2510.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,30/12/2025,2450.0,2655.0,2535.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,04/12/2025,2520.0,2610.0,2550.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,03/12/2025,2550.0,2750.0,2650.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,09/12/2025,2300.0,2555.0,2450.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,13/12/2025,2435.0,2635.0,2555.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,18/12/2025,2400.0,2675.0,2500.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,18/12/2025,2520.0,2860.0,2610.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,24/12/2025,2510.0,2790.0,2630.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,23/12/2025,2450.0,2805.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,01/12/2025,2500.0,2640.0,2550.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,01/12/2025,2455.0,2800.0,2650.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,02/12/2025,2550.0,2640.0,2610.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,02/12/2025,2455.0,2675.0,2600.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,02/12/2025,2470.0,2760.0,2610.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,03/12/2025,2500.0,2830.0,2725.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,04/12/2025,2250.0,2675.0,2525.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,03/12/2025,2500.0,2680.0,2605.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,03/12/2025,2400.0,2675.0,2525.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,09/12/2025,2505.0,2625.0,2550.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,05/12/2025,2300.0,3060.0,2525.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,06/12/2025,2400.0,2450.0,2450.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,09/12/2025,2505.0,2645.0,2600.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,18/12/2025,2500.0,2675.0,2600.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,19/12/2025,2400.0,2555.0,2500.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,20/12/2025,2400.0,2590.0,2500.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,19/12/2025,2455.0,2725.0,2600.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,25/12/2025,2535.0,2630.0,2570.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,24/12/2025,2150.0,2575.0,2500.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,27/12/2025,2400.0,2500.0,2500.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,15/12/2025,2510.0,2540.0,2525.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,16/12/2025,2475.0,2730.0,2650.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,16/12/2025,2250.0,2875.0,2500.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,16/12/2025,2555.0,2860.0,2750.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,16/12/2025,2370.0,2605.0,2485.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,17/12/2025,2300.0,2695.0,2585.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,17/12/2025,2480.0,2850.0,2600.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,16/12/2025,2500.0,2600.0,2600.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,17/12/2025,2375.0,2575.0,2500.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,23/12/2025,2420.0,2440.0,2430.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,16/12/2025,2470.0,2585.0,2550.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,18/12/2025,2450.0,2715.0,2610.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,19/12/2025,2150.0,2640.0,2550.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,19/12/2025,2390.0,2650.0,2520.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,18/12/2025,2450.0,2575.0,2512.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,23/12/2025,2555.0,2630.0,2592.5,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,23/12/2025,2250.0,2670.0,2460.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,19/12/2025,2000.0,2640.0,2545.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,01/01/2026,2380.0,2625.0,2525.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,01/01/2026,2450.0,2575.0,2500.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,01/01/2026,2205.0,2500.0,2450.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Other,Local,01/01/2026,2572.0,2665.0,2605.75,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Other,Local,02/01/2026,2572.0,2572.0,2572.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,01/01/2026,2400.0,2645.0,2575.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,03/01/2026,2250.0,2660.0,2545.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,03/01/2026,2600.0,2700.0,2650.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,03/01/2026,2300.0,2625.0,2575.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,02/01/2026,2300.0,2545.0,2425.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,03/01/2026,2500.0,2550.0,2525.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,05/01/2026,2135.0,2700.0,2360.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,05/01/2026,2520.0,2690.0,2605.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,05/01/2026,2250.0,2665.0,2550.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,06/01/2026,2250.0,2675.0,2575.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,05/01/2026,2500.0,2705.0,2600.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,07/01/2026,2675.0,2675.0,2675.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,05/01/2026,2350.0,2595.0,2500.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,05/01/2026,2550.0,2600.0,2575.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,06/01/2026,1505.0,2750.0,2127.5,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,06/01/2026,2500.0,2750.0,2625.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,10/01/2026,2530.0,2710.0,2625.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,06/01/2026,2555.0,2775.0,2675.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,06/01/2026,2525.0,2755.0,2575.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,09/01/2026,2575.0,2585.0,2580.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,06/01/2026,2565.0,2660.0,2610.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,07/01/2026,2450.0,2500.0,2500.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,08/01/2026,2515.0,2735.0,2650.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,07/01/2026,2550.0,2665.0,2600.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,10/01/2026,2460.0,2820.0,2652.5,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,10/01/2026,2475.0,2650.0,2525.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,08/01/2026,2475.0,2725.0,2625.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,10/01/2026,2300.0,2530.0,2400.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,13/01/2026,2555.0,2755.0,2655.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,09/01/2026,2555.0,2555.0,2555.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,13/01/2026,2550.0,2710.0,2630.0,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,13/01/2026,2575.0,2695.0,2635.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,13/01/2026,2350.0,2580.0,2500.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,10/01/2026,2525.0,2780.0,2650.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,09/01/2026,2300.0,2550.0,2425.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,10/01/2026,2590.0,2640.0,2640.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,10/01/2026,2440.0,2615.0,2550.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,15/01/2026,2590.0,2645.0,2625.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,12/01/2026,2575.0,2810.0,2692.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Local,12/01/2026,2000.0,2300.0,2200.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,12/01/2026,2605.0,2685.0,2645.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,12/01/2026,2500.0,2800.0,2650.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,12/01/2026,2600.0,2625.0,2625.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,16/01/2026,2500.0,2755.0,2625.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,12/01/2026,2350.0,2725.0,2537.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,15/01/2026,2500.0,2500.0,2500.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,21/01/2026,2405.0,2550.0,2500.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,21/01/2026,2725.0,2725.0,2725.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,20/01/2026,2250.0,2500.0,2375.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,20/01/2026,2425.0,2750.0,2585.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,21/01/2026,2255.0,2905.0,2580.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,15/01/2026,2555.0,2775.0,2700.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,16/01/2026,2560.0,2800.0,2700.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,16/01/2026,2575.0,2720.0,2650.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,16/01/2026,2400.0,2635.0,2635.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,16/01/2026,2250.0,2640.0,2550.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,16/01/2026,2300.0,2580.0,2425.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,17/01/2026,2555.0,2775.0,2665.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,20/01/2026,2550.0,2550.0,2550.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Other,Local,17/01/2026,2500.0,2600.0,2550.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,17/01/2026,2500.0,2650.0,2650.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,17/01/2026,2605.0,2815.0,2710.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,17/01/2026,2525.0,2575.0,2550.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,20/01/2026,2500.0,2700.0,2700.0,1
+Gujarat,Mehsana,Vijapur(Kukarvada) APMC,Wheat,Other,Non-FAQ,20/01/2026,2400.0,2875.0,2650.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,20/01/2026,2350.0,3155.0,2575.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,20/01/2026,2600.0,2850.0,2725.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,07/02/2026,2450.0,2550.0,2500.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,09/02/2026,2600.0,2600.0,2600.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Other,Local,10/02/2026,2205.0,2410.0,2325.0,1
+Gujarat,Banaskanth,Diyodar APMC,Wheat,Other,FAQ,11/02/2026,2450.0,2850.0,2675.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,10/02/2026,2450.0,2785.0,2675.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,12/02/2026,2405.0,2885.0,2500.0,1
+Gujarat,Banaskanth,Diyodar APMC,Wheat,Other,FAQ,17/02/2026,2500.0,2750.0,2625.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,17/02/2026,2325.0,2400.0,2362.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,14/02/2026,2355.0,2485.0,2420.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,14/02/2026,2325.0,2425.0,2375.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,13/02/2026,2000.0,2485.0,2385.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,13/02/2026,2350.0,2570.0,2500.0,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,13/02/2026,2450.0,2560.0,2505.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,13/02/2026,2350.0,2640.0,2495.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,16/02/2026,2375.0,2375.0,2375.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,17/02/2026,2375.0,2440.0,2410.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,17/02/2026,2450.0,2550.0,2500.0,1
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Wheat,Other,Local,17/02/2026,2600.0,2700.0,2650.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,17/02/2026,2000.0,2685.0,2525.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,07/01/2026,2250.0,2905.0,2578.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,21/01/2026,2405.0,2880.0,2643.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,20/01/2026,2380.0,3030.0,2705.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,24/01/2026,2250.0,2890.0,2570.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,28/01/2026,2250.0,2800.0,2525.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,07/01/2026,2225.0,2875.0,2700.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,14/02/2026,2000.0,2725.0,2500.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,07/01/2026,2250.0,3255.0,2650.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,30/01/2026,2530.0,3180.0,2800.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,02/02/2026,2500.0,3100.0,2670.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,03/01/2026,2550.0,3005.0,2670.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,09/01/2026,2500.0,2695.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,12/01/2026,2500.0,2645.0,2550.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,21/01/2026,2565.0,2925.0,2700.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,16/01/2026,2575.0,2825.0,2675.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,20/01/2026,2745.0,2745.0,2745.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,22/01/2026,2610.0,2610.0,2610.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,27/01/2026,2550.0,2950.0,2675.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,30/01/2026,2605.0,2605.0,2605.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,05/02/2026,2625.0,2850.0,2725.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,03/02/2026,2200.0,2565.0,2250.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,13/02/2026,2455.0,2455.0,2455.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,16/02/2026,2450.0,3050.0,2725.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,09/01/2026,2550.0,2760.0,2700.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,31/01/2026,2550.0,2710.0,2650.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,11/02/2026,2500.0,2500.0,2500.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,11/02/2026,2500.0,2575.0,2537.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,06/02/2026,2500.0,2650.0,2575.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,12/02/2026,2500.0,2500.0,2500.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,10/02/2026,2425.0,2475.0,2450.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,09/02/2026,2375.0,2635.0,2500.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,11/02/2026,2360.0,2650.0,2550.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,12/02/2026,2400.0,2505.0,2500.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,11/02/2026,2600.0,2600.0,2600.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,11/02/2026,1500.0,2500.0,2000.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,16/02/2026,2360.0,2435.0,2400.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,16/02/2026,2460.0,2915.0,2750.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,16/02/2026,2255.0,2580.0,2500.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,17/02/2026,2450.0,2450.0,2450.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,08/01/2026,2250.0,2855.0,2553.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,23/01/2026,2500.0,2805.0,2653.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,14/02/2026,2000.0,2855.0,2428.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,05/01/2026,2150.0,2875.0,2650.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,06/02/2026,2150.0,2700.0,2675.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,02/01/2026,2250.0,2970.0,2690.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,31/01/2026,2560.0,3000.0,2800.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,05/01/2026,2500.0,2715.0,2575.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,23/01/2026,2550.0,2860.0,2660.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,17/01/2026,2450.0,2675.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,21/01/2026,2450.0,2600.0,2525.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,22/01/2026,2400.0,2660.0,2525.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,29/01/2026,2450.0,2550.0,2500.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,30/01/2026,2450.0,2610.0,2525.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,31/01/2026,2595.0,2595.0,2595.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,02/02/2026,2250.0,2505.0,2375.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,04/02/2026,2200.0,2575.0,2250.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,07/02/2026,2500.0,2650.0,2540.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,13/02/2026,2150.0,2505.0,2300.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,14/02/2026,2436.0,2436.0,2436.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,02/01/2026,2500.0,2735.0,2650.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,23/01/2026,2550.0,2660.0,2600.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,24/01/2026,2640.0,2830.0,2750.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,13/02/2026,2425.0,2640.0,2550.0,1
+Gujarat,Surendranagar,Dhragradhra APMC,Wheat,Wheat,Local,12/01/2026,2640.0,2640.0,2640.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,28/01/2026,2225.0,2500.0,2362.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,29/01/2026,2500.0,2720.0,2610.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,29/01/2026,2605.0,2915.0,2760.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,29/01/2026,2405.0,2750.0,2500.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,31/01/2026,2350.0,2660.0,2505.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,31/01/2026,2400.0,2727.0,2563.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,02/02/2026,2540.0,2580.0,2560.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,02/02/2026,2500.0,2500.0,2500.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,02/02/2026,2000.0,2700.0,2500.0,1
+Gujarat,Banaskanth,Diyodar APMC,Wheat,Other,FAQ,02/02/2026,2500.0,2750.0,2570.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,05/02/2026,2450.0,2550.0,2500.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,03/02/2026,2000.0,2830.0,2725.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,04/02/2026,2000.0,2605.0,2495.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,05/02/2026,2600.0,2600.0,2600.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,03/02/2026,2555.0,2800.0,2675.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,02/02/2026,2130.0,2800.0,2515.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,05/02/2026,2600.0,2600.0,2600.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,04/02/2026,2500.0,2500.0,2500.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,06/02/2026,2750.0,2800.0,2775.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,04/02/2026,2530.0,2575.0,2552.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,04/02/2026,2550.0,2650.0,2600.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,07/02/2026,2585.0,2815.0,2700.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,06/02/2026,2545.0,2655.0,2600.0,1
+Gujarat,Banaskanth,Diyodar APMC,Wheat,Other,FAQ,06/02/2026,2500.0,2655.0,2610.0,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,06/02/2026,2500.0,2600.0,2550.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,06/02/2026,2595.0,2795.0,2695.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,11/02/2026,2450.0,2525.0,2487.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,07/02/2026,2250.0,2610.0,2545.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,05/02/2026,2550.0,2580.0,2565.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,07/02/2026,2250.0,2505.0,2377.5,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,10/02/2026,2505.0,2590.0,2547.5,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,10/02/2026,2450.0,2580.0,2515.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,13/02/2026,2570.0,2820.0,2695.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,09/02/2026,2400.0,2520.0,2450.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,09/02/2026,2690.0,2740.0,2715.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,09/02/2026,2400.0,2627.0,2513.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,09/02/2026,2450.0,2450.0,2450.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,11/02/2026,2000.0,2000.0,2000.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,16/02/2026,2400.0,2575.0,2487.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,12/01/2026,2775.0,2875.0,2845.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,21/01/2026,2750.0,2850.0,2790.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,03/02/2026,2750.0,2850.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,12/02/2026,2600.0,2650.0,2625.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,13/02/2026,2600.0,2650.0,2625.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,16/02/2026,2600.0,2650.0,2625.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,17/02/2026,2600.0,2625.0,2615.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,12/01/2026,2250.0,2625.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,29/01/2026,2350.0,2575.0,2450.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,28/01/2026,2375.0,2575.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,05/02/2026,2175.0,2550.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,08/01/2026,2375.0,2725.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,13/01/2026,2400.0,2875.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,29/01/2026,2375.0,2650.0,2475.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,06/01/2026,2550.0,2850.0,2725.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,29/01/2026,2550.0,2825.0,2650.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,31/01/2026,2550.0,2850.0,2700.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,05/02/2026,2600.0,2850.0,2700.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,10/02/2026,2000.0,2850.0,2500.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,29/01/2026,2750.0,2850.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,02/02/2026,2750.0,2850.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,05/02/2026,2750.0,2850.0,2800.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,09/02/2026,2750.0,2850.0,2800.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,07/01/2026,2250.0,2650.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,19/01/2026,2400.0,2600.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,11/02/2026,2150.0,2500.0,2450.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,02/01/2026,2400.0,2795.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,12/01/2026,2350.0,2725.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,27/01/2026,2400.0,2700.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,16/02/2026,2050.0,2650.0,2375.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,28/01/2026,2500.0,2920.0,2750.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,30/01/2026,2500.0,2905.0,2750.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,02/01/2026,2470.0,2680.0,2555.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,13/01/2026,2250.0,2705.0,2500.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,07/01/2026,2250.0,2810.0,2500.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,06/01/2026,2600.0,2700.0,2650.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,Non-FAQ,06/01/2026,2250.0,2650.0,2450.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,07/01/2026,2550.0,2875.0,2685.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,06/01/2026,2450.0,2760.0,2600.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,10/01/2026,2250.0,2705.0,2450.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,10/01/2026,2400.0,2825.0,2655.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,08/01/2026,2500.0,2760.0,2650.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,08/01/2026,2500.0,2600.0,2550.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,07/01/2026,2450.0,2565.0,2500.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,12/01/2026,2505.0,2820.0,2625.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,12/01/2026,2550.0,2710.0,2650.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,15/01/2026,2400.0,2560.0,2500.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,15/01/2026,2435.0,2435.0,2435.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,17/01/2026,2645.0,2645.0,2645.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,19/01/2026,2470.0,2705.0,2650.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,19/01/2026,2500.0,2600.0,2550.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,19/01/2026,2570.0,2570.0,2570.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Local,FAQ,21/01/2026,2605.0,2935.0,2775.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,21/01/2026,2500.0,2600.0,2550.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,24/01/2026,2375.0,2525.0,2500.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,21/01/2026,2380.0,2900.0,2640.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,22/01/2026,2300.0,2555.0,2500.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,24/01/2026,2500.0,2815.0,2650.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,23/01/2026,2250.0,2650.0,2500.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,31/01/2026,2500.0,2600.0,2550.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,30/01/2026,2410.0,2530.0,2500.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,31/01/2026,2590.0,2590.0,2590.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,03/02/2026,2500.0,2600.0,2550.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,02/02/2026,2350.0,2650.0,2500.0,1
+Gujarat,Panchmahals,Godhra APMC,Wheat,Local,Non-FAQ,02/02/2026,2430.0,2525.0,2505.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,07/02/2026,2600.0,3000.0,2800.0,1
+Gujarat,Botad,Botad APMC,Wheat,Local,FAQ,11/02/2026,2250.0,2820.0,2500.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,06/02/2026,2250.0,2650.0,2500.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,07/02/2026,2400.0,2550.0,2500.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,10/02/2026,2350.0,2560.0,2475.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,14/02/2026,2375.0,2655.0,2600.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,16/02/2026,2250.0,2650.0,2500.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,13/02/2026,2450.0,2450.0,2450.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Local,Local,16/02/2026,2250.0,2605.0,2525.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,17/02/2026,2500.0,2600.0,2550.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,12/01/2026,2590.0,2790.0,2640.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,15/01/2026,2350.0,2660.0,2600.0,1
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Wheat,Lok-1,Local,30/01/2026,2500.0,2550.0,2525.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,31/01/2026,2500.0,2700.0,2610.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,01/01/2026,2605.0,2620.0,2620.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,02/01/2026,2525.0,2650.0,2600.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,02/01/2026,2400.0,2650.0,2600.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,02/01/2026,2450.0,2550.0,2550.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,03/01/2026,2500.0,2600.0,2600.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,03/01/2026,2350.0,2605.0,2535.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,03/01/2026,2450.0,2655.0,2550.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,05/01/2026,2430.0,2725.0,2600.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,05/01/2026,2550.0,2550.0,2550.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,05/01/2026,2450.0,2775.0,2625.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,05/01/2026,2515.0,2700.0,2605.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,06/01/2026,2510.0,2665.0,2595.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,06/01/2026,2500.0,2725.0,2600.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,06/01/2026,2505.0,2505.0,2505.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,10/01/2026,2425.0,2650.0,2500.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,13/01/2026,2525.0,2675.0,2615.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,07/01/2026,2475.0,2725.0,2625.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,07/01/2026,2250.0,2865.0,2650.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,08/01/2026,2465.0,2465.0,2465.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,09/01/2026,2450.0,2650.0,2600.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,10/01/2026,2425.0,2675.0,2600.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,13/01/2026,2225.0,2690.0,2600.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,12/01/2026,2250.0,2300.0,2275.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,20/01/2026,2525.0,2525.0,2525.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,17/01/2026,2255.0,2755.0,2625.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,20/01/2026,2455.0,2800.0,2700.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,18/01/2026,2500.0,2500.0,2500.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,19/01/2026,2250.0,2750.0,2635.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,21/01/2026,2550.0,2550.0,2550.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,21/01/2026,2510.0,2625.0,2625.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,22/01/2026,2250.0,2400.0,2325.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,22/01/2026,2545.0,2675.0,2625.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,23/01/2026,2550.0,2550.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,24/01/2026,2400.0,2620.0,2525.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,23/01/2026,2475.0,2775.0,2675.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,24/01/2026,2250.0,2525.0,2500.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,24/01/2026,2425.0,2755.0,2650.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,27/01/2026,2500.0,2500.0,2500.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,27/01/2026,2560.0,2560.0,2560.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,28/01/2026,2250.0,2650.0,2500.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,28/01/2026,2500.0,2750.0,2600.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,29/01/2026,2400.0,2525.0,2525.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,31/01/2026,2500.0,3250.0,3250.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,31/01/2026,2250.0,2575.0,2525.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,30/01/2026,2275.0,2325.0,2300.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,30/01/2026,2525.0,2625.0,2575.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,04/02/2026,2525.0,2625.0,2555.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,03/02/2026,2500.0,2650.0,2625.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,02/02/2026,2500.0,2740.0,2600.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,05/02/2026,2075.0,2775.0,2500.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,03/02/2026,2150.0,2525.0,2250.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,05/02/2026,2400.0,2600.0,2600.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,04/02/2026,2500.0,2800.0,2600.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,04/02/2026,2000.0,2550.0,2540.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,03/02/2026,2525.0,2800.0,2650.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,05/02/2026,2555.0,2555.0,2555.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,03/02/2026,2075.0,2600.0,2450.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,05/02/2026,2355.0,2550.0,2450.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,06/02/2026,2150.0,2445.0,2300.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,07/02/2026,2100.0,2750.0,2500.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,Non-FAQ,11/02/2026,2285.0,2285.0,2285.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,09/02/2026,2475.0,2650.0,2530.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,10/02/2026,2200.0,2525.0,2400.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,11/02/2026,2150.0,2775.0,2450.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,11/02/2026,2505.0,2505.0,2505.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,17/02/2026,2300.0,2600.0,2600.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,11/02/2026,2525.0,2575.0,2545.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,13/02/2026,2100.0,2450.0,2250.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,13/02/2026,2500.0,2700.0,2625.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,16/02/2026,2400.0,2525.0,2525.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,Non-FAQ,16/02/2026,2225.0,2350.0,2350.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,16/02/2026,2250.0,2675.0,2400.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,17/02/2026,2150.0,2700.0,2600.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,17/02/2026,2630.0,2630.0,2630.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,Non-FAQ,17/02/2026,2125.0,2405.0,2405.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,01/01/2026,1750.0,2595.0,2170.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,03/01/2026,2325.0,2555.0,2555.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,03/01/2026,2250.0,2450.0,2350.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,03/01/2026,2570.0,2655.0,2655.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,03/01/2026,2425.0,2615.0,2520.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,06/01/2026,2605.0,2690.0,2690.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,10/01/2026,2230.0,2505.0,2400.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,20/01/2026,2570.0,2675.0,2675.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,17/01/2026,2375.0,2585.0,2480.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,17/01/2026,2570.0,2690.0,2690.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,20/01/2026,2250.0,2575.0,2500.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,19/01/2026,2600.0,2700.0,2700.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,21/01/2026,2610.0,2725.0,2725.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,22/01/2026,2500.0,2690.0,2690.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,23/01/2026,2500.0,2600.0,2550.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,27/01/2026,2055.0,2505.0,2305.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,27/01/2026,2360.0,2580.0,2470.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,29/01/2026,2355.0,2575.0,2465.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,20/01/2026,2565.0,2765.0,2665.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,19/01/2026,2585.0,2720.0,2650.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,19/01/2026,2575.0,2705.0,2640.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,27/01/2026,2500.0,2500.0,2500.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,19/01/2026,2450.0,2650.0,2650.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,17/01/2026,2500.0,2905.0,2750.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,19/01/2026,2605.0,2875.0,2750.0,1
+Gujarat,Anand,Borsad APMC,Wheat,Other,Local,21/01/2026,2525.0,2525.0,2525.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,Non-FAQ,24/01/2026,2550.0,2750.0,2600.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,22/01/2026,2550.0,2850.0,2700.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,22/01/2026,2000.0,2780.0,2635.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,22/01/2026,2475.0,2600.0,2537.0,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,24/01/2026,2500.0,2660.0,2580.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,24/01/2026,2350.0,2550.0,2450.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,24/01/2026,2350.0,2650.0,2500.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,26/01/2026,2500.0,2625.0,2526.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,29/01/2026,2625.0,2775.0,2700.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,29/01/2026,2425.0,2575.0,2500.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,27/01/2026,2600.0,2750.0,2675.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,27/01/2026,2150.0,2590.0,2370.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,27/01/2026,2400.0,2715.0,2557.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,28/01/2026,2450.0,2570.0,2510.0,1
+Gujarat,Sabarkantha,Talod APMC,Wheat,Other,FAQ,27/01/2026,2500.0,2610.0,2555.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,27/01/2026,2565.0,2565.0,2565.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,28/01/2026,2650.0,2650.0,2650.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,01/01/2026,2485.0,2760.0,2700.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,01/01/2026,2250.0,2650.0,2550.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,01/01/2026,2500.0,2700.0,2600.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,01/01/2026,2540.0,2625.0,2583.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,01/01/2026,2400.0,2650.0,2525.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,01/01/2026,2525.0,2730.0,2625.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,03/01/2026,2450.0,2550.0,2550.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,02/01/2026,2660.0,2660.0,2660.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,02/01/2026,2350.0,2400.0,2375.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,02/01/2026,2400.0,2625.0,2600.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,02/01/2026,2505.0,2655.0,2600.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,02/01/2026,2450.0,2450.0,2450.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,03/01/2026,2500.0,2710.0,2605.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,03/01/2026,2525.0,2705.0,2625.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,03/01/2026,2500.0,2700.0,2600.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,03/01/2026,2500.0,2700.0,2600.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,02/01/2026,2450.0,2865.0,2700.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,05/01/2026,2250.0,2650.0,2475.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Other,Local,05/01/2026,2625.0,2625.0,2625.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,05/01/2026,2450.0,2765.0,2650.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,06/01/2026,2450.0,2700.0,2550.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,05/01/2026,2705.0,2705.0,2705.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,05/01/2026,2600.0,2725.0,2650.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,06/01/2026,2700.0,2700.0,2700.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,05/01/2026,2555.0,2575.0,2565.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,06/01/2026,2000.0,2570.0,2475.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,05/01/2026,2425.0,2745.0,2650.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,05/01/2026,2460.0,2500.0,2480.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,06/01/2026,2475.0,2495.0,2485.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Local,08/01/2026,2000.0,2400.0,2200.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,12/02/2026,2150.0,2560.0,2400.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,10/02/2026,2100.0,2520.0,2250.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,06/02/2026,2500.0,2605.0,2575.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,11/02/2026,2500.0,2595.0,2595.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,07/02/2026,2300.0,2600.0,2525.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,12/02/2026,2205.0,2705.0,2375.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,13/02/2026,2125.0,2525.0,2500.0,1
+Gujarat,Sabarkantha,Meghraj(Radlavada) APMC,Wheat,Lokwan,Local,12/02/2026,2500.0,2500.0,2500.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,13/02/2026,2300.0,2525.0,2525.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,13/02/2026,2250.0,2575.0,2450.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,14/02/2026,2100.0,2475.0,2250.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,16/02/2026,2425.0,2555.0,2555.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,01/01/2026,2200.0,2535.0,2490.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,01/01/2026,2450.0,2635.0,2635.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,06/01/2026,2425.0,2615.0,2520.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,07/01/2026,2255.0,2625.0,2555.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,08/01/2026,2105.0,2540.0,2375.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,08/01/2026,2355.0,2595.0,2475.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,09/01/2026,2250.0,2590.0,2420.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,09/01/2026,2325.0,2525.0,2475.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,10/01/2026,2355.0,2625.0,2490.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,13/01/2026,2400.0,2650.0,2550.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,13/01/2026,2350.0,2570.0,2460.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,12/01/2026,2250.0,2650.0,2450.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,12/01/2026,2600.0,2705.0,2705.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,21/01/2026,2400.0,2600.0,2500.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,17/01/2026,2350.0,2600.0,2475.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,23/01/2026,2175.0,2600.0,2465.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,23/01/2026,2530.0,2585.0,2585.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,24/01/2026,2155.0,2510.0,2265.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,28/01/2026,2500.0,2750.0,2625.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,28/01/2026,2550.0,2605.0,2605.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,29/01/2026,2450.0,2580.0,2515.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,29/01/2026,2035.0,2520.0,2430.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,02/02/2026,2525.0,2750.0,2750.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,03/02/2026,2250.0,2600.0,2425.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,03/02/2026,2525.0,2800.0,2800.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,07/02/2026,2475.0,2630.0,2630.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,07/02/2026,2375.0,2605.0,2490.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,05/02/2026,2125.0,2470.0,2320.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,12/02/2026,2355.0,2425.0,2390.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,14/02/2026,2375.0,2585.0,2480.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,16/02/2026,2475.0,2625.0,2625.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,02/01/2026,2375.0,2675.0,2525.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,03/01/2026,2325.0,2725.0,2525.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,09/01/2026,2375.0,2725.0,2550.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,16/01/2026,2390.0,2610.0,2500.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,24/01/2026,2350.0,2650.0,2500.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,02/02/2026,2375.0,2525.0,2450.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,04/02/2026,2425.0,2625.0,2525.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,13/02/2026,2425.0,2625.0,2525.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,17/02/2026,2325.0,2625.0,2475.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,16/01/2026,2255.0,2815.0,2550.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,19/01/2026,2175.0,2605.0,2525.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,27/01/2026,2350.0,2675.0,2525.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,02/02/2026,2428.0,2605.0,2550.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,06/02/2026,2350.0,2555.0,2505.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,09/02/2026,2015.0,2650.0,2500.0,1
+Gujarat,Surendranagar,Dhragradhra APMC,Wheat,Wheat,Local,30/01/2026,2710.0,2710.0,2710.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,07/11/2025,2500.0,2750.0,2750.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,01/11/2025,2475.0,2745.0,2745.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,13/11/2025,2425.0,2695.0,2560.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,18/11/2025,2360.0,2595.0,2510.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,17/11/2025,2450.0,2775.0,2775.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,19/11/2025,2400.0,2650.0,2525.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,19/11/2025,2285.0,2815.0,2550.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,22/11/2025,2315.0,2635.0,2625.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,25/11/2025,2010.0,2815.0,2410.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,07/11/2025,2325.0,2675.0,2500.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,08/11/2025,2325.0,2675.0,2500.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,10/11/2025,2375.0,2575.0,2475.0,1
+Gujarat,Gandhinagar,Mansa APMC,Wheat,Medium,FAQ,01/11/2025,2425.0,2800.0,2675.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,26/11/2025,2325.0,2775.0,2550.0,1
+Gujarat,Amreli,Babra APMC,Wheat,Medium,FAQ,21/11/2025,2375.0,2575.0,2475.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,Local,15/11/2025,2375.0,2725.0,2585.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,17/11/2025,2425.0,2725.0,2575.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,19/11/2025,2455.0,2705.0,2590.0,1
+Gujarat,Gir Somnath,Veraval APMC,Wheat,Medium Fine,FAQ,28/11/2025,2435.0,2685.0,2550.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,11/11/2025,2500.0,2650.0,2575.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,FAQ,04/11/2025,2450.0,2650.0,2550.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,FAQ,06/11/2025,2450.0,2650.0,2550.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,14/11/2025,2400.0,2665.0,2575.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,15/11/2025,2405.0,2655.0,2575.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,17/11/2025,2640.0,2860.0,2700.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,18/11/2025,2640.0,2860.0,2700.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lok-1,Local,28/11/2025,2375.0,2600.0,2500.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Lok-1,FAQ,26/11/2025,2350.0,2680.0,2570.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,13/11/2025,2585.0,2740.0,2630.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,07/11/2025,2625.0,2625.0,2625.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,10/11/2025,2585.0,2855.0,2660.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,07/11/2025,2430.0,3025.0,2650.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Lokwan,Local,07/11/2025,2250.0,2650.0,2500.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,11/11/2025,2505.0,2755.0,2650.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,08/11/2025,2450.0,3000.0,2640.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,12/11/2025,2505.0,2745.0,2625.0,1
+Gujarat,Jamnagar,Jam Jodhpur APMC,Wheat,Lokwan,Local,08/11/2025,2400.0,2735.0,2600.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,12/11/2025,2400.0,2625.0,2500.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,11/11/2025,2500.0,2905.0,2825.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,10/11/2025,2500.0,2675.0,2625.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,12/11/2025,2650.0,2950.0,2800.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,Grade Range-2,13/11/2025,3080.0,3080.0,3080.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,01/11/2025,2470.0,2900.0,2710.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,01/11/2025,2590.0,2740.0,2645.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,01/11/2025,2525.0,2740.0,2625.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,FAQ,03/11/2025,2555.0,3005.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,Lokwan,FAQ,03/11/2025,2750.0,2850.0,2800.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,03/11/2025,2400.0,2650.0,2650.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,04/11/2025,2425.0,2835.0,2725.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,Lokwan,FAQ,04/11/2025,2750.0,2850.0,2800.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,04/11/2025,2250.0,2700.0,2525.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,04/11/2025,2590.0,2705.0,2630.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,05/11/2025,2300.0,2675.0,2525.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,05/11/2025,2050.0,2050.0,2050.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,Lokwan,FAQ,06/11/2025,2750.0,2850.0,2800.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,06/11/2025,2455.0,2725.0,2625.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,14/11/2025,2425.0,3115.0,2675.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,14/11/2025,2525.0,2745.0,2625.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,14/11/2025,2580.0,2735.0,2630.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,15/11/2025,2525.0,2725.0,2650.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,15/11/2025,2585.0,2720.0,2640.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,15/11/2025,2500.0,2880.0,2750.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,18/11/2025,2545.0,2760.0,2745.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,18/11/2025,2400.0,2575.0,2575.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,17/11/2025,2400.0,2740.0,2675.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,17/11/2025,2400.0,2675.0,2675.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,21/11/2025,2000.0,2300.0,2150.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,19/11/2025,2430.0,2680.0,2655.0,1
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,Lokwan,FAQ,22/11/2025,2350.0,2450.0,2450.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,20/11/2025,2505.0,2725.0,2650.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,20/11/2025,2535.0,2730.0,2625.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Lokwan,Local,20/11/2025,2515.0,2850.0,2750.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,24/11/2025,2585.0,2805.0,2640.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Lokwan,FAQ,22/11/2025,2535.0,2850.0,2725.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,25/11/2025,2505.0,2680.0,2560.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Lokwan,FAQ,26/11/2025,2400.0,2720.0,2575.0,1
+Gujarat,Morbi,Vankaner APMC,Wheat,Lokwan,FAQ,26/11/2025,2400.0,2900.0,2650.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Lokwan,FAQ,27/11/2025,2575.0,2725.0,2620.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Lokwan,FAQ,27/11/2025,2405.0,2710.0,2625.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan,FAQ,28/11/2025,2630.0,2775.0,2680.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Lokwan,Non-FAQ,27/11/2025,2250.0,2250.0,2250.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,11/11/2025,2400.0,2680.0,2540.0,1
+Gujarat,Amreli,Dhari APMC,Wheat,Lokwan Gujrat,Non-FAQ,05/11/2025,2300.0,2405.0,2405.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,14/11/2025,2450.0,2725.0,2725.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,21/11/2025,2425.0,2525.0,2525.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,18/11/2025,2275.0,7500.0,2535.0,1
+Gujarat,Rajkot,Dhoraji APMC,Wheat,Lokwan Gujrat,Non-FAQ,20/11/2025,2300.0,2575.0,2400.0,1
+Gujarat,Amreli,Bagasara APMC,Wheat,Lokwan Gujrat,Local,20/11/2025,2250.0,2830.0,2540.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,25/11/2025,2410.0,2680.0,2545.0,1
+Gujarat,Junagarh,Visavadar APMC,Wheat,Lokwan Gujrat,FAQ,26/11/2025,2400.0,2620.0,2510.0,1
+Gujarat,Sabarkantha,Modasa APMC,Wheat,Lokwan Gujrat,FAQ,28/11/2025,2475.0,2655.0,2655.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,13/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,11/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,FAQ,03/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,19/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,20/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,147 Average,Local,27/11/2025,2700.0,2800.0,2750.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,Grade Range-1,14/11/2025,2275.0,2650.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,20/11/2025,2325.0,2575.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 1,FAQ,22/11/2025,2150.0,2650.0,2500.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,06/11/2025,2275.0,3075.0,2535.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,14/11/2025,2350.0,3215.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,17/11/2025,2400.0,2725.0,2525.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,26/11/2025,2375.0,2725.0,2550.0,1
+Gujarat,Rajkot,Jasdan APMC,Wheat,2189 No. 2,FAQ,27/11/2025,2380.0,2700.0,2520.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,FAQ,04/11/2025,2500.0,2940.0,2825.0,1
+Gujarat,Amreli,Savarkundla APMC,Wheat,Bansi,Local,28/11/2025,2600.0,2950.0,2800.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,12/11/2025,2520.0,3400.0,2960.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,05/11/2025,2285.0,2910.0,2600.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,13/11/2025,2570.0,3080.0,2825.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,15/11/2025,1630.0,3360.0,2495.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,18/11/2025,2220.0,2905.0,2565.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,25/11/2025,2570.0,3080.0,2825.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,07/11/2025,1750.0,2400.0,2100.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Deshi,Local,12/11/2025,2575.0,2575.0,2575.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,15/11/2025,2450.0,2660.0,2555.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,22/11/2025,2450.0,2610.0,2530.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Deshi,Local,21/11/2025,2450.0,2490.0,2470.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,20/11/2025,2550.0,2550.0,2550.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,22/11/2025,2400.0,2600.0,2500.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,26/11/2025,2450.0,2530.0,2490.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,FAQ,29/11/2025,2505.0,2625.0,2565.0,1
+Gujarat,Patan,Sami APMC,Wheat,Deshi,Local,07/11/2025,450.0,450.0,450.0,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,10/11/2025,240000.0,250000.0,245000.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Local,Local,10/11/2025,2580.0,2760.0,2650.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,08/11/2025,2250.0,2650.0,2450.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,10/11/2025,2250.0,2650.0,2500.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Local,FAQ,01/11/2025,2550.0,2740.0,2645.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,14/11/2025,2500.0,2600.0,2550.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,14/11/2025,2515.0,2760.0,2600.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,15/11/2025,2660.0,2660.0,2660.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,18/11/2025,2500.0,2685.0,2600.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Local,Local,18/11/2025,2535.0,2680.0,2600.0,1
+Gujarat,Bhavnagar,Bhavnagar APMC,Wheat,Local,FAQ,24/11/2025,2648.0,2648.0,2648.0,1
+Gujarat,Mehsana,Mehsana APMC,Wheat,Local,Local,24/11/2025,2525.0,2750.0,2625.0,1
+Gujarat,Kachchh,Rapar APMC,Wheat,Local,Local,25/11/2025,2405.0,2405.0,2405.0,1
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,26/11/2025,2250.0,2650.0,2500.0,1
+Gujarat,Dahod,Limkheda APMC,Wheat,Local,Local,29/11/2025,2500.0,2600.0,2550.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Deshi,Local,10/11/2025,2622.5,2622.5,2622.5,1
+Gujarat,Panchmahals,Morva Hafad APMC,Wheat,Deshi,Local,08/11/2025,2450.0,2450.0,2450.0,1
+Gujarat,Porbandar,Porbandar APMC,Wheat,Deshi,Local,09/11/2025,2515.0,2515.0,2515.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,07/11/2025,2515.0,2680.0,2597.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,13/11/2025,2500.0,2770.0,2635.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,14/11/2025,2500.0,2670.0,2585.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,04/11/2025,2470.0,2710.0,2590.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,19/11/2025,2540.0,2740.0,2640.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,24/11/2025,2500.0,2800.0,2650.0,1
+Gujarat,Patan,Siddhpur APMC,Wheat,Hybrid,FAQ,28/11/2025,2425.0,2675.0,2550.0,1
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Wheat,Kalyan,FAQ,10/11/2025,2500.0,3090.0,2795.0,1
+Gujarat,Bhavnagar,Taleja APMC,Wheat,Kalyan,FAQ,21/11/2025,2410.0,2815.0,2615.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,29/11/2025,2250.0,2580.0,2415.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,28/11/2025,2500.0,2700.0,2600.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,29/11/2025,2600.0,2600.0,2600.0,1
+Gujarat,Jamnagar,Dhrol APMC,Wheat,Other,Local,10/11/2025,497.0,536.0,517.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,15/11/2025,2545.0,2705.0,2600.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,Local,18/11/2025,2610.0,2610.0,2610.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,17/11/2025,2540.0,2570.0,2550.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,18/11/2025,2500.0,2580.0,2540.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,18/11/2025,2510.0,2765.0,2650.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,18/11/2025,2450.0,2650.0,2560.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,18/11/2025,2535.0,2915.0,2815.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,17/11/2025,2500.0,2800.0,2650.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,17/11/2025,2500.0,2655.0,2550.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,17/11/2025,2475.0,2575.0,2525.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,17/11/2025,2500.0,2900.0,2680.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,18/11/2025,2500.0,2625.0,2562.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,19/11/2025,2500.0,2625.0,2562.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,19/11/2025,2000.0,2700.0,2500.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,19/11/2025,2555.0,2885.0,2750.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,18/11/2025,2475.0,2775.0,2675.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,20/11/2025,2450.0,2630.0,2550.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,19/11/2025,2400.0,2795.0,2625.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,18/11/2025,2500.0,2800.0,2650.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,18/11/2025,2500.0,2710.0,2600.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,19/11/2025,2510.0,2730.0,2625.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,19/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,19/11/2025,2450.0,2750.0,2600.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,21/11/2025,2495.0,2495.0,2495.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,25/11/2025,2450.0,2670.0,2550.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,24/11/2025,2550.0,2955.0,2750.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,24/11/2025,2500.0,2865.0,2725.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,26/11/2025,2500.0,2600.0,2550.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,26/11/2025,2000.0,2700.0,2500.0,1
+Gujarat,Dahod,Jhalod APMC,Wheat,Other,Local,26/11/2025,2600.0,2600.0,2600.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,27/11/2025,1575.0,2800.0,2750.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,27/11/2025,2505.0,2725.0,2650.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,26/11/2025,2490.0,2800.0,2715.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,27/11/2025,2550.0,2850.0,2700.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,27/11/2025,2550.0,2715.0,2630.0,1
+Gujarat,Dahod,Dahod APMC,Wheat,Wheat,FAQ,03/11/2025,2630.0,2645.0,2640.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,05/11/2025,2585.0,3160.0,2700.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,18/11/2025,2500.0,2670.0,2600.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,19/11/2025,2600.0,3440.0,2730.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,20/11/2025,2640.0,2640.0,2640.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,26/11/2025,2500.0,2625.0,2550.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,26/11/2025,2590.0,2590.0,2590.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,28/11/2025,2615.0,3025.0,2720.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,21/11/2025,2500.0,2685.0,2650.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,06/11/2025,2507.0,2507.0,2507.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,11/11/2025,2120.0,2660.0,2450.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,Local,11/11/2025,2000.0,2750.0,2500.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,11/11/2025,2545.0,2795.0,2670.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,07/11/2025,2595.0,2595.0,2595.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,06/11/2025,2450.0,2795.0,2650.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,06/11/2025,2400.0,2800.0,2600.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,08/11/2025,2595.0,2750.0,2700.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,10/11/2025,2400.0,2775.0,2587.5,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,Local,14/11/2025,2900.0,2950.0,2925.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,06/11/2025,2450.0,2625.0,2537.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,06/11/2025,2425.0,2475.0,2450.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,10/11/2025,2550.0,2550.0,2550.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,07/11/2025,2435.0,2490.0,2462.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,Local,07/11/2025,2600.0,2600.0,2600.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,07/11/2025,2450.0,2710.0,2600.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Local,27/11/2025,2000.0,2600.0,2500.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,28/11/2025,2500.0,2625.0,2562.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,10/11/2025,2405.0,2745.0,2585.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,FAQ,06/11/2025,2450.0,2550.0,2550.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,12/11/2025,2475.0,2535.0,2505.0,1
+Gujarat,Anand,Borsad APMC,Wheat,Other,Local,14/11/2025,2425.0,2425.0,2425.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,15/11/2025,2000.0,2700.0,2500.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,18/11/2025,2000.0,2700.0,2500.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,14/11/2025,2480.0,2805.0,2650.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,11/11/2025,2615.0,3155.0,2750.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,12/11/2025,2500.0,2630.0,2575.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,11/11/2025,2390.0,2670.0,2565.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,13/11/2025,2500.0,2950.0,2750.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,13/11/2025,2565.0,2565.0,2565.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,01/11/2025,2455.0,2620.0,2500.0,1
+Gujarat,Bharuch,Jambusar APMC,Wheat,Other,FAQ,01/11/2025,2700.0,3300.0,3000.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Non-FAQ,01/11/2025,2200.0,2400.0,2300.0,1
+Gujarat,Rajkot,Upleta APMC,Wheat,Other,Non-FAQ,01/11/2025,2350.0,2425.0,2400.0,1
+Gujarat,Botad,Botad APMC,Wheat,Other,Non-FAQ,03/11/2025,2565.0,2830.0,2750.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,26/11/2025,2590.0,2890.0,2740.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,12/11/2025,2555.0,2755.0,2700.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Local,10/11/2025,2500.0,2500.0,2500.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,11/11/2025,2525.0,2525.0,2525.0,1
+Gujarat,Bharuch,Jambusar APMC,Wheat,Other,FAQ,04/11/2025,2600.0,3400.0,3000.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Non-FAQ,04/11/2025,2200.0,2400.0,2300.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,04/11/2025,2550.0,2655.0,2602.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,FAQ,05/11/2025,2450.0,2850.0,2725.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,Local,20/11/2025,2500.0,2645.0,2572.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,22/11/2025,2525.0,2725.0,2675.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,20/11/2025,2500.0,2980.0,2700.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,FAQ,20/11/2025,2690.0,2690.0,2690.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,Local,20/11/2025,2300.0,2610.0,2475.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,25/11/2025,2560.0,2560.0,2560.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,22/11/2025,2250.0,2750.0,2500.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,21/11/2025,2500.0,2650.0,2575.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,Local,21/11/2025,2405.0,2670.0,2537.5,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,Local,21/11/2025,2650.0,3055.0,2852.5,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,21/11/2025,2500.0,2600.0,2550.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,21/11/2025,2580.0,2780.0,2680.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,21/11/2025,2500.0,2750.0,2600.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,24/11/2025,2475.0,2655.0,2600.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,24/11/2025,2505.0,2740.0,2675.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,24/11/2025,2500.0,2500.0,2500.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,22/11/2025,2535.0,2580.0,2560.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,22/11/2025,2705.0,2730.0,2725.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,26/11/2025,2250.0,2660.0,2455.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,26/11/2025,2525.0,2730.0,2675.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,26/11/2025,2475.0,2695.0,2550.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,FAQ,03/11/2025,2325.0,3005.0,2665.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,FAQ,06/11/2025,2500.0,2950.0,2725.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,24/11/2025,2480.0,3050.0,2765.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,26/11/2025,2355.0,2910.0,2633.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,28/11/2025,2250.0,3250.0,2750.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,27/11/2025,2500.0,2815.0,2658.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,03/11/2025,2250.0,2975.0,2750.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,21/11/2025,2200.0,2855.0,2740.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,26/11/2025,2430.0,2985.0,2770.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,29/11/2025,2460.0,2825.0,2655.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,Other,Local,12/11/2025,2555.0,3205.0,2880.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Non-FAQ,03/11/2025,2200.0,2350.0,2300.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,FAQ,03/11/2025,2400.0,2600.0,2500.0,1
+Gujarat,Jamnagar,Kalawad APMC,Wheat,Other,FAQ,03/11/2025,2195.0,2785.0,2480.0,1
+Gujarat,Junagarh,Bhesan APMC,Wheat,Other,FAQ,03/11/2025,2000.0,2750.0,2500.0,1
+Gujarat,Mehsana,Vijapur(Kukarvada) APMC,Wheat,Other,Non-FAQ,03/11/2025,2000.0,2755.0,2590.0,1
+Gujarat,Patan,Patan APMC,Wheat,Other,FAQ,03/11/2025,2405.0,2700.0,2600.0,1
+Gujarat,Sabarkantha,Vadali APMC,Wheat,Other,FAQ,03/11/2025,2550.0,2650.0,2600.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,FAQ,04/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Devbhumi Dwarka,Jam Khambalia APMC,Wheat,Other,Non-FAQ,04/11/2025,2250.0,2675.0,2505.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,FAQ,05/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,13/11/2025,2575.0,2575.0,2575.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,13/11/2025,2525.0,2625.0,2575.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,13/11/2025,2500.0,2675.0,2587.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,14/11/2025,2370.0,2710.0,2600.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,17/11/2025,2590.0,2900.0,2745.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,15/11/2025,2555.0,2565.0,2555.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,15/11/2025,2350.0,2750.0,2500.0,1
+Gujarat,Mehsana,Mehsana(Jornang) APMC,Wheat,Other,Local,18/11/2025,2055.0,2905.0,2750.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,20/11/2025,2250.0,2665.0,2457.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,22/11/2025,2450.0,2550.0,2550.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,22/11/2025,2455.0,2765.0,2610.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,24/11/2025,2500.0,2750.0,2625.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,25/11/2025,2560.0,2850.0,2725.0,1
+Gujarat,Gandhinagar,Dehgam APMC,Wheat,Other,FAQ,25/11/2025,2500.0,2650.0,2575.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,24/11/2025,2450.0,2760.0,2600.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,08/11/2025,2605.0,3250.0,2740.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,07/11/2025,2350.0,2675.0,2550.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,13/11/2025,2350.0,2660.0,2500.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,22/11/2025,2585.0,2585.0,2585.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,27/11/2025,2605.0,2605.0,2605.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,13/11/2025,2500.0,2900.0,2700.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,08/12/2025,4900.0,4900.0,4900.0,1
+Gujarat,Banaskanth,Thara(Shihori) APMC,Wheat,Other,FAQ,19/12/2025,2325.0,2525.0,2425.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,19/12/2025,2400.0,2650.0,2500.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,20/12/2025,2500.0,2550.0,2525.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,20/12/2025,2455.0,2785.0,2620.0,1
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,Other,FAQ,20/12/2025,2530.0,2810.0,2675.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,22/12/2025,2500.0,2525.0,2525.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,08/12/2025,2250.0,3140.0,2695.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,09/12/2025,2505.0,2800.0,2653.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,10/12/2025,2560.0,3275.0,2918.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,13/12/2025,2450.0,3060.0,2755.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,22/12/2025,2225.0,3105.0,2665.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,29/12/2025,1865.0,3005.0,2435.0,1
+Gujarat,Amreli,Rajula APMC,Wheat,PISSI,Local,27/12/2025,2205.0,2880.0,2543.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,09/12/2025,2450.0,2965.0,2665.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,19/12/2025,2500.0,2550.0,2525.0,1
+Gujarat,Banaskanth,Thara APMC,Wheat,Other,FAQ,20/12/2025,2475.0,2620.0,2547.5,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,22/12/2025,2520.0,2555.0,2540.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,22/12/2025,2525.0,2825.0,2650.0,1
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,Other,Local,22/12/2025,2000.0,2700.0,2615.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,FAQ,24/12/2025,2500.0,2675.0,2587.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,24/12/2025,2475.0,2600.0,2540.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,24/12/2025,2405.0,2585.0,2495.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,24/12/2025,2500.0,2890.0,2695.0,1
+Gujarat,Gandhinagar,Kalol APMC,Wheat,Other,Local,22/12/2025,2350.0,2675.0,2500.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,22/12/2025,2405.0,2725.0,2565.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,22/12/2025,2355.0,2650.0,2500.0,1
+Gujarat,Patan,Radhanpur APMC,Wheat,Other,Local,24/12/2025,2475.0,2775.0,2700.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,23/12/2025,2500.0,2720.0,2610.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,27/12/2025,2450.0,2500.0,2475.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,26/12/2025,2250.0,2555.0,2425.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,25/12/2025,2400.0,2567.0,2483.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,27/12/2025,2540.0,2540.0,2540.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,27/12/2025,2125.0,2670.0,2500.0,1
+Gujarat,Morbi,APMC HALVAD,Wheat,Other,Local,25/12/2025,2250.0,2620.0,2550.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,26/12/2025,2450.0,2550.0,2500.0,1
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Wheat,Other,Local,26/12/2025,1800.0,2200.0,2000.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,26/12/2025,2275.0,2475.0,2375.0,1
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,Other,Grade Range-2,26/12/2025,2475.0,2475.0,2475.0,1
+Gujarat,Surat,Vyra APMC,Wheat,Other,FAQ,26/12/2025,2000.0,2100.0,2050.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,26/12/2025,2500.0,2600.0,2600.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,26/12/2025,2495.0,2745.0,2620.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,30/12/2025,2325.0,2625.0,2500.0,1
+Gujarat,Mehsana,Kadi APMC,Wheat,Other,FAQ,29/12/2025,2325.0,2625.0,2500.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,29/12/2025,2450.0,2550.0,2500.0,1
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Wheat,Other,Local,29/12/2025,2500.0,2530.0,2520.0,1
+Gujarat,Ahmedabad,Viramgam APMC,Wheat,Other,Local,29/12/2025,2485.0,2600.0,2540.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,29/12/2025,2250.0,2825.0,2500.0,1
+Gujarat,Sabarkantha,Bhiloda APMC,Wheat,Other,Non-FAQ,26/12/2025,2500.0,2700.0,2600.0,1
+Gujarat,Morbi,Morbi APMC,Wheat,Other,FAQ,27/12/2025,2480.0,2700.0,2590.0,1
+Gujarat,Bhavnagar,Palitana APMC,Wheat,Other,Local,29/12/2025,2350.0,2755.0,2550.0,1
+Gujarat,Banaskanth,Palanpur APMC,Wheat,Other,Local,30/12/2025,2612.0,2612.0,2612.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,30/12/2025,2520.0,2900.0,2715.0,1
+Gujarat,Banaskanth,Vadgam APMC,Wheat,Other,FAQ,29/12/2025,2505.0,2505.0,2505.0,1
+Gujarat,Banaskanth,Dhanera APMC,Wheat,Other,Local,30/12/2025,2675.0,2675.0,2675.0,1
+Gujarat,Banaskanth,Amirgadh APMC,Wheat,Other,FAQ,29/12/2025,2400.0,2600.0,2500.0,1
+Gujarat,Sabarkantha,Meghraj APMC,Wheat,Other,Local,30/12/2025,2500.0,2600.0,2600.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,30/12/2025,2465.0,2505.0,2500.0,1
+Gujarat,Banaskanth,Deesa APMC,Wheat,Other,FAQ,31/12/2025,2425.0,2705.0,2600.0,1
+Gujarat,Mehsana,Visnagar APMC,Wheat,Other,Local,30/12/2025,2450.0,2675.0,2562.0,1
+Gujarat,Kheda,Kapadvanj APMC,Wheat,Other,Local,31/12/2025,2450.0,2550.0,2500.0,1
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Wheat,Other,FAQ,31/12/2025,2450.0,2555.0,2500.0,1
+Gujarat,Anand,Khambhat(Grain Market) APMC,Wheat,Other,Local,31/12/2025,2250.0,2750.0,2500.0,1
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Wheat,Other,FAQ,31/12/2025,2490.0,2575.0,2532.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,Non-FAQ,02/12/2025,2325.0,2424.0,2400.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,06/12/2025,2480.0,2675.0,2600.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,10/12/2025,2535.0,2680.0,2600.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,Non-FAQ,08/12/2025,2375.0,2424.0,2400.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,22/12/2025,2500.0,2700.0,2600.0,1
+Gujarat,Sabarkantha,Himatnagar APMC,Wheat,Sonalika,FAQ,26/12/2025,2535.0,2735.0,2650.0,1
+Gujarat,Amreli,Amreli APMC,Wheat,Rajasthan Tukdi,FAQ,16/12/2025,2350.0,2745.0,2640.0,1
+Gujarat,Rajkot,Gondal APMC,Wheat,Sechor No. 1,FAQ,08/12/2025,2400.0,2970.0,2640.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,02/12/2025,2570.0,2950.0,2670.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,02/12/2025,2615.0,2615.0,2615.0,1
+Gujarat,Ahmedabad,Sanad APMC,Wheat,Sharbati,FAQ,09/12/2025,2625.0,2625.0,2625.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,05/12/2025,2525.0,3035.0,2640.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,09/12/2025,2500.0,3450.0,2640.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,11/12/2025,2535.0,3060.0,2640.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,12/12/2025,2450.0,2590.0,2525.0,1
+Gujarat,Junagarh,Junagadh APMC,Wheat,Sharbati,FAQ,18/12/2025,2400.0,2560.0,2525.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,19/12/2025,2520.0,3255.0,2710.0,1
+Gujarat,Rajkot,Rajkot APMC,Wheat,Sharbati,FAQ,20/12/2025,2530.0,2900.0,2660.0,1

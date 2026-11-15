@@ -1,0 +1,1501 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Rajasthan,Dausa,Madanganj Mandawar APMC,Wheat,Other,Local,07/11/2025,2460,2531,2495.0,1
+Rajasthan,Jodhpur Rural,Ositan Mathania APMC,Wheat,Local,Local,07/11/2025,2450,2450,2450.0,1
+Rajasthan,Jodhpur Rural,Ositan Mathania APMC,Wheat,Local,Local,24/11/2025,2500,2600,2550.0,1
+Rajasthan,Jodhpur Rural,Ositan Mathania APMC,Wheat,Local,Local,05/12/2025,2400,2500,2450.0,1
+Rajasthan,Dausa,Madanganj Mandawar APMC,Wheat,Other,FAQ,09/12/2025,2445,2480,2459.0,1
+Rajasthan,Dausa,Madanganj Mandawar APMC,Wheat,Other,FAQ,03/11/2025,2350,2549,2485.0,1
+Rajasthan,Dausa,Madanganj Mandawar APMC,Wheat,Other,FAQ,02/12/2025,2340,2494,2449.0,1
+Rajasthan,Dausa,Madanganj Mandawar APMC,Wheat,Other,FAQ,19/11/2025,2455,2521,2504.0,1
+Rajasthan,Dausa,Madanganj Mandawar APMC,Wheat,Other,FAQ,21/11/2025,2450,2502,2492.0,1
+Rajasthan,Dausa,Madanganj Mandawar APMC,Wheat,Other,FAQ,26/11/2025,2451,2506,2476.0,1
+Rajasthan,Hanumangarh,Urlivas - Hanumangarh,Wheat,Other,Non-FAQ,24/11/2025,2451,2471,2461.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2400,2475,2437.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,FAQ,01/11/2025,2300,2430,2365.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,11/11/2025,2525,2525,2525.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,07/11/2025,2530,2530,2530.0,1
+Rajasthan,Dudu,Dudu APMC,Wheat,147 Average,Local,07/11/2025,2500,2500,2500.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,FAQ,04/11/2025,2440,2475,2458.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,FAQ,18/11/2025,2570,2570,2570.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,18/11/2025,2330,2427,2379.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,21/11/2025,2390,2435,2413.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,21/11/2025,2520,2520,2520.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,22/11/2025,2450,2450,2450.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,147 Average,Local,24/11/2025,2400,2521,2461.0,1
+Rajasthan,Anupgarh,Anupgarh APMC,Wheat,Dara,Grade Range-1,11/11/2025,2515,2515,2515.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,FAQ,05/11/2025,2520,2580,2545.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,10/11/2025,2440,2440,2440.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,13/11/2025,2500,2500,2500.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,15/11/2025,2393,2439,2416.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,19/11/2025,2500,2500,2500.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,27/11/2025,2300,2428,2364.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,08/11/2025,2401,2626,2545.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,07/11/2025,2401,2650,2520.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,07/11/2025,2441,2665,2533.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,10/11/2025,2325,2460,2435.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,11/11/2025,2440,2500,2470.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,12/11/2025,2521,2521,2521.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,12/11/2025,2475,2529,2500.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,Non-FAQ,11/11/2025,2535,2535,2535.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,10/11/2025,2399,2475,2440.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,10/11/2025,2500,2530,2515.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,FAQ,01/11/2025,2525,2525,2525.0,1
+Rajasthan,Bikaner,Bikaner (Grain) APMC,Wheat,Other,FAQ,01/11/2025,2601,2900,2751.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,01/11/2025,2395,2500,2445.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,02/11/2025,2450,2470,2460.0,1
+Rajasthan,Bharatpur,Bharatpur APMC,Wheat,Other,FAQ,03/11/2025,2520,2603,2562.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,03/11/2025,2500,2600,2560.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Non-FAQ,03/11/2025,2490,2490,2490.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,FAQ,03/11/2025,2439,2515,2480.0,1
+Rajasthan,Dausa,Mahuwa APMC,Wheat,Other,FAQ,03/11/2025,2490,2518,2509.0,1
+Rajasthan,Dholpur,Dholpur APMC,Wheat,Other,FAQ,03/11/2025,2520,2560,2540.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,03/11/2025,2400,2511,2505.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Non-FAQ,03/11/2025,2400,2550,2475.0,1
+Rajasthan,Kota,Kota APMC,Wheat,Other,FAQ,03/11/2025,2458,2644,2575.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Other,FAQ,03/11/2025,2524,2622,2573.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,03/11/2025,2500,2690,2520.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Non-FAQ,03/11/2025,2350,2475,2471.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,FAQ,01/11/2025,2427,2511,2511.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Non-FAQ,04/11/2025,2444,2444,2444.0,1
+Rajasthan,Bundi,Bundi APMC,Wheat,Other,FAQ,04/11/2025,2430,2430,2430.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,04/11/2025,2560,0,2720.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Non-FAQ,04/11/2025,2300,2600,2478.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,04/11/2025,2460,2850,2600.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,04/11/2025,2395,2490,2445.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Other,FAQ,04/11/2025,2460,2554,2507.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,26/11/2025,2400,2540,2470.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Non-FAQ,05/11/2025,2430,2551,2490.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,05/11/2025,2421,2421,2421.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,13/11/2025,2400,2600,2510.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,12/11/2025,2375,2525,2500.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,12/11/2025,2381,2590,2461.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,Non-FAQ,11/11/2025,2450,2450,2450.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,11/11/2025,2537,2551,2540.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,13/11/2025,2535,2538,2537.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,13/11/2025,2400,2450,2425.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,14/11/2025,2310,2710,2570.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,14/11/2025,3100,3325,3187.5,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,13/11/2025,2480,2521,2501.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,18/11/2025,2281,2508,2394.0,1
+Rajasthan,Beawar,Jaitaran APMC,Wheat,Other,FAQ,14/11/2025,2500,2500,2500.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,06/11/2025,2525,2525,2525.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,Local,10/11/2025,2400,2500,2450.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,05/11/2025,2475,2475,2475.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,07/11/2025,2470,2478,2475.0,1
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Wheat,Other,Non-FAQ,07/11/2025,2450,2450,2450.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,09/11/2025,2450,2475,2470.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,10/11/2025,2426,2568,2520.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,10/11/2025,2380,2511,2446.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,10/11/2025,2500,2500,2500.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,10/11/2025,2541,2541,2541.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,07/11/2025,2461,2461,2461.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,12/11/2025,2416,2462,2440.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,05/11/2025,2550,2560,2560.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,06/11/2025,2480,2545,2512.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,07/11/2025,2555,2570,2555.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,11/11/2025,2350,2564,2480.0,1
+Rajasthan,Hanumangarh,Rawatsar APMC,Wheat,Other,FAQ,06/11/2025,2500,2567,2560.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,11/11/2025,2366,2547,2456.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,FAQ,01/11/2025,2496,2512,2501.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Non-FAQ,01/11/2025,2326,2521,2423.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Non-FAQ,01/11/2025,2300,2465,2465.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,FAQ,02/11/2025,2400,2600,2475.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,FAQ,03/11/2025,2520,2550,2520.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,03/11/2025,2540,2550,2540.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,13/11/2025,2300,2700,2570.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,14/11/2025,2420,2530,2510.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,13/11/2025,2451,2634,2542.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,13/11/2025,2600,2600,2600.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,17/11/2025,2523,2523,2523.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,15/11/2025,2435,2525,2490.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,FAQ,15/11/2025,2400,2500,2450.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,17/11/2025,2500,2525,2500.0,1
+Rajasthan,Anupgarh,Anupgarh APMC,Wheat,Dara,Grade Range-2,15/12/2025,2480,2480,2480.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Deshi,Grade Range-2,02/12/2025,2450,2511,2481.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,08/12/2025,2510,2529,2529.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,12/12/2025,2519,2544,2541.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,15/12/2025,2534,2550,2534.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,FAQ,17/12/2025,2525,2562,2550.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Deshi,FAQ,18/12/2025,2450,2465,2460.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,24/12/2025,2400,2400,2400.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,25/12/2025,2521,2555,2555.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,30/12/2025,2435,2435,2435.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,31/12/2025,2535,2620,2535.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,30/12/2025,2560,2560,2560.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,10/12/2025,2530,2530,2530.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,14/12/2025,2530,2530,2530.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,31/12/2025,2510,2530,2525.91,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,04/12/2025,2430,2471,2451.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,01/12/2025,2500,2842,2640.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,05/12/2025,2470,2691,2600.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,05/12/2025,2495,2828,2540.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,06/12/2025,2466,2861,2610.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,22/12/2025,2530,2651,2591.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,23/12/2025,2520,2753,2620.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,18/12/2025,2461,2496,2479.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,18/12/2025,2530,2665,2605.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,19/12/2025,2501,2651,2590.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,22/12/2025,2435,2470,2453.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,20/12/2025,2400,2491,2446.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,23/12/2025,2440,2661,2600.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,24/12/2025,2440,2481,2461.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Local,23/12/2025,2536,2664,2600.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,24/12/2025,2530,2740,2615.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,22/12/2025,2475,2760,2641.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,30/12/2025,2437,2551,2494.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,31/12/2025,2300,2500,2400.0,1
+Rajasthan,Khairthal Tijara,Tijara APMC,Wheat,147 Average,Non-FAQ,10/12/2025,2500,2600,2550.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,10/12/2025,2530,2600,2560.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,15/12/2025,2485,2590,2570.0,1
+Rajasthan,Jaipur,Rajdhanai Mandi (KukarKheda) APMC,Wheat,147 Average,Grade Range-2,23/12/2025,3100,3100,3100.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,19/12/2025,2546,2546,2546.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,23/12/2025,2550,2610,2570.0,1
+Rajasthan,Dudu,Dudu APMC,Wheat,147 Average,Local,29/12/2025,2510,2510,2510.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,29/12/2025,2360,2600,2480.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,27/12/2025,2520,2520,2520.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,30/12/2025,2525,2610,2550.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,30/12/2025,2470,2470,2470.0,1
+Rajasthan,Anupgarh,Anupgarh APMC,Wheat,Dara,Grade Range-2,09/12/2025,2544,2544,2544.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Farmi,Grade Range-2,01/12/2025,2440,2600,2520.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,04/12/2025,2530,2530,2530.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,09/12/2025,2400,2500,2450.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,29/12/2025,2545,2909,2640.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,31/12/2025,2541,2682,2611.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Lok-1,Grade Range-1,03/12/2025,2451,2521,2486.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,01/12/2025,2432,2506,2469.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,02/12/2025,2525,2621,2550.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,01/12/2025,2411,2446,2420.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,01/12/2025,2450,2535,2535.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,02/12/2025,2400,2517,2450.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,02/12/2025,2340,2494,2449.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,02/12/2025,2450,2530,2490.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,01/12/2025,2428,2428,2428.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,03/12/2025,2406,2573,2489.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,03/12/2025,2400,2851,2625.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,01/12/2025,2500,2526,2500.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,05/12/2025,2300,2600,2450.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,02/12/2025,2534,2565,2535.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,02/12/2025,2455,2455,2455.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,02/12/2025,2400,2450,2420.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,04/12/2025,2635,2700,2661.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,02/12/2025,2460,2500,2480.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,02/12/2025,2475,2551,2545.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,05/12/2025,2500,2508,2504.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,03/12/2025,2300,2600,2475.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,03/12/2025,2500,2600,2600.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,03/12/2025,2420,2500,2480.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,08/12/2025,2485,2485,2485.0,1
+Rajasthan,Hanumangarh,Hanumangarh APMC,Wheat,Other,Non-FAQ,09/12/2025,2436,2436,2436.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,09/12/2025,2480,2541,2510.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,09/12/2025,2445,2480,2459.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,09/12/2025,2365,2390,2377.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,09/12/2025,2400,2521,2471.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,08/12/2025,2521,2542,2524.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,04/12/2025,2450,2490,2480.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,04/12/2025,2450,2535,2492.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,06/12/2025,2450,2530,2490.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,04/12/2025,2559,2561,2560.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,06/12/2025,2440,2524,2482.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,04/12/2025,2395,2440,2415.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,06/12/2025,2312,2476,2395.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,05/12/2025,2415,2475,2475.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,06/12/2025,2466,2466,2466.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,06/12/2025,2400,2500,2450.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,06/12/2025,4762,4866,4814.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,07/12/2025,2400,2500,2455.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,06/12/2025,2400,2500,2455.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,08/12/2025,2470,2470,2470.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,09/12/2025,2100,2100,2100.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,06/12/2025,2368,2544,2456.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,09/12/2025,2400,2560,2480.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,08/12/2025,2350,2350,2350.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,08/12/2025,2334,2360,2347.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,09/12/2025,2500,2542,2535.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,10/12/2025,2420,2485,2450.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,10/12/2025,2500,2600,2600.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,11/12/2025,2400,2575,2499.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,11/12/2025,2430,2570,2470.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,10/12/2025,2470,2470,2470.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,11/12/2025,2410,2465,2438.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,FAQ,10/12/2025,2400,2600,2500.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,11/12/2025,2531,2531,2531.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,10/12/2025,2430,2430,2430.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,11/12/2025,2480,2520,2500.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,12/12/2025,2330,2486,2390.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,30/12/2025,2541,2541,2541.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,11/12/2025,2350,2470,2420.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,13/12/2025,2471,2471,2471.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,12/12/2025,2525,2540,2525.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,13/12/2025,2509,2518,2518.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,15/12/2025,2470,2543,2506.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,15/12/2025,2425,2670,2550.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,14/12/2025,2400,2500,2450.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,16/12/2025,2300,2450,2375.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,16/12/2025,2300,2505,2487.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,15/12/2025,2476,2530,2525.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,15/12/2025,2411,2411,2411.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,16/12/2025,2479,2575,2527.0,1
+Rajasthan,Hanumangarh,Nohar APMC,Wheat,Other,FAQ,16/12/2025,2527,2527,2527.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,16/12/2025,2560,2900,2730.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,17/12/2025,2441,2480,2450.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,17/12/2025,2535,2535,2535.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,Local,18/12/2025,2400,2600,2500.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,17/12/2025,2464,2585,2524.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,17/12/2025,2500,2600,2600.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,18/12/2025,2366,2465,2416.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,23/12/2025,2380,2650,2515.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,23/12/2025,2451,2538,2494.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,19/12/2025,2465,2475,2469.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,19/12/2025,2540,2540,2540.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,22/12/2025,2350,2511,2511.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,19/12/2025,2298,2504,2487.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,18/12/2025,2564,2564,2564.0,1
+Rajasthan,Pali,Sojat Road APMC,Wheat,Other,Local,19/12/2025,2399,2399,2399.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,19/12/2025,2231,2471,2311.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,22/12/2025,4510,4876,4692.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,19/12/2025,2411,2511,2474.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,20/12/2025,2480,2495,2490.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,20/12/2025,2460,2475,2465.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,20/12/2025,2376,2450,2413.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,22/12/2025,2455,2552,2503.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,20/12/2025,2410,2534,2472.0,1
+Rajasthan,Hanumangarh,Nohar APMC,Wheat,Other,FAQ,19/12/2025,2401,2509,2500.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,20/12/2025,2441,2441,2441.0,1
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Wheat,Other,Non-FAQ,19/12/2025,2543,2543,2543.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,19/12/2025,2380,2670,2550.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,22/12/2025,2301,2370,2301.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,22/12/2025,2450,2570,2510.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,20/12/2025,2399,2560,2479.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,24/12/2025,2471,2498,2475.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,23/12/2025,2500,2500,2500.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,24/12/2025,2261,2480,2421.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,24/12/2025,2288,2555,2395.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,22/12/2025,2300,2571,2480.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,22/12/2025,2401,2475,2450.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,24/12/2025,2425,2496,2460.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,23/12/2025,2525,2525,2525.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,24/12/2025,2566,2583,2574.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,24/12/2025,2508,2508,2508.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,23/12/2025,2396,2461,2429.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,23/12/2025,2411,2411,2411.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,24/12/2025,2441,2501,2471.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,23/12/2025,2500,2535,2500.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,26/12/2025,2400,2539,2480.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,25/12/2025,2461,2565,2513.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,26/12/2025,2465,2536,2509.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,26/12/2025,2452,2501,2477.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,25/12/2025,2450,2580,2515.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,29/12/2025,2374,2401,2387.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,26/12/2025,2587,2595,2590.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,29/12/2025,2374,2570,2546.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,29/12/2025,2467,2560,2513.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,30/12/2025,2515,2690,2602.0,1
+Rajasthan,Jaipur Rural,Kishangarh Renwal APMC,Wheat,Other,Local,31/12/2025,2600,2700,2650.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,30/12/2025,2480,2544,2500.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,31/12/2025,2476,2575,2505.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,31/12/2025,2515,2680,2597.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,31/12/2025,2471,2471,2471.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,FAQ,01/12/2025,2457,2457,2457.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,09/12/2025,2400,2470,2435.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,Local,08/12/2025,2415,2465,2440.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,20/12/2025,2400,2520,2460.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,Local,15/12/2025,2451,2451,2451.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,16/12/2025,2400,2500,2450.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,Local,23/12/2025,2465,2465,2465.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,13/12/2025,4832,4896,4864.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,02/01/2026,4856,5014,4934.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,06/01/2026,4720,5062,4890.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,15/11/2025,2450,2630,2540.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,15/11/2025,2400,2573,2521.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,14/11/2025,2400,2524,2462.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,20/11/2025,2300,2500,2350.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,20/11/2025,2500,2500,2500.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,20/11/2025,2450,2525,2487.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,20/11/2025,2535,2535,2535.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,21/11/2025,2541,2637,2619.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,21/11/2025,2525,2610,2580.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,19/11/2025,2475,2489,2487.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,20/11/2025,2450,2500,2490.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,19/11/2025,2480,2500,2490.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,22/11/2025,2400,2509,2454.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,19/11/2025,2400,2536,2450.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,20/11/2025,2500,2534,2529.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,21/11/2025,2540,2571,2571.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,24/11/2025,2451,2500,2475.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,19/11/2025,2450,2781,2640.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,20/11/2025,2450,2468,2465.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,20/11/2025,2421,2500,2485.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,20/11/2025,2399,2542,2487.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,20/11/2025,2539,2543,2539.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,21/11/2025,2311,2541,2501.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,FAQ,23/11/2025,2400,2600,2500.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,23/11/2025,2500,2510,2500.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,22/11/2025,2475,2617,2550.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,22/11/2025,2401,2444,2431.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,22/11/2025,2454,2485,2460.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,22/11/2025,2381,2501,2465.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,22/11/2025,2400,2540,2470.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,25/11/2025,2321,2500,2472.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,26/11/2025,2440,2453,2450.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,24/11/2025,2420,2586,2503.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,FAQ,24/11/2025,2400,2600,2500.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,24/11/2025,2430,2476,2476.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,24/11/2025,2435,2525,2490.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,24/11/2025,2430,2500,2480.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,Local,24/11/2025,2469,2519,2494.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,24/11/2025,2471,2525,2498.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,24/11/2025,2500,2500,2500.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,24/11/2025,2540,2540,2540.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,26/11/2025,2420,2580,2500.0,1
+Rajasthan,Churu,Sujangarh APMC,Wheat,Other,Local,25/11/2025,2500,2500,2500.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,26/11/2025,2800,2800,2800.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,26/11/2025,2300,2575,2445.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,25/11/2025,2300,2440,2370.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,26/11/2025,2400,2550,2470.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,25/11/2025,2518,2530,2527.33,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,26/11/2025,2411,2526,2485.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,Local,26/11/2025,2475,2511,2493.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,28/11/2025,2400,2487,2450.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,27/11/2025,2440,2460,2450.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,27/11/2025,2435,2450,2440.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,26/11/2025,2528,2539,2530.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,27/11/2025,2121,2471,2200.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,28/11/2025,2480,2536,2508.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,27/11/2025,2400,4250,2430.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,28/11/2025,2430,2511,2470.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,28/11/2025,2437,2437,2437.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,26/11/2025,2301,2495,2450.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,26/11/2025,2421,2421,2421.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,28/11/2025,2400,2540,2470.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,27/11/2025,2492,2492,2492.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,27/11/2025,2400,2550,2475.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,28/11/2025,2500,2600,2600.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,27/11/2025,2531,2531,2531.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,27/11/2025,2500,2500,2500.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,28/11/2025,2400,2581,2500.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,27/11/2025,2340,2761,2580.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,27/11/2025,2415,2415,2415.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,30/11/2025,2500,2500,2500.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,30/11/2025,2402,2475,2450.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,28/11/2025,2422,2422,2422.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,28/11/2025,2200,2470,2371.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,FAQ,28/11/2025,2461,2500,2465.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,29/11/2025,2454,2520,2487.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,29/11/2025,2396,2396,2396.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,28/11/2025,2525,2615,2550.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,29/11/2025,2465,2465,2465.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,30/11/2025,2441,2451,2449.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,14/11/2025,457,457,457.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,15/11/2025,1250,2480,1850.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,18/11/2025,2480,2500,2490.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,18/11/2025,2435,2535,2490.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,17/11/2025,2530,2565,2565.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,18/11/2025,2300,2600,2475.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,FAQ,16/11/2025,2400,2500,2450.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,17/11/2025,2410,2460,2455.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,17/11/2025,2300,2700,2500.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,18/11/2025,2500,2555,2550.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,19/11/2025,2400,2635,2500.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,18/11/2025,2470,2513,2491.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,21/11/2025,2490,2554,2530.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,21/11/2025,2400,2585,2475.0,1
+Rajasthan,Hanumangarh,Dablirathan APMC,Wheat,Wheat,Local,11/11/2025,2531,2531,2531.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2400,2470,2435.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,FAQ,17/11/2025,2381,2467,2410.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,13/11/2025,2525,2564,2550.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,07/11/2025,2450,2450,2450.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,07/11/2025,2400,2509,2455.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,13/11/2025,2400,2500,2450.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,01/11/2025,2465,2713,2650.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,13/11/2025,2500,2740,2666.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,14/11/2025,2400,2500,2450.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,18/11/2025,2370,2501,2436.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Grade Range-1,17/11/2025,2500,2870,2645.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,20/11/2025,2200,2300,2250.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Grade Range-1,19/11/2025,2520,2921,2690.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,20/11/2025,2541,2777,2659.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,22/11/2025,2450,2485,2468.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,24/11/2025,2399,2610,2505.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Grade Range-1,24/11/2025,2500,2860,2690.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,25/11/2025,2435,2478,2457.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,26/11/2025,2500,2923,2615.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,27/11/2025,2470,2683,2600.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,28/11/2025,2449,2485,2467.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,28/11/2025,2400,2500,2450.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,28/11/2025,2532,2668,2570.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,13/11/2025,2500,2500,2500.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,05/11/2025,2421,2472,2448.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Deshi,Local,13/11/2025,2476,2476,2476.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,27/11/2025,2475,2532,2515.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,28/11/2025,2475,2525,2525.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,15/11/2025,3400,3400,3400.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,21/11/2025,3400,3400,3400.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,25/11/2025,3400,3400,3400.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,05/11/2025,3200,3400,3300.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,17/11/2025,3400,3400,3400.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,12/12/2025,2285,2480,2415.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,12/12/2025,2535,2535,2535.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,13/12/2025,2450,2530,2490.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,15/12/2025,2385,2533,2459.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,15/12/2025,2375,2481,2440.0,1
+Rajasthan,Jaipur Rural,Chomu (Grain) APMC,Wheat,Other,Local,15/12/2025,2535,2535,2535.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,14/12/2025,2400,2516,2460.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,16/12/2025,2021,2507,2414.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,16/12/2025,2400,2531,2485.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,16/12/2025,2300,2470,2440.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,18/12/2025,2550,2550,2550.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,17/12/2025,2345,2478,2477.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,23/12/2025,2328,2499,2487.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,17/12/2025,2500,2500,2500.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,18/12/2025,2440,2549,2510.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,30/12/2025,2486,2566,2500.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,31/12/2025,2481,2569,2525.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,11/12/2025,2530,2545,2540.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,12/12/2025,2430,2487,2460.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,11/12/2025,2450,2538,2500.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,13/12/2025,2450,2465,2460.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,13/12/2025,2346,2545,2496.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,15/12/2025,2362,2508,2500.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,15/12/2025,2465,2494,2480.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,15/12/2025,2550,2555,2555.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,12/12/2025,2460,2460,2460.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,15/12/2025,2455,2455,2455.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,17/12/2025,2490,2490,2490.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,19/12/2025,2450,2550,2475.0,1
+Rajasthan,Chittorgarh,Begu APMC,Wheat,Other,Grade Range-3,16/12/2025,2500,2500,2500.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,22/12/2025,2351,2671,2540.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,16/12/2025,2525,2538,2525.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,16/12/2025,4730,4906,4818.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,22/12/2025,2295,2465,2420.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,23/12/2025,2400,2538,2470.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,17/12/2025,2520,2524,2524.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,26/12/2025,2221,2476,2316.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,25/12/2025,2417,2455,2436.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,25/12/2025,2420,2500,2460.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,26/12/2025,2360,2542,2458.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,25/12/2025,2370,2550,2400.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,25/12/2025,2300,2556,2430.0,1
+Rajasthan,Jodhpur Rural,Bilara APMC,Wheat,Other,Grade Range-2,28/12/2025,2400,2540,2500.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,29/12/2025,2506,2601,2560.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,27/12/2025,2450,2550,2470.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,29/12/2025,2311,2540,2475.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,31/12/2025,2500,2500,2500.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,29/12/2025,2540,2557,2555.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,29/12/2025,2520,2720,2600.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,29/12/2025,2450,2633,2541.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,31/12/2025,2446,2446,2446.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,31/12/2025,2465,2490,2485.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,31/12/2025,2440,2503,2472.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,31/12/2025,2501,2624,2570.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,31/12/2025,2430,2750,2590.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,25/12/2025,2400,2545,2472.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,29/12/2025,2450,2585,2517.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,Local,29/12/2025,2486,2486,2486.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,02/02/2026,2580,2580,2580.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,11/02/2026,2341,2361,2355.0,1
+Rajasthan,Hanumangarh,Hanumangarh APMC,Wheat,Deshi,Non-FAQ,02/01/2026,2500,2500,2500.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,05/01/2026,2455,2680,2653.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,13/01/2026,2560,2625,2600.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,20/01/2026,2560,2560,2560.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,21/01/2026,2575,2600,2575.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,27/01/2026,2526,2526,2526.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,07/01/2026,2500,2575,2560.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,06/01/2026,2450,2660,2555.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,06/01/2026,2500,2740,2680.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,07/01/2026,2380,2445,2412.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,07/01/2026,2500,2587,2560.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,07/01/2026,2338,2570,2508.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,09/01/2026,2201,2450,2320.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,09/01/2026,2350,2350,2350.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,07/01/2026,2550,2600,2575.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,09/01/2026,2390,2530,2460.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,Non-FAQ,07/01/2026,2375,2375,2375.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,10/01/2026,2200,2450,2325.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,07/01/2026,2500,2701,2610.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,07/01/2026,2580,2580,2580.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,08/01/2026,2344,2479,2359.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,09/01/2026,2590,2790,2700.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,09/01/2026,2450,2450,2450.0,1
+Rajasthan,Hanumangarh,Nohar APMC,Wheat,Other,FAQ,07/01/2026,2541,2541,2541.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,09/01/2026,2477,2558,2540.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,09/01/2026,2460,2559,2510.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,09/01/2026,2491,2630,2561.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,07/01/2026,2300,2531,2420.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,09/01/2026,2516,2555,2535.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,09/01/2026,2505,2576,2540.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,08/01/2026,2461,2555,2515.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,08/01/2026,2429,2574,2492.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,08/01/2026,2500,2500,2500.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,10/01/2026,2526,2550,2550.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,13/01/2026,2500,2574,2537.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,10/01/2026,2500,2607,2550.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,13/01/2026,2400,2690,2545.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,10/01/2026,2511,2516,2513.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,10/01/2026,2539,2614,2601.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,12/01/2026,2520,2600,2540.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,12/01/2026,2521,2620,2540.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,12/01/2026,2492,2572,2532.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,12/01/2026,2615,2626,2620.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,12/01/2026,2550,2590,2590.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,13/01/2026,2465,2590,2545.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,13/01/2026,2470,2611,2611.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,09/01/2026,2500,2560,2500.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,13/01/2026,2466,2586,2500.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,12/01/2026,2500,2500,2500.0,1
+Rajasthan,Khairthal Tijara,Khairthal APMC,Wheat,Other,Non-FAQ,09/01/2026,2500,2580,2540.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,12/01/2026,2491,2540,2525.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,15/01/2026,2569,2569,2569.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,15/01/2026,2400,2400,2400.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,14/01/2026,2400,2650,2525.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,15/01/2026,2500,2705,2620.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,15/01/2026,2462,2572,2548.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,15/01/2026,2532,2615,2572.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,15/01/2026,2620,2710,2661.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,15/01/2026,2350,2625,2520.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,21/01/2026,2590,2941,2765.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,21/01/2026,2440,2698,2569.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,17/01/2026,2540,2675,2599.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,14/01/2026,2550,2550,2550.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,16/01/2026,2491,2562,2540.0,1
+Rajasthan,Ganganagar,Kesarisinghpur APMC,Wheat,Other,FAQ,15/01/2026,2500,2535,2535.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,15/01/2026,2600,2600,2600.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,15/01/2026,2508,2508,2508.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,16/01/2026,2600,3011,2805.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,15/01/2026,2250,2595,2250.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,15/01/2026,2575,2575,2575.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,16/01/2026,2570,2648,2609.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,17/01/2026,2499,2596,2588.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,17/01/2026,2400,2660,2530.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,17/01/2026,2625,2638,2630.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,17/01/2026,2505,2600,2590.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,19/01/2026,2400,2400,2400.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,16/01/2026,1699,2699,2699.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,16/01/2026,2570,2576,2576.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,16/01/2026,2490,2614,2580.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,20/01/2026,2394,2657,2575.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,20/01/2026,2319,2499,2459.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,20/01/2026,2400,2615,2507.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,19/01/2026,2456,2583,2519.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,19/01/2026,2700,2700,2700.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,19/01/2026,2430,2597,2596.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,19/01/2026,2600,2600,2600.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,20/01/2026,2555,2574,2560.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,19/01/2026,2585,2626,2615.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,19/01/2026,2350,2600,2560.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,19/01/2026,2590,2594,2591.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,21/01/2026,2450,2550,2500.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,06/02/2026,2500,2551,2551.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,09/02/2026,2441,2520,2480.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,09/02/2026,2250,2455,2352.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,09/02/2026,2450,2561,2510.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,09/02/2026,2400,2700,2550.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,09/02/2026,2480,2600,2540.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,09/02/2026,2403,2426,2404.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,10/02/2026,2340,2722,2525.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,13/02/2026,2200,2500,2350.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,10/02/2026,2470,2492,2470.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,11/02/2026,2409,2409,2409.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,12/02/2026,2351,2435,2391.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,12/02/2026,2150,2450,2200.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,13/02/2026,2425,2470,2455.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,14/02/2026,2381,2425,2418.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,14/02/2026,2466,2466,2466.0,1
+Rajasthan,Bharatpur,Bharatpur APMC,Wheat,Other,FAQ,12/02/2026,2462,2525,2494.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,13/02/2026,2350,2400,2375.0,1
+Rajasthan,Baran,Kawai Salpura - Atru APMC,Wheat,Other,Local,13/02/2026,2395,2452,2424.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,17/02/2026,2490,2635,2575.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,13/02/2026,2400,2460,2430.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,14/02/2026,2419,2462,2450.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,14/02/2026,2400,2430,2420.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,13/02/2026,2530,2530,2530.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,13/02/2026,2304,2456,2387.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,17/02/2026,4740,4740,4740.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,15/02/2026,2255,2486,2399.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,17/02/2026,2250,2300,2275.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,05/01/2026,2500,2633,2566.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,10/02/2026,2375,2400,2380.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,07/02/2026,2400,2450,2425.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,07/02/2026,2366,2570,2468.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,07/02/2026,2300,2369,2334.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,09/02/2026,2400,2462,2450.0,1
+Rajasthan,Swai Madhopur,Khandar APMC,Wheat,Other,Local,09/02/2026,2450,2450,2450.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,09/02/2026,2480,2480,2480.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,09/02/2026,2460,2611,2560.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,11/02/2026,2245,2460,2352.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,11/02/2026,2455,2455,2455.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,11/02/2026,2340,2450,2380.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,12/02/2026,2400,2450,2420.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,12/02/2026,2300,2500,2400.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,16/02/2026,2424,2468,2446.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,12/02/2026,2400,2700,2560.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,12/02/2026,2430,2433,2433.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,12/02/2026,2000,2510,2480.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,12/02/2026,2416,2416,2416.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,16/02/2026,2390,2421,2410.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,16/02/2026,2437,2437,2437.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,16/02/2026,2400,2409,2405.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,27/01/2026,2511,2530,2511.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,28/01/2026,2412,2412,2412.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,29/01/2026,2374,2528,2499.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,28/01/2026,2650,2700,2700.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,28/01/2026,2435,2470,2452.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,30/01/2026,2470,2590,2530.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,30/01/2026,2200,2530,2496.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,29/01/2026,2499,2501,2500.0,1
+Rajasthan,Khairthal Tijara,Khairthal APMC,Wheat,Other,Non-FAQ,31/01/2026,2500,2550,2520.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,31/01/2026,2440,2543,2491.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,31/01/2026,2522,2522,2522.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,02/02/2026,2461,2535,2498.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,02/02/2026,2500,2500,2500.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,02/02/2026,2535,2535,2535.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,02/02/2026,2300,2574,2546.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,05/02/2026,2500,2500,2500.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,03/02/2026,2400,2550,2475.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,05/02/2026,2398,2412,2412.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,02/02/2026,2465,2565,2500.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,02/02/2026,2521,2521,2521.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,05/02/2026,2450,2534,2492.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,03/02/2026,2360,2380,2370.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,05/02/2026,2400,2524,2480.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,06/02/2026,2450,2571,2510.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,05/02/2026,2336,2463,2428.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,06/02/2026,2460,2535,2515.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,03/02/2026,2540,2540,2540.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,04/02/2026,2400,2560,2535.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,03/02/2026,2300,2501,2400.0,1
+Rajasthan,Bundi,Bundi APMC,Wheat,Other,FAQ,06/02/2026,2411,2475,2443.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,04/02/2026,2360,2360,2360.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,04/02/2026,2540,2545,2544.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,09/02/2026,2445,2525,2465.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,05/02/2026,2590,2590,2590.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,FAQ,04/02/2026,2500,2600,2550.0,1
+Rajasthan,Baran,Kawai Salpura - Atru APMC,Wheat,Other,Local,06/02/2026,2443,2475,2459.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,06/02/2026,2390,2487,2466.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,07/02/2026,2215,2535,2363.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,07/02/2026,2415,2480,2465.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,11/02/2026,2442,2468,2455.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,06/02/2026,2430,2508,2469.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,06/02/2026,2526,2549,2536.0,1
+Rajasthan,Bundi,Bundi APMC,Wheat,Other,FAQ,07/02/2026,2465,2480,2473.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,07/02/2026,2400,2520,2460.0,1
+Rajasthan,Bharatpur,Bharatpur APMC,Wheat,Other,FAQ,06/02/2026,2527,2530,2529.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,10/02/2026,2500,2530,2530.0,1
+Rajasthan,Khairthal Tijara,Khairthal APMC,Wheat,Other,Non-FAQ,07/02/2026,2480,2530,2510.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,09/02/2026,2151,2428,2414.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,09/02/2026,2470,2500,2485.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,11/02/2026,2315,2315,2315.0,1
+Rajasthan,Baran,Kawai Salpura - Atru APMC,Wheat,Other,Local,12/02/2026,2400,2449,2425.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,12/02/2026,2350,2405,2390.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,11/02/2026,2140,2488,2399.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,16/02/2026,2400,2500,2450.0,1
+Rajasthan,Dudu,Dudu APMC,Wheat,147 Average,Local,02/01/2026,2460,2460,2460.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,05/01/2026,2468,2574,2521.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,06/01/2026,2430,2544,2487.0,1
+Rajasthan,Khairthal Tijara,Tijara APMC,Wheat,147 Average,Non-FAQ,05/01/2026,2600,2700,2650.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,09/01/2026,2485,2518,2502.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,07/01/2026,2425,2524,2475.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,13/01/2026,2500,2600,2550.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,15/01/2026,2250,2550,2400.0,1
+Rajasthan,Dudu,Dudu APMC,Wheat,147 Average,Local,17/01/2026,2630,2630,2630.0,1
+Rajasthan,Khairthal Tijara,Tijara APMC,Wheat,147 Average,Non-FAQ,17/01/2026,2600,2700,2650.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,21/01/2026,2500,2548,2524.0,1
+Rajasthan,Dudu,Dudu APMC,Wheat,147 Average,Local,27/01/2026,2620,2620,2620.0,1
+Rajasthan,Khairthal Tijara,Tijara APMC,Wheat,147 Average,Non-FAQ,30/01/2026,2580,2600,2590.0,1
+Rajasthan,Khairthal Tijara,Tijara APMC,Wheat,147 Average,Non-FAQ,02/02/2026,2500,2600,2550.0,1
+Rajasthan,Dudu,Dudu APMC,Wheat,147 Average,Non-FAQ,11/02/2026,2600,2600,2600.0,1
+Rajasthan,Khairthal Tijara,Tijara APMC,Wheat,147 Average,Non-FAQ,06/02/2026,2500,2650,2575.0,1
+Rajasthan,Jaipur,Rajdhanai Mandi (KukarKheda) APMC,Wheat,147 Average,Grade Range-2,11/02/2026,3100,3100,3100.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,13/02/2026,2445,2445,2445.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,16/02/2026,2400,2400,2400.0,1
+Rajasthan,Dudu,Dudu APMC,Wheat,147 Average,Local,19/01/2026,2610,2610,2610.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,29/01/2026,2430,2500,2465.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,29/01/2026,2520,2600,2540.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,147 Average,FAQ,31/01/2026,2361,2501,2431.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,147 Average,FAQ,16/02/2026,2300,2450,2375.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,17/02/2026,2350,2384,2367.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,01/01/2026,2000,2500,2250.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,02/01/2026,2400,2500,2450.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,03/01/2026,2450,2618,2534.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,05/01/2026,2561,2778,2671.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,07/01/2026,2631,2745,2670.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,09/01/2026,2500,2600,2550.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,12/01/2026,2686,2740,2713.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,14/01/2026,2000,2200,2100.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,14/01/2026,2701,2761,2731.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,15/01/2026,2685,2750,2718.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,16/01/2026,2560,2793,2620.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,20/01/2026,2561,2720,2662.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,17/01/2026,2511,2590,2551.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,21/01/2026,2558,2703,2650.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Local,29/01/2026,2536,2614,2570.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,28/01/2026,2543,2695,2656.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,29/01/2026,2400,2500,2450.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,02/02/2026,2460,2628,2570.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Local,02/02/2026,2470,2751,2551.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Local,04/02/2026,2450,2686,2550.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,06/02/2026,2460,2611,2576.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,05/02/2026,2500,2600,2550.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,04/02/2026,2437,2576,2500.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,11/02/2026,2384,2550,2525.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Local,11/02/2026,2441,2691,2575.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,09/02/2026,2500,2600,2550.0,1
+Rajasthan,Kota,Kota APMC,Wheat,Local,Local,11/02/2026,2500,2500,2500.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,Local,13/02/2026,2445,2645,2500.0,1
+Rajasthan,Nagaur,Jayal APMC,Wheat,Local,Grade Range-2,12/02/2026,2000,2500,2300.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,18/01/2026,2400,2600,2500.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,30/01/2026,2400,2600,2500.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,19/01/2026,2530,2581,2575.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,19/01/2026,2499,2638,2558.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,19/01/2026,2381,2481,2400.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,19/01/2026,2558,2680,2619.0,1
+Rajasthan,Bundi,Bundi APMC,Wheat,Other,FAQ,20/01/2026,2450,2549,2500.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,21/01/2026,2600,2600,2600.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,19/01/2026,2450,2620,2535.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,24/01/2026,2450,2541,2500.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,20/01/2026,2550,2600,2575.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,21/01/2026,2550,2550,2550.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,22/01/2026,2516,2561,2542.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,21/01/2026,2530,2601,2601.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,23/01/2026,2560,2575,2570.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,22/01/2026,2490,2544,2530.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,21/01/2026,2375,2770,2525.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,23/01/2026,2375,2401,2388.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,22/01/2026,2550,2550,2550.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,24/01/2026,2500,2582,2550.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,22/01/2026,2470,2470,2470.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,24/01/2026,2400,2450,2425.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,23/01/2026,2300,2600,2600.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,24/01/2026,2411,2529,2478.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,24/01/2026,2435,2449,2442.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,23/01/2026,2400,2590,2475.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,23/01/2026,2500,2550,2550.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,23/01/2026,2480,2527,2510.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,23/01/2026,2500,2545,2500.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,27/01/2026,2460,2716,2640.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,28/01/2026,2424,2790,2550.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,29/01/2026,2500,2500,2500.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,27/01/2026,2440,2570,2509.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,28/01/2026,2550,2550,2550.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,27/01/2026,2549,2571,2571.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,27/01/2026,2500,2881,2691.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,27/01/2026,2525,2620,2570.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,27/01/2026,2400,2468,2434.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,28/01/2026,2550,2600,2580.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,27/01/2026,2410,2460,2450.0,1
+Rajasthan,Chittorgarh,Begu APMC,Wheat,Other,Local,28/01/2026,2550,2550,2550.0,1
+Rajasthan,Dholpur,Dholpur APMC,Wheat,Other,Local,29/01/2026,2450,2450,2450.0,1
+Rajasthan,Bundi,Bundi APMC,Wheat,Other,FAQ,31/01/2026,2411,2505,2458.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,01/02/2026,2480,2501,2490.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,03/02/2026,2440,2485,2460.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,02/02/2026,2537,2537,2537.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,06/02/2026,2460,2520,2520.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,05/02/2026,2480,2561,2500.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,03/01/2026,2520,2520,2520.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,06/01/2026,2540,2540,2540.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,09/01/2026,2473,2473,2473.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,15/01/2026,2525,2525,2525.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,21/01/2026,2502,2502,2502.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,28/01/2026,2508,2508,2508.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,03/02/2026,2535,2600,2575.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,03/01/2026,3450,3450,3450.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Farmi,FAQ,02/01/2026,2481,2570,2526.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,20/01/2026,2580,2580,2580.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,17/02/2026,2440,2440,2440.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Farmi,FAQ,15/02/2026,2430,2430,2430.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,02/01/2026,2530,2530,2530.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,05/01/2026,2620,2620,2620.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,11/01/2026,2610,2610,2610.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,FAQ,17/01/2026,2615,2615,2615.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,21/01/2026,2580,2580,2580.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,28/01/2026,2580,2580,2580.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,12/02/2026,2440,2440,2440.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,15/02/2026,2430,2430,2430.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,29/01/2026,2450,2509,2500.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,28/01/2026,2375,2393,2384.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,30/01/2026,2500,2520,2510.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,29/01/2026,2500,2552,2526.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,29/01/2026,2250,2445,2250.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,29/01/2026,2400,2575,2487.0,1
+Rajasthan,Bharatpur,Bharatpur APMC,Wheat,Other,FAQ,30/01/2026,2528,2542,2535.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,27/01/2026,2440,2440,2440.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,31/01/2026,2350,2461,2400.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,31/01/2026,2500,2511,2510.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,02/02/2026,2494,2560,2527.0,1
+Rajasthan,Ganganagar,Kesarisinghpur APMC,Wheat,Other,FAQ,02/02/2026,2440,2440,2440.0,1
+Rajasthan,Bundi,Bundi APMC,Wheat,Other,FAQ,03/02/2026,2400,2496,2448.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,05/02/2026,2600,2600,2600.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,04/02/2026,2470,2520,2490.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,03/02/2026,2500,2540,2520.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,02/02/2026,2458,2480,2469.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,05/02/2026,2411,2579,2475.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,27/01/2026,2500,2571,2550.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,29/01/2026,2535,2580,2557.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,29/01/2026,2365,2376,2370.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,Local,04/02/2026,2480,2480,2480.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,23/01/2026,2450,2530,2490.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,03/02/2026,2451,2489,2470.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,05/02/2026,2350,2474,2412.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,14/02/2026,2350,2450,2400.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,28/11/2025,2440,2475,2450.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,28/11/2025,2490,2750,2600.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,Local,27/11/2025,2511,2518,2514.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,30/11/2025,2221,2481,2311.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,30/11/2025,2418,2445,2432.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,29/11/2025,2456,2472,2470.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,28/11/2025,2410,2778,2580.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,28/11/2025,2420,2590,2505.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,29/11/2025,2301,2589,2465.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,28/11/2025,2515,2531,2515.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2400,2460,2430.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,FAQ,22/11/2025,2419,2419,2419.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,17/11/2025,2400,2470,2435.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,08/11/2025,2291,2593,2501.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,11/11/2025,2400,2676,2545.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,10/11/2025,2450,2462,2460.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,10/11/2025,2530,2556,2530.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,06/11/2025,2540,2566,2556.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,05/11/2025,2390,2615,2502.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,10/11/2025,2550,2571,2555.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,06/11/2025,2418,2520,2469.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,12/11/2025,2435,2485,2480.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,06/11/2025,2250,2500,2400.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Non-FAQ,11/11/2025,2400,2600,2500.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,10/11/2025,2400,2655,2520.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,12/11/2025,2450,2650,2550.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,01/11/2025,2350,2550,2450.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,03/11/2025,2350,2550,2450.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,05/11/2025,2350,2550,2450.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,06/11/2025,2350,2550,2450.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,18/11/2025,2500,2590,2550.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,20/11/2025,2425,2465,2445.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,20/11/2025,2460,2521,2490.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,20/11/2025,2449,2650,2549.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,21/11/2025,2426,2500,2485.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,23/11/2025,2300,2499,2350.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,21/11/2025,2450,2575,2510.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,23/11/2025,2450,2456,2452.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,22/11/2025,2400,2471,2435.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,24/11/2025,2481,2481,2481.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,25/11/2025,2300,2595,2445.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,24/11/2025,2350,2751,2580.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,25/11/2025,2440,2590,2515.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,25/11/2025,2400,2540,2470.0,1
+Rajasthan,Anupgarh,Sri Vijayanagar APMC,Wheat,Other,Local,24/11/2025,2525,2525,2525.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,24/11/2025,2525,2533,2530.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,24/11/2025,2530,2530,2530.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,23/11/2025,2425,2531,2495.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,24/11/2025,2281,2521,2471.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,21/11/2025,2500,2540,2539.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,24/11/2025,2400,2475,2400.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,24/11/2025,2450,2510,2500.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,FAQ,24/11/2025,2350,2600,2470.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,24/11/2025,2460,2485,2472.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,24/11/2025,2330,2470,2418.0,1
+Rajasthan,Jaipur Rural,Kishangarh Renwal APMC,Wheat,Other,Local,24/11/2025,2400,2500,2450.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,25/11/2025,2421,2606,2513.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,26/11/2025,2350,2465,2445.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,25/11/2025,2400,2450,2425.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,26/11/2025,2485,2531,2500.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,25/11/2025,2300,2480,2450.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,26/11/2025,2451,2506,2476.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,26/11/2025,2490,2509,2499.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,25/11/2025,2540,2545,2540.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,26/11/2025,2345,2400,2372.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,25/11/2025,2300,2600,2450.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,26/11/2025,2425,2477,2451.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,26/11/2025,2400,2500,2450.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,26/11/2025,2515,2515,2515.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,26/11/2025,2425,2595,2510.0,1
+Rajasthan,Jaipur Rural,Chomu (Grain) APMC,Wheat,Other,Local,26/11/2025,2511,2511,2511.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,FAQ,03/11/2025,2475,2515,2500.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,FAQ,03/11/2025,2280,2400,2340.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,03/11/2025,2538,2540,2538.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Other,FAQ,03/11/2025,2460,2535,2498.0,1
+Rajasthan,Bharatpur,Bharatpur APMC,Wheat,Other,FAQ,04/11/2025,2515,2549,2532.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Non-FAQ,04/11/2025,2568,2568,2568.0,1
+Rajasthan,Kota,Kota APMC,Wheat,Other,FAQ,04/11/2025,2400,2671,2550.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,FAQ,04/11/2025,2419,2518,2452.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Non-FAQ,05/11/2025,2310,2421,2370.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,FAQ,05/11/2025,2400,2509,2451.0,1
+Rajasthan,Hanumangarh,Rawatsar APMC,Wheat,Other,FAQ,05/11/2025,2531,2531,2531.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,FAQ,05/11/2025,2468,2635,2551.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,13/11/2025,2410,2426,2418.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,11/11/2025,2535,2535,2535.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,13/11/2025,2493,2535,2514.0,1
+Rajasthan,Chittorgarh,Begu APMC,Wheat,Other,Grade Range-3,18/11/2025,2500,2500,2500.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,15/11/2025,2450,2450,2450.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,17/11/2025,2350,2350,2350.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,17/11/2025,2301,2561,2500.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,16/11/2025,2435,2570,2502.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,18/11/2025,2460,2520,2499.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,Local,17/11/2025,2400,2500,2450.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,Local,18/11/2025,2455,2491,2473.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,18/11/2025,2313,2390,2360.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,17/11/2025,2400,2450,2425.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,17/11/2025,2430,2535,2489.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,17/11/2025,2500,2550,2550.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,17/11/2025,2100,2501,2400.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,17/11/2025,2470,2470,2470.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,Local,18/11/2025,2300,2625,2499.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,18/11/2025,2430,2430,2430.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,18/11/2025,2460,2500,2483.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,18/11/2025,2500,2500,2500.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,18/11/2025,2000,2500,2250.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,18/11/2025,2500,2540,2520.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,21/11/2025,2200,2503,2351.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,20/11/2025,2350,2525,2525.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,18/11/2025,2130,2400,2265.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,18/11/2025,2480,2520,2500.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,19/11/2025,2401,2527,2485.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,18/11/2025,2400,2513,2500.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,18/11/2025,2523,2525,2525.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,19/11/2025,2391,2530,2460.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Non-FAQ,20/11/2025,2400,2580,2490.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Other,Local,14/11/2025,2420,2501,2461.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,15/11/2025,2410,2564,2487.0,1
+Rajasthan,Jaipur Rural,Kishangarh Renwal APMC,Wheat,Other,Local,17/11/2025,2500,2600,2550.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,19/11/2025,2455,2521,2504.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,21/11/2025,2350,2489,2420.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,20/11/2025,2310,2612,2455.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,20/11/2025,2441,2575,2489.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,20/11/2025,2451,2492,2460.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,20/11/2025,2371,2671,2521.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,25/11/2025,2390,2440,2415.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,11/11/2025,2500,2501,2500.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,10/11/2025,2472,2490,2480.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,12/11/2025,2426,2649,2535.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Non-FAQ,06/11/2025,2451,2480,2465.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,14/11/2025,2291,2571,2500.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,14/11/2025,2480,2616,2500.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,14/11/2025,2530,2557,2532.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,14/11/2025,2350,2475,2413.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,15/11/2025,2555,2555,2555.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,07/11/2025,2444,2496,2487.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,11/11/2025,2500,2545,2530.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,12/11/2025,2360,2755,2620.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,Local,13/11/2025,2400,2500,2450.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,12/11/2025,2511,2538,2530.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,11/11/2025,2450,2675,2555.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,12/11/2025,2443,2549,2496.0,1
+Rajasthan,Jaipur Rural,Kishangarh Renwal APMC,Wheat,Other,Local,12/11/2025,2500,2550,2525.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,Local,13/11/2025,2467,2491,2479.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,11/11/2025,2399,2475,2440.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,10/11/2025,2440,2496,2468.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,FAQ,01/11/2025,2525,2626,2542.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,01/11/2025,2547,2547,2547.0,1
+Rajasthan,Bundi,Bundi APMC,Wheat,Other,FAQ,01/11/2025,2350,2538,2444.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,FAQ,01/11/2025,2400,2628,2476.0,1
+Rajasthan,Dausa,Mahuwa APMC,Wheat,Other,FAQ,01/11/2025,2460,2592,2521.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,FAQ,01/11/2025,2500,2521,2521.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Non-FAQ,01/11/2025,2350,2500,2400.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Non-FAQ,01/11/2025,2400,2550,2475.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,01/11/2025,2450,2490,2475.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,FAQ,03/11/2025,2400,2456,2428.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,FAQ,03/11/2025,2400,2481,2441.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,FAQ,05/11/2025,2530,2540,2533.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Non-FAQ,05/11/2025,2550,2578,2578.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,18/11/2025,2350,2566,2490.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,FAQ,03/11/2025,2400,2536,2487.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,03/11/2025,2400,2495,2440.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,12/11/2025,2450,2552,2500.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,14/11/2025,2411,2475,2443.0,1
+Rajasthan,Dholpur,Dholpur APMC,Wheat,Other,FAQ,01/11/2025,2450,2550,2500.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,01/11/2025,2500,2500,2500.0,1
+Rajasthan,Kota,Kota APMC,Wheat,Other,FAQ,01/11/2025,2475,2687,2600.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,28/11/2025,2300,2530,2451.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,28/11/2025,2430,2570,2500.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,26/11/2025,2581,2591,2585.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,27/11/2025,2460,2630,2500.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,10/11/2025,2350,2780,2580.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,11/11/2025,2500,2500,2500.0,1
+Rajasthan,Hanumangarh,Rawatsar APMC,Wheat,Other,FAQ,10/11/2025,2550,2550,2550.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,12/11/2025,2565,2625,2582.42,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,12/11/2025,2438,2710,2574.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,FAQ,03/11/2025,2355,2482,2435.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Non-FAQ,03/11/2025,2300,2600,2470.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,FAQ,04/11/2025,2425,2572,2515.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,FAQ,05/11/2025,2486,2515,2501.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,05/11/2025,2511,2530,2511.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,Local,15/11/2025,2411,2481,2446.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Non-FAQ,17/11/2025,2400,2461,2430.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,17/11/2025,2435,2490,2445.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,19/11/2025,2000,2470,2235.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,21/11/2025,2300,2500,2350.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,20/11/2025,2400,2600,2490.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,20/11/2025,2430,2560,2495.0,1
+Rajasthan,Chittorgarh,Begu APMC,Wheat,Other,Grade Range-2,20/11/2025,2550,2550,2550.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,20/11/2025,2300,2675,2480.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,20/11/2025,2450,2550,2500.0,1
+Rajasthan,Swai Madhopur,Khandar APMC,Wheat,Other,Local,20/11/2025,2450,2450,2450.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,21/11/2025,2310,2610,2478.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,21/11/2025,2300,2390,2340.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,FAQ,20/11/2025,2468,2470,2468.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,24/11/2025,2400,2585,2480.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,23/11/2025,2500,2600,2600.0,1
+Rajasthan,Jaipur Rural,Kishangarh Renwal APMC,Wheat,Other,Local,23/11/2025,2600,2650,2625.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,21/11/2025,2301,2481,2400.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Local,21/11/2025,2530,2530,2530.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,21/11/2025,2361,2540,2450.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,22/11/2025,2421,2560,2491.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,22/11/2025,2450,2495,2460.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,22/11/2025,2437,2631,2531.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,25/11/2025,2400,2400,2400.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,26/11/2025,2435,2544,2489.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,26/11/2025,2400,2790,2550.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,25/11/2025,2425,2622,2568.0,1
+Rajasthan,Bikaner,Nokha APMC,Wheat,Other,Local,25/11/2025,2600,2600,2600.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,27/11/2025,2551,2558,2558.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,26/11/2025,2410,2445,2428.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,27/11/2025,2430,2500,2470.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,FAQ,26/11/2025,2450,2450,2450.0,1
+Rajasthan,Hanumangarh,Dablirathan APMC,Wheat,Wheat,Local,25/11/2025,2487,2487,2487.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2400,2450,2425.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,28/11/2025,2400,2451,2426.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,27/11/2025,2285,2510,2431.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,27/11/2025,2510,2535,2510.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,11/11/2025,2444,2550,2525.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,11/11/2025,2370,2421,2370.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,12/11/2025,2400,2450,2425.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,01/11/2025,2500,2630,2610.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,01/11/2025,2461,2520,2500.0,1
+Rajasthan,Hanumangarh,Sangriya APMC,Wheat,Other,FAQ,01/11/2025,2494,2510,2510.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,01/11/2025,2450,2648,2545.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,FAQ,01/11/2025,2412,2600,2499.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,FAQ,01/11/2025,2486,2649,2567.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,FAQ,03/11/2025,2526,2550,2538.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,Other,Non-FAQ,03/11/2025,2500,2565,2531.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Non-FAQ,03/11/2025,2430,2550,2490.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,03/11/2025,2430,2691,2535.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Non-FAQ,04/11/2025,2280,2621,2509.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,04/11/2025,2372,2682,2580.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,04/11/2025,2450,2621,2535.0,1
+Rajasthan,Beawar,Bijaynagar APMC,Wheat,Other,FAQ,05/11/2025,2490,2490,2490.0,1
+Rajasthan,Dausa,Mahuwa APMC,Wheat,Other,FAQ,05/11/2025,2505,2530,2515.0,1
+Rajasthan,Hanumangarh,Hanumangarh Town APMC,Wheat,Other,Non-FAQ,05/11/2025,2281,2311,2311.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,13/11/2025,2382,2494,2438.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Other,Local,13/11/2025,2451,2515,2483.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,Local,14/11/2025,2480,2491,2486.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,17/11/2025,2600,2600,2600.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,17/11/2025,2400,2475,2437.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,15/11/2025,2466,2566,2550.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,31/12/2025,2530,2530,2530.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,29/11/2025,2400,2480,2440.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,12/11/2025,2400,2475,2437.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,15/11/2025,2390,2860,2500.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,15/11/2025,2460,2880,2600.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,24/11/2025,2608,2613,2611.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,25/11/2025,2430,2562,2470.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,24/11/2025,2400,2450,2425.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,24/11/2025,2381,2470,2426.0,1
+Rajasthan,Hanumangarh,Pilibanga APMC,Wheat,Other,Local,25/11/2025,2481,2481,2481.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,24/11/2025,2446,2479,2476.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,25/11/2025,2475,2500,2485.0,1
+Rajasthan,Chittorgarh,Begu APMC,Wheat,Other,Grade Range-3,24/11/2025,2650,2650,2650.0,1
+Rajasthan,Hanumangarh,HanumangarhTown APMC,Wheat,Other,Non-FAQ,24/11/2025,2451,2471,2461.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,25/11/2025,2525,2525,2525.0,1
+Rajasthan,Hanumangarh,Dablirathan APMC,Wheat,Wheat,Local,10/11/2025,2480,2480,2480.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,24/12/2025,4776,5320,5048.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,04/12/2025,4814,4910,4862.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,19/12/2025,2221,2512,2421.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,22/12/2025,2520,2520,2520.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,18/12/2025,2150,2380,2265.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,20/12/2025,2387,2499,2470.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,20/12/2025,2490,2530,2530.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,21/12/2025,2450,2500,2475.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,22/12/2025,2400,2480,2440.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,22/12/2025,2400,2551,2485.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,22/12/2025,2301,2666,2483.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,24/12/2025,2565,2590,2576.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,FAQ,03/12/2025,2467,2467,2467.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,13/12/2025,2400,2460,2430.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,18/12/2025,4710,4800,4754.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,18/12/2025,2500,2525,2500.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,23/12/2025,2398,2546,2472.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,18/12/2025,2380,2480,2430.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,21/12/2025,2425,2515,2495.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,19/12/2025,2400,2400,2400.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,21/12/2025,2231,2471,2326.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,21/12/2025,2450,2467,2465.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,24/12/2025,2400,2480,2468.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,24/12/2025,2300,2552,2435.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,24/12/2025,2435,2550,2500.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,20/12/2025,2558,2558,2558.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,22/12/2025,2530,2841,2685.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,23/12/2025,2459,2459,2459.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,24/12/2025,2425,2495,2460.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,23/12/2025,2525,2650,2610.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,24/12/2025,2400,2574,2480.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,23/12/2025,2300,2550,2425.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,24/12/2025,2580,2580,2580.0,1
+Rajasthan,Hanumangarh,Nohar APMC,Wheat,Other,FAQ,24/12/2025,2474,2512,2509.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,24/12/2025,2600,2600,2600.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,27/12/2025,2460,2490,2485.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,26/12/2025,2465,2465,2465.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,25/12/2025,2387,2518,2491.0,1
+Rajasthan,Hanumangarh,Sangriya APMC,Wheat,Other,Local,25/12/2025,2611,2611,2611.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,26/12/2025,2376,2426,2410.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,25/12/2025,2525,2525,2525.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,26/12/2025,2450,2600,2480.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,26/12/2025,2480,2600,2540.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,26/12/2025,2540,2650,2580.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,26/12/2025,2275,2550,2385.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,28/12/2025,2231,2441,2341.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,26/12/2025,2431,2431,2431.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,26/12/2025,2525,2533,2530.0,1
+Rajasthan,Hanumangarh,Nohar APMC,Wheat,Other,FAQ,26/12/2025,2510,2510,2510.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,25/12/2025,2512,2512,2512.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,26/12/2025,2408,2485,2469.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,30/12/2025,2526,2674,2600.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,29/12/2025,2479,2518,2498.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,31/12/2025,2280,2550,2532.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,29/12/2025,2450,2571,2500.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,29/12/2025,2515,2670,2592.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,29/12/2025,2312,2560,2400.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,31/12/2025,2475,2507,2500.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,30/12/2025,2480,2891,2560.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,30/12/2025,2345,2595,2511.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,30/12/2025,2469,2522,2495.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,30/12/2025,2398,2400,2399.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,30/12/2025,2400,2566,2494.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,30/12/2025,2550,2576,2576.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,30/12/2025,2231,2471,2301.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,30/12/2025,2500,2570,2535.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,31/12/2025,2412,2581,2515.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,31/12/2025,2221,2451,2311.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,31/12/2025,2440,2500,2490.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,30/12/2025,2400,2500,2450.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,30/12/2025,2535,2540,2535.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,01/12/2025,2450,2450,2450.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,03/12/2025,2500,2500,2500.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,08/12/2025,2540,2610,2580.0,1
+Rajasthan,Khairthal Tijara,Tijara APMC,Wheat,147 Average,Non-FAQ,08/12/2025,2500,2580,2540.0,1
+Rajasthan,Bharatpur,Bhusawar Bair APMC,Wheat,147 Average,Local,08/12/2025,2500,2500,2500.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,06/12/2025,2508,2508,2508.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,11/12/2025,2530,2600,2570.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,13/12/2025,2526,2526,2526.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,16/12/2025,2485,2590,2530.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,16/12/2025,2580,2580,2580.0,1
+Rajasthan,Tonk,Dooni APMC,Wheat,147 Average,Local,22/12/2025,2350,2430,2390.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,18/12/2025,2500,2590,2560.0,1
+Rajasthan,Bundi,Sumerganj APMC,Wheat,147 Average,Local,18/12/2025,2540,2540,2540.0,1
+Rajasthan,Kotputli- Behror,Bansoor APMC,Wheat,147 Average,Local,22/12/2025,2540,2600,2570.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,1482,FAQ,10/12/2025,2370,2465,2370.0,1
+Rajasthan,Anupgarh,Anupgarh APMC,Wheat,Dara,Grade Range-2,02/12/2025,2500,2500,2500.0,1
+Rajasthan,Anupgarh,Anupgarh APMC,Wheat,Dara,Grade Range-2,06/12/2025,2500,2500,2500.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Deshi,Grade Range-2,29/12/2025,2441,2511,2476.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,02/12/2025,2500,2870,2610.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,05/12/2025,2400,2500,2450.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,05/12/2025,2425,2465,2445.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,13/12/2025,2350,2656,2571.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,12/12/2025,2526,2630,2610.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,13/12/2025,2459,2486,2473.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,15/12/2025,2458,2675,2591.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,16/12/2025,2493,2640,2535.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,20/12/2025,2536,2921,2645.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,23/12/2025,2400,2500,2450.0,1
+Rajasthan,Pali,Sumerpur APMC,Wheat,Local,Non-FAQ,29/12/2025,2521,2646,2584.0,1
+Rajasthan,Pratapgarh,Chhotisadri APMC,Wheat,Local,FAQ,31/12/2025,2556,2906,2570.0,1
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,15/12/2025,2350,2550,2450.0,1
+Rajasthan,Kota,Khatauli APMC,Wheat,Wheat,Local,17/12/2025,2459,2459,2459.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,23/12/2025,2400,2525,2462.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,31/12/2025,2500,2575,2537.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,03/12/2025,2450,2515,2511.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,19/12/2025,2431,2431,2431.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Deshi,Local,29/12/2025,2530,2555,2555.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,01/12/2025,2470,2538,2504.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,01/12/2025,2425,2500,2470.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,01/12/2025,2485,2485,2485.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,01/12/2025,2256,2450,2365.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,01/12/2025,2420,2600,2490.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,01/12/2025,2450,2530,2490.0,1
+Rajasthan,Hanumangarh,Sangriya APMC,Wheat,Other,Local,01/12/2025,2422,2422,2422.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,01/12/2025,2400,2500,2450.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,02/12/2025,2265,2504,2415.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,Local,01/12/2025,2500,2500,2500.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,02/12/2025,2421,2566,2501.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,05/12/2025,2490,2490,2490.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,04/12/2025,2310,2610,2485.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,02/12/2025,2430,2470,2450.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,01/12/2025,2400,2400,2400.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,02/12/2025,2500,2554,2510.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,02/12/2025,2420,2420,2420.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,03/12/2025,2400,2487,2450.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,02/12/2025,2648,3434,3040.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,02/12/2025,2536,2536,2536.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,03/12/2025,2400,2571,2450.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,03/12/2025,2541,2871,2706.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,03/12/2025,2280,2546,2441.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,05/12/2025,2470,2650,2600.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,04/12/2025,2500,2500,2500.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,04/12/2025,2400,2520,2460.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,05/12/2025,2440,2466,2450.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,05/12/2025,2400,2500,2450.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,04/12/2025,2410,2450,2445.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,03/12/2025,2480,2530,2505.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,03/12/2025,2430,2455,2433.0,1
+Rajasthan,Jaipur Rural,Kishangarh Renwal APMC,Wheat,Other,Local,03/12/2025,2600,2700,2640.0,1
+Rajasthan,Bikaner,Nokha APMC,Wheat,Other,Local,03/12/2025,2550,2700,2625.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,04/12/2025,2300,2550,2450.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,04/12/2025,2461,2550,2505.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,04/12/2025,2525,2895,2710.0,1
+Rajasthan,Ganganagar,Gajsinghpur APMC,Wheat,Other,Local,04/12/2025,2430,2430,2430.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,09/12/2025,2505,2505,2505.0,1
+Rajasthan,Pali,Sojat Road APMC,Wheat,Other,Local,04/12/2025,2408,2408,2408.0,1
+Rajasthan,Alwar,Barodamev APMC,Wheat,Other,Non-FAQ,05/12/2025,2556,2591,2560.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,06/12/2025,2425,2775,2650.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,FAQ,06/12/2025,2500,2500,2500.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,08/12/2025,2450,2465,2450.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,05/12/2025,2391,2470,2445.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,06/12/2025,2435,2451,2449.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,06/12/2025,2289,2618,2455.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,09/12/2025,2440,2745,2600.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,06/12/2025,2425,2478,2440.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,05/12/2025,2275,2562,2418.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,09/12/2025,2448,2514,2500.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,09/12/2025,4760,4910,4836.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,08/12/2025,2500,2530,2515.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,09/12/2025,2300,2530,2450.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,10/12/2025,2400,2599,2510.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,09/12/2025,1313,2519,2487.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,10/12/2025,2510,2545,2527.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,10/12/2025,2491,2491,2491.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,10/12/2025,2550,2740,2650.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,08/12/2025,2300,2528,2488.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,08/12/2025,2449,2492,2470.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,10/12/2025,2418,2475,2468.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,08/12/2025,2400,2630,2550.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,08/12/2025,2380,2476,2445.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,08/12/2025,2400,2500,2450.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,09/12/2025,2471,2471,2471.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,11/12/2025,2450,2468,2465.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,10/12/2025,2312,2509,2470.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,10/12/2025,2450,2520,2485.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,11/12/2025,2446,2488,2474.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,10/12/2025,2434,2434,2434.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,10/12/2025,2470,2475,2471.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,10/12/2025,2351,2466,2406.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,12/12/2025,2395,2540,2460.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,12/12/2025,2400,2551,2490.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,12/12/2025,2477,2496,2480.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,12/12/2025,2400,2539,2479.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,11/12/2025,2416,2416,2416.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,11/12/2025,2355,2475,2430.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,13/12/2025,2175,2503,2450.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,13/12/2025,2441,2567,2504.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,15/12/2025,2450,2540,2495.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,14/12/2025,2211,2481,2326.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,15/12/2025,2375,2406,2390.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,15/12/2025,2405,2488,2480.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,15/12/2025,2450,2470,2465.0,1
+Rajasthan,Jaipur Rural,Bagru APMC,Wheat,Other,FAQ,14/12/2025,2400,2600,2500.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,15/12/2025,2101,2560,2220.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,15/12/2025,2470,2828,2525.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,16/12/2025,2450,2561,2510.0,1
+Rajasthan,Hanumangarh,Nohar APMC,Wheat,Other,FAQ,15/12/2025,1651,2527,2400.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,15/12/2025,4766,4862,4814.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,15/12/2025,2500,2500,2500.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,16/12/2025,2469,2548,2508.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,17/12/2025,2251,2462,2428.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,17/12/2025,2450,2580,2515.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,17/12/2025,2415,2530,2495.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,17/12/2025,2405,2499,2490.0,1
+Rajasthan,Ganganagar,Padampur APMC,Wheat,Other,FAQ,16/12/2025,2446,2446,2446.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,17/12/2025,2460,2760,2600.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,17/12/2025,2480,2545,2512.0,1
+Rajasthan,Ganganagar,Sri Karanpur APMC,Wheat,Other,FAQ,17/12/2025,2441,2441,2441.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,18/12/2025,2530,2800,2535.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,17/12/2025,2453,2453,2453.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,31/12/2025,2559,2559,2559.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,18/12/2025,1899,2625,2467.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,10/12/2025,2431,2431,2431.0,1
+Rajasthan,Tonk,Tonk APMC,Wheat,Deshi,FAQ,09/12/2025,2430,2430,2430.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Deshi,Grade Range-1,15/12/2025,2451,2520,2486.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Farmi,Grade Range-1,24/12/2025,2440,2501,2471.0,1
+Rajasthan,Udaipur,Udaipur (Grain) APMC,Wheat,Kalyan,Local,10/12/2025,2540,2540,2540.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,02/12/2025,2448,2478,2463.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,03/12/2025,2477,2680,2600.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,11/12/2025,2401,2510,2456.0,1
+Rajasthan,Kota,Kota APMC,Wheat,Local,Local,15/12/2025,2525,2525,2525.0,1
+Rajasthan,Jodhpur Rural,Osiyan Mathania APMC,Wheat,Local,Local,16/12/2025,2450,2650,2550.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,23/12/2025,2421,2475,2448.0,1
+Rajasthan,Udaipur,Fatehnagar APMC,Wheat,Local,FAQ,20/12/2025,2472,2672,2575.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Local,Local,25/12/2025,2440,2527,2484.0,1
+Rajasthan,Kota,Kota APMC,Wheat,Local,Local,24/12/2025,2501,2501,2501.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,16/12/2025,2450,2525,2490.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,16/12/2025,2370,2700,2580.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,15/12/2025,2461,2569,2515.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,16/12/2025,2415,2825,2500.0,1
+Rajasthan,Bhilwara,Gulabpura APMC,Wheat,Other,FAQ,16/12/2025,2400,2500,2450.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,17/12/2025,2450,2540,2495.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,16/12/2025,2500,2550,2500.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,18/12/2025,2351,2470,2420.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,19/12/2025,2266,2451,2406.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,01/01/2026,2480,2620,2550.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,01/01/2026,2550,2916,2733.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,01/01/2026,2449,2550,2499.0,1
+Rajasthan,Nagaur,Nagaur APMC,Wheat,Other,Local,01/01/2026,2900,2900,2900.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,01/01/2026,2250,2400,2301.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,02/01/2026,2481,2550,2525.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,02/01/2026,2465,2546,2500.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,02/01/2026,2580,2941,2760.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,02/01/2026,2450,2676,2550.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,01/01/2026,2470,2850,2600.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,01/01/2026,2559,2559,2559.0,1
+Rajasthan,Chittorgarh,Begu APMC,Wheat,Other,Local,02/01/2026,2670,2670,2670.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,02/01/2026,2221,2471,2301.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,02/01/2026,2639,2640,2639.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,03/01/2026,2600,2710,2655.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,03/01/2026,2570,2650,2600.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,05/01/2026,2461,2500,2480.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,05/01/2026,2530,2630,2580.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,05/01/2026,2044,2635,2339.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,03/01/2026,2505,2505,2505.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,05/01/2026,2450,2568,2507.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,05/01/2026,2500,2737,2615.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,05/01/2026,2585,2646,2615.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,05/01/2026,2590,3040,2815.0,1
+Rajasthan,Khairthal Tijara,Khairthal APMC,Wheat,Other,Non-FAQ,05/01/2026,2500,2580,2545.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,FAQ,06/01/2026,2490,2634,2580.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,05/01/2026,2500,2600,2557.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,06/01/2026,2450,2730,2599.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,05/01/2026,2500,2575,2575.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,06/01/2026,2448,2588,2504.0,1
+Rajasthan,Tonk,Deoli APMC,Wheat,Other,FAQ,05/01/2026,2500,2571,2536.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,06/01/2026,2450,2750,2672.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,06/01/2026,2475,2575,2541.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,07/01/2026,2500,2575,2560.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,06/01/2026,2450,2660,2555.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,06/01/2026,2500,2740,2680.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,07/01/2026,2380,2445,2412.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,07/01/2026,2500,2587,2560.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,07/01/2026,2338,2570,2508.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,09/01/2026,2201,2450,2320.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,09/01/2026,2350,2350,2350.0,1
+Rajasthan,Bharatpur,Bayana APMC,Wheat,Other,Local,07/01/2026,2550,2600,2575.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,09/01/2026,2390,2530,2460.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,Non-FAQ,07/01/2026,2375,2375,2375.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,10/01/2026,2200,2450,2325.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,07/01/2026,2500,2701,2610.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,07/01/2026,2580,2580,2580.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,08/01/2026,2344,2479,2359.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,09/01/2026,2590,2790,2700.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,09/01/2026,2450,2450,2450.0,1
+Rajasthan,Hanumangarh,Nohar APMC,Wheat,Other,FAQ,07/01/2026,2541,2541,2541.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,09/01/2026,2477,2558,2540.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,09/01/2026,2460,2559,2510.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,09/01/2026,2491,2630,2561.0,1
+Rajasthan,Baran,Samraniyan APMC,Wheat,Other,Local,07/01/2026,2300,2531,2420.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,09/01/2026,2516,2555,2535.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,09/01/2026,2505,2576,2540.0,1
+Rajasthan,Dausa,Mandawari APMC,Wheat,Other,Local,08/01/2026,2461,2555,2515.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,08/01/2026,2429,2574,2492.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,08/01/2026,2500,2500,2500.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,10/01/2026,2526,2550,2550.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,13/01/2026,2500,2574,2537.0,1
+Rajasthan,Bundi,Keshoraipatan APMC,Wheat,Other,FAQ,10/01/2026,2500,2607,2550.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,13/01/2026,2400,2690,2545.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,10/01/2026,2511,2516,2513.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,10/01/2026,2539,2614,2601.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,12/01/2026,2520,2600,2540.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,12/01/2026,2521,2620,2540.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,12/01/2026,2492,2572,2532.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,12/01/2026,2615,2626,2620.0,1
+Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,12/01/2026,2550,2590,2590.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,13/01/2026,2465,2590,2545.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,13/01/2026,2470,2611,2611.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,09/01/2026,2500,2560,2500.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,13/01/2026,2466,2586,2500.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,12/01/2026,2500,2500,2500.0,1
+Rajasthan,Khairthal Tijara,Khairthal APMC,Wheat,Other,Non-FAQ,09/01/2026,2500,2580,2540.0,1
+Rajasthan,Anupgarh,Raisingh Nagar APMC,Wheat,Other,Non-FAQ,12/01/2026,2491,2540,2525.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,15/01/2026,2569,2569,2569.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,15/01/2026,2400,2400,2400.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,14/01/2026,2400,2650,2525.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,15/01/2026,2500,2705,2620.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,15/01/2026,2462,2572,2548.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,15/01/2026,2532,2615,2572.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,15/01/2026,2620,2710,2661.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,15/01/2026,2350,2625,2520.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,21/01/2026,2590,2941,2765.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,21/01/2026,2440,2698,2569.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,17/01/2026,2540,2675,2599.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,14/01/2026,2550,2550,2550.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,16/01/2026,2491,2562,2540.0,1
+Rajasthan,Ganganagar,Kesarisinghpur APMC,Wheat,Other,FAQ,15/01/2026,2500,2535,2535.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,15/01/2026,2600,2600,2600.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,15/01/2026,2508,2508,2508.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,16/01/2026,2600,3011,2805.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,15/01/2026,2250,2595,2250.0,1
+Rajasthan,Bhilwara,Bhilwara APMC,Wheat,Other,FAQ,15/01/2026,2575,2575,2575.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,16/01/2026,2570,2648,2609.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,17/01/2026,2499,2596,2588.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,17/01/2026,2400,2660,2530.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,17/01/2026,2625,2638,2630.0,1
+Rajasthan,Dausa,Mandawar APMC,Wheat,Other,FAQ,17/01/2026,2505,2600,2590.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,19/01/2026,2400,2400,2400.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,16/01/2026,1699,2699,2699.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,16/01/2026,2570,2576,2576.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,16/01/2026,2490,2614,2580.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,20/01/2026,2394,2657,2575.0,1
+Rajasthan,Ajmer,Madanganj Kishangarh APMC,Wheat,Other,Local,20/01/2026,2319,2499,2459.0,1
+Rajasthan,Jaipur Rural,Bassi APMC,Wheat,Other,Local,20/01/2026,2400,2615,2507.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,19/01/2026,2456,2583,2519.0,1
+Rajasthan,Dausa,Bandikui APMC,Wheat,Other,Local,19/01/2026,2700,2700,2700.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,19/01/2026,2430,2597,2596.0,1
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Wheat,Other,Local,19/01/2026,2600,2600,2600.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,20/01/2026,2555,2574,2560.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,19/01/2026,2585,2626,2615.0,1
+Rajasthan,Jaipur Rural,Chaksu APMC,Wheat,Other,Local,19/01/2026,2350,2600,2560.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,19/01/2026,2590,2594,2591.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,21/01/2026,2450,2550,2500.0,1
+Rajasthan,Ganganagar,Sriganganagar (Grain) APMC,Wheat,Other,Local,06/02/2026,2500,2551,2551.0,1
+Rajasthan,Kota,Itawa APMC,Wheat,Other,Local,09/02/2026,2441,2520,2480.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,09/02/2026,2250,2455,2352.0,1
+Rajasthan,Jhalawar,Khanpur APMC,Wheat,Other,FAQ,09/02/2026,2450,2561,2510.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,09/02/2026,2400,2700,2550.0,1
+Rajasthan,Baran,Chhabra APMC,Wheat,Other,Local,09/02/2026,2480,2600,2540.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,09/02/2026,2403,2426,2404.0,1
+Rajasthan,Chittorgarh,Barisadri APMC,Wheat,Other,FAQ,10/02/2026,2340,2722,2525.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,13/02/2026,2200,2500,2350.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,10/02/2026,2470,2492,2470.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,11/02/2026,2409,2409,2409.0,1
+Rajasthan,Karauli,Hindoun APMC,Wheat,Other,Local,12/02/2026,2351,2435,2391.0,1
+Rajasthan,Kekri,Kekri APMC,Wheat,Other,Local,12/02/2026,2150,2450,2200.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,13/02/2026,2425,2470,2455.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,14/02/2026,2381,2425,2418.0,1
+Rajasthan,Ganganagar,Sadulshahar APMC,Wheat,Other,FAQ,14/02/2026,2466,2466,2466.0,1
+Rajasthan,Bharatpur,Bharatpur APMC,Wheat,Other,FAQ,12/02/2026,2462,2525,2494.0,1
+Rajasthan,Baran,Atru APMC,Wheat,Other,Local,13/02/2026,2350,2400,2375.0,1
+Rajasthan,Baran,Kawai Salpura - Atru APMC,Wheat,Other,Local,13/02/2026,2395,2452,2424.0,1
+Rajasthan,Ganganagar,Suratgarh APMC,Wheat,Other,FAQ,17/02/2026,2490,2635,2575.0,1
+Rajasthan,Jhalawar,Iklera APMC,Wheat,Other,Local,13/02/2026,2400,2460,2430.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,14/02/2026,2419,2462,2450.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,14/02/2026,2400,2430,2420.0,1
+Rajasthan,Deeg,Kama APMC,Wheat,Other,Local,13/02/2026,2530,2530,2530.0,1
+Rajasthan,Kota,Ramganjmandi APMC,Wheat,Other,Local,13/02/2026,2304,2456,2387.0,1
+Rajasthan,Gangapur City,Gangapur City APMC,Wheat,Other,Non-FAQ,17/02/2026,4740,4740,4740.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,15/02/2026,2255,2486,2399.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,17/02/2026,2250,2300,2275.0,1
+Rajasthan,Kota,Manohararthana APMC,Wheat,Wheat,Non-FAQ,05/01/2026,2500,2633,2566.0,1
+Rajasthan,Baran,Nahargarh APMC,Wheat,Other,Local,10/02/2026,2375,2400,2380.0,1
+Rajasthan,Jhalawar,Bhawani Mandi APMC,Wheat,Other,Local,07/02/2026,2400,2450,2425.0,1
+Rajasthan,Pratapgarh,Pratapgarh APMC,Wheat,Other,FAQ,07/02/2026,2366,2570,2468.0,1
+Rajasthan,Baran,Anta APMC,Wheat,Other,Local,07/02/2026,2300,2369,2334.0,1
+Rajasthan,Baran,Baran APMC,Wheat,Other,Local,09/02/2026,2400,2462,2450.0,1
+Rajasthan,Swai Madhopur,Khandar APMC,Wheat,Other,Local,09/02/2026,2450,2450,2450.0,1
+Rajasthan,Anupgarh,Jaitsar APMC,Wheat,Other,FAQ,09/02/2026,2480,2480,2480.0,1
+Rajasthan,Tonk,Niwai APMC,Wheat,Other,Local,09/02/2026,2460,2611,2560.0,1
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,Wheat,Other,FAQ,11/02/2026,2245,2460,2352.0,1
+Rajasthan,Bundi,Dei APMC,Wheat,Other,Local,11/02/2026,2455,2455,2455.0,1
+Rajasthan,Dausa,Lalsot APMC,Wheat,Other,Local,11/02/2026,2340,2450,2380.0,1
+Rajasthan,Alwar,Kherli APMC,Wheat,Other,Non-FAQ,12/02/2026,2400,2450,2420.0,1
+Rajasthan,Jhalawar,Jhalarapatan APMC,Wheat,Other,Local,12/02/2026,2300,2500,2400.0,1
+Rajasthan,Dausa,Dausa APMC,Wheat,Other,Local,16/02/2026,2424,2468,2446.0,1
+Rajasthan,Chittorgarh,Nimbahera APMC,Wheat,Other,FAQ,12/02/2026,2400,2700,2560.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,12/02/2026,2430,2433,2433.0,1
+Rajasthan,Alwar,Alwar APMC,Wheat,Other,Local,12/02/2026,2000,2510,2480.0,1
+Rajasthan,Hanumangarh,Goluwala APMC,Wheat,Other,Non-FAQ,12/02/2026,2416,2416,2416.0,1
+Rajasthan,Tonk,Malpura APMC,Wheat,Other,FAQ,16/02/2026,2390,2421,2410.0,1
+Rajasthan,Tonk,Uniyara APMC,Wheat,Other,FAQ,16/02/2026,2437,2437,2437.0,1
+Rajasthan,Bharatpur,Nadwai APMC,Wheat,Other,Local,16/02/2026,2400,2409,2405.0,1
+Rajasthan,Deeg,Deeg APMC,Wheat,Other,Non-FAQ,27/01/2026,2511,2530,2511.0,1

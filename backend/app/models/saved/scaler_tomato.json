@@ -1,0 +1,1 @@
+{"modal_price": {"min": 707.1428571428571, "max": 30552.938181818183}, "max_temp": {"min": 11.6, "max": 46.5}, "min_temp": {"min": 1.5, "max": 31.8}, "precipitation": {"min": 0.0, "max": 167.6}, "soil_moisture": {"min": 0.01, "max": 0.512}, "sentiment": {"min": -0.6784861978143453, "max": -0.07848619781434535}}

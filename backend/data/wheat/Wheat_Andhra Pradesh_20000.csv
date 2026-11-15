@@ -1,0 +1,1501 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Wheat,FAQ,23/12/2025,2350.0,2611,2536,1
+Madhya Pradesh,Raisen,Begamganj APMC,Wheat,Wheat,FAQ,23/12/2025,2350.0,2469,2469,1
+Madhya Pradesh,Ratlam,Ratlam APMC,Wheat,Wheat,FAQ,23/12/2025,2429.0,3030,2670,1
+Madhya Pradesh,Ujjain,Ujjain APMC,Wheat,Wheat,FAQ,23/12/2025,2393.0,2993,2640,1
+Madhya Pradesh,Betul,Betul APMC,Wheat,Mill Quality,FAQ,18/12/2025,2400.0,2580,2550,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Malwa Shakti,FAQ,18/12/2025,2421.0,2562,2427,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,19/12/2025,2531.0,3135,3135,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Wheat,FAQ,19/12/2025,2350.0,2456,2415,1
+Madhya Pradesh,Ratlam,Sailana APMC,Wheat,Wheat,FAQ,19/12/2025,2340.0,2895,2800,1
+Madhya Pradesh,Sagar,Garhakota APMC,Wheat,Wheat,FAQ,19/12/2025,2230.0,2490,2390,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,05/12/2025,2375.0,2400,2400,1
+Madhya Pradesh,Indore,Indore APMC,Wheat,Wheat,FAQ,06/12/2025,2000.0,3189,2300,1
+Madhya Pradesh,Mandsaur,Piplya APMC,Wheat,Wheat,Non-FAQ,05/12/2025,2401.0,2550,2550,1
+Madhya Pradesh,Sehore,Jawar APMC,Wheat,Wheat,FAQ,06/12/2025,2300.0,2651,2651,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Wheat,FAQ,08/12/2025,2380.0,3200,2590,1
+Madhya Pradesh,Rajgarh,Khujner APMC,Wheat,Wheat,FAQ,08/12/2025,2368.0,2494,2463,1
+Madhya Pradesh,Shivpuri,Badarwas APMC,Wheat,Wheat,Non-FAQ,08/12/2025,2250.0,2490,2490,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Wheat,FAQ,08/12/2025,2350.0,2460,2420,1
+Madhya Pradesh,Satna,Amarpatan APMC,Wheat,Mill Quality,FAQ,08/12/2025,2359.0,2412,2410,1
+Madhya Pradesh,Tikamgarh,Khargapur APMC,Wheat,Mill Quality,FAQ,08/12/2025,2370.0,2370,2370,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,Non-FAQ,05/12/2025,2380.0,2490,2385,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Mill Quality,FAQ,05/12/2025,2402.0,2461,2461,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Wheat,FAQ,05/12/2025,2370.0,2430,2380,1
+Madhya Pradesh,Harda,Sirali APMC,Wheat,Wheat,FAQ,05/12/2025,2441.0,2550,2465,1
+Madhya Pradesh,Khandwa,Mundi APMC,Wheat,Wheat,FAQ,05/12/2025,2200.0,2457,2457,1
+Madhya Pradesh,Khandwa,Pandhana APMC,Wheat,Wheat,FAQ,05/12/2025,2441.0,2441,2441,1
+Madhya Pradesh,Guna,Raghogarh APMC,Wheat,Wheat,FAQ,05/12/2025,2455.0,2570,2570,1
+Madhya Pradesh,Harda,Sirali APMC,Wheat,Mill Quality,FAQ,05/12/2025,2416.0,2550,2475,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Mill Quality,FAQ,05/12/2025,2430.0,2430,2430,1
+Madhya Pradesh,Ujjain,Ujjain APMC,Wheat,Wheat,FAQ,04/12/2025,2096.0,2915,2520,1
+Madhya Pradesh,Ashoknagar,Mungawali APMC,Wheat,Wheat,Non-FAQ,04/12/2025,2275.0,2470,2460,1
+Madhya Pradesh,Ashoknagar,Isagarh APMC,Wheat,Wheat,FAQ,04/12/2025,2590.0,2590,2590,1
+Madhya Pradesh,Narsinghpur,Kareli APMC,Wheat,Wheat,FAQ,04/12/2025,2330.0,2351,2351,1
+Madhya Pradesh,Bhind,Lahar APMC,Wheat,Mill Quality,FAQ,04/12/2025,2400.0,2440,2440,1
+Madhya Pradesh,Khandwa,Khandwa APMC,Wheat,Mill Quality,FAQ,04/12/2025,2225.0,2616,2561,1
+Madhya Pradesh,Raisen,Udaipura APMC,Wheat,Mill Quality,Non-FAQ,05/12/2025,2340.0,2520,2420,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,05/12/2025,2500.0,2727,2550,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,05/12/2025,2380.0,2470,2400,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Mill Quality,FAQ,05/12/2025,2400.0,2400,2400,1
+Madhya Pradesh,Raisen,Bareli APMC,Wheat,Mill Quality,FAQ,05/12/2025,2300.0,2350,2350,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,Non-FAQ,05/12/2025,2350.0,2350,2350,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Wheat,Non-FAQ,05/12/2025,2400.0,2450,2400,1
+Madhya Pradesh,Khargone,Badwaha APMC,Wheat,Wheat,FAQ,05/12/2025,2350.0,2625,2530,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Wheat,FAQ,05/12/2025,2430.0,2430,2430,1
+Madhya Pradesh,Guna,Binaganj APMC,Wheat,Wheat,FAQ,05/12/2025,2420.0,2480,2450,1
+Madhya Pradesh,Bhopal,Berasia APMC,Wheat,Wheat,FAQ,05/12/2025,2200.0,2615,2250,1
+Madhya Pradesh,Guna,Maksudangarh APMC,Wheat,Wheat,FAQ,05/12/2025,2360.0,2490,2490,1
+Madhya Pradesh,Ujjain,Mahidpur APMC,Wheat,Wheat,FAQ,05/12/2025,2352.0,2548,2481,1
+Madhya Pradesh,Ashoknagar,Chanderi APMC,Wheat,Wheat,Non-FAQ,05/12/2025,2400.0,2400,2400,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Wheat,FAQ,05/12/2025,2195.0,2755,2485,1
+Madhya Pradesh,Bhopal,Bhopal APMC,Wheat,Wheat,FAQ,05/12/2025,2250.0,2650,2598,1
+Madhya Pradesh,Morena,Morena APMC,Wheat,Wheat,Non-FAQ,05/12/2025,2475.0,2500,2500,1
+Madhya Pradesh,Guna,Binaganj APMC,Wheat,Wheat,FAQ,06/12/2025,2430.0,2470,2440,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Wheat,FAQ,06/12/2025,2325.0,2430,2385,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Wheat,FAQ,06/12/2025,2480.0,2558,2500,1
+Madhya Pradesh,Jabalpur,Paatan APMC,Wheat,Wheat,FAQ,06/12/2025,2320.0,2545,2545,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,Non-FAQ,06/12/2025,2350.0,2415,2415,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Lokwan,FAQ,09/12/2025,2268.0,2970,2600,1
+Madhya Pradesh,Jabalpur,Paatan APMC,Wheat,Mill Quality,FAQ,09/12/2025,2351.0,2465,2450,1
+Madhya Pradesh,Rajgarh,Biaora APMC,Wheat,Wheat,FAQ,09/12/2025,2360.0,2530,2465,1
+Madhya Pradesh,Guna,Guna APMC,Wheat,Wheat,FAQ,09/12/2025,2060.0,3590,2575,1
+Madhya Pradesh,Sehore,Ichhawar APMC,Wheat,Wheat,FAQ,09/12/2025,2315.0,2600,2450,1
+Madhya Pradesh,Narsinghpur,Kareli APMC,Wheat,Wheat,FAQ,09/12/2025,2361.0,2451,2400,1
+Madhya Pradesh,Guna,Binaganj APMC,Wheat,Wheat,FAQ,09/12/2025,2410.0,2485,2455,1
+Madhya Pradesh,Khargone,Khargone APMC,Wheat,Wheat,FAQ,09/12/2025,2250.0,2725,2561,1
+Madhya Pradesh,Sheopur,Sheopurbadod APMC,Wheat,Wheat,FAQ,09/12/2025,2436.0,2446,2446,1
+Madhya Pradesh,Tikamgarh,Khargapur APMC,Wheat,Mill Quality,FAQ,11/12/2025,2350.0,2400,2358,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,11/12/2025,2521.0,2734,2638,1
+Madhya Pradesh,Ratlam,Jaora APMC,Wheat,Wheat,FAQ,11/12/2025,1600.0,3030,2750,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Wheat,FAQ,11/12/2025,2330.0,2434,2400,1
+Madhya Pradesh,Damoh,Patharia APMC,Wheat,Wheat,FAQ,11/12/2025,2202.0,2367,2330,1
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Wheat,Wheat,FAQ,11/12/2025,2400.0,2910,2595,1
+Madhya Pradesh,Neemuch,Neemuch APMC,Wheat,Wheat,FAQ,11/12/2025,2120.0,2931,2515,1
+Madhya Pradesh,Datia,Datia APMC,Wheat,Mill Quality,FAQ,10/12/2025,2300.0,2470,2430,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,10/12/2025,2405.0,2500,2445,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,FAQ,10/12/2025,2400.0,2434,2434,1
+Madhya Pradesh,Sagar,Garhakota APMC,Wheat,Wheat,FAQ,10/12/2025,2320.0,2425,2340,1
+Madhya Pradesh,Rajgarh,Biaora APMC,Wheat,Wheat,FAQ,10/12/2025,2275.0,2620,2470,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Wheat,FAQ,10/12/2025,2470.0,2555,2470,1
+Madhya Pradesh,Ujjain,Badnagar APMC,Wheat,Wheat,FAQ,10/12/2025,2300.0,2701,2350,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,12/12/2025,2350.0,2495,2370,1
+Madhya Pradesh,Mandsaur,Shamgarh APMC,Wheat,Mill Quality,Non-FAQ,12/12/2025,2360.0,2360,2360,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Mill Quality,FAQ,12/12/2025,2325.0,2475,2475,1
+Madhya Pradesh,Rajgarh,Khilchipur APMC,Wheat,Mill Quality,FAQ,12/12/2025,2421.0,2450,2440,1
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Wheat,Wheat,FAQ,12/12/2025,2200.0,3126,2705,1
+Madhya Pradesh,Sehore,Ichhawar APMC,Wheat,Wheat,FAQ,12/12/2025,2326.0,2700,2700,1
+Madhya Pradesh,Guna,Binaganj APMC,Wheat,Wheat,FAQ,12/12/2025,2430.0,2475,2450,1
+Madhya Pradesh,Ratlam,Ratlam APMC,Wheat,Wheat,FAQ,12/12/2025,1301.0,2921,2921,1
+Madhya Pradesh,Mandsaur,Piplya APMC,Wheat,Wheat,FAQ,12/12/2025,2500.0,2535,2535,1
+Madhya Pradesh,Vidisha,Sironj APMC,Wheat,Wheat,FAQ,12/12/2025,2210.0,2945,2580,1
+Madhya Pradesh,Khargone,Khargone APMC,Wheat,Wheat,FAQ,12/12/2025,2240.0,2625,2536,1
+Madhya Pradesh,Indore,Indore APMC,Wheat,Wheat,FAQ,12/12/2025,2100.0,3062,2550,1
+Madhya Pradesh,Betul,Betul APMC,Wheat,Mill Quality,FAQ,16/12/2025,2326.0,2600,2531,1
+Madhya Pradesh,Khandwa,Khandwa APMC,Wheat,Wheat,FAQ,15/12/2025,2500.0,2500,2500,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Wheat,FAQ,15/12/2025,2320.0,2320,2320,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Mill Quality,Non-FAQ,15/12/2025,2410.0,2415,2415,1
+Madhya Pradesh,Satna,Amarpatan APMC,Wheat,Mill Quality,FAQ,15/12/2025,2368.0,2375,2375,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,15/12/2025,2512.0,2901,2901,1
+Madhya Pradesh,Rewa,Rewa APMC,Wheat,Mill Quality,FAQ,15/12/2025,2438.0,2543,2516,1
+Madhya Pradesh,Morena,Kailaras APMC,Wheat,Wheat,FAQ,16/12/2025,2510.0,2513,2513,1
+Madhya Pradesh,Guna,Maksudangarh APMC,Wheat,Wheat,FAQ,16/12/2025,2300.0,2491,2440,1
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Wheat,Wheat,FAQ,16/12/2025,2220.0,3240,2500,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Wheat,FAQ,16/12/2025,2450.0,2876,2876,1
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Wheat,Wheat,Non-FAQ,16/12/2025,1500.0,2901,2691,1
+Madhya Pradesh,Khandwa,Harsood APMC,Wheat,Wheat,FAQ,16/12/2025,2310.0,2451,2440,1
+Madhya Pradesh,Indore,Mhow APMC,Wheat,Wheat,FAQ,16/12/2025,2301.0,2630,2560,1
+Madhya Pradesh,Shajapur,Susner APMC,Wheat,Wheat,Non-FAQ,16/12/2025,2395.0,2468,2468,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Local,FAQ,17/12/2025,2202.0,2568,2500,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Lokwan,FAQ,17/12/2025,2371.0,3200,2690,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Malwa Shakti,FAQ,17/12/2025,2350.0,2498,2498,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Wheat,FAQ,17/12/2025,2360.0,2502,2435,1
+Madhya Pradesh,Dhar,Dhar APMC,Wheat,Wheat,FAQ,17/12/2025,2102.0,2842,2572,1
+Madhya Pradesh,Mandsaur,Piplya APMC,Wheat,Wheat,FAQ,17/12/2025,2472.0,2750,2750,1
+Madhya Pradesh,Khargone,Bhikangaon APMC,Wheat,Wheat,FAQ,17/12/2025,2300.0,2631,2450,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Wheat,FAQ,17/12/2025,2511.0,2730,2521,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Wheat,FAQ,17/12/2025,75.0,2733,2481,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Wheat,FAQ,17/12/2025,2340.0,2547,2509,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Wheat,FAQ,18/12/2025,2325.0,2450,2350,1
+Madhya Pradesh,Morena,Kailaras APMC,Wheat,Wheat,FAQ,18/12/2025,2490.0,2490,2490,1
+Madhya Pradesh,Ujjain,Badnagar APMC,Wheat,Wheat,FAQ,18/12/2025,2410.0,2650,2501,1
+Madhya Pradesh,Sagar,Garhakota APMC,Wheat,Wheat,FAQ,18/12/2025,2245.0,2380,2250,1
+Madhya Pradesh,Ujjain,Ujjain APMC,Wheat,Wheat,FAQ,18/12/2025,2235.0,2918,2500,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Wheat,FAQ,18/12/2025,2420.0,2420,2420,1
+Madhya Pradesh,Mandsaur,Piplya APMC,Wheat,Wheat,Non-FAQ,18/12/2025,2300.0,2585,2585,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,FAQ,20/12/2025,2475.0,2475,2475,1
+Madhya Pradesh,Bhind,Bhind APMC,Wheat,Wheat,Non-FAQ,20/12/2025,2450.0,2507,2505,1
+Madhya Pradesh,Guna,Guna APMC,Wheat,Wheat,FAQ,20/12/2025,2400.0,3485,2465,1
+Madhya Pradesh,Vidisha,Ganjbasoda APMC,Wheat,Sharbati,FAQ,20/12/2025,2580.0,3535,3535,1
+Madhya Pradesh,Indore,Sanwer APMC,Wheat,Wheat,FAQ,21/12/2025,2360.0,2475,2360,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Wheat,FAQ,19/12/2025,2390.0,2440,2415,1
+Madhya Pradesh,Guna,Aron APMC,Wheat,Wheat,FAQ,19/12/2025,2390.0,2700,2700,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Wheat,FAQ,20/12/2025,2446.0,2980,2470,1
+Madhya Pradesh,Ujjain,Badnagar APMC,Wheat,Wheat,FAQ,20/12/2025,2000.0,2650,2550,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Wheat,FAQ,20/12/2025,2413.0,2721,2481,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Mill Quality,FAQ,19/12/2025,2326.0,2326,2326,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,20/12/2025,2410.0,2560,2415,1
+Madhya Pradesh,Hoshangabad,Banapura APMC,Wheat,Local,FAQ,23/12/2025,2371.0,2491,2487,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Malwa Shakti,FAQ,23/12/2025,2426.0,2650,2515,1
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Wheat,Wheat,FAQ,22/12/2025,2350.0,3355,2795,1
+Madhya Pradesh,Shajapur,Susner APMC,Wheat,Wheat,Non-FAQ,22/12/2025,2431.0,2431,2431,1
+Madhya Pradesh,Ratlam,Ratlam APMC,Wheat,Wheat,FAQ,22/12/2025,2071.0,2930,2800,1
+Madhya Pradesh,Vidisha,Vidisha APMC,Wheat,Sharbati,FAQ,23/12/2025,2900.0,3252,3000,1
+Madhya Pradesh,Mandsaur,Suvasra APMC,Wheat,Mill Quality,Non-FAQ,23/12/2025,2405.0,4211,4211,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,23/12/2025,2471.0,2950,2612,1
+Madhya Pradesh,Sagar,Jaisinagar APMC,Wheat,Mill Quality,FAQ,23/12/2025,2340.0,2350,2340,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,FAQ,23/12/2025,2400.0,2420,2400,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Lokwan,FAQ,24/12/2025,2402.0,2871,2751,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,Non-FAQ,24/12/2025,2465.0,2465,2465,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Malwa Shakti,FAQ,24/12/2025,2400.0,2575,2400,1
+Madhya Pradesh,Gwalior,Dabra APMC,Wheat,Wheat,FAQ,24/12/2025,2470.0,2550,2500,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Wheat,FAQ,24/12/2025,2405.0,2575,2520,1
+Madhya Pradesh,Guna,Raghogarh APMC,Wheat,Wheat,FAQ,24/12/2025,2465.0,2500,2500,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Mill Quality,FAQ,24/12/2025,2418.0,2571,2571,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,24/12/2025,2450.0,2476,2476,1
+Madhya Pradesh,Khargone,Kasrawad APMC,Wheat,Wheat,FAQ,24/12/2025,2390.0,2630,2500,1
+Madhya Pradesh,Vidisha,Sironj APMC,Wheat,Wheat,FAQ,24/12/2025,2250.0,3800,2300,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Wheat,FAQ,24/12/2025,2479.0,2626,2529,1
+Madhya Pradesh,Indore,Indore APMC,Wheat,Wheat,FAQ,24/12/2025,2255.0,3170,2669,1
+Madhya Pradesh,Panna,Devandranagar APMC,Wheat,Wheat,Non-FAQ,26/12/2025,2385.0,2410,2405,1
+Madhya Pradesh,Indore,Mhow APMC,Wheat,Wheat,FAQ,26/12/2025,2335.0,2759,2600,1
+Madhya Pradesh,Badwani,Sendhwa APMC,Wheat,Wheat,FAQ,26/12/2025,2585.0,2601,2590,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Wheat,FAQ,26/12/2025,2250.0,2660,2527,1
+Madhya Pradesh,Guna,Raghogarh APMC,Wheat,Wheat,FAQ,26/12/2025,2500.0,2560,2560,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Wheat,FAQ,26/12/2025,2100.0,2652,2501,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Wheat,Non-FAQ,26/12/2025,2400.0,2410,2410,1
+Madhya Pradesh,Dhar,Kukshi APMC,Wheat,Wheat,FAQ,26/12/2025,25.25,2655,2550,1
+Madhya Pradesh,Vidisha,Vidisha APMC,Wheat,Sharbati,FAQ,26/12/2025,3070.0,3070,3070,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,FAQ,26/12/2025,2375.0,2450,2375,1
+Madhya Pradesh,Shajapur,Shujalpur APMC,Wheat,Wheat,FAQ,26/12/2025,2425.0,2660,2536,1
+Madhya Pradesh,Guna,Aron APMC,Wheat,Wheat,FAQ,26/12/2025,2360.0,2571,2571,1
+Madhya Pradesh,Neemuch,Neemuch APMC,Wheat,Wheat,FAQ,26/12/2025,2381.0,3000,2626,1
+Madhya Pradesh,Hoshangabad,Banapura APMC,Wheat,Local,FAQ,26/12/2025,2500.0,2546,2530,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Wheat,FAQ,29/12/2025,2535.0,2590,2535,1
+Madhya Pradesh,Ratlam,Ratlam APMC,Wheat,Wheat,FAQ,29/12/2025,2475.0,3070,2580,1
+Madhya Pradesh,Anupur,Anuppur APMC,Wheat,Wheat,FAQ,24/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Neemuch,Manasa APMC,Wheat,Wheat,FAQ,21/11/2025,2401.0,2850,2670,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Wheat,FAQ,21/11/2025,2250.0,2315,2315,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Wheat,FAQ,21/11/2025,2420.0,2455,2455,1
+Madhya Pradesh,Sehore,Ashta APMC,Wheat,Wheat,FAQ,21/11/2025,2300.0,3681,2652,1
+Madhya Pradesh,Betul,Bhensdehi APMC,Wheat,Wheat,FAQ,21/11/2025,2350.0,2500,2500,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Wheat,FAQ,24/11/2025,2223.0,2792,2460,1
+Madhya Pradesh,Shajapur,Badod APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2429.0,2520,2520,1
+Madhya Pradesh,Shivpuri,Badarwas APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2330.0,2650,2650,1
+Madhya Pradesh,Ujjain,Nagda APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2424.0,2676,2439,1
+Madhya Pradesh,Khandwa,Harsood APMC,Wheat,Wheat,FAQ,21/11/2025,2401.0,2475,2461,1
+Madhya Pradesh,Guna,Maksudangarh APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2395.0,2409,2409,1
+Madhya Pradesh,Badwani,Anjad APMC,Wheat,Wheat,FAQ,21/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Indore,Sanwer APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Dhar,Dhar APMC,Wheat,Wheat,FAQ,21/11/2025,2200.0,2838,2600,1
+Madhya Pradesh,Khargone,Sanawad APMC,Wheat,Wheat,FAQ,21/11/2025,2374.0,2540,2529,1
+Madhya Pradesh,Dhar,Manawar APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2475.0,2655,2655,1
+Madhya Pradesh,Tikamgarh,Jatara APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2415.0,2441,2435,1
+Madhya Pradesh,Rajgarh,Biaora APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2450.0,2500,2450,1
+Madhya Pradesh,Guna,Binaganj APMC,Wheat,Wheat,FAQ,21/11/2025,2400.0,2500,2450,1
+Madhya Pradesh,Sehore,Nasrullaganj APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2300.0,2621,2365,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2375.0,2415,2415,1
+Madhya Pradesh,Rajgarh,Narsinghgarh APMC,Wheat,Wheat,FAQ,24/11/2025,2230.0,2735,2470,1
+Madhya Pradesh,Sheopur,Vijaypur APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Vidisha,Ganjbasoda APMC,Wheat,Wheat,FAQ,21/11/2025,2200.0,2700,2300,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2435.0,2435,2435,1
+Madhya Pradesh,Chhatarpur,Harpalpur APMC,Wheat,Wheat,FAQ,21/11/2025,2406.0,2463,2415,1
+Madhya Pradesh,Dewas,Haatpipliya APMC,Wheat,Wheat,FAQ,21/11/2025,2380.0,2500,2450,1
+Madhya Pradesh,Ratlam,Sailana APMC,Wheat,Wheat,FAQ,21/11/2025,2201.0,3050,2350,1
+Madhya Pradesh,Harda,Timarni APMC,Wheat,Wheat,FAQ,21/11/2025,2400.0,2460,2430,1
+Madhya Pradesh,Alirajpur,Jobat APMC,Wheat,Wheat,FAQ,21/11/2025,2400.0,2425,2425,1
+Madhya Pradesh,Vidisha,Shamshabad APMC,Wheat,Wheat,FAQ,21/11/2025,2275.0,2421,2421,1
+Madhya Pradesh,Shivpuri,Rannod APMC,Wheat,Wheat,FAQ,21/11/2025,2225.0,2375,2375,1
+Madhya Pradesh,Harda,Timarni APMC,Wheat,Wheat,FAQ,24/11/2025,2370.0,2483,2451,1
+Madhya Pradesh,Dhar,Kukshi APMC,Wheat,Wheat,FAQ,21/11/2025,1500.0,2550,2525,1
+Madhya Pradesh,Dewas,Sonkatch APMC,Wheat,Wheat,FAQ,21/11/2025,2300.0,2642,2500,1
+Madhya Pradesh,Rajgarh,Biaora APMC,Wheat,Wheat,FAQ,21/11/2025,2295.0,2580,2465,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Wheat,Non-FAQ,21/11/2025,2350.0,2525,2525,1
+Madhya Pradesh,Anupur,Anuppur APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2430.0,2439,2439,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2390.0,2400,2400,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Wheat,FAQ,22/11/2025,2440.0,2450,2450,1
+Madhya Pradesh,Sheopur,Vijaypur APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Indore,Indore APMC,Wheat,Wheat,FAQ,22/11/2025,2150.0,2990,2502,1
+Madhya Pradesh,Indore,Sanwer APMC,Wheat,Wheat,FAQ,22/11/2025,2005.0,2640,2640,1
+Madhya Pradesh,Mandla,Bichhiya APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2455.0,2455,2455,1
+Madhya Pradesh,Dhar,Manawar APMC,Wheat,Wheat,FAQ,22/11/2025,2475.0,2500,2500,1
+Madhya Pradesh,Khargone,Sanawad APMC,Wheat,Wheat,FAQ,24/11/2025,2360.0,2543,2534,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Wheat,FAQ,22/11/2025,2315.0,2665,2520,1
+Madhya Pradesh,Anupur,Anuppur APMC,Wheat,Wheat,FAQ,22/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Dewas,Haatpipliya APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2275.0,2300,2300,1
+Madhya Pradesh,Sagar,Malthone APMC,Wheat,Wheat,FAQ,22/11/2025,2320.0,2320,2320,1
+Madhya Pradesh,Bhind,Bhind APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2450.0,2511,2450,1
+Madhya Pradesh,Khargone,Kasrawad APMC,Wheat,Wheat,FAQ,22/11/2025,2380.0,2650,2480,1
+Madhya Pradesh,Bhind,Lahar APMC,Wheat,Wheat,FAQ,22/11/2025,2476.0,2493,2493,1
+Madhya Pradesh,Singroli,Singroli APMC,Wheat,Wheat,FAQ,22/11/2025,2075.0,2075,2075,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2370.0,2460,2400,1
+Madhya Pradesh,Dewas,Kannod APMC,Wheat,Wheat,FAQ,22/11/2025,2325.0,2350,2350,1
+Madhya Pradesh,Khargone,Badwaha APMC,Wheat,Wheat,FAQ,22/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Jhabua,Petlawad APMC,Wheat,Wheat,FAQ,22/11/2025,2400.0,2725,2725,1
+Madhya Pradesh,Raisen,Gairatganj APMC,Wheat,Wheat,FAQ,22/11/2025,2648.0,2650,2650,1
+Madhya Pradesh,Khargone,Sanawad APMC,Wheat,Wheat,FAQ,22/11/2025,2350.0,2400,2400,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Wheat,Non-FAQ,22/11/2025,2310.0,2410,2410,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Wheat,FAQ,22/11/2025,2340.0,2380,2375,1
+Madhya Pradesh,Shajapur,Badod APMC,Wheat,Wheat,FAQ,22/11/2025,2450.0,2490,2450,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Wheat,Non-FAQ,23/11/2025,2401.0,2402,2402,1
+Madhya Pradesh,Sidhi,Sidhi APMC,Wheat,Wheat,Non-FAQ,23/11/2025,2400.0,2425,2425,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Wheat,FAQ,23/11/2025,2440.0,2440,2440,1
+Madhya Pradesh,Khargone,Bhikangaon APMC,Wheat,Wheat,FAQ,23/11/2025,2265.0,2565,2505,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Wheat,FAQ,23/11/2025,2440.0,2450,2440,1
+Madhya Pradesh,Bhind,Gohad APMC,Wheat,Wheat,FAQ,23/11/2025,2500.0,2550,2500,1
+Madhya Pradesh,Dhar,Dhar APMC,Wheat,Wheat,FAQ,23/11/2025,2350.0,2600,2350,1
+Madhya Pradesh,Sagar,Sagar APMC,Wheat,Wheat,FAQ,23/11/2025,2310.0,2360,2360,1
+Madhya Pradesh,Bhind,Mow APMC,Wheat,Wheat,FAQ,23/11/2025,2415.0,2415,2415,1
+Madhya Pradesh,Betul,Bhensdehi APMC,Wheat,Wheat,FAQ,23/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Vidisha,Lateri APMC,Wheat,Wheat,Non-FAQ,23/11/2025,2700.0,2900,2900,1
+Madhya Pradesh,Khargone,Karhi APMC,Wheat,Wheat,FAQ,23/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sagar,Rehli APMC,Wheat,Wheat,FAQ,23/11/2025,2300.0,2310,2310,1
+Madhya Pradesh,Damoh,Patharia APMC,Wheat,Wheat,FAQ,24/11/2025,2276.0,2448,2395,1
+Madhya Pradesh,Morena,Porsa APMC,Wheat,Wheat,FAQ,24/11/2025,2445.0,2480,2450,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Wheat,FAQ,24/11/2025,2350.0,2481,2450,1
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2000.0,3002,2600,1
+Madhya Pradesh,Indore,Sanwer APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2300.0,2545,2300,1
+Madhya Pradesh,Khargone,Bhikangaon APMC,Wheat,Wheat,FAQ,24/11/2025,2291.0,2590,2515,1
+Madhya Pradesh,Sehore,Ashta APMC,Wheat,Wheat,FAQ,24/11/2025,2351.0,3600,2400,1
+Madhya Pradesh,Neemuch,Neemuch APMC,Wheat,Wheat,FAQ,24/11/2025,2450.0,2951,2620,1
+Madhya Pradesh,Ujjain,Unhel APMC,Wheat,Wheat,FAQ,24/11/2025,2371.0,2530,2501,1
+Madhya Pradesh,Chhatarpur,Naugaon APMC,Wheat,Wheat,FAQ,24/11/2025,2435.0,2435,2435,1
+Madhya Pradesh,Rajgarh,Sarangpur APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2100.0,2600,2458,1
+Madhya Pradesh,Neemuch,Manasa APMC,Wheat,Wheat,FAQ,24/11/2025,2410.0,2874,2711,1
+Madhya Pradesh,Shivpuri,Shivpuri APMC,Wheat,Wheat,FAQ,24/11/2025,2265.0,2450,2450,1
+Madhya Pradesh,Guna,Aron APMC,Wheat,Wheat,FAQ,24/11/2025,2300.0,2415,2415,1
+Madhya Pradesh,Narsinghpur,Kareli APMC,Wheat,Wheat,FAQ,24/11/2025,2400.0,2450,2450,1
+Madhya Pradesh,Shajapur,Kalapipal APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2191.0,2711,2470,1
+Madhya Pradesh,Dhar,Rajgarh APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2300.0,2691,2581,1
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Wheat,Wheat,FAQ,24/11/2025,2250.0,2890,2600,1
+Madhya Pradesh,Mandsaur,Daloda APMC,Wheat,Wheat,FAQ,24/11/2025,2100.0,3043,2570,1
+Madhya Pradesh,Sagar,Sagar APMC,Wheat,Wheat,FAQ,24/11/2025,2200.0,2600,2390,1
+Madhya Pradesh,Shivpuri,Kolaras APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2400.0,2430,2430,1
+Madhya Pradesh,Ujjain,Nagda APMC,Wheat,Wheat,FAQ,24/11/2025,2425.0,2686,2525,1
+Madhya Pradesh,Chhindwara,Amarwda APMC,Wheat,Wheat,FAQ,24/11/2025,2400.0,2500,2500,1
+Madhya Pradesh,Guna,Guna APMC,Wheat,Wheat,FAQ,24/11/2025,2020.0,3470,2525,1
+Madhya Pradesh,Balaghat,Balaghat APMC,Wheat,Wheat,FAQ,25/11/2025,1850.0,1850,1850,1
+Madhya Pradesh,Mandsaur,Shamgarh APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2390.0,2931,2521,1
+Madhya Pradesh,Shivpuri,Kolaras APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2380.0,2420,2420,1
+Madhya Pradesh,Guna,Binaganj APMC,Wheat,Wheat,FAQ,25/11/2025,2425.0,2470,2465,1
+Madhya Pradesh,Indore,Sanwer APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2400.0,2520,2520,1
+Madhya Pradesh,Mandsaur,Sitmau APMC,Wheat,Wheat,FAQ,25/11/2025,2381.0,3250,2650,1
+Madhya Pradesh,Shivpuri,Pohari APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2350.0,2415,2415,1
+Madhya Pradesh,Ujjain,Nagda APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2413.0,2671,2671,1
+Madhya Pradesh,Badwani,Anjad APMC,Wheat,Wheat,FAQ,25/11/2025,2100.0,2210,2100,1
+Madhya Pradesh,Chhatarpur,Harpalpur APMC,Wheat,Wheat,FAQ,25/11/2025,2401.0,2448,2412,1
+Madhya Pradesh,Shajapur,Nalkehda APMC,Wheat,Wheat,FAQ,25/11/2025,2300.0,2474,2400,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Wheat,FAQ,25/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Ujjain,Tarana APMC,Wheat,Wheat,FAQ,25/11/2025,2300.0,2650,2400,1
+Madhya Pradesh,Ratlam,Ratlam APMC,Wheat,Wheat,FAQ,25/11/2025,1500.0,3176,2551,1
+Madhya Pradesh,Sagar,Khurai APMC,Wheat,Wheat,FAQ,25/11/2025,2300.0,2630,2381,1
+Madhya Pradesh,Sagar,Garhakota APMC,Wheat,Wheat,FAQ,25/11/2025,2300.0,2440,2430,1
+Madhya Pradesh,Shajapur,Soyatkalan APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2435.0,2520,2520,1
+Madhya Pradesh,Panna,Devandranagar APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2400.0,2415,2415,1
+Madhya Pradesh,Vidisha,Lateri APMC,Wheat,Wheat,FAQ,25/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Wheat,FAQ,25/11/2025,2310.0,2310,2310,1
+Madhya Pradesh,Shivpuri,Kolaras APMC,Wheat,Wheat,FAQ,25/11/2025,2370.0,2415,2415,1
+Madhya Pradesh,Raisen,Begamganj APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2200.0,2495,2380,1
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Wheat,Wheat,FAQ,25/11/2025,2175.0,3245,2400,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Wheat,FAQ,25/11/2025,2270.0,2564,2481,1
+Madhya Pradesh,Hoshangabad,Pipariya APMC,Wheat,Wheat,FAQ,25/11/2025,2201.0,2568,2517,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2475.0,2475,2475,1
+Madhya Pradesh,Sagar,Banda APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2360.0,2370,2370,1
+Madhya Pradesh,Ratlam,A lot APMC,Wheat,Wheat,FAQ,25/11/2025,2435.0,2556,2556,1
+Madhya Pradesh,Khandwa,Mundi APMC,Wheat,Wheat,FAQ,25/11/2025,2441.0,2475,2475,1
+Madhya Pradesh,Bhind,Bhind APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2450.0,2506,2488,1
+Madhya Pradesh,Narsinghpur,Kareli APMC,Wheat,Wheat,FAQ,25/11/2025,2370.0,2433,2400,1
+Madhya Pradesh,Indore,Mhow APMC,Wheat,Wheat,FAQ,25/11/2025,2371.0,2700,2551,1
+Madhya Pradesh,Khargone,Karhi APMC,Wheat,Wheat,FAQ,25/11/2025,2515.0,2515,2515,1
+Madhya Pradesh,Chhatarpur,Naugaon APMC,Wheat,Wheat,FAQ,25/11/2025,2438.0,2448,2448,1
+Madhya Pradesh,Indore,Indore APMC,Wheat,Wheat,Non-FAQ,25/11/2025,2625.0,2625,2625,1
+Madhya Pradesh,Khargone,Khargone APMC,Wheat,Wheat,FAQ,25/11/2025,2250.0,2710,2500,1
+Madhya Pradesh,Dhar,Dhamnod APMC,Wheat,Wheat,FAQ,25/11/2025,2461.0,2578,2500,1
+Madhya Pradesh,Sagar,Sagar APMC,Wheat,Wheat,FAQ,26/11/2025,2300.0,2320,2320,1
+Madhya Pradesh,Guna,Guna APMC,Wheat,Wheat,FAQ,26/11/2025,2200.0,2995,2500,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Wheat,FAQ,26/11/2025,2485.0,2575,2575,1
+Madhya Pradesh,Dewas,Haatpipliya APMC,Wheat,Wheat,Non-FAQ,26/11/2025,2180.0,2871,2340,1
+Madhya Pradesh,Rajgarh,Biaora APMC,Wheat,Wheat,FAQ,26/11/2025,2260.0,2530,2480,1
+Madhya Pradesh,Chhatarpur,Naugaon APMC,Wheat,Wheat,Non-FAQ,26/11/2025,2415.0,2461,2445,1
+Madhya Pradesh,Khandwa,Pandhana APMC,Wheat,Wheat,FAQ,26/11/2025,2400.0,2402,2400,1
+Madhya Pradesh,Sehore,Nasrullaganj APMC,Wheat,Wheat,Non-FAQ,26/11/2025,2300.0,2704,2350,1
+Madhya Pradesh,Khargone,Segaon APMC,Wheat,Wheat,FAQ,26/11/2025,2425.0,2451,2451,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Wheat,FAQ,26/11/2025,2231.0,2565,2480,1
+Madhya Pradesh,Vidisha,Vidisha APMC,Wheat,Wheat,FAQ,26/11/2025,2160.0,2941,2600,1
+Madhya Pradesh,Ratlam,Sailana APMC,Wheat,Wheat,FAQ,26/11/2025,2304.0,3000,2600,1
+Madhya Pradesh,Sehore,Ichhawar APMC,Wheat,Wheat,FAQ,26/11/2025,2200.0,2770,2550,1
+Madhya Pradesh,Shajapur,Kalapipal APMC,Wheat,Wheat,FAQ,26/11/2025,2600.0,2600,2600,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Wheat,FAQ,26/11/2025,2375.0,2400,2400,1
+Madhya Pradesh,Shajapur,Agar APMC,Wheat,Wheat,FAQ,26/11/2025,2400.0,2640,2420,1
+Madhya Pradesh,Shajapur,Berachha APMC,Wheat,Wheat,FAQ,26/11/2025,2321.0,2321,2321,1
+Madhya Pradesh,Dewas,Loharda APMC,Wheat,Wheat,FAQ,26/11/2025,2300.0,2600,2400,1
+Madhya Pradesh,Ujjain,Tarana APMC,Wheat,Wheat,FAQ,26/11/2025,2155.0,2725,2725,1
+Madhya Pradesh,Indore,Sanwer APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2308.0,2400,2400,1
+Madhya Pradesh,Bhopal,Bhopal APMC,Wheat,Wheat,FAQ,26/11/2025,2505.0,2665,2665,1
+Madhya Pradesh,Narsinghpur,Gotegaon APMC,Wheat,Wheat,FAQ,26/11/2025,1425.0,2500,2500,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Wheat,FAQ,26/11/2025,2500.0,2501,2501,1
+Madhya Pradesh,Rajgarh,Biaora APMC,Wheat,Wheat,Non-FAQ,26/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Narsinghpur,Tendukheda APMC,Wheat,Wheat,FAQ,26/11/2025,2325.0,2325,2325,1
+Madhya Pradesh,Bhopal,Berasia APMC,Wheat,Wheat,FAQ,26/11/2025,2150.0,2850,2300,1
+Madhya Pradesh,Shivpuri,Badarwas APMC,Wheat,Wheat,Non-FAQ,26/11/2025,2405.0,2500,2480,1
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Wheat,Wheat,FAQ,26/11/2025,2280.0,3320,2730,1
+Madhya Pradesh,Shajapur,Soyatkalan APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2330.0,2525,2520,1
+Madhya Pradesh,Khargone,Bhikangaon APMC,Wheat,Wheat,FAQ,27/11/2025,2223.0,2563,2441,1
+Madhya Pradesh,Shajapur,Shajapur APMC,Wheat,Wheat,FAQ,26/11/2025,1800.0,2650,2300,1
+Madhya Pradesh,Sehore,Jawar APMC,Wheat,Wheat,FAQ,26/11/2025,2300.0,2750,2400,1
+Madhya Pradesh,Gwalior,Dabra APMC,Wheat,Wheat,FAQ,26/11/2025,2550.0,2623,2600,1
+Madhya Pradesh,Ujjain,Ujjain APMC,Wheat,Wheat,FAQ,26/11/2025,2260.0,2893,2600,1
+Madhya Pradesh,Khargone,Kasrawad APMC,Wheat,Wheat,FAQ,26/11/2025,2320.0,2640,2590,1
+Madhya Pradesh,Dhar,Badnawar APMC,Wheat,Wheat,FAQ,26/11/2025,2200.0,2860,2605,1
+Madhya Pradesh,Seoni,Barghat APMC,Wheat,Wheat,FAQ,26/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Ratlam,Taal APMC,Wheat,Wheat,FAQ,26/11/2025,2381.0,2685,2685,1
+Madhya Pradesh,Sagar,Bina APMC,Wheat,Wheat,FAQ,26/11/2025,2200.0,2751,2400,1
+Madhya Pradesh,Badwani,Anjad APMC,Wheat,Wheat,FAQ,27/11/2025,2080.0,2150,2100,1
+Madhya Pradesh,Shajapur,Susner APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2420.0,2451,2451,1
+Madhya Pradesh,Shajapur,Nalkehda APMC,Wheat,Wheat,FAQ,27/11/2025,2311.0,2460,2400,1
+Madhya Pradesh,Sehore,Ashta APMC,Wheat,Wheat,FAQ,27/11/2025,2300.0,3670,2625,1
+Madhya Pradesh,Guna,Maksudangarh APMC,Wheat,Wheat,FAQ,27/11/2025,2366.0,2881,2460,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2450.0,2480,2480,1
+Madhya Pradesh,Damoh,Patharia APMC,Wheat,Wheat,FAQ,27/11/2025,2000.0,2436,2400,1
+Madhya Pradesh,Bhind,Gohad APMC,Wheat,Wheat,FAQ,27/11/2025,2395.0,2475,2475,1
+Madhya Pradesh,Shivpuri,Shivpuri APMC,Wheat,Wheat,FAQ,27/11/2025,2375.0,2490,2450,1
+Madhya Pradesh,Sagar,Banda APMC,Wheat,Wheat,FAQ,27/11/2025,2225.0,2255,2255,1
+Madhya Pradesh,Bhind,Bhind APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2400.0,2507,2499,1
+Madhya Pradesh,Neemuch,Manasa APMC,Wheat,Wheat,FAQ,27/11/2025,2470.0,2836,2590,1
+Madhya Pradesh,Dhar,Gandhwani APMC,Wheat,Wheat,FAQ,27/11/2025,2500.0,2530,2500,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Wheat,FAQ,27/11/2025,2500.0,2501,2500,1
+Madhya Pradesh,Vidisha,Vidisha APMC,Wheat,Wheat,FAQ,27/11/2025,2300.0,3100,2650,1
+Madhya Pradesh,Dhar,Kukshi APMC,Wheat,Wheat,FAQ,27/11/2025,2300.0,2500,2475,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Wheat,FAQ,27/11/2025,2380.0,2390,2390,1
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2301.0,2931,2600,1
+Madhya Pradesh,Shajapur,Momanbadodiya APMC,Wheat,Wheat,FAQ,27/11/2025,2300.0,2322,2322,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Wheat,Non-FAQ,27/11/2025,2430.0,2430,2430,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Wheat,FAQ,27/11/2025,2350.0,2580,2440,1
+Madhya Pradesh,Dewas,Kannod APMC,Wheat,Wheat,FAQ,27/11/2025,2280.0,2500,2400,1
+Madhya Pradesh,Shivpuri,Kolaras APMC,Wheat,Wheat,FAQ,27/11/2025,2380.0,2410,2410,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Wheat,FAQ,27/11/2025,2450.0,2585,2500,1
+Madhya Pradesh,Khargone,Khargone APMC,Wheat,Wheat,FAQ,27/11/2025,2210.0,2725,2610,1
+Madhya Pradesh,Bhind,Alampur APMC,Wheat,Wheat,Non-FAQ,18/11/2025,2380.0,2445,2406,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Wheat,FAQ,18/11/2025,2330.0,2350,2350,1
+Madhya Pradesh,Shivpuri,Kolaras APMC,Wheat,Wheat,Non-FAQ,18/11/2025,2425.0,2465,2465,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Wheat,Non-FAQ,18/11/2025,2420.0,2450,2450,1
+Madhya Pradesh,Dewas,Loharda APMC,Wheat,Wheat,FAQ,18/11/2025,52.0,2627,2450,1
+Madhya Pradesh,Dhar,Manawar APMC,Wheat,Wheat,Non-FAQ,18/11/2025,2500.0,2575,2575,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Wheat,Non-FAQ,18/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Shajapur,Nalkehda APMC,Wheat,Wheat,FAQ,18/11/2025,2350.0,2465,2452,1
+Madhya Pradesh,Shajapur,Susner APMC,Wheat,Wheat,FAQ,18/11/2025,2380.0,2380,2380,1
+Madhya Pradesh,Harda,Timarni APMC,Wheat,Wheat,FAQ,18/11/2025,2400.0,2520,2440,1
+Madhya Pradesh,Guna,Binaganj APMC,Wheat,Wheat,Non-FAQ,18/11/2025,2440.0,2505,2505,1
+Madhya Pradesh,Vidisha,Shamshabad APMC,Wheat,Wheat,FAQ,19/11/2025,2281.0,2401,2340,1
+Madhya Pradesh,Dhar,Rajgarh APMC,Wheat,Wheat,FAQ,19/11/2025,2300.0,2770,2571,1
+Madhya Pradesh,Satna,Mehar APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2390.0,2410,2400,1
+Madhya Pradesh,Ujjain,Nagda APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2409.0,2630,2630,1
+Madhya Pradesh,Betul,Bhensdehi APMC,Wheat,Wheat,FAQ,20/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Rajgarh,Narsinghgarh APMC,Wheat,Wheat,FAQ,20/11/2025,2230.0,4375,2470,1
+Madhya Pradesh,Anupur,Anuppur APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2300.0,2425,2300,1
+Madhya Pradesh,Damoh,Patharia APMC,Wheat,Wheat,FAQ,20/11/2025,2310.0,2409,2409,1
+Madhya Pradesh,Seoni,Seoni APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Wheat,FAQ,20/11/2025,2360.0,2410,2410,1
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2353.0,2991,2500,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Wheat,FAQ,20/11/2025,2200.0,2571,2440,1
+Madhya Pradesh,Dhar,Dhamnod APMC,Wheat,Wheat,FAQ,20/11/2025,2311.0,2601,2601,1
+Madhya Pradesh,Alirajpur,Jobat APMC,Wheat,Wheat,FAQ,20/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Rajgarh,Sarangpur APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2316.0,2660,2440,1
+Madhya Pradesh,Chhatarpur,Naugaon APMC,Wheat,Wheat,FAQ,20/11/2025,2438.0,2438,2438,1
+Madhya Pradesh,Bhind,Gohad APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2430.0,2430,2430,1
+Madhya Pradesh,Neemuch,Manasa APMC,Wheat,Wheat,Non-FAQ,24/11/2025,1800.0,1800,1800,1
+Madhya Pradesh,Raisen,Begamganj APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2300.0,2510,2400,1
+Madhya Pradesh,Dewas,Kannod APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2398.0,2398,2398,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Wheat,FAQ,24/11/2025,2330.0,2775,2520,1
+Madhya Pradesh,Sagar,Rehli APMC,Wheat,Wheat,FAQ,24/11/2025,2350.0,2420,2400,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Wheat,FAQ,24/11/2025,1510.0,2465,2425,1
+Madhya Pradesh,Shajapur,Susner APMC,Wheat,Wheat,FAQ,19/11/2025,2375.0,2375,2375,1
+Madhya Pradesh,Ujjain,Tarana APMC,Wheat,Wheat,FAQ,19/11/2025,2311.0,2671,2480,1
+Madhya Pradesh,Ratlam,Ratlam APMC,Wheat,Wheat,FAQ,19/11/2025,1470.0,3150,2780,1
+Madhya Pradesh,Shivpuri,Pohari APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2370.0,2415,2415,1
+Madhya Pradesh,Shajapur,Soyatkalan APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2485.0,2545,2485,1
+Madhya Pradesh,Harda,Timarni APMC,Wheat,Wheat,FAQ,19/11/2025,2000.0,2506,2451,1
+Madhya Pradesh,Ashoknagar,Isagarh APMC,Wheat,Wheat,FAQ,19/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Neemuch,Manasa APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2351.0,2550,2480,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2400.0,2425,2425,1
+Madhya Pradesh,Sagar,Malthone APMC,Wheat,Wheat,FAQ,19/11/2025,2300.0,2310,2310,1
+Madhya Pradesh,Khandwa,Mundi APMC,Wheat,Wheat,FAQ,19/11/2025,2400.0,2490,2440,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Wheat,FAQ,19/11/2025,2425.0,2455,2435,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2400.0,2450,2425,1
+Madhya Pradesh,Khargone,Segaon APMC,Wheat,Wheat,FAQ,19/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Raisen,Begamganj APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2200.0,2513,2494,1
+Madhya Pradesh,Jhabua,Jhabua APMC,Wheat,Wheat,FAQ,19/11/2025,2405.0,2707,2707,1
+Madhya Pradesh,Bhind,Gohad APMC,Wheat,Wheat,FAQ,19/11/2025,2390.0,2505,2445,1
+Madhya Pradesh,Morena,Morena APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2495.0,2517,2513,1
+Madhya Pradesh,Ashoknagar,Mungawali APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2380.0,2435,2410,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Wheat,FAQ,19/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Wheat,FAQ,19/11/2025,2320.0,2425,2415,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Wheat,FAQ,19/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Morena,Kailaras APMC,Wheat,Wheat,FAQ,19/11/2025,2498.0,2527,2512,1
+Madhya Pradesh,Tikamgarh,Jatara APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2412.0,2442,2415,1
+Madhya Pradesh,Sagar,Rehli APMC,Wheat,Wheat,FAQ,19/11/2025,2350.0,2410,2375,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Wheat,FAQ,19/11/2025,2400.0,2550,2510,1
+Madhya Pradesh,Raisen,Silvani APMC,Wheat,Wheat,FAQ,19/11/2025,2308.0,2462,2462,1
+Madhya Pradesh,Alirajpur,Jobat APMC,Wheat,Wheat,Non-FAQ,19/11/2025,2300.0,2350,2300,1
+Madhya Pradesh,Shajapur,Badod APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2425.0,2651,2651,1
+Madhya Pradesh,Khandwa,Pandhana APMC,Wheat,Wheat,FAQ,20/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Wheat,FAQ,20/11/2025,2349.0,2415,2415,1
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V) APMC,Wheat,Wheat,FAQ,20/11/2025,2410.0,2410,2410,1
+Madhya Pradesh,Shajapur,Nalkehda APMC,Wheat,Wheat,FAQ,20/11/2025,2300.0,2310,2310,1
+Madhya Pradesh,Dhar,Manawar APMC,Wheat,Wheat,FAQ,20/11/2025,2510.0,2595,2595,1
+Madhya Pradesh,Sehore,Nasrullaganj APMC,Wheat,Wheat,FAQ,20/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Shivpuri,Magroni APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2450.0,2475,2475,1
+Madhya Pradesh,Jhabua,Jhabua APMC,Wheat,Wheat,FAQ,20/11/2025,2400.0,2518,2518,1
+Madhya Pradesh,Narsinghpur,Kareli APMC,Wheat,Wheat,FAQ,20/11/2025,2100.0,2451,2424,1
+Madhya Pradesh,Vidisha,Shamshabad APMC,Wheat,Wheat,FAQ,20/11/2025,2300.0,2437,2321,1
+Madhya Pradesh,Rajgarh,Chhapiheda APMC,Wheat,Wheat,FAQ,20/11/2025,2440.0,2550,2550,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2300.0,2561,2486,1
+Madhya Pradesh,Ujjain,Unhel APMC,Wheat,Wheat,FAQ,20/11/2025,2299.0,2600,2450,1
+Madhya Pradesh,Ratlam,Jaora APMC,Wheat,Wheat,Non-FAQ,20/11/2025,2357.0,2357,2357,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Wheat,FAQ,20/11/2025,2435.0,2435,2435,1
+Madhya Pradesh,Guna,Maksudangarh APMC,Wheat,Wheat,FAQ,20/11/2025,2381.0,2495,2467,1
+Madhya Pradesh,Neemuch,Manasa APMC,Wheat,Wheat,FAQ,20/11/2025,2369.0,2881,2800,1
+Madhya Pradesh,Bhopal,Berasia APMC,Wheat,Wheat,FAQ,20/11/2025,1500.0,2840,2400,1
+Madhya Pradesh,Sheopur,Sheopurkalan APMC,Wheat,Wheat,FAQ,20/11/2025,2448.0,2500,2470,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Wheat,FAQ,20/11/2025,2420.0,2536,2440,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Wheat,FAQ,20/11/2025,2675.0,2675,2675,1
+Madhya Pradesh,Satna,Amarpatan APMC,Wheat,Wheat,FAQ,20/11/2025,2400.0,2420,2420,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Wheat,FAQ,20/11/2025,2460.0,2535,2535,1
+Madhya Pradesh,Shehdol,Beohari APMC,Wheat,Wheat,FAQ,20/11/2025,2411.0,2425,2425,1
+Madhya Pradesh,Mandsaur,Piplya APMC,Wheat,Wheat,FAQ,20/11/2025,1801.0,2701,2500,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Wheat,FAQ,24/11/2025,2300.0,2460,2460,1
+Madhya Pradesh,Seoni,Chhpara APMC,Wheat,Wheat,Non-FAQ,24/11/2025,2350.0,2405,2405,1
+Madhya Pradesh,Ashoknagar,Mungawali APMC,Wheat,Wheat,Non-FAQ,24/11/2025,1445.0,2440,2420,1
+Madhya Pradesh,Dhar,Rajgarh APMC,Wheat,Wheat,FAQ,24/11/2025,2300.0,2690,2591,1
+Uttar Pradesh,Mahoba,Charkhari APMC,Wheat,147 Average,FAQ,01/11/2025,2500.0,2500,2500,1
+Uttar Pradesh,Mahoba,Charkhari APMC,Wheat,147 Average,FAQ,03/11/2025,2500.0,2500,2500,1
+Uttar Pradesh,Aligarh,Charra APMC,Wheat,Dara,FAQ,01/11/2025,2530.0,2550,2540,1
+Uttar Pradesh,Aligarh,Atrauli APMC,Wheat,Dara,FAQ,01/11/2025,2400.0,2500,2450,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,01/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,01/11/2025,2510.0,2620,2550,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,FAQ,01/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,01/11/2025,2540.0,2580,2560,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,FAQ,01/11/2025,2455.0,2600,2530,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,01/11/2025,2580.0,2630,2600,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,05/11/2025,2530.0,2630,2580,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,13/11/2025,2530.0,2530,2530,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,Local,05/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Dara,FAQ,07/11/2025,2400.0,2500,2460,1
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Wheat,Dara,FAQ,07/11/2025,2500.0,2540,2520,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,30/11/2025,2470.0,2540,2500,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,07/11/2025,2400.0,2550,2490,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,07/11/2025,2400.0,2600,2500,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,10/11/2025,2540.0,2560,2550,1
+Uttar Pradesh,Chitrakut,Karvi APMC,Wheat,Dara,FAQ,07/11/2025,2500.0,2500,2500,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,09/11/2025,2550.0,2570,2560,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,Local,09/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,06/11/2025,2520.0,2520,2520,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,07/11/2025,2530.0,2570,2550,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,11/11/2025,2400.0,2560,2490,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,07/11/2025,2530.0,2530,2530,1
+Uttar Pradesh,Etah,Aliganj APMC,Wheat,Dara,FAQ,01/11/2025,2450.0,2460,2455,1
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,12/11/2025,2480.0,2600,2560,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,07/11/2025,2530.0,2630,2580,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,10/11/2025,2545.0,2560,2550,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,06/11/2025,2400.0,2500,2470,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,10/11/2025,2510.0,2550,2530,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,01/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Jhansi,Mauranipur APMC,Wheat,Dara,FAQ,07/11/2025,2500.0,2700,2565,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,11/11/2025,2560.0,2580,2570,1
+Uttar Pradesh,Auraiya,Auraiya APMC,Wheat,Dara,FAQ,06/11/2025,2450.0,2500,2485,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,12/11/2025,2520.0,2640,2580,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,10/11/2025,2440.0,2510,2470,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,12/11/2025,2425.0,2550,2500,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,11/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,Local,12/11/2025,2460.0,2580,2550,1
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,Dara,FAQ,06/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,10/11/2025,2515.0,2540,2525,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,11/11/2025,2450.0,2650,2550,1
+Uttar Pradesh,Raebarelli,Raibareilly APMC,Wheat,Dara,FAQ,12/11/2025,2460.0,2500,2480,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,07/11/2025,2500.0,2550,2525,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,07/11/2025,2450.0,2520,2500,1
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Wheat,Dara,FAQ,10/11/2025,2550.0,2600,2550,1
+Uttar Pradesh,Jhansi,Gurusarai APMC,Wheat,Dara,FAQ,05/11/2025,2480.0,2560,2510,1
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Wheat,Dara,FAQ,11/11/2025,2475.0,2535,2500,1
+Uttar Pradesh,Kanpur,Varipaal APMC,Wheat,Dara,FAQ,10/11/2025,2450.0,2480,2455,1
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Wheat,Dara,FAQ,14/11/2025,2450.0,2590,2525,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,09/11/2025,2450.0,2525,2480,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,10/11/2025,2480.0,2550,2520,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,08/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara,Local,12/11/2025,2500.0,2500,2500,1
+Uttar Pradesh,Jhansi,Mauranipur APMC,Wheat,Dara,FAQ,12/11/2025,2400.0,2600,2465,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,10/11/2025,2540.0,2580,2560,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,12/11/2025,2540.0,2625,2565,1
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,13/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Shravasti,Bhinga APMC,Wheat,Dara,FAQ,10/11/2025,2470.0,2610,2550,1
+Uttar Pradesh,Fatehpur,Kishunpur APMC,Wheat,Dara,FAQ,01/11/2025,2500.0,2540,2520,1
+Uttar Pradesh,Lucknow,Lucknow APMC,Wheat,Dara,FAQ,12/11/2025,2550.0,2650,2600,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,11/11/2025,2500.0,2550,2525,1
+Uttar Pradesh,Jhansi,Gurusarai APMC,Wheat,Dara,FAQ,12/11/2025,2425.0,2600,2540,1
+Uttar Pradesh,Kanpur,Choubepur APMC,Wheat,Dara,FAQ,11/11/2025,2460.0,2530,2510,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,FAQ,01/11/2025,2500.0,2520,2510,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,14/11/2025,2530.0,2600,2565,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,11/11/2025,2485.0,2530,2510,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,10/11/2025,2490.0,2550,2520,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,13/11/2025,2560.0,2580,2570,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,13/11/2025,2540.0,2550,2545,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,13/11/2025,2500.0,2600,2540,1
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,13/11/2025,2430.0,2530,2480,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,11/11/2025,2500.0,2550,2530,1
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Wheat,Dara,FAQ,13/11/2025,2500.0,2600,2565,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,11/11/2025,2500.0,2520,2510,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,12/11/2025,2570.0,2590,2580,1
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,Dara,FAQ,10/11/2025,2460.0,2560,2510,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,11/11/2025,2500.0,2610,2550,1
+Uttar Pradesh,Kanpur,Choubepur APMC,Wheat,Dara,FAQ,12/11/2025,2450.0,2530,2500,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,13/11/2025,2500.0,2560,2530,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,13/11/2025,2490.0,2550,2520,1
+Uttar Pradesh,Jhansi,Gurusarai APMC,Wheat,Dara,FAQ,13/11/2025,2425.0,2500,2460,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,Local,12/11/2025,2430.0,2460,2460,1
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Wheat,Dara,FAQ,01/11/2025,2560.0,2675,2600,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,13/11/2025,2500.0,2540,2520,1
+Uttar Pradesh,Gonda,Gonda APMC,Wheat,Dara,FAQ,01/11/2025,2540.0,2575,2550,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,01/11/2025,2500.0,2530,2525,1
+Uttar Pradesh,Hamirpur,Muskara APMC,Wheat,Dara,FAQ,01/11/2025,2370.0,2570,2470,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,01/11/2025,2480.0,2540,2500,1
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Wheat,Dara,FAQ,01/11/2025,2515.0,2530,2525,1
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,Dara,FAQ,05/11/2025,2500.0,2550,2525,1
+Uttar Pradesh,Gonda,Gonda APMC,Wheat,Dara,FAQ,14/11/2025,2540.0,2570,2550,1
+Uttar Pradesh,Bulandshahar,Siyana APMC,Wheat,Dara,FAQ,14/11/2025,2500.0,2540,2520,1
+Uttar Pradesh,Fatehpur,Kishunpur APMC,Wheat,Dara,FAQ,14/11/2025,2480.0,2520,2500,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,14/11/2025,2500.0,2545,2525,1
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Wheat,Dara,FAQ,14/11/2025,2480.0,2600,2535,1
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Wheat,Dara,FAQ,14/11/2025,2450.0,2580,2540,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,14/11/2025,2500.0,2600,2560,1
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara,Local,15/11/2025,2500.0,2500,2500,1
+Uttar Pradesh,Raebarelli,Raibareilly APMC,Wheat,Dara,FAQ,15/11/2025,2480.0,2500,2490,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,15/11/2025,2475.0,2515,2500,1
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Wheat,Dara,Local,15/11/2025,2560.0,2640,2595,1
+Uttar Pradesh,Bahraich,Naanpara APMC,Wheat,Dara,FAQ,15/11/2025,2200.0,2300,2240,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,15/11/2025,2510.0,2550,2530,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,15/11/2025,2400.0,2560,2460,1
+Uttar Pradesh,Lucknow,Lucknow APMC,Wheat,Dara,FAQ,15/11/2025,2560.0,2630,2590,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,15/11/2025,2490.0,2550,2520,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,15/11/2025,2450.0,2500,2475,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,15/11/2025,2465.0,2565,2515,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,FAQ,14/11/2025,2450.0,2560,2520,1
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,Local,18/11/2025,2300.0,2530,2480,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,16/11/2025,2500.0,2535,2515,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,16/11/2025,2475.0,2525,2500,1
+Uttar Pradesh,Etah,Etah APMC,Wheat,Dara,FAQ,15/11/2025,2425.0,2600,2565,1
+Uttar Pradesh,Jhansi,Chirgaon APMC,Wheat,Dara,FAQ,16/11/2025,2400.0,2500,2480,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,18/11/2025,2500.0,2650,2580,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,18/11/2025,2500.0,2590,2540,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,17/11/2025,2490.0,2550,2520,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,18/11/2025,2480.0,2540,2510,1
+Uttar Pradesh,Jhansi,Moth APMC,Wheat,Dara,FAQ,17/11/2025,2450.0,2520,2490,1
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Wheat,Dara,FAQ,18/11/2025,2435.0,2645,2555,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,18/11/2025,2530.0,2620,2580,1
+Uttar Pradesh,Bareilly,Bareilly APMC,Wheat,Dara,FAQ,17/11/2025,2500.0,2650,2575,1
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,17/11/2025,2500.0,2700,2600,1
+Uttar Pradesh,Maharajganj,Partaval APMC,Wheat,Dara,FAQ,17/11/2025,2450.0,2575,2510,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,17/11/2025,2430.0,2445,2445,1
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,17/11/2025,2425.0,2500,2450,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,17/11/2025,2500.0,2630,2570,1
+Uttar Pradesh,Bulandshahar,Siyana APMC,Wheat,Dara,FAQ,18/11/2025,2500.0,2520,2510,1
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,19/11/2025,2400.0,2500,2450,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,Grade Range-3,19/11/2025,2500.0,2600,2545,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,19/11/2025,2535.0,2535,2535,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,19/11/2025,2450.0,2525,2510,1
+Uttar Pradesh,Chitrakut,Karvi APMC,Wheat,Dara,FAQ,17/11/2025,2450.0,2450,2450,1
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara,FAQ,21/11/2025,2500.0,2500,2500,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,19/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,19/11/2025,2560.0,2590,2575,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,01/11/2025,2520.0,2580,2560,1
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Wheat,Dara,Non-FAQ,01/11/2025,2500.0,2575,2535,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,01/11/2025,2500.0,2650,2565,1
+Uttar Pradesh,Sambhal,Chandausi APMC,Wheat,Dara,FAQ,01/11/2025,2530.0,2585,2570,1
+Uttar Pradesh,Shravasti,Bhinga APMC,Wheat,Dara,FAQ,01/11/2025,2475.0,2610,2560,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,01/11/2025,2430.0,2470,2450,1
+Uttar Pradesh,Unnao,Unnao APMC,Wheat,Dara,FAQ,01/11/2025,2525.0,2585,2560,1
+Uttar Pradesh,Varanasi,Varanasi APMC,Wheat,Dara,FAQ,01/11/2025,2540.0,2635,2585,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,02/11/2025,2500.0,2620,2560,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,FAQ,02/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Badaun,Bilsi APMC,Wheat,Dara,Non-FAQ,02/11/2025,2400.0,2500,2450,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,02/11/2025,2565.0,2590,2580,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,Non-FAQ,02/11/2025,2425.0,2445,2435,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,02/11/2025,2500.0,2575,2550,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,02/11/2025,2460.0,2560,2530,1
+Uttar Pradesh,Hathras,Sikandraraau APMC,Wheat,Dara,FAQ,02/11/2025,2430.0,2500,2490,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,02/11/2025,2420.0,2500,2470,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,02/11/2025,2520.0,2570,2550,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,02/11/2025,2550.0,2570,2560,1
+Uttar Pradesh,Sambhal,Muradabad APMC,Wheat,Dara,FAQ,02/11/2025,2580.0,2620,2600,1
+Uttar Pradesh,Shahjahanpur,Tilhar APMC,Wheat,Dara,FAQ,02/11/2025,2530.0,2570,2550,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,03/11/2025,2500.0,2630,2565,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,03/11/2025,2510.0,2620,2550,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,03/11/2025,2520.0,2650,2575,1
+Uttar Pradesh,Chandauli,Chandoli APMC,Wheat,Dara,FAQ,03/11/2025,2530.0,2630,2580,1
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Wheat,Dara,FAQ,03/11/2025,2500.0,2620,2565,1
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Wheat,Dara,FAQ,03/11/2025,2530.0,2550,2540,1
+Uttar Pradesh,Fatehpur,Kishunpur APMC,Wheat,Dara,FAQ,03/11/2025,2500.0,2550,2525,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,Non-FAQ,03/11/2025,2425.0,2445,2435,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,03/11/2025,2510.0,2580,2550,1
+Uttar Pradesh,Hathras,Sikandraraau APMC,Wheat,Dara,FAQ,03/11/2025,2480.0,2530,2500,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,03/11/2025,2420.0,2500,2460,1
+Uttar Pradesh,Kanpur Dehat,Jhijhank APMC,Wheat,Dara,Non-FAQ,03/11/2025,2500.0,2550,2525,1
+Uttar Pradesh,Lucknow,Lucknow APMC,Wheat,Dara,FAQ,03/11/2025,2550.0,2650,2600,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,03/11/2025,2500.0,2560,2530,1
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Wheat,Dara,Non-FAQ,03/11/2025,2505.0,2575,2540,1
+Uttar Pradesh,Prayagraj,Jasra APMC,Wheat,Dara,FAQ,03/11/2025,2450.0,2600,2525,1
+Uttar Pradesh,Sambhal,Muradabad APMC,Wheat,Dara,FAQ,03/11/2025,2570.0,2610,2590,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,Non-FAQ,03/11/2025,2460.0,2540,2500,1
+Uttar Pradesh,Sitapur,Sitapur APMC,Wheat,Dara,FAQ,03/11/2025,2450.0,2500,2480,1
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Wheat,Dara,FAQ,03/11/2025,2500.0,2510,2505,1
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Wheat,Dara,FAQ,03/11/2025,2450.0,2660,2570,1
+Uttar Pradesh,Hardoi,Shahabad(New Mandi) APMC,Wheat,Dara,FAQ,01/11/2025,2500.0,2560,2530,1
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi APMC,Wheat,Dara,FAQ,01/11/2025,2410.0,2525,2465,1
+Uttar Pradesh,Mainpuri,Bewar APMC,Wheat,Dara,FAQ,01/11/2025,2490.0,2510,2500,1
+Uttar Pradesh,Raebarelli,Salon APMC,Wheat,Dara,Non-FAQ,01/11/2025,2540.0,2550,2542,1
+Uttar Pradesh,Aligarh,Khair APMC,Wheat,Dara,Non-FAQ,04/11/2025,2500.0,2650,2540,1
+Uttar Pradesh,Auraiya,Auraiya APMC,Wheat,Dara,FAQ,04/11/2025,2450.0,2510,2490,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,04/11/2025,2400.0,2560,2480,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,04/11/2025,2545.0,2580,2565,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,FAQ,04/11/2025,2500.0,2530,2520,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,04/11/2025,2480.0,2530,2500,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,04/11/2025,2480.0,2530,2510,1
+Uttar Pradesh,Jhansi,Moth APMC,Wheat,Dara,FAQ,04/11/2025,2480.0,2550,2520,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,04/11/2025,2500.0,2550,2530,1
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Wheat,Dara,Non-FAQ,04/11/2025,2300.0,2440,2410,1
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Wheat,Dara,FAQ,04/11/2025,2425.0,2600,2500,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,04/11/2025,2530.0,2630,2580,1
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,04/11/2025,2500.0,2700,2600,1
+Uttar Pradesh,Shravasti,Bhinga APMC,Wheat,Dara,FAQ,04/11/2025,2470.0,2610,2550,1
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Wheat,Dara,FAQ,04/11/2025,2420.0,2490,2450,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,05/11/2025,2520.0,2650,2580,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,05/11/2025,2560.0,2600,2585,1
+Uttar Pradesh,Hathras,Sikandraraau APMC,Wheat,Dara,FAQ,05/11/2025,2470.0,2530,2500,1
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,05/11/2025,2500.0,2700,2600,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,05/11/2025,2470.0,2570,2530,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,Non-FAQ,05/11/2025,2460.0,2530,2500,1
+Uttar Pradesh,Agra,Khairagarh APMC,Wheat,Dara,FAQ,03/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Lucknow,Banthara APMC,Wheat,Dara,FAQ,03/11/2025,2539.0,2559,2549,1
+Uttar Pradesh,Shahjahanpur,Puwaha APMC,Wheat,Dara,FAQ,03/11/2025,2500.0,2550,2530,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,06/11/2025,2560.0,2600,2580,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,06/11/2025,2500.0,2650,2560,1
+Uttar Pradesh,Sambhal,Bhehjoi APMC,Wheat,Dara,Non-FAQ,06/11/2025,2500.0,2550,2520,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,13/11/2025,2425.0,2500,2460,1
+Uttar Pradesh,Hardoi,Shahabad(New Mandi) APMC,Wheat,Dara,FAQ,04/11/2025,2480.0,2560,2520,1
+Uttar Pradesh,Jalaun (Orai),Ait APMC,Wheat,Dara,FAQ,04/11/2025,2480.0,2530,2499,1
+Uttar Pradesh,Mainpuri,Bewar APMC,Wheat,Dara,FAQ,04/11/2025,2475.0,2495,2485,1
+Uttar Pradesh,Shamli,Shamli APMC,Wheat,Dara,FAQ,04/11/2025,2560.0,2640,2600,1
+Uttar Pradesh,Siddharth Nagar,Naugarh APMC,Wheat,Dara,FAQ,04/11/2025,2540.0,2560,2550,1
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,11/11/2025,2430.0,2530,2480,1
+Uttar Pradesh,Jhansi,Mauranipur APMC,Wheat,Dara,FAQ,11/11/2025,2425.0,2580,2460,1
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,Dara,FAQ,13/11/2025,2400.0,2500,2460,1
+Uttar Pradesh,Chitrakut,Karvi APMC,Wheat,Dara,FAQ,12/11/2025,2500.0,2500,2500,1
+Uttar Pradesh,Jalaun (Orai),Ait APMC,Wheat,Dara,FAQ,05/11/2025,2501.0,2544,2531,1
+Uttar Pradesh,Amroha,Dhanaura APMC,Wheat,Dara,Non-FAQ,06/11/2025,2480.0,2600,2500,1
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Wheat,Dara,FAQ,06/11/2025,2400.0,2465,2430,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,14/11/2025,2550.0,2650,2600,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,14/11/2025,2530.0,2620,2570,1
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Wheat,Dara,FAQ,14/11/2025,2500.0,2700,2600,1
+Uttar Pradesh,Hamirpur,Muskara APMC,Wheat,Dara,FAQ,13/11/2025,2350.0,2550,2450,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,14/11/2025,2545.0,2585,2565,1
+Uttar Pradesh,Jhansi,Moth APMC,Wheat,Dara,FAQ,14/11/2025,2450.0,2510,2480,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,14/11/2025,2520.0,2550,2530,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,14/11/2025,2400.0,2500,2450,1
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Wheat,Dara,FAQ,15/11/2025,2480.0,2500,2491,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,15/11/2025,2500.0,2550,2525,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,15/11/2025,2550.0,2630,2570,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,15/11/2025,2450.0,2530,2500,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,15/11/2025,2500.0,2540,2520,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,15/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,15/11/2025,2500.0,2660,2580,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,15/11/2025,2540.0,2555,2550,1
+Uttar Pradesh,Sitapur,Sitapur APMC,Wheat,Dara,FAQ,18/11/2025,2470.0,2530,2500,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,18/11/2025,2430.0,2550,2500,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,17/11/2025,2425.0,2560,2550,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,17/11/2025,2500.0,2545,2520,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,17/11/2025,2540.0,2580,2560,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,15/11/2025,2450.0,2650,2550,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,18/11/2025,2520.0,2560,2540,1
+Uttar Pradesh,Aligarh,Aligarh APMC,Wheat,Dara,FAQ,17/11/2025,2520.0,2560,2540,1
+Uttar Pradesh,Gonda,Gonda APMC,Wheat,Dara,FAQ,17/11/2025,2520.0,2580,2560,1
+Uttar Pradesh,Gonda,Nawabganj APMC,Wheat,Dara,FAQ,18/11/2025,2525.0,2575,2550,1
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Wheat,Dara,FAQ,18/11/2025,2440.0,2590,2515,1
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Wheat,Dara,FAQ,18/11/2025,2440.0,2540,2490,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,17/11/2025,2540.0,2560,2550,1
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Wheat,Dara,FAQ,16/11/2025,2480.0,2530,2500,1
+Uttar Pradesh,Kanpur,Uttaripura APMC,Wheat,Dara,FAQ,17/11/2025,2435.0,2535,2485,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,17/11/2025,2470.0,2530,2500,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,17/11/2025,2475.0,2500,2490,1
+Uttar Pradesh,Ballia,Rasda APMC,Wheat,Dara,Grade Range-3,18/11/2025,2500.0,2600,2545,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,19/11/2025,2450.0,2538,2500,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,19/11/2025,2465.0,2500,2480,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,19/11/2025,2425.0,2550,2525,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,19/11/2025,2510.0,2580,2520,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,21/11/2025,2510.0,2620,2550,1
+Uttar Pradesh,Raebarelli,Raibareilly APMC,Wheat,Dara,FAQ,21/11/2025,2470.0,2500,2480,1
+Uttar Pradesh,Aligarh,Aligarh APMC,Wheat,Dara,FAQ,21/11/2025,2520.0,2560,2540,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,21/11/2025,2500.0,2610,2560,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,19/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,19/11/2025,2470.0,2530,2510,1
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Wheat,Dara,Local,19/11/2025,2560.0,2620,2590,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,19/11/2025,2550.0,2570,2560,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,19/11/2025,2530.0,2580,2560,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,19/11/2025,2450.0,2490,2470,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,19/11/2025,2425.0,2500,2450,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,Grade Range-2,22/11/2025,2500.0,2520,2510,1
+Uttar Pradesh,Jhansi,Mauranipur APMC,Wheat,Dara,FAQ,21/11/2025,2425.0,2520,2485,1
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,Dara,FAQ,22/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Unnao,Unnao APMC,Wheat,Dara,FAQ,19/11/2025,2540.0,2585,2560,1
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Wheat,Dara,Local,20/11/2025,2520.0,2620,2580,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,20/11/2025,2470.0,2500,2480,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,20/11/2025,2510.0,2560,2535,1
+Uttar Pradesh,Sitapur,Sitapur APMC,Wheat,Dara,FAQ,21/11/2025,2470.0,2520,2490,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,22/11/2025,2480.0,2545,2510,1
+Uttar Pradesh,Kanpur,Choubepur APMC,Wheat,Dara,Local,22/11/2025,2450.0,2540,2500,1
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Wheat,Dara,FAQ,24/11/2025,2400.0,2600,2500,1
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Wheat,Dara,FAQ,20/11/2025,2545.0,2600,2570,1
+Uttar Pradesh,Bijnor,Bijnaur APMC,Wheat,Dara,FAQ,20/11/2025,2540.0,2585,2560,1
+Uttar Pradesh,Kanpur,Uttaripura APMC,Wheat,Dara,FAQ,20/11/2025,2440.0,2540,2490,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,20/11/2025,2475.0,2575,2525,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,20/11/2025,2560.0,2560,2560,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,20/11/2025,2475.0,2520,2500,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,20/11/2025,2400.0,2510,2460,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,20/11/2025,2550.0,2565,2560,1
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Wheat,Dara,FAQ,20/11/2025,2500.0,2550,2530,1
+Uttar Pradesh,Fatehpur,Bindki APMC,Wheat,Dara,FAQ,20/11/2025,2450.0,2560,2530,1
+Uttar Pradesh,Etah,Etah APMC,Wheat,Dara,FAQ,20/11/2025,2425.0,2600,2540,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,20/11/2025,2520.0,2600,2560,1
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Wheat,Dara,FAQ,20/11/2025,2400.0,2415,2410,1
+Uttar Pradesh,Sambhal,Muradabad APMC,Wheat,Dara,FAQ,20/11/2025,2520.0,2570,2550,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,19/11/2025,2455.0,2500,2485,1
+Uttar Pradesh,Prayagraj,Jasra APMC,Wheat,Dara,FAQ,20/11/2025,2450.0,2580,2525,1
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,Dara,FAQ,26/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,FAQ,26/11/2025,2570.0,2610,2590,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,25/11/2025,2550.0,2590,2570,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,26/11/2025,2520.0,2580,2550,1
+Uttar Pradesh,Ballia,Ballia APMC,Wheat,Dara,FAQ,21/11/2025,2540.0,2585,2565,1
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Wheat,Dara,FAQ,21/11/2025,2500.0,2550,2530,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,21/11/2025,2500.0,2550,2540,1
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Wheat,Dara,FAQ,21/11/2025,2450.0,2540,2500,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,21/11/2025,2450.0,2520,2500,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,21/11/2025,2400.0,2500,2470,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,21/11/2025,2480.0,2550,2520,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,21/11/2025,2550.0,2620,2580,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,21/11/2025,2425.0,2500,2450,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,21/11/2025,2560.0,2660,2610,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,21/11/2025,2400.0,2560,2480,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,20/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Sambhal,Muradabad APMC,Wheat,Dara,FAQ,24/11/2025,2540.0,2580,2560,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,23/11/2025,2400.0,2500,2450,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,24/11/2025,2400.0,2500,2450,1
+Uttar Pradesh,Bulandshahar,Siyana APMC,Wheat,Dara,FAQ,24/11/2025,2500.0,2540,2520,1
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,24/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,24/11/2025,2400.0,2500,2470,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,24/11/2025,2400.0,2540,2490,1
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,Dara,FAQ,23/11/2025,2500.0,2503,2501,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,23/11/2025,2480.0,2550,2520,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,22/11/2025,2450.0,2530,2500,1
+Uttar Pradesh,Jhansi,Chirgaon APMC,Wheat,Dara,FAQ,21/11/2025,2450.0,2510,2480,1
+Uttar Pradesh,Prayagraj,Ajuha APMC,Wheat,Dara,FAQ,22/11/2025,2480.0,2550,2520,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,22/11/2025,2450.0,2530,2480,1
+Uttar Pradesh,Kannuj,Chhibramau APMC,Wheat,Dara,FAQ,22/11/2025,2475.0,2550,2510,1
+Uttar Pradesh,Hardoi,Sandila APMC,Wheat,Dara,FAQ,22/11/2025,2420.0,2540,2500,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,22/11/2025,2585.0,2630,2610,1
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Wheat,Dara,FAQ,22/11/2025,2500.0,2625,2580,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,22/11/2025,2480.0,2540,2500,1
+Uttar Pradesh,Jhansi,Gurusarai APMC,Wheat,Dara,FAQ,21/11/2025,2425.0,2600,2520,1
+Uttar Pradesh,Ghaziabad,Hapur APMC,Wheat,Dara,FAQ,21/11/2025,2550.0,2670,2600,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,23/11/2025,2530.0,2580,2550,1
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Wheat,Dara,FAQ,24/11/2025,2450.0,2480,2475,1
+Uttar Pradesh,Kanpur,Uttaripura APMC,Wheat,Dara,FAQ,26/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,24/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Basti,Basti APMC,Wheat,Dara,FAQ,23/11/2025,2425.0,2590,2540,1
+Uttar Pradesh,Hathras,Haathras APMC,Wheat,Dara,FAQ,24/11/2025,2520.0,2580,2560,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,23/11/2025,2540.0,2560,2555,1
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Wheat,Dara,FAQ,24/11/2025,2430.0,2500,2480,1
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Wheat,Dara,FAQ,24/11/2025,2520.0,2560,2540,1
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,Dara,FAQ,24/11/2025,2430.0,2520,2470,1
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,Dara,FAQ,24/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Etawah,Etawah APMC,Wheat,Dara,FAQ,24/11/2025,2480.0,2550,2515,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,23/11/2025,2400.0,2550,2480,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,24/11/2025,2450.0,2500,2475,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,23/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Fatehpur,Khaga APMC,Wheat,Dara,FAQ,23/11/2025,2495.0,2550,2520,1
+Uttar Pradesh,Fatehpur,Bindki APMC,Wheat,Dara,FAQ,24/11/2025,2450.0,2540,2490,1
+Uttar Pradesh,Deoria,Devariya APMC,Wheat,Dara,FAQ,24/11/2025,2525.0,2540,2535,1
+Uttar Pradesh,Fatehpur,Bindki APMC,Wheat,Dara,FAQ,23/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,FAQ,24/11/2025,2550.0,2620,2580,1
+Uttar Pradesh,Ghaziabad,Hapur APMC,Wheat,Dara,FAQ,24/11/2025,2550.0,2670,2600,1
+Uttar Pradesh,Aligarh,Charra APMC,Wheat,Dara,FAQ,25/11/2025,2580.0,2600,2590,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,26/11/2025,2590.0,2625,2610,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,25/11/2025,2490.0,2530,2520,1
+Uttar Pradesh,Basti,Basti APMC,Wheat,Dara,FAQ,26/11/2025,2425.0,2600,2550,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,25/11/2025,2450.0,2590,2520,1
+Uttar Pradesh,Kanpur,Choubepur APMC,Wheat,Dara,Local,26/11/2025,2400.0,2550,2500,1
+Uttar Pradesh,Basti,Basti APMC,Wheat,Dara,FAQ,25/11/2025,2425.0,2610,2560,1
+Uttar Pradesh,Kanpur,Varipaal APMC,Wheat,Dara,FAQ,25/11/2025,2450.0,2500,2480,1
+Uttar Pradesh,Banda,Banda APMC,Wheat,Dara,FAQ,26/11/2025,2425.0,2530,2500,1
+Uttar Pradesh,Varanasi,Varanasi APMC,Wheat,Dara,FAQ,25/11/2025,2550.0,2635,2590,1
+Uttar Pradesh,Meerut,Meerut APMC,Wheat,Dara,FAQ,25/11/2025,2580.0,2680,2630,1
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Wheat,Dara,FAQ,27/11/2025,2520.0,2650,2570,1
+Uttar Pradesh,Balrampur,Balrampur APMC,Wheat,Dara,FAQ,25/11/2025,2450.0,2650,2550,1
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Wheat,Dara,Local,27/11/2025,2490.0,2600,2570,1
+Uttar Pradesh,Raebarelli,Lalganj APMC,Wheat,Dara,FAQ,25/11/2025,2400.0,2500,2450,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,25/11/2025,2550.0,2620,2580,1
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Wheat,Dara,FAQ,27/11/2025,2520.0,2585,2560,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,26/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,25/11/2025,2500.0,2550,2520,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,26/11/2025,2520.0,2560,2540,1
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Wheat,Dara,FAQ,26/11/2025,2410.0,2440,2425,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,27/11/2025,2560.0,2580,2570,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,25/11/2025,2512.0,2562,2527,1
+Uttar Pradesh,Raebarelli,Jayas APMC,Wheat,Dara,FAQ,27/11/2025,2500.0,2560,2540,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,25/11/2025,2425.0,2550,2530,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,26/11/2025,2510.0,2560,2535,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,26/11/2025,2470.0,2600,2565,1
+Uttar Pradesh,Aligarh,Aligarh APMC,Wheat,Dara,FAQ,28/11/2025,2500.0,2580,2550,1
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Wheat,Dara,FAQ,28/11/2025,2510.0,2560,2535,1
+Uttar Pradesh,Mathura,Kosikalan APMC,Wheat,Dara,FAQ,28/11/2025,2500.0,2600,2560,1
+Uttar Pradesh,Badaun,Ujhani APMC,Wheat,Dara,FAQ,25/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Auraiya,Auraiya APMC,Wheat,Dara,FAQ,27/11/2025,2450.0,2525,2500,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,27/11/2025,2500.0,2530,2525,1
+Uttar Pradesh,Aligarh,Aligarh APMC,Wheat,Dara,FAQ,27/11/2025,2520.0,2560,2540,1
+Uttar Pradesh,Lucknow,Lucknow APMC,Wheat,Dara,FAQ,27/11/2025,2540.0,2640,2590,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,27/11/2025,2450.0,2550,2510,1
+Uttar Pradesh,Kanpur,Uttaripura APMC,Wheat,Dara,FAQ,27/11/2025,2465.0,2560,2515,1
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,Dara,FAQ,27/11/2025,2510.0,2620,2560,1
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,Dara,FAQ,27/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,27/11/2025,2525.0,2565,2545,1
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Wheat,Dara,FAQ,27/11/2025,2570.0,2610,2590,1
+Uttar Pradesh,Hardoi,Sandi APMC,Wheat,Dara,FAQ,27/11/2025,2460.0,2520,2490,1
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Wheat,Dara,FAQ,27/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Shravasti,Bhinga APMC,Wheat,Dara,Local,27/11/2025,2475.0,2610,2550,1
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,Dara,FAQ,27/11/2025,2520.0,2630,2585,1
+Uttar Pradesh,Agra,Agra APMC,Wheat,Dara,FAQ,27/11/2025,2520.0,2600,2560,1
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Wheat,Dara,FAQ,27/11/2025,2400.0,2600,2500,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,27/11/2025,2450.0,2500,2475,1
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Wheat,Dara,FAQ,28/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,27/11/2025,2580.0,2615,2600,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,26/11/2025,2520.0,2580,2550,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,27/11/2025,2425.0,2550,2530,1
+Uttar Pradesh,Fatehpur,Jahanabad APMC,Wheat,Dara,Grade Range-2,27/11/2025,2510.0,2530,2520,1
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Wheat,Dara,FAQ,28/11/2025,2400.0,2650,2560,1
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,Dara,FAQ,28/11/2025,2460.0,2500,2480,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,28/11/2025,2450.0,2550,2505,1
+Uttar Pradesh,Hardoi,Madhoganj APMC,Wheat,Dara,FAQ,28/11/2025,2480.0,2550,2510,1
+Uttar Pradesh,Bulandshahar,Khurja APMC,Wheat,Dara,FAQ,28/11/2025,2500.0,2600,2550,1
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Wheat,Dara,FAQ,28/11/2025,2530.0,2530,2530,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,27/11/2025,2550.0,2570,2560,1
+Uttar Pradesh,Aligarh,Khair APMC,Wheat,Dara,Grade Range-2,28/11/2025,2550.0,2550,2550,1
+Uttar Pradesh,Mathura,Mathura APMC,Wheat,Dara,FAQ,27/11/2025,2520.0,2560,2540,1
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Wheat,Dara,FAQ,27/11/2025,2450.0,2650,2570,1
+Uttar Pradesh,Jhansi,Jhansi (Grain) APMC,Wheat,Dara,FAQ,27/11/2025,2400.0,2510,2480,1
+Uttar Pradesh,Jhansi,Chirgaon APMC,Wheat,Dara,FAQ,26/11/2025,2400.0,2560,2450,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,28/11/2025,2510.0,2620,2550,1
+Uttar Pradesh,Auraiya,Achalda APMC,Wheat,Dara,FAQ,28/11/2025,2400.0,2560,2480,1
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Wheat,Dara,FAQ,26/11/2025,2510.0,2625,2580,1
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Wheat,Dara,FAQ,28/11/2025,2545.0,2615,2580,1
+Uttar Pradesh,Aligarh,Khair APMC,Wheat,Dara,Grade Range-2,30/11/2025,2560.0,2560,2560,1
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,Dara,FAQ,28/11/2025,2425.0,2560,2540,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,28/11/2025,2520.0,2520,2520,1
+Uttar Pradesh,Kanpur,Choubepur APMC,Wheat,Dara,Local,28/11/2025,2450.0,2540,2500,1
+Uttar Pradesh,Kasganj,Kasganj APMC,Wheat,Dara,FAQ,28/11/2025,2570.0,2600,2580,1
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Wheat,Dara,FAQ,29/11/2025,2525.0,2560,2540,1
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,Dara,FAQ,29/11/2025,2411.0,2490,2450,1
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Wheat,Dara,FAQ,30/11/2025,2460.0,2650,2540,1
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Wheat,Dara,FAQ,30/11/2025,2540.0,2540,2540,1
+Uttar Pradesh,Amroha,Amroha APMC,Wheat,Dara,FAQ,30/11/2025,2560.0,2580,2570,1
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Wheat,Dara,FAQ,28/11/2025,2555.0,2605,2555,1
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,Dara,FAQ,29/11/2025,2515.0,2550,2540,1
+Uttar Pradesh,Aligarh,Aligarh APMC,Wheat,Dara,FAQ,29/11/2025,2500.0,2570,2540,1
+Uttar Pradesh,Lucknow,Lucknow APMC,Wheat,Dara,FAQ,29/11/2025,2540.0,2640,2590,1
+Uttar Pradesh,Etawah,Bharthna APMC,Wheat,Dara,FAQ,29/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Agra,Achnera APMC,Wheat,Dara,FAQ,29/11/2025,2500.0,2660,2580,1
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Wheat,Dara,FAQ,30/11/2025,2550.0,2610,2580,1
+Uttar Pradesh,Bahraich,Bahraich APMC,Wheat,Dara,FAQ,29/11/2025,2450.0,2550,2500,1
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Wheat,Dara,FAQ,29/11/2025,2470.0,2560,2520,1
+Uttar Pradesh,Badaun,Badayoun APMC,Wheat,Dara,FAQ,29/11/2025,2510.0,2620,2550,1
+Uttar Pradesh,Hardoi,Hardoi APMC,Wheat,Dara,FAQ,29/11/2025,2480.0,2525,2500,1
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Wheat,Dara,FAQ,29/11/2025,2550.0,2625,2590,1
+Uttar Pradesh,Rampur,Rampur APMC,Wheat,Dara,FAQ,29/11/2025,2530.0,2620,2570,1
+Uttar Pradesh,Balrampur,Tulsipur APMC,Wheat,Dara,FAQ,30/11/2025,2510.0,2570,2540,1
+Uttar Pradesh,Firozabad,Firozabad APMC,Wheat,Dara,FAQ,30/11/2025,2585.0,2615,2600,1
+Madhya Pradesh,Jabalpur,Paatan APMC,Wheat,Local,FAQ,06/11/2025,2450.0,2460,2460,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,06/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Damoh,Hata APMC,Wheat,Local,Non-FAQ,10/11/2025,2450.0,2500,2500,1
+Madhya Pradesh,Dindori,Dindori APMC,Wheat,Local,Non-FAQ,10/11/2025,2250.0,2400,2300,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,09/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,01/11/2025,2420.0,2430,2430,1
+Madhya Pradesh,Badwani,Sendhwa APMC,Wheat,Local,FAQ,04/11/2025,2595.0,2610,2610,1
+Madhya Pradesh,Sagar,Khurai APMC,Wheat,Local,FAQ,04/11/2025,2433.0,2433,2433,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,04/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Anupur,Jaithari APMC,Wheat,Local,Non-FAQ,05/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Seoni,Palari APMC,Wheat,Local,Non-FAQ,05/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Narsinghpur,Gotegaon(F&V) APMC,Wheat,Local,FAQ,03/11/2025,2450.0,2525,2500,1
+Madhya Pradesh,Satna,Mehar APMC,Wheat,Local,FAQ,03/11/2025,2370.0,2440,2400,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Local,FAQ,11/11/2025,2491.0,2491,2491,1
+Madhya Pradesh,Satna,Mehar APMC,Wheat,Local,FAQ,11/11/2025,2365.0,2445,2445,1
+Madhya Pradesh,Sagar,Bina APMC,Wheat,Local,FAQ,12/11/2025,2523.0,2523,2523,1
+Madhya Pradesh,Seoni,Palari APMC,Wheat,Local,Non-FAQ,07/11/2025,2470.0,2470,2470,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Local,Non-FAQ,07/11/2025,2550.0,2650,2600,1
+Madhya Pradesh,Hoshangabad,Banapura APMC,Wheat,Local,Non-FAQ,07/11/2025,2560.0,2800,2765,1
+Madhya Pradesh,Tikamgarh,Jatara APMC,Wheat,Local,Non-FAQ,07/11/2025,2412.0,2437,2437,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Local,Non-FAQ,08/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Local,FAQ,13/11/2025,2500.0,2604,2604,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Local,FAQ,13/11/2025,2431.0,2431,2431,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,17/11/2025,2390.0,2390,2390,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Local,FAQ,17/11/2025,2541.0,2695,2631,1
+Madhya Pradesh,Rajgarh,Narsinghgarh APMC,Wheat,Local,FAQ,14/11/2025,2440.0,2440,2440,1
+Madhya Pradesh,Hoshangabad,Banapura APMC,Wheat,Local,FAQ,14/11/2025,2450.0,2575,2490,1
+Madhya Pradesh,Hoshangabad,Banapura APMC,Wheat,Local,Non-FAQ,14/11/2025,2535.0,2567,2567,1
+Madhya Pradesh,Ujjain,Khachrod APMC,Wheat,Local,FAQ,14/11/2025,2521.0,2521,2521,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,14/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,15/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Satna,Mehar APMC,Wheat,Local,FAQ,16/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Dindori,Dindori APMC,Wheat,Local,Non-FAQ,19/11/2025,2300.0,2310,2300,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,19/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sagar,Garhakota APMC,Wheat,Local,FAQ,19/11/2025,2410.0,2410,2410,1
+Madhya Pradesh,Ujjain,Khachrod APMC,Wheat,Local,FAQ,19/11/2025,2325.0,2325,2325,1
+Madhya Pradesh,Satna,Mehar APMC,Wheat,Local,FAQ,20/11/2025,2400.0,2420,2400,1
+Madhya Pradesh,Satna,Mehar APMC,Wheat,Local,FAQ,21/11/2025,2395.0,2425,2425,1
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V) APMC,Wheat,Local,FAQ,21/11/2025,2365.0,2365,2365,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Local,FAQ,24/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Seoni,Lakhnadon APMC,Wheat,Local,FAQ,22/11/2025,2400.0,2450,2450,1
+Madhya Pradesh,Tikamgarh,Jatara APMC,Wheat,Local,Non-FAQ,22/11/2025,2436.0,2436,2436,1
+Madhya Pradesh,Seoni,Seoni APMC,Wheat,Local,Non-FAQ,22/11/2025,2296.0,2320,2300,1
+Madhya Pradesh,Seoni,Seoni APMC,Wheat,Local,FAQ,23/11/2025,2402.0,2415,2415,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Local,FAQ,24/11/2025,2436.0,2436,2436,1
+Madhya Pradesh,Shivpuri,Badarwas APMC,Wheat,Local,Non-FAQ,24/11/2025,2370.0,2370,2370,1
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V) APMC,Wheat,Local,FAQ,25/11/2025,2433.0,2460,2460,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Local,FAQ,25/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Hoshangabad,Banapura APMC,Wheat,Local,FAQ,26/11/2025,2422.0,2561,2510,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,27/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Jhabua,Thandla APMC,Wheat,Local,FAQ,27/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Narsinghpur,Gotegaon APMC,Wheat,Local,Non-FAQ,27/11/2025,2475.0,2511,2511,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Local,Non-FAQ,28/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Balaghat,Balaghat APMC,Wheat,Local,FAQ,28/11/2025,2230.0,2230,2230,1
+Madhya Pradesh,Satna,Mehar APMC,Wheat,Local,FAQ,28/11/2025,2350.0,2402,2400,1
+Madhya Pradesh,Vidisha,Ganjbasoda APMC,Wheat,Local,FAQ,28/11/2025,2320.0,2320,2320,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Local,Non-FAQ,28/11/2025,2361.0,2385,2361,1
+Madhya Pradesh,Dindori,Dindori APMC,Wheat,Local,Non-FAQ,28/11/2025,2250.0,2350,2250,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Local,FAQ,29/11/2025,2685.0,2685,2685,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Local,Non-FAQ,30/11/2025,2380.0,2380,2380,1
+Madhya Pradesh,Vidisha,Ganjbasoda APMC,Wheat,PISSI,FAQ,01/01/2026,2542.0,2750,2750,1
+Madhya Pradesh,Guna,Guna APMC,Wheat,Wheat,FAQ,01/01/2026,2435.0,3480,2680,1
+Madhya Pradesh,Vidisha,Vidisha APMC,Wheat,Wheat,FAQ,01/01/2026,2330.0,3110,2690,1
+Madhya Pradesh,Morena,Kailaras APMC,Wheat,Wheat,FAQ,01/01/2026,2570.0,2575,2570,1
+Madhya Pradesh,Khandwa,Harsood APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2421.0,2430,2430,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Mill Quality,FAQ,14/11/2025,2300.0,2325,2300,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,17/11/2025,2430.0,2455,2450,1
+Madhya Pradesh,Satna,Amarpatan APMC,Wheat,Mill Quality,FAQ,15/11/2025,2430.0,2430,2430,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2425.0,2475,2450,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2425.0,2450,2440,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2380.0,2440,2435,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Mill Quality,FAQ,14/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,FAQ,14/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,FAQ,14/11/2025,2190.0,2495,2490,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2460.0,2465,2460,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2426.0,2471,2471,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Mill Quality,FAQ,19/11/2025,2275.0,2435,2435,1
+Madhya Pradesh,Bhopal,Bhopal APMC,Wheat,Mill Quality,FAQ,19/11/2025,2360.0,2390,2390,1
+Madhya Pradesh,Harda,Harda APMC,Wheat,Mill Quality,FAQ,19/11/2025,1803.0,2516,2490,1
+Madhya Pradesh,Alirajpur,Alirajpur APMC,Wheat,Wheat,FAQ,30/11/2025,2500.0,2600,2500,1
+Madhya Pradesh,Sagar,Banda APMC,Wheat,Wheat,Non-FAQ,30/11/2025,2300.0,2360,2360,1
+Madhya Pradesh,Alirajpur,Jobat APMC,Wheat,Wheat,Non-FAQ,30/11/2025,2400.0,2425,2400,1
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,Wheat,FAQ,30/11/2025,2450.0,2455,2450,1
+Madhya Pradesh,Sehore,Jawar APMC,Wheat,Wheat,FAQ,30/12/2025,2447.0,2880,2640,1
+Madhya Pradesh,Sagar,Rehli APMC,Wheat,Wheat,Non-FAQ,30/12/2025,2400.0,2410,2400,1
+Madhya Pradesh,Guna,Guna APMC,Wheat,Wheat,FAQ,30/12/2025,2335.0,3705,2660,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Wheat-Organic,Non-FAQ,09/11/2025,2410.0,2410,2410,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Wheat-Organic,FAQ,07/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sagar,Khurai APMC,Wheat,Wheat-Organic,FAQ,24/11/2025,2150.0,2150,2150,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Wheat Mix,FAQ,10/11/2025,2400.0,2410,2410,1
+Madhya Pradesh,Chhatarpur,Rajnagar APMC,Wheat,Wheat Mix,Non-FAQ,10/11/2025,2400.0,2410,2400,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Wheat Mix,FAQ,02/11/2025,2380.0,2390,2390,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Wheat Mix,FAQ,11/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Wheat Mix,FAQ,07/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Wheat Mix,FAQ,14/11/2025,2480.0,2500,2500,1
+Madhya Pradesh,Chhatarpur,Bakswaha APMC,Wheat,Wheat Mix,FAQ,20/11/2025,2350.0,2400,2400,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Wheat Mix,FAQ,27/11/2025,2405.0,2405,2405,1
+Madhya Pradesh,Bhind,Lahar APMC,Wheat,Wheat Mix,FAQ,27/11/2025,2455.0,2455,2455,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Wheat Mix,FAQ,27/11/2025,2360.0,2400,2400,1
+Madhya Pradesh,Bhind,Lahar APMC,Wheat,Wheat Mix,FAQ,28/11/2025,2469.0,2469,2469,1
+Madhya Pradesh,Sehore,Ichhawar APMC,Wheat,Wheat Mix,FAQ,28/11/2025,2430.0,2430,2430,1
+Madhya Pradesh,Hoshangabad,Itarsi APMC,Wheat,Wheat,FAQ,30/12/2025,2185.0,2560,2528,1
+Madhya Pradesh,Sagar,Garhakota APMC,Wheat,Wheat,FAQ,30/12/2025,2370.0,2500,2460,1
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Wheat,Wheat,FAQ,30/12/2025,2390.0,3595,3205,1
+Madhya Pradesh,Raisen,Gairatganj APMC,Wheat,Wheat,FAQ,30/12/2025,2455.0,2455,2455,1
+Madhya Pradesh,Balaghat,Balaghat APMC,Wheat,Wheat-Organic,FAQ,03/11/2025,2250.0,2250,2250,1
+Madhya Pradesh,Burhanpur,Burhanpur APMC,Wheat,Wheat-Organic,FAQ,04/11/2025,2315.0,2352,2352,1
+Madhya Pradesh,Seoni,Seoni APMC,Wheat,Wheat-Organic,FAQ,08/11/2025,2485.0,2492,2492,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Wheat-Organic,FAQ,30/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Wheat Mix,Non-FAQ,09/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Jhabua,Petlawad APMC,Wheat,Wheat Mix,FAQ,04/11/2025,2245.0,2550,2550,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Wheat Mix,FAQ,11/11/2025,2500.0,2525,2525,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Wheat Mix,Non-FAQ,14/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Jhabua,Petlawad APMC,Wheat,Wheat Mix,Non-FAQ,18/11/2025,2356.0,2356,2356,1
+Madhya Pradesh,Hoshangabad,Pipariya APMC,Wheat,Wheat Mix,FAQ,20/11/2025,2480.0,2480,2480,1
+Madhya Pradesh,Chhatarpur,Rajnagar APMC,Wheat,Wheat Mix,Non-FAQ,21/11/2025,2400.0,2420,2405,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Wheat Mix,FAQ,22/11/2025,2300.0,2320,2320,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Wheat Mix,FAQ,26/11/2025,2450.0,2500,2500,1
+Madhya Pradesh,Badwani,Badwani APMC,Wheat,Wheat Mix,FAQ,30/11/2025,2525.0,2575,2575,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2439.0,2450,2450,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2400.0,2420,2400,1
+Madhya Pradesh,Datia,Datia APMC,Wheat,Mill Quality,FAQ,09/11/2025,2410.0,2430,2430,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,FAQ,09/11/2025,2290.0,2350,2350,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,Non-FAQ,09/11/2025,2200.0,2425,2200,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,FAQ,09/11/2025,2390.0,2390,2390,1
+Madhya Pradesh,Ratlam,A lot APMC,Wheat,Mill Quality,Non-FAQ,09/11/2025,2440.0,2440,2440,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,Non-FAQ,11/11/2025,2395.0,2420,2400,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2410.0,2430,2425,1
+Madhya Pradesh,Chhatarpur,Rajnagar APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Mill Quality,FAQ,01/11/2025,2350.0,2550,2500,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2360.0,2420,2405,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2390.0,2460,2430,1
+Madhya Pradesh,Morena,Sabalgarh APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2415.0,2466,2450,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,FAQ,01/11/2025,2450.0,2590,2520,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,FAQ,01/11/2025,2375.0,2400,2400,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Mill Quality,FAQ,01/11/2025,2435.0,2480,2480,1
+Madhya Pradesh,Rewa,Rewa APMC,Wheat,Mill Quality,FAQ,01/11/2025,2460.0,2508,2508,1
+Madhya Pradesh,Seoni,Palari APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Tikamgarh,Palera APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2416.0,2445,2435,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Mill Quality,FAQ,01/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,FAQ,02/11/2025,2400.0,2450,2450,1
+Madhya Pradesh,Panna,Pawai APMC,Wheat,Mill Quality,FAQ,02/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Mill Quality,Non-FAQ,02/11/2025,2420.0,2425,2425,1
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Wheat,Mill Quality,FAQ,03/11/2025,2375.0,2405,2405,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,03/11/2025,2420.0,2516,2510,1
+Madhya Pradesh,Harda,Harda APMC,Wheat,Mill Quality,FAQ,03/11/2025,2430.0,2561,2500,1
+Madhya Pradesh,Khandwa,Khandwa APMC,Wheat,Mill Quality,FAQ,03/11/2025,2205.0,2646,2530,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,FAQ,03/11/2025,2451.0,2460,2460,1
+Madhya Pradesh,Tikamgarh,Niwadi APMC,Wheat,Mill Quality,Non-FAQ,03/11/2025,2424.0,2480,2450,1
+Madhya Pradesh,Bhopal,Bhopal APMC,Wheat,Mill Quality,FAQ,04/11/2025,2361.0,2361,2361,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,Non-FAQ,04/11/2025,2540.0,2540,2540,1
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V) APMC,Wheat,Mill Quality,FAQ,04/11/2025,2300.0,2490,2490,1
+Madhya Pradesh,Panna,Ajaygarh APMC,Wheat,Mill Quality,FAQ,04/11/2025,2430.0,2460,2450,1
+Madhya Pradesh,Rewa,Rewa APMC,Wheat,Mill Quality,Non-FAQ,04/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sidhi,Sidhi APMC,Wheat,Mill Quality,Non-FAQ,04/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,FAQ,05/11/2025,2410.0,2430,2425,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Mill Quality,Non-FAQ,05/11/2025,2400.0,2402,2401,1
+Madhya Pradesh,Raisen,Silvani APMC,Wheat,Mill Quality,FAQ,05/11/2025,2400.0,2402,2400,1
+Madhya Pradesh,Rewa,Rewa APMC,Wheat,Mill Quality,FAQ,05/11/2025,2445.0,2491,2491,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Mill Quality,Non-FAQ,05/11/2025,2200.0,2375,2375,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Seoni,Keolari APMC,Wheat,Mill Quality,FAQ,04/11/2025,2400.0,2430,2430,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,Non-FAQ,11/11/2025,2401.0,2556,2531,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,FAQ,11/11/2025,2400.0,2415,2415,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,FAQ,11/11/2025,2350.0,2375,2375,1
+Madhya Pradesh,Jabalpur,Paatan APMC,Wheat,Mill Quality,FAQ,11/11/2025,2410.0,2600,2450,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,FAQ,11/11/2025,2405.0,2425,2425,1
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Wheat,Mill Quality,FAQ,11/11/2025,2288.0,2501,2450,1
+Madhya Pradesh,Hoshangabad,Babai APMC,Wheat,Mill Quality,FAQ,11/11/2025,2400.0,2410,2410,1
+Madhya Pradesh,Panna,Ajaygarh APMC,Wheat,Mill Quality,FAQ,11/11/2025,2420.0,2530,2460,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,FAQ,12/11/2025,2460.0,2529,2529,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2395.0,2395,2395,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2351.0,2435,2422,1
+Madhya Pradesh,Shehdol,Beohari APMC,Wheat,Mill Quality,FAQ,12/11/2025,2380.0,2425,2400,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2403.0,2409,2409,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Mill Quality,FAQ,12/11/2025,2470.0,2550,2550,1
+Madhya Pradesh,Rajgarh,Khilchipur APMC,Wheat,Mill Quality,FAQ,12/11/2025,2418.0,2470,2460,1
+Madhya Pradesh,Khandwa,Khandwa APMC,Wheat,Mill Quality,FAQ,12/11/2025,2151.0,2783,2650,1
+Madhya Pradesh,Tikamgarh,Prithvipur APMC,Wheat,Mill Quality,FAQ,12/11/2025,2430.0,2436,2436,1
+Madhya Pradesh,Anupur,Anuppur APMC,Wheat,Mill Quality,FAQ,07/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,07/11/2025,2201.0,2942,2611,1
+Madhya Pradesh,Gwalior,Bhitarwar APMC,Wheat,Mill Quality,Non-FAQ,07/11/2025,2400.0,2525,2500,1
+Madhya Pradesh,Vidisha,Ganjbasoda APMC,Wheat,Mill Quality,FAQ,07/11/2025,2350.0,2473,2473,1
+Madhya Pradesh,Jabalpur,Shahpura(Jabalpur) APMC,Wheat,Mill Quality,FAQ,07/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Mill Quality,FAQ,07/11/2025,2351.0,2429,2429,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Mill Quality,FAQ,07/11/2025,2400.0,2525,2525,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Mill Quality,FAQ,07/11/2025,2425.0,2435,2435,1
+Madhya Pradesh,Tikamgarh,Niwadi APMC,Wheat,Mill Quality,Non-FAQ,07/11/2025,2450.0,2495,2460,1
+Madhya Pradesh,Jhabua,Thandla APMC,Wheat,Mill Quality,FAQ,07/11/2025,2525.0,2550,2550,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,07/11/2025,2400.0,2438,2428,1
+Madhya Pradesh,Dhar,Kukshi APMC,Wheat,Mill Quality,FAQ,07/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,07/11/2025,2475.0,2518,2518,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,Non-FAQ,08/11/2025,2430.0,2435,2435,1
+Madhya Pradesh,Satna,Amarpatan APMC,Wheat,Mill Quality,FAQ,08/11/2025,2400.0,2430,2400,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,Non-FAQ,08/11/2025,2200.0,2455,2450,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Mill Quality,FAQ,08/11/2025,2440.0,2450,2450,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,FAQ,08/11/2025,2415.0,2450,2450,1
+Madhya Pradesh,Dindori,Gorakhpur APMC,Wheat,Mill Quality,FAQ,08/11/2025,2390.0,2410,2400,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,FAQ,08/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,08/11/2025,2390.0,2420,2400,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Mill Quality,FAQ,08/11/2025,2365.0,2420,2420,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Mill Quality,FAQ,08/11/2025,2350.0,2560,2560,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,08/11/2025,2435.0,2460,2455,1
+Madhya Pradesh,Seoni,Lakhnadon APMC,Wheat,Mill Quality,FAQ,08/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Mill Quality,Non-FAQ,08/11/2025,2200.0,2350,2200,1
+Madhya Pradesh,Hoshangabad,Semriharchand APMC,Wheat,Mill Quality,FAQ,07/11/2025,2349.0,2460,2460,1
+Madhya Pradesh,Bhind,Alampur APMC,Wheat,Mill Quality,Non-FAQ,08/11/2025,2429.0,2429,2429,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,FAQ,17/11/2025,2300.0,2550,2495,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,FAQ,17/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Jabalpur,Shahpura(Jabalpur) APMC,Wheat,Mill Quality,FAQ,13/11/2025,2225.0,2300,2300,1
+Madhya Pradesh,Tikamgarh,Prithvipur APMC,Wheat,Mill Quality,FAQ,13/11/2025,2427.0,2429,2429,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,13/11/2025,2380.0,2420,2410,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,Non-FAQ,13/11/2025,2550.0,2550,2550,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,FAQ,13/11/2025,2400.0,2560,2520,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,FAQ,13/11/2025,2340.0,2360,2350,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Mill Quality,Non-FAQ,13/11/2025,2400.0,2410,2400,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2200.0,2419,2391,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2425.0,2458,2450,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,FAQ,17/11/2025,2410.0,2450,2450,1
+Madhya Pradesh,Tikamgarh,Khargapur APMC,Wheat,Mill Quality,FAQ,17/11/2025,2400.0,2500,2400,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,17/11/2025,2450.0,3040,2565,1
+Madhya Pradesh,Anupur,Anuppur APMC,Wheat,Mill Quality,FAQ,17/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Mill Quality,FAQ,17/11/2025,2400.0,2425,2425,1
+Madhya Pradesh,Hoshangabad,Semriharchand APMC,Wheat,Mill Quality,FAQ,17/11/2025,2370.0,2370,2370,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2441.0,2441,2441,1
+Madhya Pradesh,Jhabua,Thandla APMC,Wheat,Mill Quality,FAQ,17/11/2025,2350.0,2415,2375,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,FAQ,17/11/2025,2470.0,2564,2564,1
+Madhya Pradesh,Indore,Indore APMC,Wheat,Mill Quality,FAQ,14/11/2025,2395.0,2395,2395,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2460.0,2517,2515,1
+Madhya Pradesh,Dhar,Dhar APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2225.0,2250,2250,1
+Madhya Pradesh,Raisen,Bareli APMC,Wheat,Mill Quality,FAQ,14/11/2025,2350.0,2425,2425,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2350.0,2493,2400,1
+Madhya Pradesh,Morena,Sabalgarh APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2459.0,2467,2467,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2397.0,2421,2415,1
+Madhya Pradesh,Shehdol,Beohari APMC,Wheat,Mill Quality,FAQ,14/11/2025,2370.0,2400,2400,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,FAQ,14/11/2025,2490.0,2508,2508,1
+Madhya Pradesh,Sagar,Bamora APMC,Wheat,Mill Quality,FAQ,14/11/2025,2000.0,2615,2300,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Mill Quality,FAQ,14/11/2025,2305.0,2485,2470,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2350.0,2420,2400,1
+Madhya Pradesh,Tikamgarh,Prithvipur APMC,Wheat,Mill Quality,FAQ,14/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2400.0,2500,2475,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Mill Quality,FAQ,14/11/2025,2475.0,2475,2475,1
+Madhya Pradesh,Seoni,Chhpara APMC,Wheat,Mill Quality,FAQ,14/11/2025,2490.0,2490,2490,1
+Madhya Pradesh,Tikamgarh,Prithvipur APMC,Wheat,Mill Quality,Non-FAQ,15/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Damoh,Hata APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2400.0,2420,2400,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,FAQ,15/11/2025,2465.0,2500,2500,1
+Madhya Pradesh,Seoni,Lakhnadon APMC,Wheat,Mill Quality,FAQ,15/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Mill Quality,Non-FAQ,15/11/2025,2360.0,2382,2382,1
+Madhya Pradesh,Rajgarh,Sarangpur APMC,Wheat,Mill Quality,FAQ,15/11/2025,2440.0,2500,2500,1
+Madhya Pradesh,Jabalpur,Paatan APMC,Wheat,Mill Quality,FAQ,15/11/2025,2490.0,2515,2515,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,Non-FAQ,15/11/2025,2455.0,2455,2455,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,FAQ,15/11/2025,2200.0,2420,2420,1
+Madhya Pradesh,Raisen,Udaipura APMC,Wheat,Mill Quality,FAQ,15/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Damoh,Hata APMC,Wheat,Mill Quality,Non-FAQ,16/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,FAQ,16/11/2025,2340.0,2380,2380,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,16/11/2025,2435.0,2460,2450,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Mill Quality,FAQ,16/11/2025,2550.0,2550,2550,1
+Madhya Pradesh,Vidisha,Ganjbasoda APMC,Wheat,Mill Quality,FAQ,18/11/2025,2331.0,2380,2380,1
+Madhya Pradesh,Chhindwara,Amarwda APMC,Wheat,Mill Quality,FAQ,18/11/2025,2470.0,2600,2500,1
+Madhya Pradesh,Damoh,Hata APMC,Wheat,Mill Quality,Non-FAQ,18/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,24/11/2025,2425.0,2455,2435,1
+Madhya Pradesh,Jabalpur,Shahpura(Jabalpur) APMC,Wheat,Mill Quality,FAQ,21/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Panna,Ajaygarh APMC,Wheat,Mill Quality,FAQ,21/11/2025,2450.0,2460,2450,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,Non-FAQ,21/11/2025,2415.0,2430,2430,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Mill Quality,Non-FAQ,21/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Mill Quality,FAQ,21/11/2025,2212.0,2500,2300,1
+Madhya Pradesh,Mandsaur,Bhanpura APMC,Wheat,Mill Quality,Non-FAQ,22/11/2025,2400.0,2410,2410,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Mill Quality,FAQ,22/11/2025,2405.0,2410,2410,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Mill Quality,FAQ,22/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Tikamgarh,Niwadi APMC,Wheat,Mill Quality,Non-FAQ,22/11/2025,2350.0,2461,2440,1
+Madhya Pradesh,Gwalior,Bhitarwar APMC,Wheat,Mill Quality,Non-FAQ,22/11/2025,2475.0,2500,2500,1
+Madhya Pradesh,Tikamgarh,Palera APMC,Wheat,Mill Quality,Non-FAQ,22/11/2025,2430.0,2450,2440,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Mill Quality,Non-FAQ,22/11/2025,2395.0,2400,2400,1
+Madhya Pradesh,Satna,Amarpatan APMC,Wheat,Mill Quality,FAQ,22/11/2025,2425.0,2445,2435,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,Non-FAQ,22/11/2025,2360.0,2400,2380,1
+Madhya Pradesh,Panna,Pawai APMC,Wheat,Mill Quality,FAQ,23/11/2025,2440.0,2440,2440,1
+Madhya Pradesh,Rajgarh,Chhapiheda APMC,Wheat,Mill Quality,FAQ,23/11/2025,2470.0,2470,2470,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,FAQ,23/11/2025,2350.0,2495,2425,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,Non-FAQ,23/11/2025,2380.0,2385,2385,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Mill Quality,FAQ,23/11/2025,2400.0,2415,2410,1
+Madhya Pradesh,Shehdol,Beohari APMC,Wheat,Mill Quality,FAQ,23/11/2025,2400.0,2410,2400,1
+Madhya Pradesh,Seoni,Chhpara APMC,Wheat,Mill Quality,FAQ,23/11/2025,2500.0,2550,2550,1
+Madhya Pradesh,Khandwa,Harsood APMC,Wheat,Mill Quality,Non-FAQ,23/11/2025,2430.0,2430,2430,1
+Madhya Pradesh,Rajgarh,Khilchipur APMC,Wheat,Mill Quality,Non-FAQ,23/11/2025,2390.0,2410,2410,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Mill Quality,Non-FAQ,24/11/2025,1425.0,2430,2430,1
+Madhya Pradesh,Tikamgarh,Khargapur APMC,Wheat,Mill Quality,FAQ,24/11/2025,2400.0,2450,2435,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Mill Quality,FAQ,24/11/2025,2400.0,2405,2405,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Mill Quality,FAQ,24/11/2025,2400.0,2440,2440,1
+Madhya Pradesh,Mandsaur,Suvasra APMC,Wheat,Mill Quality,Non-FAQ,24/11/2025,2340.0,2375,2375,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,24/11/2025,2521.0,2956,2660,1
+Madhya Pradesh,Dewas,Bagli APMC,Wheat,Mill Quality,Non-FAQ,24/11/2025,2444.0,2601,2601,1
+Madhya Pradesh,Khandwa,Harsood APMC,Wheat,Mill Quality,FAQ,24/11/2025,2423.0,2440,2440,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,05/11/2025,2400.0,2450,2400,1
+Madhya Pradesh,Narsinghpur,Tendukheda APMC,Wheat,Mill Quality,FAQ,06/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Jabalpur,Shahpura(Jabalpur) APMC,Wheat,Mill Quality,FAQ,06/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Hoshangabad,Bankhedi APMC,Wheat,Mill Quality,FAQ,06/11/2025,2325.0,2496,2477,1
+Madhya Pradesh,Shehdol,Shahdol APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2300.0,2400,2300,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Mill Quality,FAQ,06/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Vidisha,Ganjbasoda APMC,Wheat,Mill Quality,FAQ,06/11/2025,2400.0,2460,2460,1
+Madhya Pradesh,Raisen,Bareli APMC,Wheat,Mill Quality,FAQ,06/11/2025,2280.0,2446,2429,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2385.0,2420,2400,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Mill Quality,FAQ,06/11/2025,2481.0,2526,2519,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Mill Quality,FAQ,12/11/2025,2301.0,2572,2350,1
+Madhya Pradesh,Datia,Datia APMC,Wheat,Mill Quality,FAQ,10/11/2025,2470.0,2525,2525,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2411.0,2453,2437,1
+Madhya Pradesh,Indore,Mhow APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2390.0,2390,2390,1
+Madhya Pradesh,Morena,Jora APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2350.0,2600,2440,1
+Madhya Pradesh,Vidisha,Lateri APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Mill Quality,FAQ,10/11/2025,2200.0,2565,2400,1
+Madhya Pradesh,Rewa,Rewa APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2360.0,2410,2410,1
+Madhya Pradesh,Dindori,Gorakhpur APMC,Wheat,Mill Quality,FAQ,10/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2430.0,2470,2455,1
+Madhya Pradesh,Panna,Devandranagar APMC,Wheat,Mill Quality,Non-FAQ,09/11/2025,2411.0,2411,2411,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Mill Quality,FAQ,09/11/2025,2425.0,2585,2585,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Mill Quality,Non-FAQ,09/11/2025,2385.0,2421,2421,1
+Madhya Pradesh,Rajgarh,Jeerapur APMC,Wheat,Mill Quality,FAQ,09/11/2025,2445.0,2445,2445,1
+Madhya Pradesh,Ratlam,Jaora APMC,Wheat,Mill Quality,FAQ,13/11/2025,2502.0,2502,2502,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,Non-FAQ,13/11/2025,2400.0,2526,2500,1
+Madhya Pradesh,Sagar,Bamora APMC,Wheat,Mill Quality,FAQ,13/11/2025,2300.0,2450,2450,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,13/11/2025,2435.0,2455,2450,1
+Madhya Pradesh,Khandwa,Khandwa APMC,Wheat,Mill Quality,FAQ,13/11/2025,2250.0,2737,2650,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,Non-FAQ,13/11/2025,2397.0,2450,2450,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Mill Quality,FAQ,13/11/2025,2406.0,2430,2430,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2550.0,2550,2550,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2275.0,2291,2291,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,FAQ,17/11/2025,1750.0,2513,2480,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,FAQ,14/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,15/11/2025,2435.0,2455,2435,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Mill Quality,FAQ,18/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Wheat,Mill Quality,FAQ,18/11/2025,2302.0,2464,2460,1
+Madhya Pradesh,Shehdol,Shahdol APMC,Wheat,Mill Quality,Non-FAQ,18/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Raisen,Udaipura APMC,Wheat,Mill Quality,Non-FAQ,18/11/2025,2345.0,2415,2400,1
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Wheat,Mill Quality,FAQ,19/11/2025,2251.0,3050,2650,1
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,Mill Quality,FAQ,19/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2360.0,2420,2400,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2125.0,2475,2350,1
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Wheat,Mill Quality,FAQ,19/11/2025,2300.0,2325,2325,1
+Madhya Pradesh,Hoshangabad,Bankhedi APMC,Wheat,Mill Quality,FAQ,19/11/2025,2311.0,2430,2401,1
+Madhya Pradesh,Tikamgarh,Khargapur APMC,Wheat,Mill Quality,FAQ,19/11/2025,2400.0,2500,2450,1
+Madhya Pradesh,Indore,Mhow APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2415.0,2415,2415,1
+Madhya Pradesh,Tikamgarh,Jatara APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2410.0,2536,2425,1
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,Mill Quality,FAQ,19/11/2025,2313.0,2575,2515,1
+Madhya Pradesh,Raisen,Udaipura APMC,Wheat,Mill Quality,FAQ,19/11/2025,2435.0,2435,2435,1
+Madhya Pradesh,Anupur,Jaithari APMC,Wheat,Mill Quality,FAQ,19/11/2025,2390.0,2390,2390,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,19/11/2025,2470.0,2499,2480,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2410.0,2419,2419,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Mill Quality,FAQ,19/11/2025,2340.0,2555,2555,1
+Madhya Pradesh,Harda,Timarni APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2400.0,2406,2406,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2295.0,2485,2415,1
+Madhya Pradesh,Raisen,Bareli APMC,Wheat,Mill Quality,FAQ,19/11/2025,2391.0,2406,2406,1
+Madhya Pradesh,Harda,Harda APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2370.0,2441,2425,1
+Madhya Pradesh,Jabalpur,Shahpura(Jabalpur) APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2315.0,2400,2400,1
+Madhya Pradesh,Hoshangabad,Bankhedi APMC,Wheat,Mill Quality,FAQ,20/11/2025,2355.0,2425,2425,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,20/11/2025,2400.0,2430,2425,1
+Madhya Pradesh,Sidhi,Sidhi APMC,Wheat,Mill Quality,Non-FAQ,20/11/2025,2330.0,2450,2350,1
+Madhya Pradesh,Shehdol,Budhar APMC,Wheat,Mill Quality,Non-FAQ,20/11/2025,2320.0,2500,2500,1
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,Mill Quality,FAQ,20/11/2025,2260.0,2650,2519,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,FAQ,20/11/2025,2420.0,2495,2490,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,FAQ,20/11/2025,2470.0,2500,2480,1
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Wheat,Mill Quality,Non-FAQ,24/11/2025,2350.0,2375,2375,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,24/11/2025,2480.0,2507,2480,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,Non-FAQ,24/11/2025,1511.0,2512,2508,1
+Madhya Pradesh,Sidhi,Sidhi APMC,Wheat,Mill Quality,FAQ,24/11/2025,2445.0,2445,2445,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,FAQ,24/11/2025,2405.0,2420,2420,1
+Madhya Pradesh,Rajgarh,Sarangpur APMC,Wheat,Mill Quality,FAQ,24/11/2025,2425.0,2425,2425,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,FAQ,24/11/2025,2426.0,2512,2509,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Mill Quality,FAQ,24/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Rewa,Rewa APMC,Wheat,Mill Quality,FAQ,24/11/2025,2396.0,2511,2482,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Mill Quality,FAQ,24/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,FAQ,21/11/2025,2220.0,2340,2250,1
+Madhya Pradesh,Jhabua,Thandla APMC,Wheat,Mill Quality,FAQ,21/11/2025,2400.0,2425,2425,1
+Madhya Pradesh,Hoshangabad,Bankhedi APMC,Wheat,Mill Quality,FAQ,21/11/2025,2385.0,2422,2422,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,21/11/2025,2390.0,2560,2558,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,21/11/2025,2390.0,2400,2400,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,FAQ,24/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Mill Quality,FAQ,21/11/2025,2390.0,2415,2400,1
+Madhya Pradesh,Shivpuri,Shivpuri APMC,Wheat,Mill Quality,FAQ,21/11/2025,2450.0,2550,2550,1
+Madhya Pradesh,Seoni,Chhpara APMC,Wheat,Mill Quality,FAQ,21/11/2025,2460.0,2490,2460,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,21/11/2025,2420.0,2435,2435,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,FAQ,21/11/2025,2430.0,2450,2450,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Mill Quality,FAQ,24/11/2025,2400.0,2405,2405,1
+Madhya Pradesh,Rajgarh,Chhapiheda APMC,Wheat,Mill Quality,FAQ,24/11/2025,2465.0,2465,2465,1
+Madhya Pradesh,Morena,Sabalgarh APMC,Wheat,Mill Quality,Non-FAQ,25/11/2025,2350.0,2485,2469,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,FAQ,25/11/2025,2400.0,2420,2400,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,FAQ,25/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Rewa,Hanumana APMC,Wheat,Mill Quality,FAQ,25/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,Non-FAQ,26/11/2025,2275.0,2335,2320,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,26/11/2025,2425.0,2500,2450,1
+Madhya Pradesh,Shehdol,Beohari APMC,Wheat,Mill Quality,FAQ,26/11/2025,2390.0,2411,2400,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,26/11/2025,2400.0,2485,2420,1
+Madhya Pradesh,Khandwa,Harsood APMC,Wheat,Mill Quality,FAQ,26/11/2025,2410.0,2410,2410,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Mill Quality,FAQ,26/11/2025,2350.0,2411,2411,1
+Madhya Pradesh,Hoshangabad,Semriharchand APMC,Wheat,Mill Quality,FAQ,26/11/2025,2226.0,2351,2351,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,Non-FAQ,26/11/2025,2425.0,2460,2450,1
+Madhya Pradesh,Betul,Betul APMC,Wheat,Mill Quality,FAQ,26/11/2025,2330.0,2688,2540,1
+Madhya Pradesh,Satna,Ramnagar APMC,Wheat,Mill Quality,Non-FAQ,26/11/2025,2400.0,2460,2430,1
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Wheat,Mill Quality,FAQ,27/11/2025,2390.0,2415,2415,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,FAQ,28/11/2025,2332.0,2400,2400,1
+Madhya Pradesh,Khargone,Khargone APMC,Wheat,Mill Quality,FAQ,28/11/2025,2430.0,2430,2430,1
+Madhya Pradesh,Harda,Sirali APMC,Wheat,Mill Quality,FAQ,28/11/2025,2310.0,2435,2370,1
+Madhya Pradesh,Mandsaur,Bhanpura APMC,Wheat,Mill Quality,Non-FAQ,29/11/2025,2390.0,2400,2400,1
+Madhya Pradesh,Hoshangabad,Bankhedi APMC,Wheat,Mill Quality,FAQ,29/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Dewas,Bagli APMC,Wheat,Mill Quality,Non-FAQ,29/11/2025,2290.0,2320,2320,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,Non-FAQ,29/11/2025,2375.0,2560,2400,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,29/11/2025,2408.0,2425,2410,1
+Madhya Pradesh,Indore,Mhow APMC,Wheat,Mill Quality,Non-FAQ,29/11/2025,2390.0,2415,2415,1
+Madhya Pradesh,Bhopal,Berasia APMC,Wheat,Mill Quality,FAQ,29/11/2025,2251.0,2480,2350,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,Non-FAQ,29/11/2025,2420.0,2452,2442,1
+Madhya Pradesh,Hoshangabad,Semriharchand APMC,Wheat,Mill Quality,FAQ,29/11/2025,2349.0,2475,2460,1
+Madhya Pradesh,Rewa,Hanumana APMC,Wheat,Mill Quality,FAQ,30/11/2025,2400.0,2460,2400,1
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,Mill Quality,FAQ,30/11/2025,2471.0,2502,2502,1
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,Mill Quality,FAQ,30/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,FAQ,30/11/2025,2390.0,2390,2390,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,FAQ,30/11/2025,2380.0,2400,2400,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,FAQ,30/11/2025,2350.0,2500,2460,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,Non-FAQ,30/11/2025,2200.0,2300,2300,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Mill Quality,FAQ,30/11/2025,2350.0,2380,2380,1
+Madhya Pradesh,Mandsaur,Suvasra APMC,Wheat,Mill Quality,FAQ,06/11/2025,2400.0,2459,2459,1
+Madhya Pradesh,Satna,Amarpatan APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,FAQ,06/11/2025,2350.0,2455,2410,1
+Madhya Pradesh,Dindori,Gorakhpur APMC,Wheat,Mill Quality,FAQ,06/11/2025,2300.0,2400,2400,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2401.0,2528,2500,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2350.0,2450,2450,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,FAQ,06/11/2025,2375.0,2450,2400,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2425.0,2500,2430,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2400.0,2525,2450,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Mill Quality,FAQ,06/11/2025,1690.0,1690,1690,1
+Madhya Pradesh,Panna,Ajaygarh APMC,Wheat,Mill Quality,FAQ,06/11/2025,2430.0,2510,2450,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2400.0,2415,2415,1
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2350.0,2450,2410,1
+Madhya Pradesh,Bhind,Bhind APMC,Wheat,Mill Quality,FAQ,10/11/2025,2475.0,2475,2475,1
+Madhya Pradesh,Rajgarh,Sarangpur APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Sagar,Bamora APMC,Wheat,Mill Quality,FAQ,10/11/2025,2340.0,2565,2500,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2350.0,2420,2400,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,FAQ,10/11/2025,2410.0,2485,2485,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2360.0,2360,2360,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2400.0,2438,2435,1
+Madhya Pradesh,Khandwa,Khandwa APMC,Wheat,Mill Quality,FAQ,10/11/2025,2351.0,2706,2697,1
+Madhya Pradesh,Dhar,Kukshi APMC,Wheat,Mill Quality,FAQ,10/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Harda,Timarni APMC,Wheat,Mill Quality,Non-FAQ,10/11/2025,2300.0,2410,2410,1
+Madhya Pradesh,Shehdol,Budhar APMC,Wheat,Mill Quality,Non-FAQ,09/11/2025,2300.0,2400,2400,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Mill Quality,Non-FAQ,09/11/2025,2420.0,2420,2420,1
+Madhya Pradesh,Chhatarpur,Bakswaha APMC,Wheat,Mill Quality,Non-FAQ,09/11/2025,2300.0,2350,2350,1
+Madhya Pradesh,Ratlam,A lot APMC,Wheat,Mill Quality,FAQ,09/11/2025,2410.0,2450,2410,1
+Madhya Pradesh,Raisen,Silvani APMC,Wheat,Mill Quality,FAQ,09/11/2025,2340.0,2400,2400,1
+Madhya Pradesh,Bhind,Alampur APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2455.0,2490,2490,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2423.0,2535,2521,1
+Madhya Pradesh,Mandsaur,Suvasra APMC,Wheat,Mill Quality,FAQ,01/11/2025,2445.0,2477,2477,1
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2455.0,2477,2471,1
+Madhya Pradesh,Panna,Ajaygarh APMC,Wheat,Mill Quality,FAQ,01/11/2025,2430.0,2520,2450,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Mill Quality,FAQ,01/11/2025,2400.0,2550,2450,1
+Madhya Pradesh,Sagar,Jaisinagar APMC,Wheat,Mill Quality,FAQ,01/11/2025,2350.0,2350,2350,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2425.0,2425,2425,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,Non-FAQ,01/11/2025,2351.0,2351,2351,1
+Madhya Pradesh,Damoh,Damoh APMC,Wheat,Mill Quality,Non-FAQ,02/11/2025,2375.0,2420,2400,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,FAQ,02/11/2025,2376.0,2400,2400,1
+Madhya Pradesh,Sheopur,Vijaypur APMC,Wheat,Mill Quality,Non-FAQ,02/11/2025,2410.0,2435,2435,1
+Madhya Pradesh,Tikamgarh,Khargapur APMC,Wheat,Mill Quality,FAQ,02/11/2025,2400.0,2500,2450,1
+Madhya Pradesh,Bhopal,Berasia APMC,Wheat,Mill Quality,FAQ,03/11/2025,2300.0,2700,2370,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,Non-FAQ,03/11/2025,2429.0,2542,2500,1
+Madhya Pradesh,Dewas,Bagli APMC,Wheat,Mill Quality,Non-FAQ,03/11/2025,2424.0,2491,2425,1
+Madhya Pradesh,Harda,Sirali APMC,Wheat,Mill Quality,FAQ,03/11/2025,2400.0,2488,2460,1
+Madhya Pradesh,Hoshangabad,Semriharchand APMC,Wheat,Mill Quality,FAQ,03/11/2025,2372.0,2486,2486,1
+Madhya Pradesh,Tikamgarh,Tikamgarh APMC,Wheat,Mill Quality,FAQ,03/11/2025,2400.0,2415,2415,1
+Madhya Pradesh,Tikamgarh,Palera APMC,Wheat,Mill Quality,Non-FAQ,03/11/2025,2420.0,2450,2430,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,Non-FAQ,04/11/2025,2405.0,2410,2410,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,FAQ,04/11/2025,2499.0,2530,2525,1
+Madhya Pradesh,Jhabua,Petlawad APMC,Wheat,Mill Quality,FAQ,04/11/2025,2505.0,2505,2505,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,FAQ,04/11/2025,2450.0,2550,2500,1
+Madhya Pradesh,Rajgarh,Sarangpur APMC,Wheat,Mill Quality,FAQ,04/11/2025,2315.0,2455,2455,1
+Madhya Pradesh,Sagar,Bamora APMC,Wheat,Mill Quality,FAQ,04/11/2025,2335.0,2600,2500,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Mill Quality,FAQ,02/11/2025,2450.0,2460,2460,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,05/11/2025,2425.0,2450,2425,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,FAQ,05/11/2025,2415.0,2500,2500,1
+Madhya Pradesh,Rajgarh,Khilchipur APMC,Wheat,Mill Quality,FAQ,05/11/2025,2478.0,2482,2482,1
+Madhya Pradesh,Satna,Ramnagar APMC,Wheat,Mill Quality,Non-FAQ,05/11/2025,2460.0,2500,2475,1
+Madhya Pradesh,Sheopur,Vijaypur APMC,Wheat,Mill Quality,Non-FAQ,05/11/2025,2420.0,2435,2420,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,Non-FAQ,05/11/2025,2400.0,2500,2485,1
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,Mill Quality,FAQ,03/11/2025,2293.0,2570,2500,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,Non-FAQ,06/11/2025,2426.0,2426,2426,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,FAQ,11/11/2025,2400.0,2530,2410,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,Non-FAQ,11/11/2025,2458.0,2458,2458,1
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V) APMC,Wheat,Mill Quality,FAQ,11/11/2025,2266.0,2381,2381,1
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,Mill Quality,Non-FAQ,11/11/2025,2350.0,2424,2424,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,Non-FAQ,11/11/2025,2425.0,2535,2525,1
+Madhya Pradesh,Datia,Datia APMC,Wheat,Mill Quality,FAQ,11/11/2025,2525.0,2525,2525,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,FAQ,11/11/2025,2340.0,2400,2400,1
+Madhya Pradesh,Satna,Ramnagar APMC,Wheat,Mill Quality,Non-FAQ,11/11/2025,2395.0,2450,2450,1
+Madhya Pradesh,Seoni,Chhpara APMC,Wheat,Mill Quality,Non-FAQ,11/11/2025,2450.0,2450,2450,1
+Madhya Pradesh,Seoni,Lakhnadon APMC,Wheat,Mill Quality,FAQ,12/11/2025,2400.0,2430,2430,1
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2200.0,2371,2365,1
+Madhya Pradesh,Indore,Mhow APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2390.0,2500,2500,1
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,Mill Quality,FAQ,12/11/2025,2435.0,2490,2480,1
+Madhya Pradesh,Sehore,Rehati APMC,Wheat,Mill Quality,FAQ,12/11/2025,2350.0,2397,2397,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2340.0,2411,2411,1
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Wheat,Mill Quality,FAQ,12/11/2025,2360.0,2470,2463,1
+Madhya Pradesh,Bhopal,Berasia APMC,Wheat,Mill Quality,FAQ,12/11/2025,2300.0,2793,2370,1
+Madhya Pradesh,Khandwa,Harsood APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2515.0,2540,2540,1
+Madhya Pradesh,Hoshangabad,Itarsi APMC,Wheat,Mill Quality,FAQ,12/11/2025,2510.0,2514,2510,1
+Madhya Pradesh,Shivpuri,Pohari APMC,Wheat,Mill Quality,Non-FAQ,12/11/2025,2380.0,2380,2380,1
+Madhya Pradesh,Dewas,Bagli APMC,Wheat,Mill Quality,Non-FAQ,07/11/2025,2435.0,2442,2442,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Mill Quality,Non-FAQ,07/11/2025,2465.0,2465,2465,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Mill Quality,FAQ,07/11/2025,2330.0,2545,2520,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,FAQ,07/11/2025,2425.0,2480,2425,1
+Madhya Pradesh,Tikamgarh,Palera APMC,Wheat,Mill Quality,Non-FAQ,07/11/2025,2416.0,2450,2438,1
+Madhya Pradesh,Damoh,Javera APMC,Wheat,Mill Quality,Non-FAQ,07/11/2025,2410.0,2490,2490,1
+Madhya Pradesh,Alirajpur,Jobat APMC,Wheat,Mill Quality,FAQ,07/11/2025,2200.0,2400,2400,1
+Madhya Pradesh,Rajgarh,Narsinghgarh APMC,Wheat,Mill Quality,FAQ,07/11/2025,2340.0,2500,2500,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,FAQ,08/11/2025,2430.0,2459,2455,1
+Madhya Pradesh,Satna,Nagod APMC,Wheat,Mill Quality,Non-FAQ,13/11/2025,2450.0,2470,2465,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,FAQ,13/11/2025,2500.0,2520,2510,1
+Madhya Pradesh,Shehdol,Budhar APMC,Wheat,Mill Quality,Non-FAQ,13/11/2025,2500.0,2500,2500,1
+Madhya Pradesh,Dhar,Rajgarh APMC,Wheat,Mill Quality,FAQ,13/11/2025,2771.0,2771,2771,1
+Madhya Pradesh,Hoshangabad,Semriharchand APMC,Wheat,Mill Quality,FAQ,13/11/2025,2381.0,2411,2411,1
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,Mill Quality,FAQ,13/11/2025,2361.0,2544,2460,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,18/11/2025,2460.0,2500,2480,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,FAQ,18/11/2025,2351.0,2440,2430,1
+Madhya Pradesh,Tikamgarh,Prithvipur APMC,Wheat,Mill Quality,Non-FAQ,18/11/2025,2425.0,2475,2450,1
+Madhya Pradesh,Bhind,Bhind APMC,Wheat,Mill Quality,FAQ,16/11/2025,2460.0,2470,2460,1
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,Mill Quality,FAQ,18/11/2025,2000.0,2545,2513,1
+Madhya Pradesh,Mandla,Nainpur APMC,Wheat,Mill Quality,Non-FAQ,18/11/2025,2380.0,2410,2410,1
+Madhya Pradesh,Shehdol,Beohari APMC,Wheat,Mill Quality,FAQ,18/11/2025,2370.0,2405,2400,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,FAQ,18/11/2025,2460.0,2465,2465,1
+Madhya Pradesh,Hoshangabad,Bankhedi APMC,Wheat,Mill Quality,FAQ,18/11/2025,2345.0,2425,2425,1
+Madhya Pradesh,Rewa,Hanumana APMC,Wheat,Mill Quality,FAQ,18/11/2025,2400.0,2400,2400,1
+Madhya Pradesh,Shivpuri,Khanyadhana APMC,Wheat,Mill Quality,FAQ,18/11/2025,2345.0,2450,2450,1
+Madhya Pradesh,Ashoknagar,Isagarh APMC,Wheat,Mill Quality,FAQ,18/11/2025,2310.0,2340,2340,1
+Madhya Pradesh,Mandsaur,Suvasra APMC,Wheat,Mill Quality,FAQ,18/11/2025,2300.0,2400,2400,1
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Wheat,Mill Quality,FAQ,18/11/2025,2400.0,2410,2410,1
+Madhya Pradesh,Bhopal,Bhopal APMC,Wheat,Mill Quality,FAQ,18/11/2025,2355.0,2450,2377,1
+Madhya Pradesh,Sagar,Deori APMC,Wheat,Mill Quality,FAQ,18/11/2025,2355.0,2355,2355,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,FAQ,18/11/2025,2330.0,2360,2360,1
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,Mill Quality,FAQ,18/11/2025,2391.0,2505,2505,1
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,Mill Quality,FAQ,18/11/2025,2440.0,2455,2455,1
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Wheat,Mill Quality,FAQ,21/11/2025,2425.0,2550,2470,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,FAQ,21/11/2025,2381.0,2516,2511,1
+Madhya Pradesh,Chhindwara,Chaurai APMC,Wheat,Mill Quality,Non-FAQ,21/11/2025,2390.0,2425,2425,1
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Wheat,Mill Quality,FAQ,21/11/2025,2450.0,2500,2500,1
+Madhya Pradesh,Guna,Kumbhraj APMC,Wheat,Mill Quality,FAQ,21/11/2025,2300.0,2430,2430,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Mill Quality,FAQ,22/11/2025,2360.0,2438,2360,1
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,Mill Quality,FAQ,22/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,22/11/2025,2390.0,2410,2400,1
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,Mill Quality,FAQ,24/11/2025,2490.0,2570,2570,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,Non-FAQ,24/11/2025,2395.0,2395,2395,1
+Madhya Pradesh,Shehdol,Budhar APMC,Wheat,Mill Quality,Non-FAQ,24/11/2025,2500.0,2510,2510,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,FAQ,13/11/2025,2200.0,2202,2202,1
+Madhya Pradesh,Shivpuri,Pohari APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2350.0,2425,2425,1
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Wheat,Mill Quality,Non-FAQ,17/11/2025,2400.0,2420,2415,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Mill Quality,FAQ,15/11/2025,2440.0,2440,2440,1
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V) APMC,Wheat,Mill Quality,FAQ,14/11/2025,2391.0,2391,2391,1
+Madhya Pradesh,Tikamgarh,Niwadi APMC,Wheat,Mill Quality,Non-FAQ,14/11/2025,2425.0,2477,2465,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Mill Quality,FAQ,14/11/2025,2300.0,2300,2300,1
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,Mill Quality,FAQ,14/11/2025,2401.0,2534,2496,1
+Madhya Pradesh,Raisen,Silvani APMC,Wheat,Mill Quality,FAQ,14/11/2025,2417.0,2417,2417,1
+Madhya Pradesh,Satna,Satna APMC,Wheat,Mill Quality,FAQ,14/11/2025,2400.0,2415,2400,1
+Madhya Pradesh,Rajgarh,Kurawar APMC,Wheat,Mill Quality,FAQ,14/11/2025,2400.0,2545,2545,1
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Wheat,Mill Quality,FAQ,14/11/2025,2400.0,2494,2400,1
+Madhya Pradesh,Katni,Katni APMC,Wheat,Mill Quality,Non-FAQ,19/11/2025,2390.0,2450,2400,1
+Madhya Pradesh,Tikamgarh,Niwadi APMC,Wheat,Mill Quality,Non-FAQ,20/11/2025,2376.0,2565,2465,1
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,Mill Quality,FAQ,20/11/2025,2445.0,2445,2445,1
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,Wheat,Mill Quality,FAQ,24/11/2025,2405.0,2430,2420,1
+Madhya Pradesh,Hoshangabad,Bankhedi APMC,Wheat,Mill Quality,FAQ,24/11/2025,2351.0,2441,2441,1
+Madhya Pradesh,Harda,Khirakiya APMC,Wheat,Mill Quality,FAQ,25/11/2025,2400.0,2500,2480,1
+Madhya Pradesh,Panna,Panna APMC,Wheat,Mill Quality,Non-FAQ,25/11/2025,2375.0,2380,2380,1
+Madhya Pradesh,Khandwa,Khandwa APMC,Wheat,Mill Quality,FAQ,25/11/2025,2144.0,2624,2430,1
+Madhya Pradesh,Datia,Bhander APMC,Wheat,Mill Quality,FAQ,25/11/2025,2455.0,2498,2458,1
+Madhya Pradesh,Tikamgarh,Jatara APMC,Wheat,Mill Quality,Non-FAQ,25/11/2025,2412.0,2451,2415,1
+Madhya Pradesh,Jabalpur,Paatan APMC,Wheat,Mill Quality,FAQ,25/11/2025,2300.0,2575,2450,1
+Madhya Pradesh,Hoshangabad,Semriharchand APMC,Wheat,Mill Quality,FAQ,25/11/2025,2366.0,2366,2366,1
+Madhya Pradesh,Sehore,Shyampur APMC,Wheat,Mill Quality,FAQ,25/11/2025,2310.0,2415,2415,1
+Madhya Pradesh,Chhatarpur,Bijawar APMC,Wheat,Mill Quality,Non-FAQ,25/11/2025,2386.0,2435,2418,1
+Madhya Pradesh,Raisen,Udaipura APMC,Wheat,Mill Quality,Non-FAQ,25/11/2025,2420.0,2445,2420,1
+Madhya Pradesh,Datia,Sevda APMC,Wheat,Mill Quality,FAQ,25/11/2025,2440.0,2472,2450,1
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Wheat,Mill Quality,FAQ,25/11/2025,2400.0,2410,2410,1
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,Mill Quality,FAQ,26/11/2025,2200.0,2201,2200,1
+Madhya Pradesh,Sagar,Shahagarh APMC,Wheat,Mill Quality,FAQ,26/11/2025,2340.0,2350,2350,1
+Madhya Pradesh,Rajgarh,Chhapiheda APMC,Wheat,Mill Quality,FAQ,26/11/2025,2450.0,2465,2465,1

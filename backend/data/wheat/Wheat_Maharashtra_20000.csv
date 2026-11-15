@@ -1,0 +1,1501 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,16/11/2025,2511,2750,2600,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,19/11/2025,2500,2690,2600,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,27/11/2025,2500,2500,2500,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,29/11/2025,2516,2680,2600,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,Non-FAQ,07/11/2025,2300,2420,2400,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,07/11/2025,2600,2700,2600,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,FAQ,07/11/2025,2700,2700,2700,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,08/11/2025,2450,2600,2500,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,08/11/2025,2500,2700,2600,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,10/11/2025,2500,2800,2650,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,10/11/2025,2492,2925,2492,1
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,Wheat,Other,Non-FAQ,10/11/2025,2300,2300,2300,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,10/11/2025,2500,2700,2600,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,10/11/2025,2500,3000,2750,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,10/11/2025,2100,2420,2250,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,10/11/2025,3000,5800,4400,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,10/11/2025,2425,2425,2425,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,08/11/2025,2480,2560,2500,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,12/11/2025,2500,2500,2500,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,12/11/2025,2400,2400,2400,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,12/11/2025,2500,3000,2750,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,11/11/2025,2570,2600,2585,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,11/11/2025,2425,2440,2430,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,11/11/2025,2505,2505,2505,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,11/11/2025,2405,2405,2405,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,11/11/2025,2500,2700,2600,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,11/11/2025,2300,2423,2417,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,11/11/2025,3000,5800,4400,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,11/11/2025,2450,3081,2700,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,11/11/2025,2500,2800,2650,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,11/11/2025,3000,3400,3200,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,11/11/2025,2444,2825,2634,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,01/11/2025,2425,2660,2530,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,01/11/2025,2425,2450,2437,1
+Maharashtra,Chattrapati Sambhajinagar,Kannad APMC,Wheat,Other,FAQ,01/11/2025,2550,2650,2600,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,01/11/2025,2210,2273,2245,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,01/11/2025,2430,2600,2500,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,02/11/2025,2445,2445,2445,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,03/11/2025,2200,2400,2300,1
+Maharashtra,Beed,Parali Vaijyanath APMC,Wheat,Other,Non-FAQ,03/11/2025,2361,2400,2361,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,03/11/2025,2325,2400,2362,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,Non-FAQ,03/11/2025,2400,2400,2400,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,03/11/2025,2680,3126,2750,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,01/11/2025,2325,2400,2400,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,04/11/2025,2445,2530,2475,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,04/11/2025,2450,2761,2527,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,Non-FAQ,04/11/2025,2400,2400,2400,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,04/11/2025,2000,2000,2000,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,04/11/2025,2350,2350,2350,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,02/11/2025,2700,2700,2700,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,12/11/2025,2430,2650,2540,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,13/11/2025,2430,2865,2480,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,13/11/2025,1970,1970,1970,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,Non-FAQ,13/11/2025,2350,2420,2400,1
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,Wheat,Other,Non-FAQ,06/11/2025,2400,2400,2400,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,07/11/2025,2500,2650,2600,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,07/11/2025,2550,2655,2550,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,07/11/2025,2500,2573,2550,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,07/11/2025,2000,2400,2200,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,07/11/2025,2500,2800,2650,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,10/11/2025,3000,4000,3500,1
+Maharashtra,Dhule,Sakri APMC,Wheat,Other,Non-FAQ,10/11/2025,2400,2420,2410,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,10/11/2025,2425,2851,2611,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,10/11/2025,2450,2600,2525,1
+Maharashtra,Amarawati,Morshi APMC,Wheat,Other,Non-FAQ,10/11/2025,2200,2400,2300,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,01/11/2025,2500,2590,2545,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod(Bharadi) APMC,Wheat,Other,FAQ,01/11/2025,2510,2510,2510,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,01/11/2025,3000,5800,4400,1
+Maharashtra,Sholapur,Barshi(Vairag) APMC,Wheat,Other,FAQ,01/11/2025,2450,3000,3000,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,01/11/2025,2425,2465,2440,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,03/11/2025,2450,2800,2625,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,03/11/2025,2425,2665,2535,1
+Maharashtra,Nandurbar,Nandurbar APMC,Wheat,Other,FAQ,03/11/2025,2425,2681,2681,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,13/11/2025,2350,2375,2365,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,13/11/2025,2450,2500,2500,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,13/11/2025,2600,2700,2600,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,08/12/2025,2455,2730,2600,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,16/12/2025,2500,2775,2600,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,Non-FAQ,25/12/2025,2251,2420,2380,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,Non-FAQ,01/12/2025,2350,2350,2350,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,02/12/2025,2500,2600,2500,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,03/12/2025,2526,2556,2550,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,FAQ,03/12/2025,2425,2510,2480,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,FAQ,03/12/2025,2425,2500,2450,1
+Maharashtra,Pune,Dound APMC,Wheat,Maharashtra 2189,FAQ,04/12/2025,2450,2600,2550,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,FAQ,04/12/2025,2425,2751,2571,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,08/12/2025,2425,2605,2545,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,05/12/2025,2535,2679,2550,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,06/12/2025,2700,3000,2900,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,FAQ,06/12/2025,2500,2500,2500,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,Non-FAQ,06/12/2025,2350,2400,2400,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,09/12/2025,2425,2560,2500,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,10/12/2025,2531,2625,2580,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,10/12/2025,2500,2600,2500,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,11/12/2025,2360,2360,2360,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,11/12/2025,2500,2600,2500,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,11/12/2025,2630,3200,2836,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,FAQ,12/12/2025,2600,2600,2600,1
+Maharashtra,Nashik,Lasalgaon APMC,Wheat,Maharashtra 2189,FAQ,15/12/2025,2562,2991,2601,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,Non-FAQ,15/12/2025,2399,2399,2399,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,12/12/2025,2564,2711,2711,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,13/12/2025,2700,3000,2900,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,13/12/2025,2600,2676,2650,1
+Maharashtra,Pune,Baramati APMC,Wheat,Maharashtra 2189,FAQ,08/12/2025,2560,3100,2651,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,19/12/2025,2479,2750,2560,1
+Maharashtra,Dharashiv(Usmanabad),Umarga APMC,Wheat,Maharashtra 2189,FAQ,09/12/2025,2601,2601,2601,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,01/12/2025,2500,2600,2500,1
+Maharashtra,Pune,Baramati APMC,Wheat,Maharashtra 2189,FAQ,29/12/2025,2551,2901,2851,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,05/12/2025,2433,2600,2500,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,20/12/2025,2500,2600,2500,1
+Maharashtra,Dharashiv(Usmanabad),Kalamb (Dharashiv) APMC,Wheat,Maharashtra 2189,FAQ,17/12/2025,2500,3011,2700,1
+Maharashtra,Dharashiv(Usmanabad),Kalamb (Dharashiv) APMC,Wheat,Maharashtra 2189,FAQ,23/12/2025,2425,3290,2500,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,16/12/2025,2425,2565,2500,1
+Maharashtra,Latur,Ausa APMC,Wheat,Maharashtra 2189,Non-FAQ,16/12/2025,2401,2401,2401,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,12/12/2025,2448,2671,2550,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,31/12/2025,2511,2751,2575,1
+Maharashtra,Latur,Ausa APMC,Wheat,Maharashtra 2189,FAQ,18/12/2025,2425,2501,2451,1
+Maharashtra,Nashik,Lasalgaon APMC,Wheat,Maharashtra 2189,FAQ,17/12/2025,2575,2692,2591,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,17/12/2025,2500,2600,2600,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,FAQ,18/12/2025,2425,2630,2500,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,Non-FAQ,18/12/2025,2300,2400,2350,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,22/12/2025,2500,2600,2500,1
+Maharashtra,Vashim,Washim(Ansing) APMC,Wheat,Maharashtra 2189,FAQ,22/12/2025,2425,2500,2450,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,Non-FAQ,22/12/2025,2200,2400,2300,1
+Maharashtra,Ahmednagar,Pathardi APMC,Wheat,Maharashtra 2189,FAQ,20/12/2025,2600,3200,2900,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,20/12/2025,2500,2700,2600,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,20/12/2025,2480,2700,2572,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,19/12/2025,2475,2570,2525,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,19/12/2025,2521,2755,2550,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,FAQ,19/12/2025,2600,2600,2600,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,Non-FAQ,24/12/2025,2000,2400,2230,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,23/12/2025,2499,2745,2550,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,25/12/2025,2500,2600,2500,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,26/12/2025,2500,2650,2500,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,27/12/2025,2500,2500,2500,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,27/12/2025,2580,2711,2591,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,31/12/2025,2580,2720,2590,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,30/12/2025,2361,2424,2400,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,11/12/2025,2510,2746,2625,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,03/12/2025,2500,2671,2520,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,23/12/2025,2500,2910,2521,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,Non-FAQ,17/12/2025,2200,2200,2200,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,24/12/2025,2500,3333,3044,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,27/12/2025,2526,2850,2600,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,FAQ,04/12/2025,2425,2700,2650,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,01/12/2025,2450,2825,2485,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,01/12/2025,2200,2400,2300,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,01/12/2025,2800,2800,2800,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,01/12/2025,3000,3400,3200,1
+Maharashtra,Sholapur,Kurdwadi(Modnimb) APMC,Wheat,Other,Non-FAQ,01/12/2025,2000,2400,2200,1
+Maharashtra,Amarawati,Morshi APMC,Wheat,Other,Non-FAQ,01/12/2025,2200,2400,2300,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,01/12/2025,2200,2200,2200,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,01/12/2025,2200,2400,2300,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,02/12/2025,2541,2772,2572,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,02/12/2025,2445,2695,2500,1
+Maharashtra,Vashim,Manora APMC,Wheat,Other,FAQ,02/12/2025,2500,2500,2500,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,03/12/2025,3200,4200,3700,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,03/12/2025,2471,2600,2600,1
+Maharashtra,Vashim,Manora APMC,Wheat,Other,Non-FAQ,03/12/2025,2376,2376,2376,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,03/12/2025,2425,2515,2470,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,03/12/2025,2751,2751,2751,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,03/12/2025,2900,5000,3950,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,03/12/2025,2250,2250,2250,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,08/12/2025,2450,3000,2675,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,03/12/2025,2450,3000,2675,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,03/12/2025,2426,2800,2600,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,03/12/2025,2425,2652,2622,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,03/12/2025,3320,3320,3320,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,10/12/2025,2480,2725,2525,1
+Maharashtra,Sholapur,Mangal Wedha APMC,Wheat,Other,FAQ,04/12/2025,2600,3100,2810,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,04/12/2025,2460,2600,2570,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,04/12/2025,2450,3000,2725,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,04/12/2025,2480,2555,2480,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,04/12/2025,2200,2400,2300,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,Non-FAQ,04/12/2025,1975,2400,1975,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,04/12/2025,2481,2951,2665,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,04/12/2025,2430,2475,2450,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,08/12/2025,2515,2515,2515,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,08/12/2025,2500,3250,2700,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,08/12/2025,2425,2530,2470,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,08/12/2025,2450,2500,2475,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,08/12/2025,2651,2751,2694,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,05/12/2025,2425,2525,2480,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,05/12/2025,2450,2675,2675,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,05/12/2025,2356,2356,2356,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,06/12/2025,2000,2100,2050,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,Non-FAQ,06/12/2025,2400,2400,2400,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,06/12/2025,2450,3000,2775,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,06/12/2025,3200,4500,3850,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,06/12/2025,2200,2400,2300,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,09/12/2025,2425,2678,2630,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,09/12/2025,1551,2420,2400,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,09/12/2025,2800,4800,3700,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,09/12/2025,3200,4000,3600,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,09/12/2025,2250,2420,2300,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,09/12/2025,2435,2565,2500,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,Non-FAQ,09/12/2025,2300,2300,2300,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,09/12/2025,2200,2200,2200,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,09/12/2025,2525,2600,2585,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,10/12/2025,2601,2801,2701,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,10/12/2025,2200,2400,2300,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,10/12/2025,2425,2566,2530,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,10/12/2025,2450,2550,2500,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,10/12/2025,2475,2650,2500,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,11/12/2025,2430,2450,2440,1
+Maharashtra,Amarawati,Morshi APMC,Wheat,Other,Non-FAQ,11/12/2025,2200,2400,2300,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,Non-FAQ,11/12/2025,2250,2375,2312,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,11/12/2025,2425,2568,2532,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,12/12/2025,2500,2560,2530,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,12/12/2025,2500,2811,2656,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,15/12/2025,2900,5000,3950,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,15/12/2025,2651,3171,2900,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,12/12/2025,2470,2525,2500,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,12/12/2025,2350,2550,2350,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,09/12/2025,2475,2825,2601,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,21/12/2025,2500,2610,2550,1
+Maharashtra,Pune,Shirur APMC,Wheat,Other,FAQ,28/12/2025,2800,2800,2800,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,12/12/2025,2640,2860,2700,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,29/12/2025,2500,2700,2600,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,16/12/2025,2190,2400,2222,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,16/12/2025,2425,2500,2460,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,FAQ,23/12/2025,2900,2900,2900,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,29/12/2025,2700,2750,2700,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,30/12/2025,2470,2790,2561,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,17/12/2025,3100,4100,3600,1
+Maharashtra,Sholapur,Kurdwadi(Modnimb) APMC,Wheat,Other,FAQ,08/12/2025,2450,3000,2800,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,04/12/2025,2250,2375,2312,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,Non-FAQ,29/12/2025,2193,2400,2400,1
+Maharashtra,Beed,Parali Vaijyanath APMC,Wheat,Other,Non-FAQ,08/12/2025,2400,2400,2400,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,31/12/2025,2425,2700,2600,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,23/12/2025,2576,2900,2900,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,15/12/2025,2500,2500,2500,1
+Maharashtra,Beed,Kaij APMC,Wheat,Other,Non-FAQ,08/12/2025,2340,2424,2350,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,12/12/2025,2499,2751,2500,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,10/12/2025,2100,2100,2100,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,31/12/2025,2271,2271,2271,1
+Maharashtra,Amarawati,Achalpur APMC,Wheat,Other,FAQ,19/12/2025,2500,2550,2525,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,08/12/2025,2425,2671,2600,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,FAQ,30/12/2025,2430,2873,2572,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,11/12/2025,2450,2600,2500,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,17/12/2025,2380,2380,2380,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,17/12/2025,2400,2400,2400,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,17/12/2025,2500,2763,2600,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,FAQ,17/12/2025,2471,2890,2471,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,FAQ,17/12/2025,2430,2700,2500,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,18/12/2025,2900,5000,3950,1
+Maharashtra,Parbhani,Selu APMC,Wheat,Other,FAQ,18/12/2025,2640,2640,2640,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Other,Non-FAQ,18/12/2025,2350,2350,2350,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,22/12/2025,2480,3013,2750,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,22/12/2025,2100,2400,2200,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,22/12/2025,2470,2700,2530,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,22/12/2025,2425,2465,2445,1
+Maharashtra,Sholapur,Mangal Wedha APMC,Wheat,Other,FAQ,22/12/2025,2710,3400,3200,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,20/12/2025,2500,2500,2500,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,20/12/2025,2800,4800,3700,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,20/12/2025,2050,2350,2170,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,Non-FAQ,20/12/2025,2400,2400,2400,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,19/12/2025,2605,2675,2650,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,19/12/2025,2450,2545,2495,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,20/12/2025,2435,3035,2615,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,24/12/2025,2222,2222,2222,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,24/12/2025,2300,2300,2300,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,24/12/2025,2500,2774,2685,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,24/12/2025,2000,2400,2200,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,24/12/2025,2451,2825,2638,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,24/12/2025,2450,2550,2500,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,23/12/2025,2659,2700,2659,1
+Maharashtra,Pune,Shirur APMC,Wheat,Other,FAQ,23/12/2025,2500,2800,2800,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,23/12/2025,2500,2500,2500,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,29/12/2025,2430,2450,2440,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,26/12/2025,2445,2520,2482,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,26/12/2025,2536,2684,2647,1
+Maharashtra,Amarawati,Achalpur APMC,Wheat,Other,FAQ,26/12/2025,2500,2600,2550,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,26/12/2025,2600,3000,2800,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,26/12/2025,2425,2795,2741,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,27/12/2025,2430,2440,2435,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,27/12/2025,2400,2400,2400,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,27/12/2025,2500,2900,2700,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,01/12/2025,4000,5400,4700,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,01/12/2025,2650,3100,2875,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,03/12/2025,2800,3000,2900,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,03/12/2025,3200,3500,3425,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,08/12/2025,3200,3500,3350,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,04/12/2025,2665,3855,3415,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,08/12/2025,4000,5600,4800,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,06/12/2025,3200,3500,3425,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,13/12/2025,2665,3855,3450,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,09/12/2025,3000,3600,3300,1
+Maharashtra,Nanded,Nanded APMC,Wheat,Sharbati,FAQ,04/12/2025,2600,2650,2650,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,08/12/2025,3000,3600,3300,1
+Maharashtra,Nanded,Nanded APMC,Wheat,Sharbati,FAQ,16/12/2025,2500,2500,2500,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,09/12/2025,2660,3850,3430,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,28/12/2025,2800,3200,3000,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,14/12/2025,3000,3600,3300,1
+Maharashtra,Nanded,Nanded APMC,Wheat,Sharbati,FAQ,23/12/2025,2640,3500,2845,1
+Maharashtra,Nanded,Nanded APMC,Wheat,Sharbati,FAQ,10/12/2025,2545,3005,2700,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,11/12/2025,3000,3600,3300,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,22/12/2025,2655,3860,3480,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,19/12/2025,3000,3500,3250,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,24/12/2025,2600,3090,2845,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,24/12/2025,2655,3870,3490,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,29/12/2025,3000,3500,3375,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,26/12/2025,2600,3160,2880,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,26/12/2025,2665,3880,3500,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,31/12/2025,2665,3900,3510,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,31/12/2025,2800,4000,3400,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,30/12/2025,2800,3200,3000,1
+Maharashtra,Buldhana,Buldhana(Dhad) APMC,Wheat,Other,Non-FAQ,16/11/2025,2000,2400,2200,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,18/11/2025,2500,2725,2650,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,FAQ,18/11/2025,2425,2555,2461,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,18/11/2025,2100,2420,2200,1
+Maharashtra,Jalana,Bhokardan(Pimpalgaon Renu) APMC,Wheat,Other,FAQ,18/11/2025,2425,2550,2500,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,18/11/2025,2425,2651,2575,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,18/11/2025,2350,2350,2350,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,18/11/2025,2425,2450,2437,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,19/11/2025,2200,2200,2200,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,19/11/2025,2300,2420,2400,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,19/11/2025,3000,3400,3200,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,19/11/2025,2500,2700,2600,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,20/11/2025,3000,5800,4400,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,20/11/2025,2000,2400,2400,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,20/11/2025,3320,3320,3320,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,20/11/2025,2450,3000,2725,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,20/11/2025,2430,2600,2500,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,20/11/2025,2520,2590,2570,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,20/11/2025,2525,2640,2525,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,24/11/2025,2430,2586,2586,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,24/11/2025,2450,2550,2500,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,24/11/2025,2450,2912,2681,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,24/11/2025,2425,2900,2470,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,24/11/2025,2100,2311,2300,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,24/11/2025,3000,3500,3250,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,Non-FAQ,21/11/2025,2400,2400,2400,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,21/11/2025,2430,3300,2700,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,21/11/2025,2430,2465,2450,1
+Maharashtra,Buldhana,Buldhana(Dhad) APMC,Wheat,Other,Non-FAQ,21/11/2025,2000,2200,2100,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,21/11/2025,2000,2400,2350,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,21/11/2025,2600,2700,2600,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,21/11/2025,2600,2600,2600,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,21/11/2025,2100,2400,2251,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,22/11/2025,2250,2422,2400,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,22/11/2025,2425,2800,2600,1
+Maharashtra,Dhule,Sakri APMC,Wheat,Other,Non-FAQ,22/11/2025,1800,1800,1800,1
+Maharashtra,Nanded,Loha APMC,Wheat,Other,Non-FAQ,22/11/2025,2200,2420,2400,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,25/11/2025,2500,2725,2500,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,Non-FAQ,25/11/2025,2301,2350,2325,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,25/11/2025,2650,2700,2650,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,25/11/2025,2500,2800,2650,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,25/11/2025,3000,3500,3250,1
+Maharashtra,Latur,Chakur APMC,Wheat,Other,Non-FAQ,27/11/2025,2201,2260,2230,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,27/11/2025,2460,2540,2510,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,27/11/2025,2670,2685,2677,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,27/11/2025,2450,3060,2781,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,27/11/2025,2500,2911,2700,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,27/11/2025,2200,2411,2300,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,28/11/2025,3200,4000,3600,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,26/11/2025,2470,2595,2545,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,26/11/2025,2425,2590,2530,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,26/11/2025,2470,2470,2470,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,26/11/2025,1991,2420,2121,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,27/11/2025,2500,2650,2575,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,27/11/2025,2200,2274,2250,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,28/11/2025,1800,2400,2200,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,28/11/2025,2475,2650,2550,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,28/11/2025,2425,2595,2450,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,29/11/2025,2510,2510,2510,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,29/11/2025,2451,2860,2655,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,29/11/2025,2450,2600,2500,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,28/11/2025,2451,3000,2779,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,28/11/2025,2425,2475,2450,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,17/11/2025,2600,2700,2650,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,17/11/2025,2000,2380,2150,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,17/11/2025,2500,2700,2600,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,17/11/2025,3000,5800,4400,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,17/11/2025,2600,2851,2611,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,14/11/2025,2500,3000,2750,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,17/11/2025,2460,2550,2460,1
+Maharashtra,Amarawati,Morshi APMC,Wheat,Other,Non-FAQ,17/11/2025,2200,2400,2300,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,15/11/2025,2500,2800,2650,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,15/11/2025,2462,3000,2627,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,15/11/2025,2425,2530,2530,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,15/11/2025,2430,2465,2450,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,15/11/2025,2200,2400,2300,1
+Maharashtra,Jalgaon,Raver APMC,Wheat,Other,FAQ,15/11/2025,2521,2521,2521,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,07/11/2025,2665,3840,3355,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,10/11/2025,2600,3100,2850,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,11/11/2025,3200,3500,3425,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,01/11/2025,2665,3865,3355,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,04/11/2025,4500,5000,4750,1
+Maharashtra,Chandrapur,Varora APMC,Wheat,Sharbati,Non-FAQ,05/11/2025,2000,2200,2100,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,13/11/2025,3200,3300,3250,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,14/11/2025,2660,3830,3355,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,15/11/2025,2655,3835,3360,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,18/11/2025,2660,3845,3370,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,20/11/2025,2670,3845,3380,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,25/11/2025,2660,3850,3375,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,07/11/2025,3000,3600,3300,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,12/11/2025,2665,3830,3355,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,03/11/2025,2670,3860,3350,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,17/11/2025,3300,4000,3650,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,18/11/2025,3300,4000,3500,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,20/11/2025,4200,5500,4850,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,27/11/2025,2670,3860,3385,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,28/11/2025,3200,3500,3425,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,29/11/2025,2670,3855,3395,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,FAQ,07/11/2025,2425,2700,2600,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,07/11/2025,2500,2745,2540,1
+Maharashtra,Dharashiv(Usmanabad),Umarga APMC,Wheat,Maharashtra 2189,Non-FAQ,08/11/2025,2400,2400,2400,1
+Maharashtra,Latur,Latur(Murud) APMC,Wheat,Maharashtra 2189,Non-FAQ,10/11/2025,2000,2400,2200,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,12/11/2025,2351,2351,2351,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,11/11/2025,2500,2800,2765,1
+Maharashtra,Vashim,Washim(Ansing) APMC,Wheat,Maharashtra 2189,Non-FAQ,11/11/2025,2250,2300,2280,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,01/11/2025,2500,2600,2500,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,01/11/2025,2427,2700,2500,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,01/11/2025,2700,3000,2900,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,Non-FAQ,01/11/2025,2320,2420,2400,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,04/11/2025,2480,3200,2804,1
+Maharashtra,Latur,Ausa APMC,Wheat,Maharashtra 2189,Non-FAQ,05/11/2025,2301,2401,2351,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,05/11/2025,2540,2601,2569,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,17/11/2025,2500,2600,2500,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,14/11/2025,2526,2697,2550,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,18/11/2025,2301,2424,2350,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,19/11/2025,2500,2600,2600,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,Non-FAQ,19/11/2025,2101,2400,2300,1
+Maharashtra,Vashim,Washim(Ansing) APMC,Wheat,Maharashtra 2189,Non-FAQ,20/11/2025,2350,2400,2380,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,20/11/2025,2450,2799,2550,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,21/11/2025,2499,2539,2525,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,26/11/2025,2545,2585,2585,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,27/11/2025,2500,2600,2500,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,29/11/2025,2500,2760,2622,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,29/11/2025,2700,3000,2900,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,13/11/2025,2455,2570,2511,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,15/11/2025,2555,3065,2888,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,15/11/2025,2500,2700,2500,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,19/11/2025,2475,2700,2695,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,19/11/2025,2550,2851,2650,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,Non-FAQ,20/11/2025,1800,2380,2000,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,24/11/2025,2350,2350,2350,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,FAQ,21/11/2025,2425,2550,2475,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,FAQ,25/11/2025,2450,2751,2500,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,FAQ,27/11/2025,2425,2721,2471,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,26/11/2025,2501,2690,2550,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,29/11/2025,2500,2600,2500,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,FAQ,29/11/2025,2450,2650,2500,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,11/11/2025,2455,2690,2600,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,24/11/2025,2550,2750,2650,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,10/12/2025,2430,2525,2500,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,11/12/2025,2500,2825,2662,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,11/12/2025,2700,4800,3700,1
+Maharashtra,Buldhana,Chikali APMC,Wheat,Other,Non-FAQ,11/12/2025,2000,2300,2150,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,12/12/2025,2500,2800,2600,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,15/12/2025,2200,2200,2200,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,15/12/2025,2550,2900,2850,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,10/12/2025,2528,2590,2559,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,FAQ,04/12/2025,2800,2800,2800,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,18/12/2025,2200,2300,2250,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,11/12/2025,2600,2700,2650,1
+Maharashtra,Pune,Shirur APMC,Wheat,Other,Non-FAQ,25/12/2025,2400,2400,2400,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,05/12/2025,2300,2300,2300,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,22/12/2025,3450,3450,3450,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,17/12/2025,2050,2155,2120,1
+Maharashtra,Amarawati,Achalpur APMC,Wheat,Other,FAQ,22/12/2025,2500,2600,2550,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,08/12/2025,2545,2790,2700,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,23/12/2025,2500,2600,2550,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,18/12/2025,2311,2311,2311,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,08/12/2025,2600,2851,2600,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,FAQ,12/12/2025,2500,2800,2500,1
+Maharashtra,Amarawati,Achalpur APMC,Wheat,Other,FAQ,03/12/2025,2500,2600,2550,1
+Maharashtra,Ahmednagar,Sangamner APMC,Wheat,Other,FAQ,16/12/2025,2500,2500,2500,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,16/12/2025,2450,2550,2500,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,16/12/2025,2200,2400,2300,1
+Maharashtra,Chattrapati Sambhajinagar,Kannad APMC,Wheat,Other,FAQ,27/12/2025,2451,2727,2579,1
+Maharashtra,Yavatmal,Kisan Market Yard APMC,Wheat,Other,Local,08/12/2025,2200,2500,2385,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,31/12/2025,2425,2640,2552,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,FAQ,16/12/2025,2435,2700,2500,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod(Bharadi) APMC,Wheat,Other,FAQ,06/12/2025,2520,2520,2520,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,31/12/2025,2440,2555,2500,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,31/12/2025,2900,5000,3950,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,31/12/2025,2601,2921,2713,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,30/12/2025,2450,2691,2600,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,30/12/2025,2500,2650,2575,1
+Maharashtra,Nanded,Loha APMC,Wheat,Other,Non-FAQ,11/12/2025,2150,2400,2300,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,11/12/2025,2500,2700,2600,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,15/12/2025,2700,4700,3700,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,12/12/2025,2450,3000,2675,1
+Maharashtra,Buldhana,Chikali APMC,Wheat,Other,Non-FAQ,12/12/2025,2070,2300,2185,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,12/12/2025,2425,2701,2551,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,13/12/2025,2425,2495,2450,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,13/12/2025,2611,2611,2611,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,FAQ,13/12/2025,2428,2771,2541,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,17/12/2025,2500,2701,2600,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,FAQ,18/12/2025,2500,2500,2500,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,29/12/2025,2425,2570,2560,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,11/12/2025,2500,2700,2600,1
+Maharashtra,Nanded,Loha APMC,Wheat,Other,FAQ,25/12/2025,2500,2501,2500,1
+Maharashtra,Parbhani,Parbhani APMC,Wheat,Other,FAQ,28/12/2025,2600,2900,2800,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,Non-FAQ,18/12/2025,2200,2200,2200,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,16/12/2025,3000,4000,3500,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,16/12/2025,2450,3100,2613,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,16/12/2025,3425,3425,3425,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,12/12/2025,2561,2911,2811,1
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,Wheat,Other,FAQ,16/12/2025,2550,2550,2550,1
+Maharashtra,Jalgaon,Raver APMC,Wheat,Other,FAQ,08/12/2025,2601,2601,2601,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,15/12/2025,2551,3000,3000,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,16/12/2025,2001,2001,2001,1
+Maharashtra,Nanded,Kandhar APMC,Wheat,Other,FAQ,24/12/2025,2500,2800,2600,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,19/12/2025,2494,9699,2509,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,FAQ,09/12/2025,2800,2800,2800,1
+Maharashtra,Yavatmal,"Mahesh Krushi Utpanna Bazar, Digras APMC",Wheat,Other,Local,05/12/2025,2400,2400,2400,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,12/12/2025,2500,2600,2550,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,11/12/2025,2550,2831,2767,1
+Maharashtra,Ahmednagar,Karjat(Rashin) APMC,Wheat,Other,Non-FAQ,30/12/2025,2000,2000,2000,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,27/12/2025,2500,2500,2500,1
+Maharashtra,Vashim,Krushna Krishi Bazar  APMC,Wheat,Other,Local,16/12/2025,2250,2250,2250,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,19/12/2025,2400,2400,2400,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,07/12/2025,2300,2525,2500,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,11/12/2025,2200,2350,2275,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,22/12/2025,2511,2750,2750,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,FAQ,10/12/2025,2500,2500,2500,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,23/12/2025,2431,2686,2558,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,Non-FAQ,09/12/2025,2200,2200,2200,1
+Maharashtra,Sholapur,Kurdwadi(Modnimb) APMC,Wheat,Other,FAQ,25/12/2025,2590,2702,2650,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,29/12/2025,2500,2750,2625,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,29/12/2025,2480,2825,2600,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,26/12/2025,2475,2530,2505,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,26/12/2025,3400,3400,3400,1
+Maharashtra,Jalana,Bhokardan APMC,Wheat,Other,FAQ,27/12/2025,2425,2550,2500,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,27/12/2025,2200,2400,2300,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,27/12/2025,2525,2750,2575,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,27/12/2025,2450,2740,2607,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,29/12/2025,2900,5000,3950,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,29/12/2025,2450,2620,2560,1
+Maharashtra,Buldhana,Chikali APMC,Wheat,Other,Non-FAQ,31/12/2025,2160,2400,2330,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,31/12/2025,2700,2800,2739,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,31/12/2025,2300,2300,2300,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,Non-FAQ,31/12/2025,2400,2420,2410,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,30/12/2025,2585,2585,2585,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,01/01/2026,2500,2600,2550,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,06/01/2026,2500,2600,2550,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,FAQ,22/01/2026,2500,2800,2651,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,05/01/2026,2450,2600,2550,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,Non-FAQ,15/01/2026,2000,2420,2380,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,11/02/2026,2450,2600,2500,1
+Maharashtra,Jalgaon,Parola APMC,Wheat,Kalyan,Non-FAQ,13/02/2026,2336,2400,2336,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,Non-FAQ,16/02/2026,2200,2420,2400,1
+Maharashtra,Jalana,Bhokardan APMC,Wheat,Other,FAQ,24/01/2026,2425,2600,2500,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,24/01/2026,2425,2555,2500,1
+Maharashtra,Chattrapati Sambhajinagar,Fulmbri APMC,Wheat,Other,Non-FAQ,28/01/2026,1850,2250,2000,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,FAQ,29/01/2026,2550,2550,2550,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,29/01/2026,2350,2400,2400,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,28/01/2026,2600,3000,2800,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,29/01/2026,2450,2650,2550,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,30/01/2026,3400,3400,3400,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,30/01/2026,2524,2571,2550,1
+Maharashtra,Sholapur,Kurdwadi(Modnimb) APMC,Wheat,Other,FAQ,30/01/2026,2471,2546,2500,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,31/01/2026,2450,3000,2650,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,31/01/2026,2701,2951,2826,1
+Maharashtra,Yavatmal,"Mahesh Krushi Utpanna Bazar, Digras APMC",Wheat,Other,Local,03/02/2026,2400,2400,2400,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,02/02/2026,2425,2495,2460,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,Non-FAQ,02/02/2026,2050,2050,2050,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,05/02/2026,2800,3000,3000,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,06/02/2026,2450,2800,2450,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,06/02/2026,2500,3000,2750,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,07/02/2026,2100,2423,2420,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,07/02/2026,2526,2526,2526,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,10/02/2026,2500,4800,3600,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,08/02/2026,2400,2400,2400,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,10/02/2026,2445,2750,2445,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,10/02/2026,2500,3000,2750,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,09/02/2026,2425,2505,2475,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,09/02/2026,2450,2650,2500,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,09/02/2026,2450,2600,2500,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,09/02/2026,2450,2600,2450,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,09/02/2026,2900,5000,3950,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,09/02/2026,3400,3400,3400,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,10/02/2026,2425,2900,2900,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,10/02/2026,2051,2051,2051,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,12/02/2026,2150,2420,2235,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,12/02/2026,2475,2811,2475,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,FAQ,10/02/2026,2600,2600,2600,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,11/02/2026,2611,2611,2611,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,11/02/2026,1812,2351,2300,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,11/02/2026,2550,2712,2712,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,11/02/2026,2435,2445,2440,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,11/02/2026,2900,5600,4250,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,12/02/2026,2425,2437,2425,1
+Maharashtra,Jalgaon,Jalgaon APMC,Wheat,147 Average,FAQ,06/01/2026,2550,2550,2550,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,05/01/2026,3231,3231,3231,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,06/01/2026,3500,3500,3500,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,Non-FAQ,06/01/2026,2350,2350,2350,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,08/01/2026,3400,3400,3400,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,13/01/2026,2600,2600,2600,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,10/01/2026,2801,2801,2801,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,16/01/2026,2550,3000,2830,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,18/01/2026,2526,3032,2600,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,21/01/2026,2451,22631,2500,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,21/01/2026,3232,3551,3353,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,01/02/2026,2450,2900,2838,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,24/01/2026,2450,3240,2700,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,25/01/2026,2500,2670,2600,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,30/01/2026,2400,2400,2400,1
+Maharashtra,Jalgaon,Chopada APMC,Wheat,Other,Non-FAQ,29/01/2026,2386,2386,2386,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,Non-FAQ,30/01/2026,2200,2200,2200,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,28/01/2026,2450,2694,2661,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,29/01/2026,2425,2760,2661,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,29/01/2026,3100,4000,3550,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,Non-FAQ,30/01/2026,2300,2411,2400,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,30/01/2026,2500,2648,2611,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,31/01/2026,2425,2700,2562,1
+Maharashtra,Sholapur,Barshi(Vairag) APMC,Wheat,Other,FAQ,02/02/2026,2580,2911,2911,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,05/02/2026,2471,2564,2550,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,05/02/2026,2450,2500,2475,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,05/02/2026,2500,2650,2600,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,05/02/2026,2230,2230,2230,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,05/02/2026,2565,2590,2580,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,05/02/2026,2550,2650,2650,1
+Maharashtra,Amarawati,Varud(Rajura Bazar) APMC,Wheat,Other,FAQ,06/02/2026,2500,2500,2500,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,06/02/2026,2458,2458,2458,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,06/02/2026,2435,2630,2475,1
+Maharashtra,Beed,Kille Dharur APMC,Wheat,Other,FAQ,06/02/2026,2431,2950,2600,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,07/02/2026,2500,2500,2500,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,13/02/2026,2450,2575,2450,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,17/02/2026,2200,2400,2300,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,13/02/2026,2430,2603,2525,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,13/02/2026,2490,2490,2490,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,14/02/2026,2000,2420,2400,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,14/02/2026,2450,2550,2500,1
+Maharashtra,Beed,Vadvani APMC,Wheat,Other,FAQ,14/02/2026,2950,3101,3101,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,Non-FAQ,14/02/2026,2400,2424,2415,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,FAQ,14/02/2026,2550,2550,2550,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,Non-FAQ,14/02/2026,2200,2400,2300,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,Non-FAQ,16/02/2026,1900,2417,2300,1
+Maharashtra,Jalana,Bhokardan(Pimpalgaon Renu) APMC,Wheat,Other,FAQ,17/02/2026,2425,2550,2500,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,17/02/2026,2430,2470,2450,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,17/02/2026,2460,2775,2650,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,08/01/2026,4500,5000,4750,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,01/01/2026,3200,3500,3425,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,01/01/2026,2670,3905,3515,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,02/01/2026,2800,3200,3000,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,05/01/2026,3200,3500,3425,1
+Maharashtra,Akola,Akola APMC,Wheat,Sharbati,FAQ,06/01/2026,3000,3550,3350,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,07/01/2026,2660,3900,3535,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,08/01/2026,3200,3500,3350,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,08/01/2026,2670,3910,3545,1
+Maharashtra,Akola,Akola APMC,Wheat,Sharbati,FAQ,09/01/2026,3050,3550,3350,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,09/01/2026,2800,3600,3200,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,14/01/2026,3200,3500,3425,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,19/01/2026,3200,3500,3425,1
+Maharashtra,Nanded,Nanded APMC,Wheat,Sharbati,FAQ,07/01/2026,2530,2875,2560,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,04/01/2026,2800,3200,3000,1
+Maharashtra,Nanded,Nanded APMC,Wheat,Sharbati,FAQ,23/01/2026,2450,2600,2500,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,22/01/2026,2665,3880,3600,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,22/01/2026,3200,3500,3425,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,23/01/2026,2650,3250,2950,1
+Maharashtra,Akola,Akola APMC,Wheat,Sharbati,FAQ,30/01/2026,3000,3550,3400,1
+Maharashtra,Akola,Akola APMC,Wheat,Sharbati,FAQ,31/01/2026,2800,3100,3000,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,01/02/2026,3300,4000,3650,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,03/02/2026,3300,4000,3600,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,04/02/2026,3200,3500,3425,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,05/02/2026,2800,3600,3200,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,07/02/2026,3200,3500,3425,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,12/02/2026,2800,3600,3200,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,11/02/2026,2660,3905,3670,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Sharbati,FAQ,11/02/2026,2850,2980,2900,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,11/02/2026,3200,3500,3425,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,Non-FAQ,16/02/2026,1925,2420,2172,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,24/01/2026,2500,2811,2575,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,28/01/2026,2500,2788,2575,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,28/01/2026,2565,2700,2670,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,28/01/2026,1500,1500,1500,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,Non-FAQ,28/01/2026,1700,1700,1700,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,29/01/2026,2500,3100,2750,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,30/01/2026,2500,2800,2650,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,30/01/2026,3200,4200,3700,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,31/01/2026,2600,2800,2700,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,Non-FAQ,31/01/2026,2400,2400,2400,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,03/02/2026,2400,2500,2400,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,02/02/2026,2500,4800,3600,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,01/02/2026,2800,3200,3000,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,02/02/2026,3250,3250,3250,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,02/02/2026,2425,2553,2525,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,04/02/2026,2600,2600,2600,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,02/02/2026,2425,2495,2450,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,03/02/2026,2450,2650,2450,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,03/02/2026,2430,2645,2500,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,04/02/2026,2700,2871,2736,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,03/02/2026,2800,3000,2900,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,03/02/2026,2450,2550,2500,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,04/02/2026,2400,2400,2400,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,03/02/2026,2450,2600,2550,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,03/02/2026,2450,2600,2500,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,03/02/2026,2550,2655,2655,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,04/02/2026,2450,2625,2450,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,04/02/2026,2425,2695,2520,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,04/02/2026,2100,2421,2420,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,03/02/2026,2100,2400,2250,1
+Maharashtra,Chattrapati Sambhajinagar,Fulmbri APMC,Wheat,Other,Non-FAQ,03/02/2026,2125,2350,2200,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,04/02/2026,3220,3220,3220,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,03/02/2026,2431,2727,2600,1
+Maharashtra,Nandurbar,Nandurbar APMC,Wheat,Other,Non-FAQ,03/02/2026,2381,2381,2381,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,03/02/2026,2425,2718,2425,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,04/02/2026,2000,2000,2000,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,04/02/2026,2499,2600,2560,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,04/02/2026,2425,2650,2525,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,FAQ,04/02/2026,2440,2800,2700,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,04/02/2026,2425,2671,2671,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,04/02/2026,2250,2325,2288,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,04/02/2026,2400,2400,2400,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,04/02/2026,2350,2400,2350,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,05/02/2026,2470,2600,2550,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,05/02/2026,2450,2800,2600,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,05/02/2026,2350,2350,2350,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,06/02/2026,2500,2900,2725,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,Non-FAQ,06/02/2026,2200,2400,2300,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,06/02/2026,2430,2800,2600,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,06/02/2026,2200,2400,2300,1
+Maharashtra,Beed,Kille Dharur APMC,Wheat,Other,Non-FAQ,06/02/2026,2381,2402,2390,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,10/02/2026,2450,3000,2600,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,09/02/2026,2425,2425,2425,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,09/02/2026,2335,2410,2400,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,09/02/2026,2450,2901,2800,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,09/02/2026,2425,2501,2480,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,09/02/2026,2500,2600,2550,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,09/02/2026,2200,2411,2306,1
+Maharashtra,Amarawati,Morshi APMC,Wheat,Other,Non-FAQ,09/02/2026,2350,2420,2385,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,10/02/2026,2500,2800,2650,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,10/02/2026,2900,5600,4250,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,10/02/2026,2450,2450,2450,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,10/02/2026,2765,2765,2765,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,12/02/2026,2415,2415,2415,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,Non-FAQ,12/02/2026,2250,2250,2250,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,12/02/2026,3000,3200,3100,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,10/02/2026,2000,2325,2162,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,11/02/2026,2650,2700,2650,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,11/02/2026,2125,2125,2125,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,11/02/2026,2435,2760,2500,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,12/02/2026,2601,2601,2601,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,16/02/2026,2425,2600,2475,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,Non-FAQ,16/02/2026,2400,2424,2418,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,Non-FAQ,16/02/2026,2100,2380,2300,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,16/02/2026,2425,2511,2461,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,16/02/2026,2800,3000,2900,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,16/02/2026,2300,2410,2375,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,13/02/2026,2425,2630,2465,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,16/02/2026,2425,2525,2480,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,13/02/2026,2488,2600,2600,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,16/02/2026,2755,2755,2755,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,13/02/2026,2650,2750,2650,1
+Maharashtra,Vashim,Krushna Krishi Bazar  APMC,Wheat,Other,Local,17/02/2026,2230,2230,2230,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,17/02/2026,3200,4200,3700,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,06/01/2026,2515,2610,2515,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,FAQ,06/01/2026,2450,2700,2575,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,07/01/2026,2500,2859,2680,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,07/01/2026,2480,2600,2550,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,07/01/2026,2430,2480,2455,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,07/01/2026,2625,3184,2800,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,07/01/2026,2280,2400,2350,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,07/01/2026,2540,2680,2645,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,06/01/2026,2300,2411,2350,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,06/01/2026,2510,2757,2600,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,06/01/2026,1960,1960,1960,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,08/01/2026,2500,2750,2625,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,08/01/2026,2495,2550,2530,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,13/01/2026,2550,2800,2625,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,13/01/2026,2900,5000,3950,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,13/01/2026,2000,2400,2300,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,13/01/2026,2425,2700,2575,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,FAQ,13/01/2026,2425,2761,2554,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,12/01/2026,2800,3200,3000,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,12/01/2026,2200,2400,2300,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,12/01/2026,2550,2675,2645,1
+Maharashtra,Sholapur,Mangal Wedha APMC,Wheat,Other,FAQ,12/01/2026,3010,3300,3300,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,12/01/2026,2750,3160,2974,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,13/01/2026,2425,2450,2450,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,13/01/2026,2581,2900,2761,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,09/01/2026,2740,3000,2870,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,09/01/2026,2460,2605,2540,1
+Maharashtra,Amarawati,Achalpur APMC,Wheat,Other,FAQ,09/01/2026,2500,2580,2540,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,09/01/2026,2200,2400,2300,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,09/01/2026,2500,2500,2500,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,09/01/2026,2600,4800,3700,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,10/01/2026,2518,2700,2600,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,10/01/2026,2430,2500,2465,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,10/01/2026,2450,2600,2525,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,10/01/2026,2090,2100,2095,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,10/01/2026,2491,2831,2700,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,10/01/2026,2550,2800,2675,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,10/01/2026,2400,2400,2400,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,10/01/2026,2200,2400,2300,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,11/01/2026,2500,2700,2600,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,Non-FAQ,13/01/2026,1591,1846,1745,1
+Maharashtra,Jalgaon,Raver APMC,Wheat,Other,FAQ,15/01/2026,2640,2640,2640,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,15/01/2026,2500,2650,2600,1
+Maharashtra,Beed,Vadvani APMC,Wheat,Other,FAQ,15/01/2026,2450,2551,2451,1
+Maharashtra,Vashim,Manora APMC,Wheat,Other,FAQ,14/01/2026,2450,2450,2450,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,14/01/2026,1821,2400,2100,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,14/01/2026,2470,2675,2470,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,14/01/2026,2800,3000,2900,1
+Maharashtra,Sholapur,Barshi APMC,Wheat,Other,FAQ,21/01/2026,2550,3000,2800,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Other,Non-FAQ,21/01/2026,2250,2350,2350,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,21/01/2026,2650,2900,2775,1
+Maharashtra,Yavatmal,Digras APMC,Wheat,Other,FAQ,21/01/2026,2500,2785,2685,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,21/01/2026,2300,2300,2300,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,19/01/2026,2555,2555,2555,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,19/01/2026,2600,2801,2700,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,19/01/2026,2500,4800,3600,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,21/01/2026,2625,2800,2625,1
+Maharashtra,Yavatmal,"Mahesh Krushi Utpanna Bazar, Digras APMC",Wheat,Other,Local,27/01/2026,2500,2500,2500,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,19/01/2026,2500,2650,2650,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,19/01/2026,2430,2465,2450,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,19/01/2026,2600,2600,2600,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,22/01/2026,2570,2950,2800,1
+Maharashtra,Beed,Parali Vaijyanath APMC,Wheat,Other,FAQ,22/01/2026,2721,2721,2721,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,16/01/2026,2425,2631,2528,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,16/01/2026,2500,3000,2700,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,22/01/2026,2400,2400,2400,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,16/01/2026,2500,3000,2750,1
+Maharashtra,Buldhana,Chikali APMC,Wheat,Other,FAQ,16/01/2026,2425,2900,2600,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,Non-FAQ,16/01/2026,2350,2400,2375,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,20/01/2026,2295,2400,2351,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,17/01/2026,2600,2900,2750,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,17/01/2026,2500,2850,2650,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,17/01/2026,2425,2675,2500,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,17/01/2026,2450,2750,2600,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,17/01/2026,3000,4000,3500,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,17/01/2026,1911,2423,2420,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,17/01/2026,2620,3060,2700,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,22/01/2026,2605,2705,2700,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,20/01/2026,2475,2970,2590,1
+Maharashtra,Yavatmal,Digras APMC,Wheat,Other,Non-FAQ,20/01/2026,2325,2390,2385,1
+Maharashtra,Yavatmal,Pusad APMC,Wheat,Other,FAQ,20/01/2026,2600,3070,2801,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,20/01/2026,2600,2800,2700,1
+Maharashtra,Pune,Shirur APMC,Wheat,Other,FAQ,20/01/2026,2600,2600,2600,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,20/01/2026,2500,2741,2602,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,19/01/2026,2616,2636,2625,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,19/01/2026,2500,2800,2600,1
+Maharashtra,Nandurbar,Nandurbar APMC,Wheat,Other,Non-FAQ,12/01/2026,2343,2343,2343,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,01/01/2026,2326,2326,2326,1
+Maharashtra,Vashim,Manora APMC,Wheat,Other,Non-FAQ,07/01/2026,2400,2400,2400,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,19/01/2026,2500,2530,2500,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,Non-FAQ,13/01/2026,2350,2350,2350,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,12/01/2026,2450,2700,2600,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,10/01/2026,2450,2710,2600,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,FAQ,16/01/2026,2600,2850,2600,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,FAQ,02/01/2026,2700,2700,2700,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,01/01/2026,2470,2560,2500,1
+Maharashtra,Sholapur,Barshi(Vairag) APMC,Wheat,Other,FAQ,06/01/2026,2500,2640,2560,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,Non-FAQ,09/01/2026,2200,2200,2200,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,10/01/2026,2700,2750,2700,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,09/01/2026,2425,2741,2650,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,16/01/2026,2500,2900,2700,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,05/01/2026,2350,2400,2400,1
+Maharashtra,Pune,Shirur APMC,Wheat,Other,FAQ,13/01/2026,2700,2800,2700,1
+Maharashtra,Beed,Kaij APMC,Wheat,Other,Non-FAQ,13/01/2026,2300,2400,2350,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,09/01/2026,2600,2800,2700,1
+Maharashtra,Yavatmal,Kisan Market Yard APMC,Wheat,Other,Local,17/01/2026,2500,2605,2546,1
+Maharashtra,Vashim,Manora APMC,Wheat,Other,FAQ,12/01/2026,2651,2651,2651,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,01/01/2026,2600,2650,2613,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,14/01/2026,2500,2600,2550,1
+Maharashtra,Nanded,Kandhar APMC,Wheat,Other,FAQ,16/01/2026,2500,2800,2600,1
+Maharashtra,Beed,Parali Vaijyanath APMC,Wheat,Other,Non-FAQ,12/01/2026,2351,2400,2351,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,16/01/2026,2300,2300,2300,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,18/01/2026,2450,2450,2450,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,12/01/2026,2600,2800,2700,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,05/01/2026,2300,2300,2300,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,16/01/2026,2400,2400,2400,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,11/01/2026,2425,2500,2500,1
+Maharashtra,Ahmednagar,Karjat(Rashin) APMC,Wheat,Other,Non-FAQ,13/01/2026,2000,2000,2000,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,FAQ,05/01/2026,2425,2700,2562,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,02/01/2026,2518,2650,2650,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,06/01/2026,2300,2400,2400,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,05/01/2026,2425,2540,2500,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,01/01/2026,2560,2560,2560,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,05/01/2026,2600,2735,2700,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,15/01/2026,2435,3100,2615,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,05/01/2026,2600,2750,2675,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,07/01/2026,2553,2701,2595,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,02/01/2026,2360,2400,2380,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,12/01/2026,2200,2400,2300,1
+Maharashtra,Pune,Shirur APMC,Wheat,Other,FAQ,15/01/2026,2800,2800,2800,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,06/01/2026,2451,2451,2451,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,13/01/2026,2300,2300,2300,1
+Maharashtra,Amarawati,Anajngaon APMC,Wheat,Other,Non-FAQ,13/01/2026,2200,2400,2300,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,02/01/2026,2300,2300,2300,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,23/01/2026,2000,2000,2000,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,23/01/2026,2500,2840,2600,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,21/01/2026,2500,2800,2500,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,23/01/2026,2570,2734,2583,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,23/01/2026,2625,2712,2712,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,22/01/2026,2500,2700,2600,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,21/01/2026,2620,2840,2700,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,21/01/2026,2577,3140,2856,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,21/01/2026,2525,2525,2525,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,21/01/2026,2500,2625,2562,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,21/01/2026,2425,2600,2500,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,21/01/2026,2430,2505,2470,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,21/01/2026,2575,3000,2800,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,21/01/2026,2451,2451,2451,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,21/01/2026,2475,2475,2475,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,21/01/2026,2500,2750,2625,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,21/01/2026,2900,5000,3950,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,21/01/2026,2800,2852,2800,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,21/01/2026,2425,2600,2512,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,21/01/2026,2700,2840,2770,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,22/01/2026,2425,2700,2700,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,22/01/2026,2515,2615,2540,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,22/01/2026,2295,2295,2295,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,22/01/2026,2425,2750,2650,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,22/01/2026,2425,2450,2430,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,22/01/2026,2650,2800,2725,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,Non-FAQ,22/01/2026,2350,2400,2375,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,22/01/2026,2450,2700,2550,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,27/01/2026,2450,2951,2450,1
+Maharashtra,Nandurbar,Nandurbar APMC,Wheat,Other,FAQ,27/01/2026,2425,2600,2600,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,27/01/2026,2500,2775,2700,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,27/01/2026,2900,2900,2900,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,27/01/2026,3200,4200,3700,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,27/01/2026,2500,2871,2686,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,27/01/2026,2430,2700,2565,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,27/01/2026,2600,3000,2800,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,27/01/2026,2600,2800,2700,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,27/01/2026,2440,2530,2500,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,27/01/2026,2400,2400,2400,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,27/01/2026,2500,3000,2650,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,27/01/2026,2625,2766,2700,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,27/01/2026,2460,2600,2500,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,25/01/2026,2300,2900,2500,1
+Maharashtra,Yavatmal,Kisan Market Yard APMC,Wheat,Other,Local,24/01/2026,2450,2450,2450,1
+Maharashtra,Sholapur,Kurdwadi(Modnimb) APMC,Wheat,Other,FAQ,27/01/2026,2450,3151,2800,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,23/01/2026,2500,2731,2600,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,23/01/2026,2511,2725,2611,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,23/01/2026,2600,2700,2600,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,FAQ,23/01/2026,2500,2700,2600,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,01/01/2026,2500,3000,2750,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,FAQ,01/01/2026,2570,3000,2606,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,01/01/2026,2425,2621,2521,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,01/01/2026,2312,2312,2312,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,01/01/2026,2480,2480,2480,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,01/01/2026,2900,5000,3950,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,01/01/2026,4500,4550,4500,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,02/01/2026,2500,2500,2500,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,02/01/2026,2000,2311,2151,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,02/01/2026,2550,2730,2650,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,02/01/2026,2450,3375,2800,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,02/01/2026,2425,2580,2500,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,02/01/2026,2480,2800,2500,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,02/01/2026,2500,2700,2650,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,02/01/2026,2450,2565,2500,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,02/01/2026,2500,3000,2750,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,02/01/2026,2000,2400,2400,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,03/01/2026,2700,4800,3600,1
+Maharashtra,Jalgaon,Raver APMC,Wheat,Other,FAQ,03/01/2026,2641,2641,2641,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,03/01/2026,3425,3425,3425,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,03/01/2026,2425,2715,2595,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,03/01/2026,2150,2400,2210,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,05/01/2026,2500,3000,2750,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,05/01/2026,2570,2690,2660,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,05/01/2026,2495,3161,2645,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,05/01/2026,2600,2600,2600,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,05/01/2026,2500,3000,2571,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,05/01/2026,2251,2251,2251,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,05/01/2026,2700,3000,2850,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,Non-FAQ,06/01/2026,1700,2400,2101,1
+Maharashtra,Jalgaon,Raver APMC,Wheat,Other,Non-FAQ,06/01/2026,2400,2400,2400,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,01/01/2026,2602,2651,2625,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,05/01/2026,2500,2600,2500,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,06/01/2026,2589,2769,2589,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Maharashtra 2189,FAQ,06/01/2026,3175,3175,3175,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,07/01/2026,2550,2550,2550,1
+Maharashtra,Nashik,Lasalgaon APMC,Wheat,Maharashtra 2189,FAQ,07/01/2026,2551,2700,2640,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,06/01/2026,2500,2700,2700,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,08/01/2026,2550,2728,2650,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,FAQ,12/01/2026,2425,2700,2550,1
+Maharashtra,Nashik,Lasalgaon APMC,Wheat,Maharashtra 2189,FAQ,12/01/2026,2625,2800,2700,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,FAQ,12/01/2026,2700,2700,2700,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,12/01/2026,2341,2424,2400,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,10/01/2026,2621,2750,2691,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,10/01/2026,2500,2750,2750,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,10/01/2026,2700,3000,2800,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,15/01/2026,2632,2688,2632,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,15/01/2026,2500,2600,2500,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,14/01/2026,2611,2690,2663,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,14/01/2026,2500,2500,2500,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,19/01/2026,2505,2900,2666,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,FAQ,16/01/2026,2500,2500,2500,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,17/01/2026,2700,3000,2900,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,20/01/2026,2640,2700,2641,1
+Maharashtra,Dharashiv(Usmanabad),Kalamb (Dharashiv) APMC,Wheat,Maharashtra 2189,FAQ,02/01/2026,2425,3300,3000,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,02/01/2026,2527,2790,2626,1
+Maharashtra,Latur,Ausa APMC,Wheat,Maharashtra 2189,FAQ,13/01/2026,2425,3011,2704,1
+Maharashtra,Pune,Baramati APMC,Wheat,Maharashtra 2189,FAQ,12/01/2026,2500,3170,2851,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,16/01/2026,2500,2700,2700,1
+Maharashtra,Dharashiv(Usmanabad),Kalamb (Dharashiv) APMC,Wheat,Maharashtra 2189,FAQ,05/01/2026,2425,3700,3000,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,02/01/2026,2485,2655,2630,1
+Maharashtra,Ahmednagar,Pathardi APMC,Wheat,Maharashtra 2189,FAQ,14/01/2026,2550,3100,2900,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,FAQ,21/01/2026,2430,2650,2500,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,22/01/2026,2800,3000,2900,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,22/01/2026,2350,2350,2350,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,22/01/2026,2520,2575,2550,1
+Maharashtra,Nashik,Lasalgaon APMC,Wheat,Maharashtra 2189,FAQ,27/01/2026,2500,2891,2611,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,23/01/2026,2425,2550,2500,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,23/01/2026,2230,2420,2300,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,23/01/2026,2700,2700,2700,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,23/01/2026,2100,2350,2225,1
+Maharashtra,Yavatmal,Digras APMC,Wheat,Other,FAQ,23/01/2026,2600,2925,2875,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,23/01/2026,2500,2600,2550,1
+Maharashtra,Beed,Parali Vaijyanath APMC,Wheat,Other,Non-FAQ,23/01/2026,2350,2350,2350,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,21/01/2026,2420,2420,2420,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,21/01/2026,2626,2815,2651,1
+Maharashtra,Beed,Vadvani APMC,Wheat,Other,FAQ,21/01/2026,2500,3111,2900,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,22/01/2026,2200,2400,2300,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,22/01/2026,2425,2630,2527,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,22/01/2026,2500,2950,2725,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,22/01/2026,2425,2555,2500,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,22/01/2026,2200,2420,2300,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,22/01/2026,2425,2550,2500,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,22/01/2026,2340,2400,2371,1
+Maharashtra,Parbhani,Jintur APMC,Wheat,Other,FAQ,22/01/2026,3200,3200,3200,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,22/01/2026,3200,4200,3700,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,22/01/2026,2375,2423,2410,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,24/01/2026,2450,2450,2450,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,27/01/2026,2250,2350,2300,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,27/01/2026,2425,2865,2700,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,27/01/2026,2100,2423,2419,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,28/01/2026,2500,2500,2500,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,27/01/2026,2500,2765,2765,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,27/01/2026,2600,4800,3600,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,27/01/2026,3320,3320,3320,1
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,Wheat,Other,FAQ,27/01/2026,2600,2600,2600,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,27/01/2026,2500,2800,2550,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,27/01/2026,2450,3500,2700,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,27/01/2026,2425,2510,2467,1
+Maharashtra,Beed,Vadvani APMC,Wheat,Other,FAQ,27/01/2026,2651,2831,2831,1
+Maharashtra,Sholapur,Mangal Wedha APMC,Wheat,Other,FAQ,27/01/2026,3010,3200,3020,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,28/01/2026,2425,2480,2450,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,28/01/2026,2200,2420,2300,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,28/01/2026,2400,2400,2400,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,23/01/2026,2600,2800,2700,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,23/01/2026,2300,2400,2351,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,23/01/2026,2500,2681,2600,1
+Maharashtra,Jalana,Mantha APMC,Wheat,Other,FAQ,23/01/2026,2450,2800,2750,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,23/01/2026,2562,2700,2602,1
+Maharashtra,Nashik,Kalvan APMC,Wheat,Other,Non-FAQ,24/01/2026,2401,2401,2401,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,29/01/2026,2500,2500,2500,1
+Maharashtra,Bhandara,Tumsar APMC,Wheat,Other,FAQ,31/01/2026,2511,2511,2511,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,30/01/2026,2600,4800,3700,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,30/01/2026,2425,2655,2500,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,30/01/2026,2425,2425,2425,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,Non-FAQ,30/01/2026,2320,2320,2320,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,30/01/2026,2445,2535,2520,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,31/01/2026,2500,2800,2650,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,31/01/2026,2000,2423,2415,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,31/01/2026,2425,2600,2541,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,01/02/2026,2470,2470,2470,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,02/02/2026,2550,2650,2650,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,02/02/2026,2000,2423,2419,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,02/02/2026,2450,2600,2525,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,14/01/2026,2430,2745,2600,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,FAQ,15/01/2026,2430,2825,2750,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,07/01/2026,2490,2685,2600,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,04/02/2026,2450,2830,2600,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,FAQ,09/02/2026,2425,2675,2651,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,Non-FAQ,24/01/2026,2300,2400,2350,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,29/01/2026,2400,2400,2400,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,29/01/2026,2450,2650,2600,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,30/01/2026,2491,2592,2541,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,29/01/2026,2425,2600,2600,1
+Maharashtra,Yavatmal,Pusad APMC,Wheat,Other,FAQ,29/01/2026,2515,3151,2761,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,30/01/2026,2500,2750,2650,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,30/01/2026,2425,2726,2560,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,30/01/2026,2450,3245,2600,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,30/01/2026,2200,2400,2300,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,30/01/2026,2525,2600,2525,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,30/01/2026,2450,2450,2450,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,30/01/2026,2500,2700,2600,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,31/01/2026,3300,3300,3300,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,31/01/2026,2425,2655,2575,1
+Maharashtra,Vashim,Krushna Krishi Bazar  APMC,Wheat,Other,Local,04/02/2026,2150,2150,2150,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,Non-FAQ,02/02/2026,2400,2400,2400,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,02/02/2026,2350,2400,2400,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,02/02/2026,2450,2450,2450,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,Non-FAQ,02/02/2026,1700,2000,1700,1
+Maharashtra,Nashik,Kalvan APMC,Wheat,Other,FAQ,02/02/2026,2700,2700,2700,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,02/02/2026,2520,2662,2626,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,02/02/2026,2450,3100,2500,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,24/01/2026,2425,2630,2630,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,24/01/2026,2191,2400,2271,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,29/01/2026,2500,2800,2650,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,26/01/2026,2450,2450,2450,1
+Maharashtra,Sholapur,Barshi(Vairag) APMC,Wheat,Other,FAQ,30/01/2026,2600,3101,2801,1
+Maharashtra,Buldhana,Shegaon APMC,Wheat,Other,Non-FAQ,30/01/2026,2250,2250,2250,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,28/01/2026,2900,5000,3950,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,06/11/2025,2500,2734,2550,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,06/11/2025,2371,2415,2393,1
+Maharashtra,Jalana,Partur APMC,Wheat,Maharashtra 2189,Non-FAQ,07/11/2025,2250,2420,2400,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,07/11/2025,2470,2570,2550,1
+Maharashtra,Buldhana,Sindkhed Raja APMC,Wheat,Maharashtra 2189,Non-FAQ,08/11/2025,2000,2200,2100,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,08/11/2025,2500,2650,2650,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,08/11/2025,2500,2600,2500,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,Non-FAQ,10/11/2025,2400,2400,2400,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,10/11/2025,2500,2650,2650,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,11/11/2025,2700,2861,2700,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,11/11/2025,2500,2600,2500,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,01/11/2025,2500,2650,2650,1
+Maharashtra,Buldhana,Sindkhed Raja APMC,Wheat,Maharashtra 2189,Non-FAQ,01/11/2025,2000,2200,2100,1
+Maharashtra,Dharashiv(Usmanabad),Umarga APMC,Wheat,Maharashtra 2189,FAQ,01/11/2025,2570,2570,2570,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,01/11/2025,2440,2691,2550,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,03/11/2025,2500,2650,2650,1
+Maharashtra,Dharashiv(Usmanabad),Umarga APMC,Wheat,Maharashtra 2189,Non-FAQ,03/11/2025,2261,2400,2350,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,03/11/2025,2470,2560,2545,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,04/11/2025,2500,2700,2700,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,04/11/2025,2500,2600,2500,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,05/11/2025,2870,3005,3005,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,Non-FAQ,17/11/2025,2250,2400,2350,1
+Maharashtra,Vashim,Washim(Ansing) APMC,Wheat,Maharashtra 2189,FAQ,14/11/2025,2425,2550,2450,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,14/11/2025,2550,2665,2550,1
+Maharashtra,Dharashiv(Usmanabad),Umarga APMC,Wheat,Maharashtra 2189,Non-FAQ,14/11/2025,2351,2351,2351,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,15/11/2025,2500,2600,2500,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,18/11/2025,2500,2700,2500,1
+Maharashtra,Ahmednagar,Pathardi APMC,Wheat,Maharashtra 2189,FAQ,19/11/2025,2550,3050,2900,1
+Maharashtra,Buldhana,Sindkhed Raja APMC,Wheat,Maharashtra 2189,Non-FAQ,20/11/2025,2000,2200,2100,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,24/11/2025,2523,2742,2550,1
+Maharashtra,Latur,Ausa APMC,Wheat,Maharashtra 2189,FAQ,21/11/2025,2701,2701,2701,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,22/11/2025,2500,2600,2500,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,Non-FAQ,25/11/2025,2405,2405,2405,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,FAQ,25/11/2025,2430,2565,2500,1
+Maharashtra,Latur,Ausa APMC,Wheat,Maharashtra 2189,Non-FAQ,27/11/2025,2301,2301,2301,1
+Maharashtra,Buldhana,Sindkhed Raja APMC,Wheat,Maharashtra 2189,Non-FAQ,26/11/2025,2000,2200,2100,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,26/11/2025,2500,2600,2600,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,27/11/2025,2480,2832,2661,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,29/11/2025,2499,2776,2591,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,27/11/2025,2450,2600,2525,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,27/11/2025,2900,5000,3950,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,27/11/2025,3200,3400,3300,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,27/11/2025,2471,2630,2590,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,26/11/2025,2625,3051,2838,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,26/11/2025,2500,3116,2850,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,26/11/2025,2300,2400,2351,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,FAQ,26/11/2025,2475,2601,2475,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,26/11/2025,2575,2750,2575,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,Non-FAQ,26/11/2025,2400,2400,2400,1
+Maharashtra,Dhule,Dondaicha(Sindhkheda) APMC,Wheat,Other,FAQ,26/11/2025,2475,2560,2500,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,26/11/2025,2470,2580,2552,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,26/11/2025,2555,2555,2555,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,27/11/2025,2450,3000,2725,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,27/11/2025,2001,2424,2415,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,28/11/2025,2500,2874,2687,1
+Maharashtra,Nashik,Sinner APMC,Wheat,Other,FAQ,28/11/2025,2450,2725,2650,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,28/11/2025,2512,2723,2632,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,28/11/2025,2460,2475,2465,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,29/11/2025,2205,2205,2205,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,28/11/2025,2900,5000,3950,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,29/11/2025,3000,4200,3600,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,28/11/2025,2500,2500,2500,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,28/11/2025,2500,2650,2575,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,FAQ,28/11/2025,2500,2500,2500,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,28/11/2025,2450,3000,2725,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,06/11/2025,3200,3400,3300,1
+Maharashtra,Sholapur,Barshi APMC,Wheat,Other,FAQ,07/11/2025,2600,2600,2600,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,07/11/2025,2525,2525,2525,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,07/11/2025,2200,2400,2300,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,17/11/2025,2460,2550,2500,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,14/11/2025,2206,2270,2250,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,14/11/2025,3350,3350,3350,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,14/11/2025,2440,2530,2500,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,15/11/2025,2100,2400,2200,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,15/11/2025,2460,2490,2460,1
+Maharashtra,Parbhani,Parbhani APMC,Wheat,Other,FAQ,20/11/2025,2500,2600,2550,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,20/11/2025,2150,2420,2350,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,20/11/2025,2475,2825,2500,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,20/11/2025,2440,2440,2440,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,20/11/2025,2500,2800,2650,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,20/11/2025,2500,2820,2650,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,20/11/2025,2210,2270,2235,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,20/11/2025,2000,2400,2200,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,20/11/2025,2480,2621,2550,1
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,Wheat,Other,Non-FAQ,20/11/2025,2300,2300,2300,1
+Maharashtra,Parbhani,Tadkalas APMC,Wheat,Other,Non-FAQ,20/11/2025,2300,2300,2300,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,24/11/2025,2425,2500,2471,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,24/11/2025,2000,2400,2200,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,24/11/2025,2425,2575,2450,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,24/11/2025,2500,2650,2575,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,21/11/2025,2200,2400,2300,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,Non-FAQ,21/11/2025,2300,2400,2350,1
+Maharashtra,Amarawati,Varud(Rajura Bazar) APMC,Wheat,Other,Non-FAQ,21/11/2025,2005,2005,2005,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,21/11/2025,2350,2350,2350,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,22/11/2025,2425,2600,2521,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,22/11/2025,2491,2575,2525,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,22/11/2025,2800,3000,2900,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,22/11/2025,3000,4200,3600,1
+Maharashtra,Amarawati,Varud APMC,Wheat,Other,Non-FAQ,23/11/2025,2380,2380,2380,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,25/11/2025,2500,2800,2600,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,25/11/2025,2500,2635,2500,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,25/11/2025,2430,2450,2440,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,25/11/2025,2481,2640,2511,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,03/11/2025,2500,2600,2550,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,03/11/2025,2551,2890,2733,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,03/11/2025,2425,2450,2437,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,03/11/2025,2501,2791,2646,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,03/11/2025,2450,2525,2500,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,04/11/2025,2200,2420,2300,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,04/11/2025,2450,2900,2700,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,04/11/2025,2490,2615,2550,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,04/11/2025,1700,2423,2400,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,04/11/2025,2445,2570,2520,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,05/11/2025,2450,2575,2520,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,17/11/2025,2450,2995,2634,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,17/11/2025,2200,2400,2300,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,17/11/2025,2475,2825,2672,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,17/11/2025,2500,2780,2650,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,17/11/2025,2000,2423,2415,1
+Maharashtra,Sholapur,Mangal Wedha APMC,Wheat,Other,FAQ,17/11/2025,2500,2800,2700,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,17/11/2025,2601,2850,2726,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,17/11/2025,2751,2831,2831,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,14/11/2025,3000,5800,4400,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,17/11/2025,2425,2651,2551,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,14/11/2025,2425,2450,2437,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,14/11/2025,2430,2575,2460,1
+Maharashtra,Amarawati,Chandur Railway APMC,Wheat,Other,Non-FAQ,14/11/2025,2400,2400,2400,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,15/11/2025,2430,2790,2460,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,Non-FAQ,17/11/2025,2350,2420,2400,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,18/11/2025,2205,2270,2245,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,18/11/2025,2200,2400,2300,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,18/11/2025,3000,5800,4200,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,18/11/2025,2550,2600,2550,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,19/11/2025,2475,2600,2535,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,19/11/2025,2430,2460,2445,1
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,Wheat,Other,Non-FAQ,19/11/2025,2400,2400,2400,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,15/11/2025,2000,2400,2200,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,19/11/2025,3200,3500,3425,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,FAQ,19/11/2025,2543,2543,2543,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,19/11/2025,2500,2675,2575,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,19/11/2025,2500,2710,2600,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,07/11/2025,3100,4000,3550,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,07/11/2025,2100,2400,2250,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,07/11/2025,2300,2420,2400,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,08/11/2025,2100,2400,2200,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,Non-FAQ,08/11/2025,2400,2400,2400,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,10/11/2025,3200,3600,3400,1
+Maharashtra,Pune,Shirur APMC,Wheat,Other,Non-FAQ,10/11/2025,2400,2400,2400,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,10/11/2025,1885,1885,1885,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,12/11/2025,3425,3425,3425,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,12/11/2025,2561,2850,2850,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,03/11/2025,2600,2600,2600,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,12/11/2025,2450,2700,2500,1
+Maharashtra,Yavatmal,Digras APMC,Wheat,Other,FAQ,12/11/2025,2540,2735,2650,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,13/11/2025,3000,5800,4400,1
+Maharashtra,Parbhani,Selu APMC,Wheat,Other,FAQ,12/11/2025,2750,2750,2750,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,11/11/2025,2451,3000,2713,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,11/11/2025,3400,3400,3400,1
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,Wheat,Other,FAQ,11/11/2025,2450,2680,2460,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,11/11/2025,2550,2640,2600,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,Non-FAQ,11/11/2025,2276,2400,2338,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,Non-FAQ,01/11/2025,2200,2400,2300,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,01/11/2025,2500,2700,2600,1
+Maharashtra,Beed,Parali Vaijyanath APMC,Wheat,Other,Non-FAQ,01/11/2025,2361,2391,2361,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,01/11/2025,2430,2851,2500,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,01/11/2025,2471,2550,2500,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,01/11/2025,2550,2650,2550,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,01/11/2025,2480,2480,2480,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,01/11/2025,1500,2410,2409,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,01/11/2025,2550,2600,2550,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,01/11/2025,3100,4000,3550,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,01/11/2025,3220,3220,3220,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,01/11/2025,2200,2420,2300,1
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,Wheat,Other,FAQ,02/11/2025,2460,2550,2500,1
+Maharashtra,Ahmednagar,Rahata APMC,Wheat,Other,FAQ,03/11/2025,2511,2730,2600,1
+Maharashtra,Buldhana,Mehekar APMC,Wheat,Other,FAQ,03/11/2025,2500,2800,2700,1
+Maharashtra,Dhule,Dondaicha(Sindhkheda) APMC,Wheat,Other,Non-FAQ,03/11/2025,2226,2226,2226,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,03/11/2025,2299,2299,2299,1
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,Wheat,Other,Local,01/11/2025,2400,2500,2400,1
+Maharashtra,Yavatmal,Kisan Market Yard APMC,Wheat,Other,Local,01/11/2025,2000,2500,2490,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,12/11/2025,2100,2420,2280,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,Non-FAQ,13/11/2025,2300,2400,2400,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,12/11/2025,2592,2850,2721,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,12/11/2025,2425,2791,2551,1
+Maharashtra,Thane,Ulhasnagar APMC,Wheat,Other,FAQ,12/11/2025,3000,3400,3200,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,04/11/2025,2546,2704,2664,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,12/11/2025,3000,5800,4400,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,13/11/2025,2430,2600,2500,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,13/11/2025,2450,2800,2568,1
+Maharashtra,Jalgaon,Jalgaon APMC,Wheat,147 Average,Non-FAQ,27/11/2025,2400,2400,2400,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,11/11/2025,2500,2650,2550,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,Non-FAQ,24/11/2025,2100,2301,2200,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,27/11/2025,2500,2770,2625,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,09/11/2025,2500,2600,2581,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,04/11/2025,2500,2740,2650,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,18/11/2025,3501,3501,3501,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,03/11/2025,2440,2695,2600,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,28/11/2025,2525,2745,2600,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,07/11/2025,3200,3500,3425,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,08/11/2025,4500,5200,4850,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,11/11/2025,3000,3600,3300,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,01/11/2025,4500,5000,4750,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,01/11/2025,2900,3900,3400,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,03/11/2025,4500,5000,4750,1
+Maharashtra,Sholapur,Solapur APMC,Wheat,Sharbati,FAQ,04/11/2025,2660,3855,3360,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,05/11/2025,2500,2900,2700,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,12/11/2025,2500,3000,2750,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Sharbati,FAQ,14/11/2025,3200,3500,3425,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,14/11/2025,2550,3005,2777,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,19/11/2025,2510,3030,2770,1
+Maharashtra,Thane,Kalyan APMC,Wheat,Sharbati,FAQ,19/11/2025,3300,4000,3650,1
+Maharashtra,Hingoli,Hingoli APMC,Wheat,Sharbati,FAQ,24/11/2025,2620,3120,2870,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,24/11/2025,4000,5500,4750,1
+Maharashtra,Pune,Pune APMC,Wheat,Sharbati,FAQ,21/11/2025,4500,5000,4750,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,12/12/2025,2600,2710,2666,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,13/12/2025,2900,2900,2900,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,18/12/2025,2501,2900,2700,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,20/12/2025,2431,2822,2700,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,Non-FAQ,23/12/2025,2380,2380,2380,1
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,Wheat,Bansi,FAQ,28/12/2025,2531,27100,2681,1
+Maharashtra,Dharashiv(Usmanabad),Murum APMC,Wheat,Bansi,FAQ,31/12/2025,2500,2500,2500,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,FAQ,15/12/2025,2425,2751,2700,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,Non-FAQ,08/12/2025,2300,2420,2400,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,FAQ,25/12/2025,2450,2800,2751,1
+Maharashtra,Pune,Baramati APMC,Wheat,Kalyan,Non-FAQ,15/12/2025,2200,2420,2400,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,30/12/2025,2450,2730,2600,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,22/12/2025,2450,2915,2600,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,23/12/2025,2450,2540,2500,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Kalyan,FAQ,31/12/2025,2450,3205,2600,1
+Maharashtra,Jalgaon,Parola APMC,Wheat,Kalyan,Non-FAQ,31/12/2025,2400,2400,2400,1
+Maharashtra,Jalgaon,Parola APMC,Wheat,Kalyan,Non-FAQ,16/12/2025,2400,2400,2400,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,02/12/2025,2495,2785,2575,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,03/12/2025,2550,2550,2550,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,04/12/2025,2500,2781,2650,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,08/12/2025,2425,2855,2530,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,Non-FAQ,08/12/2025,2400,2400,2400,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,08/12/2025,2361,2410,2385,1
+Maharashtra,Buldhana,Sindkhed Raja APMC,Wheat,Maharashtra 2189,Non-FAQ,05/12/2025,2000,2200,2100,1
+Maharashtra,Nashik,Lasalgaon APMC,Wheat,Maharashtra 2189,FAQ,05/12/2025,2500,2921,2600,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,06/12/2025,2425,3205,2583,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,10/12/2025,2525,2712,2550,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,10/12/2025,2350,2424,2380,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,10/12/2025,2500,2895,2724,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,12/12/2025,2521,2590,2550,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,15/12/2025,2500,2600,2500,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,FAQ,13/12/2025,2425,2500,2475,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,13/12/2025,2371,2424,2400,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,Non-FAQ,22/12/2025,2350,2350,2350,1
+Maharashtra,Ahmednagar,Pathardi APMC,Wheat,Maharashtra 2189,FAQ,23/12/2025,2550,3150,3000,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,09/12/2025,2500,2600,2500,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,11/12/2025,2430,2651,2500,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,15/12/2025,2431,2775,2575,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,08/12/2025,2440,2725,2600,1
+Maharashtra,Nashik,Lasalgaon APMC,Wheat,Maharashtra 2189,FAQ,16/12/2025,2514,2901,2600,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,29/12/2025,2326,2400,2363,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,22/12/2025,2451,2770,2500,1
+Maharashtra,Dharashiv(Usmanabad),Umarga APMC,Wheat,Maharashtra 2189,FAQ,08/12/2025,2553,3010,2553,1
+Maharashtra,Ahmednagar,Pathardi APMC,Wheat,Maharashtra 2189,FAQ,12/12/2025,2550,3100,2900,1
+Maharashtra,Bhandara,Bhandara APMC,Wheat,Maharashtra 2189,Non-FAQ,16/12/2025,2300,2300,2300,1
+Maharashtra,Ahmednagar,Shevgaon APMC,Wheat,Maharashtra 2189,FAQ,29/12/2025,2500,2700,2500,1
+Maharashtra,Dharashiv(Usmanabad),Kalamb (Dharashiv) APMC,Wheat,Maharashtra 2189,FAQ,22/12/2025,2425,2750,2551,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,03/12/2025,2500,2600,2500,1
+Maharashtra,Pune,Dound APMC,Wheat,Maharashtra 2189,FAQ,25/12/2025,2450,2900,2700,1
+Maharashtra,Nashik,Yeola APMC,Wheat,Maharashtra 2189,FAQ,17/12/2025,2499,2750,2550,1
+Maharashtra,Ahmednagar,Pathardi APMC,Wheat,Maharashtra 2189,FAQ,26/12/2025,2500,3000,2750,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,22/12/2025,2540,3080,2752,1
+Maharashtra,Ahmednagar,Newasa APMC,Wheat,Maharashtra 2189,FAQ,17/12/2025,2700,2700,2700,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,18/12/2025,2490,2796,2550,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,18/12/2025,2499,2741,2600,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,18/12/2025,2500,2600,2500,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,FAQ,24/12/2025,2750,2750,2750,1
+Maharashtra,Nashik,Devala APMC,Wheat,Maharashtra 2189,Non-FAQ,24/12/2025,1385,1850,1700,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,24/12/2025,2528,2671,2550,1
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon) APMC,Wheat,Maharashtra 2189,FAQ,23/12/2025,2500,2600,2600,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,FAQ,23/12/2025,2425,2680,2550,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,23/12/2025,2376,2376,2376,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,Non-FAQ,27/12/2025,2371,2371,2371,1
+Maharashtra,Sholapur,Dudhani APMC,Wheat,Maharashtra 2189,FAQ,29/12/2025,2555,3355,2905,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,26/12/2025,2599,2751,2610,1
+Maharashtra,Satara,Vaduj APMC,Wheat,Maharashtra 2189,FAQ,27/12/2025,2700,3000,2900,1
+Maharashtra,Nashik,Nandgaon APMC,Wheat,Maharashtra 2189,FAQ,31/12/2025,2545,2639,2550,1
+Maharashtra,Nashik,Lasalgaon(Niphad) APMC,Wheat,Maharashtra 2189,FAQ,31/12/2025,2580,2716,2695,1
+Maharashtra,Vashim,Washim APMC,Wheat,Maharashtra 2189,FAQ,31/12/2025,2425,2706,2450,1
+Maharashtra,Latur,Aurad Shahajani APMC,Wheat,Maharashtra 2189,FAQ,30/12/2025,2425,2500,2475,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,11/12/2025,2480,2480,2480,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,11/12/2025,2500,2870,2600,1
+Maharashtra,Amarawati,Amarawati APMC,Wheat,Other,FAQ,11/12/2025,2450,3000,2675,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,11/12/2025,2568,2722,2645,1
+Maharashtra,Buldhana,Deoulgaon Raja APMC,Wheat,Other,Non-FAQ,11/12/2025,2200,2200,2200,1
+Maharashtra,Sholapur,Mangal Wedha APMC,Wheat,Other,FAQ,11/12/2025,2600,3000,3000,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,12/12/2025,2500,2800,2650,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,12/12/2025,2600,2700,2650,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,Non-FAQ,15/12/2025,2250,2400,2325,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,15/12/2025,2470,2470,2470,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,15/12/2025,2500,2900,2700,1
+Maharashtra,Jalgaon,Raver APMC,Wheat,Other,FAQ,15/12/2025,2560,2572,2560,1
+Maharashtra,Nagpur,Umared APMC,Wheat,Other,FAQ,13/12/2025,2450,2600,2500,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,13/12/2025,2480,2480,2480,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,10/12/2025,2425,2495,2450,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Other,Non-FAQ,30/12/2025,2150,2350,2350,1
+Maharashtra,Buldhana,Motala APMC,Wheat,Other,Non-FAQ,29/12/2025,2000,2000,2000,1
+Maharashtra,Jalana,Bhokardan(Pimpalgaon Renu) APMC,Wheat,Other,FAQ,16/12/2025,2425,2550,2500,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,30/12/2025,2500,2770,2650,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,FAQ,18/12/2025,2425,2525,2470,1
+Maharashtra,Buldhana,Khamgaon APMC,Wheat,Other,Non-FAQ,15/12/2025,2200,2350,2275,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,31/12/2025,3000,4000,3500,1
+Maharashtra,Parbhani,Parbhani APMC,Wheat,Other,FAQ,26/12/2025,2650,2950,2800,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,10/12/2025,2900,2900,2900,1
+Maharashtra,Sholapur,Barshi(Vairag) APMC,Wheat,Other,FAQ,15/12/2025,2450,2450,2450,1
+Maharashtra,Beed,Kaij APMC,Wheat,Other,Non-FAQ,26/12/2025,2300,2420,2350,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,Non-FAQ,22/12/2025,2200,2200,2200,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,16/12/2025,2510,2828,2699,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,16/12/2025,2475,2750,2600,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,FAQ,11/12/2025,2800,2800,2800,1
+Maharashtra,Nandurbar,Shahada APMC,Wheat,Other,FAQ,29/12/2025,3001,3001,3001,1
+Maharashtra,Sholapur,Barshi(Vairag) APMC,Wheat,Other,FAQ,30/12/2025,2500,2830,2500,1
+Maharashtra,Dhule,Dondaicha APMC,Wheat,Other,FAQ,01/12/2025,2425,2661,2600,1
+Maharashtra,Ahmednagar,Shrirampur(Belapur) APMC,Wheat,Other,Non-FAQ,29/12/2025,2400,2400,2400,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,FAQ,08/12/2025,2437,2600,2475,1
+Maharashtra,Ahmednagar,Ahmednagar APMC,Wheat,Other,FAQ,03/12/2025,2600,2700,2650,1
+Maharashtra,Nanded,Kandhar APMC,Wheat,Other,FAQ,22/12/2025,4600,4800,4700,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,17/12/2025,2450,2700,2600,1
+Maharashtra,Chattrapati Sambhajinagar,Lasur Station APMC,Wheat,Other,FAQ,08/12/2025,2450,2662,2600,1
+Maharashtra,Beed,Beed APMC,Wheat,Other,FAQ,01/12/2025,2470,3031,2757,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,01/12/2025,2900,5000,3950,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,01/12/2025,2490,2490,2490,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,Non-FAQ,01/12/2025,1700,2415,2400,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,01/12/2025,3100,4000,3550,1
+Maharashtra,Jalgaon,Amalner APMC,Wheat,Other,FAQ,01/12/2025,2440,2550,2550,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,05/12/2025,2500,2600,2550,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,03/12/2025,2480,2480,2480,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,03/12/2025,2451,3075,2700,1
+Maharashtra,Vashim,Karanja APMC,Wheat,Other,FAQ,03/12/2025,2480,2585,2480,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,03/12/2025,2200,2420,2300,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,03/12/2025,2448,2740,2500,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,FAQ,03/12/2025,2460,2460,2460,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,08/12/2025,2209,2274,2255,1
+Maharashtra,Nashik,Malegaon APMC,Wheat,Other,Non-FAQ,03/12/2025,2111,2423,2415,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,Non-FAQ,03/12/2025,2390,2423,2403,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,03/12/2025,2811,2811,2811,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,FAQ,04/12/2025,2425,2425,2425,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,Non-FAQ,04/12/2025,2391,2391,2391,1
+Maharashtra,Wardha,Wardha APMC,Wheat,Other,FAQ,04/12/2025,2490,2525,2500,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,04/12/2025,2450,2750,2600,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,04/12/2025,2000,2300,2200,1
+Maharashtra,Beed,Gevrai APMC,Wheat,Other,FAQ,04/12/2025,2425,2748,2570,1
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,Wheat,Other,FAQ,08/12/2025,2450,2781,2616,1
+Maharashtra,Vashim,Mangrulpeer APMC,Wheat,Other,Non-FAQ,08/12/2025,2375,2375,2375,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,08/12/2025,2400,2400,2400,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,FAQ,08/12/2025,2560,2831,2831,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,08/12/2025,2170,2170,2170,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,FAQ,08/12/2025,2425,2725,2511,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,08/12/2025,2800,4500,3650,1
+Maharashtra,Sholapur,Mangal Wedha APMC,Wheat,Other,FAQ,08/12/2025,2600,3200,2800,1
+Maharashtra,Chattrapati Sambhajinagar,Gangapur APMC,Wheat,Other,FAQ,05/12/2025,2541,2800,2619,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,05/12/2025,2545,2570,2557,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,05/12/2025,2511,2800,2600,1
+Maharashtra,Wardha,Sindi(Selu) APMC,Wheat,Other,FAQ,05/12/2025,2430,2460,2450,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,05/12/2025,2203,2271,2235,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,05/12/2025,2700,2750,2700,1
+Maharashtra,Jalana,Jalana APMC,Wheat,Other,FAQ,06/12/2025,2600,2680,2600,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,06/12/2025,3425,3425,3425,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,Non-FAQ,06/12/2025,2100,2100,2100,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,09/12/2025,2900,5000,3950,1
+Maharashtra,Nagpur,Nagpur APMC,Wheat,Other,FAQ,09/12/2025,2440,2516,2477,1
+Maharashtra,Jalgaon,Chalisgaon APMC,Wheat,Other,FAQ,09/12/2025,2451,2600,2520,1
+Maharashtra,Yavatmal,Yeotmal APMC,Wheat,Other,FAQ,09/12/2025,2525,2525,2525,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,FAQ,09/12/2025,2480,3025,2480,1
+Maharashtra,Nagpur,Savner APMC,Wheat,Other,FAQ,09/12/2025,2500,2500,2500,1
+Maharashtra,Nashik,Satana APMC,Wheat,Other,FAQ,09/12/2025,2530,3006,2850,1
+Maharashtra,Buldhana,Lonar APMC,Wheat,Other,Non-FAQ,10/12/2025,2250,2400,2350,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,FAQ,10/12/2025,2425,2501,2461,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,10/12/2025,2100,2400,2200,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,10/12/2025,2500,3100,2700,1
+Maharashtra,Akola,Murtizapur APMC,Wheat,Other,FAQ,10/12/2025,2435,2495,2465,1
+Maharashtra,Ahmednagar,Kopargaon APMC,Wheat,Other,FAQ,10/12/2025,2525,2650,2631,1
+Maharashtra,Buldhana,Malkapur APMC,Wheat,Other,Non-FAQ,11/12/2025,2365,2365,2365,1
+Maharashtra,Nagpur,Katol APMC,Wheat,Other,Non-FAQ,11/12/2025,2350,2420,2400,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,11/12/2025,2480,2725,2525,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,11/12/2025,2100,2420,2250,1
+Maharashtra,Latur,Ahmedpur APMC,Wheat,Other,FAQ,11/12/2025,2500,3250,2685,1
+Maharashtra,Sangli,Sangli APMC,Wheat,Other,FAQ,12/12/2025,3200,4200,3700,1
+Maharashtra,Sholapur,Karmala APMC,Wheat,Other,Non-FAQ,12/12/2025,2200,2200,2200,1
+Maharashtra,Buldhana,Buldhana(Dhad) APMC,Wheat,Other,Non-FAQ,12/12/2025,1700,2351,2025,1
+Maharashtra,Beed,Majalgaon APMC,Wheat,Other,FAQ,15/12/2025,2511,3315,2575,1
+Maharashtra,Thane,Palghar APMC,Wheat,Other,FAQ,15/12/2025,3300,3300,3300,1
+Maharashtra,Akola,Akola APMC,Wheat,Other,FAQ,15/12/2025,2480,2520,2500,1
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri) APMC,Wheat,Other,FAQ,13/12/2025,2800,4800,3700,1
+Maharashtra,Parbhani,Gangakhed APMC,Wheat,Other,FAQ,13/12/2025,2600,2700,2600,1
+Maharashtra,Ahmednagar,Rahuri(Vambori) APMC,Wheat,Other,FAQ,13/12/2025,2525,2780,2651,1
+Maharashtra,Jalgaon,Pachora APMC,Wheat,Other,Non-FAQ,13/12/2025,2300,2400,2351,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,13/12/2025,2500,2800,2650,1
+Maharashtra,Amarawati,Chandur Bazar APMC,Wheat,Other,FAQ,15/12/2025,2550,2550,2550,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,FAQ,01/12/2025,2500,2755,2600,1
+Maharashtra,Ahmednagar,Jamkhed APMC,Wheat,Other,FAQ,29/12/2025,2500,2800,2650,1
+Maharashtra,Ahmednagar,Shrirampur APMC,Wheat,Other,FAQ,03/12/2025,2600,2700,2650,1
+Maharashtra,Ahmednagar,Karjat(Rashin) APMC,Wheat,Other,Non-FAQ,09/12/2025,2000,2000,2000,1
+Maharashtra,Nashik,Manmad APMC,Wheat,Other,FAQ,25/12/2025,2425,2770,2543,1
+Maharashtra,Wardha,Hinganghat APMC,Wheat,Other,Non-FAQ,18/12/2025,2250,2420,2300,1
+Maharashtra,Dhule,Dhule APMC,Wheat,Other,Non-FAQ,16/12/2025,2209,2271,2243,1
+Maharashtra,Ahmednagar,Karjat APMC,Wheat,Other,FAQ,17/12/2025,2800,2800,2800,1
+Maharashtra,Mumbai,Mumbai APMC,Wheat,Other,FAQ,16/12/2025,2900,5000,3950,1
+Maharashtra,Ahmednagar,Rahuri APMC,Wheat,Other,FAQ,22/12/2025,2450,2650,2550,1
+Maharashtra,Dhule,Shirpur APMC,Wheat,Other,Non-FAQ,12/12/2025,2400,2400,2400,1
+Maharashtra,Chattrapati Sambhajinagar,Kannad APMC,Wheat,Other,FAQ,05/12/2025,2551,2825,2688,1
+Maharashtra,Jalgaon,Raver APMC,Wheat,Other,FAQ,17/12/2025,2681,2681,2681,1
+Maharashtra,Nanded,Kandhar APMC,Wheat,Other,FAQ,10/12/2025,2500,2800,2600,1
+Maharashtra,Sholapur,Kurdwadi(Modnimb) APMC,Wheat,Other,FAQ,04/12/2025,2480,2600,2550,1

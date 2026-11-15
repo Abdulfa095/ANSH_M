@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+transformers
+requests
+beautifulsoup4
+python-dotenv
+sqlalchemy
+geoalchemy2
+shapely
+# ML libs will be installed separately
+twilio
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+apscheduler

@@ -1,0 +1,1001 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Uttar Pradesh,Hathras,Sikandraraau APMC,Onion,Red,FAQ,02/12/2025,11500,13500,12000.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,15/11/2025,1700,1800,1750.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,15/11/2025,800,1200,1000.0,23
+Uttar Pradesh,Bulandshahar,Sikanderabad APMC,Onion,Medium,Non-FAQ,04/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Amroha,Dhanaura APMC,Onion,Medium,Non-FAQ,06/11/2025,1000,1500,1200.0,23
+Uttar Pradesh,Badaun,Badayoun APMC,Onion,Nasik,FAQ,02/11/2025,1280,1400,1335.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,FAQ,02/11/2025,1000,1020,1010.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,FAQ,05/11/2025,1000,1040,1020.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,FAQ,06/11/2025,1000,1040,1020.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Grade C,15/11/2025,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Local,24/11/2025,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Grade C,27/11/2025,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Local,29/11/2025,1000,1000,1000.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,14/11/2025,1700,1800,1750.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,19/11/2025,1800,1900,1850.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,25/11/2025,800,1200,1000.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,26/11/2025,1000,1400,1200.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,29/11/2025,1500,1600,1550.0,23
+Uttar Pradesh,Prayagraj,Allahabad APMC,Onion,Other,FAQ,28/11/2025,3500,3550,3515.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Other,Grade C,28/11/2025,2000,2000,2000.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,28/11/2025,1050,1250,1185.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,29/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Other,Grade C,29/11/2025,1900,1900,1900.0,23
+Uttar Pradesh,Ballia,Vilthararoad APMC,Onion,Other,Non-FAQ,03/11/2025,1700,1800,1750.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Other,Medium,15/11/2025,1375,1375,1375.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,18/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,17/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Bahraich,Naanpara APMC,Onion,Other,Medium,19/11/2025,1300,1400,1335.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Other,FAQ,19/11/2025,2000,2000,2000.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,19/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,22/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Other,FAQ,20/11/2025,1100,1200,1150.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Other,FAQ,23/11/2025,1100,1140,1120.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Other,FAQ,13/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,22/11/2025,1000,1280,1160.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Medium,22/11/2025,1200,1320,1280.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,25/11/2025,1400,1400,1400.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,25/11/2025,1260,1330,1290.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Red,FAQ,25/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,24/11/2025,1230,1370,1300.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Grade Range-2,24/11/2025,1200,1350,1270.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,24/11/2025,1230,1320,1280.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,24/11/2025,1140,1340,1240.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,24/11/2025,1180,1180,1180.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,26/11/2025,1050,1230,1140.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,25/11/2025,1110,1350,1235.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,26/11/2025,1100,1340,1230.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,26/11/2025,1140,1340,1240.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Red,Grade B,27/11/2025,1155,1355,1255.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,25/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,25/11/2025,1270,1400,1350.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,26/11/2025,1300,1365,1350.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,28/11/2025,1400,1400,1400.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,29/11/2025,1280,1280,1280.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,27/11/2025,1210,1310,1260.0,23
+Uttar Pradesh,Sitapur,Viswan APMC,Onion,Red,FAQ,27/11/2025,1260,1300,1280.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,27/11/2025,1000,1240,1120.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,27/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,28/11/2025,1150,1150,1150.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,FAQ,28/11/2025,1220,1280,1250.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,28/11/2025,1050,1250,1160.0,23
+Uttar Pradesh,Varanasi,Varanasi(F&V) APMC,Onion,Red,FAQ,28/11/2025,1150,1275,1220.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,28/11/2025,1080,1280,1180.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,26/11/2025,1100,1300,1200.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,28/11/2025,1170,1300,1220.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,28/11/2025,1100,1100,1100.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,30/11/2025,1050,1250,1150.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,30/11/2025,1150,1150,1150.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,29/11/2025,1115,1310,1208.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,29/11/2025,1100,1250,1180.0,23
+Uttar Pradesh,Varanasi,Varanasi(F&V) APMC,Onion,Red,FAQ,30/11/2025,1175,1300,1240.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,30/11/2025,1320,1320,1320.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,29/11/2025,1100,1200,1150.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,29/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Etawah,Jasvantnagar APMC,Onion,Red,Medium,30/11/2025,1070,1170,1120.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,29/11/2025,1060,1260,1160.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,18/11/2025,1300,1380,1350.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,17/11/2025,1250,1450,1350.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,16/11/2025,1100,1350,1200.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Grade B,18/11/2025,1200,1350,1270.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,18/11/2025,1250,1300,1275.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,17/11/2025,1240,1320,1280.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,18/11/2025,1250,1350,1310.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,16/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Gonda,Gonda APMC,Onion,Red,FAQ,17/11/2025,1250,1400,1300.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,16/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Varanasi,Varanasi(F&V) APMC,Onion,Red,FAQ,16/11/2025,1240,1375,1300.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,16/11/2025,1220,1415,1330.0,23
+Uttar Pradesh,Varanasi,Varanasi(F&V) APMC,Onion,Red,FAQ,17/11/2025,1250,1400,1315.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,17/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,18/11/2025,1300,1360,1330.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,19/11/2025,1275,1325,1300.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,16/11/2025,1350,1350,1350.0,23
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Onion,Red,FAQ,16/11/2025,1250,1450,1340.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,19/11/2025,1280,1365,1325.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,19/11/2025,1300,1350,1320.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,20/11/2025,1167,1370,1268.0,23
+Uttar Pradesh,Unnao,Bangarmau APMC,Onion,Red,FAQ,20/11/2025,1290,1390,1345.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,21/11/2025,1250,1380,1310.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,21/11/2025,1200,1300,1280.0,23
+Uttar Pradesh,Etawah,Etawah APMC,Onion,Red,FAQ,19/11/2025,1100,1300,1250.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,19/11/2025,1300,1350,1320.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,19/11/2025,1300,1390,1340.0,23
+Uttar Pradesh,Auraiya,Achalda APMC,Onion,Red,FAQ,19/11/2025,1200,1350,1280.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,19/11/2025,1150,1380,1275.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,18/11/2025,1225,1225,1225.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,19/11/2025,1220,1220,1220.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,19/11/2025,1320,1400,1370.0,23
+Uttar Pradesh,Sambhal,Muradabad APMC,Onion,Red,FAQ,19/11/2025,1250,1320,1280.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,18/11/2025,1250,1350,1290.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,19/11/2025,1150,1350,1260.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,21/11/2025,1130,1330,1230.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,22/11/2025,1230,1330,1280.0,23
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Onion,Red,FAQ,18/11/2025,1275,1325,1300.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,19/11/2025,1200,1200,1200.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,19/11/2025,1300,1365,1330.0,23
+Uttar Pradesh,Unnao,Unnao APMC,Onion,Red,FAQ,19/11/2025,1300,1425,1360.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Red,Grade B,20/11/2025,1180,1380,1280.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,21/11/2025,1260,1360,1310.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,24/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,20/11/2025,1290,1370,1330.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,19/11/2025,1220,1295,1260.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,20/11/2025,1155,1345,1250.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,20/11/2025,1275,1345,1300.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,Grade A,20/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,20/11/2025,1200,1350,1250.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,20/11/2025,1150,1385,1285.0,23
+Uttar Pradesh,Agra,Achnera APMC,Onion,Red,FAQ,19/11/2025,1160,1220,1190.0,23
+Uttar Pradesh,Agra,Achnera APMC,Onion,Red,FAQ,20/11/2025,1150,1230,1190.0,23
+Uttar Pradesh,Lucknow,Lucknow APMC,Onion,Red,FAQ,20/11/2025,1270,1370,1320.0,23
+Uttar Pradesh,Badaun,Wazirganj APMC,Onion,Red,Local,20/11/2025,1250,1325,1300.0,23
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Onion,Red,FAQ,20/11/2025,1275,1310,1290.0,23
+Uttar Pradesh,Unnao,Bangarmau APMC,Onion,Red,FAQ,19/11/2025,1290,1390,1345.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,20/11/2025,1130,1320,1225.0,23
+Uttar Pradesh,Sambhal,Muradabad APMC,Onion,Red,FAQ,20/11/2025,1270,1320,1290.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,25/11/2025,1080,1280,1180.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Grade C,26/11/2025,1200,1350,1270.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,26/11/2025,1165,1365,1265.0,23
+Uttar Pradesh,Ballia,Rasda APMC,Onion,Red,Grade Range-3,25/11/2025,1200,1300,1265.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,21/11/2025,1280,1360,1320.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,21/11/2025,1220,1420,1320.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,21/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,21/11/2025,1250,1360,1290.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,24/11/2025,1300,1390,1350.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,24/11/2025,1240,1340,1290.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,24/11/2025,1200,1350,1300.0,23
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Red,FAQ,24/11/2025,1100,1200,1140.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,23/11/2025,1150,1300,1230.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,22/11/2025,1200,1300,1270.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade B,22/11/2025,1318,1398,1358.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,FAQ,21/11/2025,1350,1350,1350.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,22/11/2025,1200,1300,1290.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,22/11/2025,1100,1300,1200.0,23
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Onion,Red,FAQ,23/11/2025,1275,1300,1285.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,23/11/2025,1300,1365,1330.0,23
+Uttar Pradesh,Hamirpur,Muskara APMC,Onion,Red,FAQ,24/11/2025,1180,1380,1280.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,24/11/2025,1180,1300,1240.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Red,Grade B,25/11/2025,1175,1375,1275.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,24/11/2025,1110,1325,1240.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,24/11/2025,1225,1320,1275.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,26/11/2025,1150,1280,1220.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,24/11/2025,1230,1310,1270.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade B,26/11/2025,1265,1345,1305.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,25/11/2025,1200,1300,1240.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,25/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Banda,Banda APMC,Onion,Red,FAQ,25/11/2025,1220,1375,1300.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,FAQ,26/11/2025,1375,1375,1375.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,25/11/2025,1300,1350,1325.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,25/11/2025,1100,1325,1225.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,27/11/2025,1280,1340,1300.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,28/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,28/11/2025,1100,1210,1160.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,28/11/2025,1100,1230,1170.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,29/11/2025,1170,1270,1220.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Onion,Medium,13/11/2025,1280,1360,1330.0,23
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Onion,Onion,FAQ,12/11/2025,1200,1350,1300.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Onion,FAQ,11/11/2025,1110,1380,1260.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,27/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Onion,FAQ,26/11/2025,1000,1250,1140.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Onion,FAQ,08/11/2025,1200,1220,1200.0,23
+Uttar Pradesh,Sambhal,Sambhal APMC,Onion,Onion,FAQ,11/11/2025,1200,1200,1200.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Onion,FAQ,12/11/2025,1120,1390,1270.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,13/11/2025,1500,1700,1600.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,11/11/2025,800,1000,900.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,14/11/2025,1400,1600,1500.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,14/11/2025,1400,1650,1500.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,14/11/2025,1240,1350,1300.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Onion,Medium,15/11/2025,1300,1400,1330.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,17/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,17/11/2025,1500,1700,1600.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,19/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,23/11/2025,1400,1600,1500.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,24/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,20/11/2025,1400,1600,1500.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,26/11/2025,1500,1700,1600.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,21/11/2025,1500,1700,1600.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,24/11/2025,1250,1340,1300.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,25/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,27/11/2025,1400,1600,1500.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,27/11/2025,1100,1300,1200.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,30/11/2025,1100,1150,1130.0,23
+Uttar Pradesh,Hardoi,Sandi APMC,Onion,Onion,FAQ,04/11/2025,1300,1350,1320.0,23
+Uttar Pradesh,Hathras,Haathras APMC,Onion,Red,FAQ,13/11/2025,1150,1300,1210.0,23
+Uttar Pradesh,Fatehpur,Khaga APMC,Onion,Red,FAQ,07/11/2025,1100,1260,1200.0,23
+Uttar Pradesh,Sitapur,Sitapur APMC,Onion,Red,FAQ,09/11/2025,1200,1400,1320.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,08/11/2025,1220,1420,1320.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,10/11/2025,1285,1345,1310.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,09/11/2025,1220,1410,1330.0,23
+Uttar Pradesh,Banda,Banda APMC,Onion,Red,FAQ,10/11/2025,1220,1370,1300.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Red,FAQ,07/11/2025,1350,1350,1350.0,23
+Uttar Pradesh,Hardoi,Sandila APMC,Onion,Red,FAQ,09/11/2025,1280,1380,1330.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,07/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,Local,06/11/2025,1220,1220,1220.0,23
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Onion,Red,FAQ,09/11/2025,1200,1300,1230.0,23
+Uttar Pradesh,Sambhal,Chandausi APMC,Onion,Red,FAQ,09/11/2025,1300,1300,1300.0,23
+Uttar Pradesh,Jhansi,Mauranipur APMC,Onion,Red,FAQ,09/11/2025,1360,1385,1375.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,Local,09/11/2025,1250,1315,1280.0,23
+Uttar Pradesh,Jhansi,Gurusarai APMC,Onion,Red,FAQ,05/11/2025,1385,1410,1400.0,23
+Uttar Pradesh,Jhansi,Gurusarai APMC,Onion,Red,FAQ,06/11/2025,1380,1410,1390.0,23
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Onion,Red,FAQ,07/11/2025,1280,1350,1320.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,07/11/2025,1100,1400,1250.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,11/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,10/11/2025,1250,1450,1350.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,12/11/2025,1250,1330,1290.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,11/11/2025,1240,1340,1290.0,23
+Uttar Pradesh,Baghpat,Baraut APMC,Onion,Red,FAQ,09/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Onion,Red,FAQ,07/11/2025,1300,1375,1350.0,23
+Uttar Pradesh,Hardoi,Sandila APMC,Onion,Red,FAQ,10/11/2025,1290,1400,1340.0,23
+Uttar Pradesh,Fatehpur,Khaga APMC,Onion,Red,FAQ,05/11/2025,1200,1310,1250.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,08/11/2025,1339,1339,1339.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,14/11/2025,1250,1400,1300.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,12/11/2025,1300,1300,1300.0,23
+Uttar Pradesh,Mathura,Mathura APMC,Onion,Red,FAQ,10/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,08/11/2025,1206,1395,1296.0,23
+Uttar Pradesh,Fatehpur,Khaga APMC,Onion,Red,FAQ,09/11/2025,1100,1290,1225.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,07/11/2025,1120,1315,1235.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,09/11/2025,1230,1430,1330.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,11/11/2025,1270,1270,1270.0,23
+Uttar Pradesh,Shravasti,Bhinga APMC,Onion,Red,FAQ,10/11/2025,1080,1340,1200.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,12/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Red,FAQ,07/11/2025,1900,1900,1900.0,23
+Uttar Pradesh,Ballia,Rasda APMC,Onion,Red,Grade Range-3,12/11/2025,1220,1355,1290.0,23
+Uttar Pradesh,Bahraich,Bahraich APMC,Onion,Red,FAQ,12/11/2025,1250,1400,1320.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,05/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Jhansi,Moth APMC,Onion,Red,FAQ,06/11/2025,1340,1450,1400.0,23
+Uttar Pradesh,Meerut,Meerut APMC,Onion,Red,FAQ,10/11/2025,1150,1300,1220.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,11/11/2025,1300,1365,1330.0,23
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Onion,Red,FAQ,14/11/2025,1240,1320,1270.0,23
+Uttar Pradesh,Jhansi,Jhansi APMC,Onion,Red,FAQ,11/11/2025,1400,1560,1450.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,09/11/2025,1250,1350,1305.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,09/11/2025,1290,1290,1290.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,Non-FAQ,11/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,08/11/2025,1220,1220,1220.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,13/11/2025,1300,1380,1340.0,23
+Uttar Pradesh,Sambhal,Muradabad APMC,Onion,Red,FAQ,11/11/2025,1270,1370,1320.0,23
+Uttar Pradesh,Lucknow,Lucknow APMC,Onion,Red,FAQ,12/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,13/11/2025,1320,1520,1420.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,10/11/2025,1300,1380,1340.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,13/11/2025,1130,1320,1225.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,09/11/2025,1350,1350,1350.0,23
+Uttar Pradesh,Unnao,Bangarmau APMC,Onion,Red,FAQ,10/11/2025,1270,1380,1320.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,12/11/2025,1100,1350,1200.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,Medium,12/11/2025,1450,1450,1450.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,11/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,FAQ,11/11/2025,1290,1370,1330.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,12/11/2025,1295,1495,1395.0,23
+Uttar Pradesh,Amethi,Jafarganj APMC,Onion,Red,FAQ,12/11/2025,1300,1330,1325.0,23
+Uttar Pradesh,Unnao,Bangarmau APMC,Onion,Red,FAQ,12/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,12/11/2025,1200,1370,1280.0,23
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Onion,Red,FAQ,12/11/2025,1230,1300,1260.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,08/11/2025,1320,1470,1400.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,FAQ,13/11/2025,1265,1345,1305.0,23
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Red,FAQ,13/11/2025,1250,1360,1310.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,12/11/2025,1280,1345,1308.0,23
+Uttar Pradesh,Auraiya,Achalda APMC,Onion,Red,FAQ,10/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Ballia,Ballia APMC,Onion,Red,FAQ,10/11/2025,1270,1325,1300.0,23
+Uttar Pradesh,Meerut,Meerut APMC,Onion,Red,Medium,13/11/2025,1180,1380,1280.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Grade C,13/11/2025,1400,1400,1400.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,13/11/2025,1240,1315,1275.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,10/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,FAQ,01/11/2025,1280,1440,1350.0,23
+Uttar Pradesh,Badaun,Bilsi APMC,Onion,Red,Non-FAQ,01/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Ballia,Ballia APMC,Onion,Red,FAQ,01/11/2025,1280,1325,1300.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Red,FAQ,01/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,01/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Chandauli,Chandoli APMC,Onion,Red,FAQ,01/11/2025,1230,1330,1280.0,23
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Onion,Red,FAQ,01/11/2025,1200,1400,1305.0,23
+Uttar Pradesh,Firozabad,Tundla APMC,Onion,Red,FAQ,01/11/2025,1235,1265,1250.0,23
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Onion,Red,FAQ,01/11/2025,1300,1400,1355.0,23
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Onion,Red,FAQ,01/11/2025,1275,1375,1325.0,23
+Uttar Pradesh,Hathras,Haathras APMC,Onion,Red,FAQ,01/11/2025,1220,1380,1300.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,01/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Red,FAQ,01/11/2025,1200,1220,1210.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,FAQ,01/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,01/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,01/11/2025,1200,1600,1400.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,FAQ,01/11/2025,1220,1330,1280.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,01/11/2025,1000,1300,1200.0,23
+Uttar Pradesh,Mirzapur,Ahirora APMC,Onion,Red,Non-FAQ,01/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,FAQ,01/11/2025,1315,1395,1355.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,01/11/2025,1310,1350,1330.0,23
+Uttar Pradesh,Prayagraj,Allahabad APMC,Onion,Red,FAQ,01/11/2025,1200,1300,1235.0,23
+Uttar Pradesh,Prayagraj,Sirsa APMC,Onion,Red,FAQ,01/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Onion,Red,Non-FAQ,01/11/2025,900,1100,1000.0,23
+Uttar Pradesh,Shahjahanpur,Tilhar APMC,Onion,Red,FAQ,01/11/2025,1290,1385,1335.0,23
+Uttar Pradesh,Sitapur,Sitapur APMC,Onion,Red,FAQ,01/11/2025,1050,1400,1320.0,23
+Uttar Pradesh,Amethi,Sultanpur APMC,Onion,Red,FAQ,02/11/2025,1280,1325,1310.0,23
+Uttar Pradesh,Badaun,Ujhani APMC,Onion,Red,Non-FAQ,02/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Red,FAQ,02/11/2025,1230,1320,1260.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,02/11/2025,1205,1390,1295.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Red,FAQ,02/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Red,FAQ,02/11/2025,1200,1600,1400.0,23
+Uttar Pradesh,Etah,Etah APMC,Onion,Red,FAQ,02/11/2025,1200,1500,1322.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,02/11/2025,1280,1480,1380.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,02/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,02/11/2025,1180,1380,1280.0,23
+Uttar Pradesh,Fatehpur,Bindki APMC,Onion,Red,FAQ,02/11/2025,1200,1340,1270.0,23
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Onion,Red,FAQ,02/11/2025,1200,1450,1300.0,23
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Onion,Red,Non-FAQ,02/11/2025,1050,1180,1110.0,23
+Uttar Pradesh,Hathras,Haathras APMC,Onion,Red,FAQ,02/11/2025,1200,1380,1300.0,23
+Uttar Pradesh,Jalaun (Orai),Konch APMC,Onion,Red,FAQ,02/11/2025,900,1100,1000.0,23
+Uttar Pradesh,Jhansi,Chirgaon APMC,Onion,Red,FAQ,02/11/2025,1300,1450,1365.0,23
+Uttar Pradesh,Jhansi,Moth APMC,Onion,Red,FAQ,02/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Maharajganj,Gadaura APMC,Onion,Red,FAQ,02/11/2025,1300,1500,1400.0,23
+Uttar Pradesh,Sambhal,Muradabad APMC,Onion,Red,FAQ,02/11/2025,1300,1360,1330.0,23
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Red,FAQ,03/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Red,FAQ,03/11/2025,1500,1600,1550.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Non-FAQ,03/11/2025,1200,1800,1500.0,23
+Uttar Pradesh,Badaun,Bilsi APMC,Onion,Red,FAQ,03/11/2025,1300,1350,1335.0,23
+Uttar Pradesh,Badaun,Wazirganj APMC,Onion,Red,Non-FAQ,03/11/2025,1200,1250,1225.0,23
+Uttar Pradesh,Bahraich,Naanpara APMC,Onion,Red,FAQ,03/11/2025,1500,1600,1550.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Red,FAQ,03/11/2025,1600,1700,1650.0,23
+Uttar Pradesh,Etah,Etah APMC,Onion,Red,FAQ,03/11/2025,1200,1500,1330.0,23
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Onion,Red,FAQ,03/11/2025,1200,1400,1310.0,23
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Onion,Red,FAQ,03/11/2025,1200,1325,1290.0,23
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Onion,Red,Non-FAQ,03/11/2025,1000,1100,1050.0,23
+Uttar Pradesh,Ghaziabad,Muradnagar APMC,Onion,Red,FAQ,03/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Gorakhpur,Sehjanwa APMC,Onion,Red,FAQ,03/11/2025,1390,1405,1400.0,23
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Onion,Red,FAQ,03/11/2025,1275,1325,1300.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Red,FAQ,03/11/2025,1500,1600,1550.0,23
+Uttar Pradesh,Jhansi,Gurusarai APMC,Onion,Red,FAQ,03/11/2025,1390,1410,1400.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,03/11/2025,1180,1260,1220.0,23
+Uttar Pradesh,Kanpur,Choubepur APMC,Onion,Red,FAQ,03/11/2025,1000,1300,1200.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,FAQ,03/11/2025,1115,1315,1215.0,23
+Uttar Pradesh,Kasganj,Kasganj APMC,Onion,Red,FAQ,03/11/2025,1300,1420,1350.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Red,FAQ,03/11/2025,2100,2200,2140.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,03/11/2025,1340,1360,1355.0,23
+Uttar Pradesh,Saharanpur,Saharanpur APMC,Onion,Red,FAQ,03/11/2025,1200,1550,1380.0,23
+Uttar Pradesh,Shahjahanpur,Tilhar APMC,Onion,Red,Non-FAQ,03/11/2025,1250,1295,1280.0,23
+Uttar Pradesh,Shravasti,Bhinga APMC,Onion,Red,FAQ,03/11/2025,1150,1375,1270.0,23
+Uttar Pradesh,Unnao,Unnao APMC,Onion,Red,FAQ,03/11/2025,1200,1325,1250.0,23
+Uttar Pradesh,Unnao,Bangarmau APMC,Onion,Red,FAQ,03/11/2025,1290,1390,1345.0,23
+Uttar Pradesh,Hardoi,Shahabad(New Mandi) APMC,Onion,Red,FAQ,01/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Meerut,Parikshitgarh APMC,Onion,Red,FAQ,01/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Shamli,Khandhla APMC,Onion,Red,Non-FAQ,01/11/2025,1400,1500,1450.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,04/11/2025,1200,1390,1300.0,23
+Uttar Pradesh,Barabanki,Barabanki APMC,Onion,Red,FAQ,04/11/2025,1300,1360,1330.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,04/11/2025,1200,1380,1280.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Red,FAQ,04/11/2025,1200,1600,1400.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,04/11/2025,1200,1450,1325.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,04/11/2025,1220,1420,1320.0,23
+Uttar Pradesh,Firozabad,Tundla APMC,Onion,Red,FAQ,04/11/2025,1140,1175,1150.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,FAQ,04/11/2025,1200,1350,1280.0,23
+Uttar Pradesh,Gonda,Gonda APMC,Onion,Red,FAQ,04/11/2025,1250,1400,1300.0,23
+Uttar Pradesh,Hardoi,Sandila APMC,Onion,Red,FAQ,04/11/2025,1280,1390,1325.0,23
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Onion,Red,FAQ,04/11/2025,1200,1350,1300.0,23
+Uttar Pradesh,Jhansi,Moth APMC,Onion,Red,Non-FAQ,04/11/2025,1020,1080,1050.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,FAQ,04/11/2025,1130,1330,1230.0,23
+Uttar Pradesh,Lucknow,Lucknow APMC,Onion,Red,FAQ,04/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Maharajganj,Partaval APMC,Onion,Red,FAQ,04/11/2025,1285,1435,1360.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Non-FAQ,04/11/2025,1190,1265,1225.0,23
+Uttar Pradesh,Prayagraj,Jasra APMC,Onion,Red,FAQ,04/11/2025,1160,1300,1240.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,04/11/2025,1325,1355,1350.0,23
+Uttar Pradesh,Sambhal,Chandausi APMC,Onion,Red,FAQ,04/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Shahjahanpur,Tilhar APMC,Onion,Red,Non-FAQ,04/11/2025,1200,1270,1240.0,23
+Uttar Pradesh,Agra,Khairagarh APMC,Onion,Red,FAQ,02/11/2025,1000,1100,1050.0,23
+Uttar Pradesh,Agra,Samsabad APMC,Onion,Red,FAQ,02/11/2025,800,1000,900.0,23
+Uttar Pradesh,Bijnor,Chaandpur APMC,Onion,Red,FAQ,02/11/2025,900,1100,1000.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,FAQ,05/11/2025,1300,1350,1320.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,05/11/2025,1205,1390,1294.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,05/11/2025,900,1000,950.0,23
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Onion,Red,FAQ,05/11/2025,1200,1400,1305.0,23
+Uttar Pradesh,Gautam Budh Nagar,Dadri APMC,Onion,Red,Non-FAQ,05/11/2025,1030,1180,1100.0,23
+Uttar Pradesh,Gonda,Gonda APMC,Onion,Red,FAQ,05/11/2025,1100,1300,1200.0,23
+Uttar Pradesh,Hardoi,Sandila APMC,Onion,Red,FAQ,05/11/2025,1270,1380,1325.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Red,FAQ,05/11/2025,1185,1385,1285.0,23
+Uttar Pradesh,Kanpur,Choubepur APMC,Onion,Red,FAQ,05/11/2025,950,1350,1250.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,FAQ,05/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,05/11/2025,1215,1390,1300.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,05/11/2025,1250,1345,1300.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,05/11/2025,1350,1375,1360.0,23
+Uttar Pradesh,Unnao,Unnao APMC,Onion,Red,FAQ,05/11/2025,1225,1325,1275.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,03/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Saharanpur,Gangoh APMC,Onion,Red,FAQ,03/11/2025,1200,1500,1400.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Red,FAQ,06/11/2025,1200,1300,1240.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Red,FAQ,06/11/2025,1600,1700,1650.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,06/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Onion,Red,FAQ,06/11/2025,1285,1400,1325.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,06/11/2025,1250,1300,1275.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,06/11/2025,1225,1325,1280.0,23
+Uttar Pradesh,Kanpur,Choubepur APMC,Onion,Red,FAQ,06/11/2025,1000,1350,1250.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,06/11/2025,1115,1310,1220.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,06/11/2025,1120,1320,1220.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Non-FAQ,06/11/2025,1190,1265,1225.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,06/11/2025,1320,1350,1340.0,23
+Uttar Pradesh,Gonda,Gonda APMC,Onion,Red,FAQ,13/11/2025,1250,1400,1300.0,23
+Uttar Pradesh,Banda,Banda APMC,Onion,Red,FAQ,13/11/2025,1230,1375,1300.0,23
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Onion,Red,FAQ,13/11/2025,1250,1440,1365.0,23
+Uttar Pradesh,Agra,Fatehabad APMC,Onion,Red,FAQ,04/11/2025,1000,1400,1200.0,23
+Uttar Pradesh,Agra,Samsabad APMC,Onion,Red,FAQ,04/11/2025,900,1100,1000.0,23
+Uttar Pradesh,Etawah,Jasvantnagar APMC,Onion,Red,FAQ,04/11/2025,1325,1425,1375.0,23
+Uttar Pradesh,Shahjahanpur,Puwaha APMC,Onion,Red,Non-FAQ,04/11/2025,1200,1250,1220.0,23
+Uttar Pradesh,Shamli,Shamli APMC,Onion,Red,Non-FAQ,04/11/2025,1100,1200,1150.0,23
+Uttar Pradesh,Deoria,Devariya APMC,Onion,Red,FAQ,12/11/2025,1315,1350,1340.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,10/11/2025,1250,1370,1300.0,23
+Uttar Pradesh,Meerut,Meerut APMC,Onion,Red,FAQ,11/11/2025,1170,1310,1230.0,23
+Uttar Pradesh,Baghpat,Baraut APMC,Onion,Red,FAQ,12/11/2025,1200,1400,1290.0,23
+Uttar Pradesh,Agra,Khairagarh APMC,Onion,Red,FAQ,05/11/2025,1200,1300,1250.0,23
+Uttar Pradesh,Badaun,Shahaswan APMC,Onion,Red,Non-FAQ,05/11/2025,1400,1800,1500.0,23
+Uttar Pradesh,Etawah,Jasvantnagar APMC,Onion,Red,FAQ,05/11/2025,1320,1420,1370.0,23
+Uttar Pradesh,Shahjahanpur,Puwaha APMC,Onion,Red,FAQ,05/11/2025,1250,1400,1300.0,23
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Red,FAQ,05/11/2025,1000,1100,1050.0,23
+Uttar Pradesh,Ayodhya,Faizabad APMC,Onion,Red,FAQ,06/11/2025,1280,1390,1340.0,23
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Onion,Red,FAQ,06/11/2025,2900,2965,2930.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,06/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Saharanpur,Rampurmaniharan APMC,Onion,Red,Non-FAQ,06/11/2025,2400,2600,2500.0,23
+Uttar Pradesh,Shamli,Shamli APMC,Onion,Red,FAQ,06/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,14/11/2025,1270,1370,1320.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,14/11/2025,1000,1200,1100.0,23
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Red,FAQ,14/11/2025,1140,1260,1200.0,23
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Onion,Red,FAQ,14/11/2025,1230,1435,1350.0,23
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Onion,Red,FAQ,14/11/2025,1300,1400,1350.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,FAQ,14/11/2025,1300,1380,1340.0,23
+Uttar Pradesh,Unnao,Bangarmau APMC,Onion,Red,FAQ,14/11/2025,1270,1390,1335.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Medium,14/11/2025,1200,1320,1230.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,14/11/2025,1250,1475,1375.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,13/11/2025,1200,1400,1300.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Red,Small,14/11/2025,1100,1200,1150.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,18/11/2025,1250,1350,1300.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,15/11/2025,1250,1370,1310.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade Range-2,15/11/2025,1265,1345,1305.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,15/11/2025,1200,1400,1330.0,23
+Uttar Pradesh,Etawah,Etawah APMC,Onion,Red,FAQ,15/11/2025,1200,1360,1300.0,23
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Red,FAQ,15/11/2025,1100,1220,1180.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Red,Medium,15/11/2025,1060,1320,1180.0,23
+Uttar Pradesh,Unnao,Bangarmau APMC,Onion,Red,FAQ,15/11/2025,1290,1400,1340.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,15/11/2025,1210,1290,1250.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,17/11/2025,1275,1365,1315.0,23
+Uttar Pradesh,Bahraich,Bahraich APMC,Onion,Red,FAQ,16/11/2025,1200,1365,1280.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,18/11/2025,1210,1410,1310.0,23
+Uttar Pradesh,Hathras,Haathras APMC,Onion,Red,FAQ,15/11/2025,1120,1280,1200.0,23
+Uttar Pradesh,Badaun,Wazirganj APMC,Onion,Red,Local,16/11/2025,1250,1325,1310.0,23
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Red,FAQ,16/11/2025,1120,1240,1180.0,23
+Uttar Pradesh,Shravasti,Bhinga APMC,Onion,Red,FAQ,15/11/2025,1080,1370,1220.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,16/11/2025,1210,1210,1210.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,17/11/2025,1250,1390,1330.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,16/11/2025,1300,1365,1330.0,23
+Uttar Pradesh,Etah,Awagarh APMC,Onion,Other,FAQ,12/11/2025,1600,2000,1800.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Other,Grade B,11/11/2025,2100,2100,2100.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,01/01/2026,1250,1350,1320.0,23
+Uttar Pradesh,Siddharth Nagar,Bansi APMC,Onion,Other,Medium,19/12/2025,20,20,20.0,23
+Uttar Pradesh,Siddharth Nagar,Bansi APMC,Onion,Other,Medium,22/12/2025,16,16,16.0,23
+Uttar Pradesh,Prayagraj,Allahabad APMC,Onion,Other,FAQ,06/01/2026,1270,1400,1325.0,23
+Uttar Pradesh,Prayagraj,Allahabad APMC,Onion,Other,FAQ,19/12/2025,1500,1600,1540.0,23
+Uttar Pradesh,Prayagraj,Allahabad APMC,Onion,Other,FAQ,20/12/2025,1500,1600,1545.0,23
+Uttar Pradesh,Prayagraj,Allahabad APMC,Onion,Other,FAQ,04/12/2025,2170,2280,2230.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Grade C,05/01/2026,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Grade C,06/01/2026,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Local,12/01/2026,1000,1000,1000.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,01/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,02/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,01/12/2025,800,1000,900.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Onion,FAQ,02/12/2025,1100,1220,1180.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,02/12/2025,1600,1800,1700.0,23
+Uttar Pradesh,Bareilly,Anwala APMC,Onion,Onion,FAQ,02/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,03/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Onion,FAQ,03/12/2025,1150,1350,1250.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,04/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,04/12/2025,1500,1700,1600.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Onion,Grade Range-2,10/12/2025,1100,1250,1145.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,09/12/2025,900,1000,950.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,05/12/2025,800,1000,900.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,04/12/2025,1500,1700,1600.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,06/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Sambhal,Sambhal APMC,Onion,Onion,FAQ,09/12/2025,1200,1650,1500.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,07/12/2025,1400,1600,1500.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,11/12/2025,1400,1600,1500.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,08/12/2025,1040,1120,1080.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,10/12/2025,1000,1070,1040.0,23
+Uttar Pradesh,Bareilly,Anwala APMC,Onion,Onion,FAQ,11/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,12/12/2025,1500,1700,1600.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,12/12/2025,1500,1700,1600.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,15/12/2025,1400,1600,1500.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,16/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Onion,FAQ,17/12/2025,1100,1160,1130.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Onion,FAQ,23/12/2025,980,1250,1180.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Onion,FAQ,17/12/2025,1040,1240,1140.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Onion,FAQ,18/12/2025,1000,1500,1230.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,18/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,19/12/2025,1600,1800,1700.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,18/12/2025,1800,2000,1900.0,23
+Uttar Pradesh,Mirzapur,Ahirora APMC,Onion,Other,Medium,18/12/2025,900,1000,1000.0,23
+Uttar Pradesh,Siddharth Nagar,Naugarh APMC,Onion,Other,Grade A,18/12/2025,1180,1180,1180.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Other,FAQ,20/12/2025,1110,1130,1120.0,23
+Uttar Pradesh,Prayagraj,Prayagraj APMC,Onion,Other,FAQ,20/12/2025,1500,1600,1545.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Other,FAQ,21/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Bahraich,Naanpara APMC,Onion,Other,Medium,22/12/2025,1000,1100,1070.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,24/12/2025,1300,1500,1400.0,23
+Uttar Pradesh,Bahraich,Naanpara APMC,Onion,Other,Medium,24/12/2025,1000,1120,1090.0,23
+Uttar Pradesh,Siddharth Nagar,Naugarh APMC,Onion,Other,Grade A,24/12/2025,1450,1450,1450.0,23
+Uttar Pradesh,Agra,Jagnair APMC,Onion,Other,FAQ,23/12/2025,1600,1800,1700.0,23
+Uttar Pradesh,Prayagraj,Prayagraj APMC,Onion,Other,FAQ,26/12/2025,1375,1480,1415.0,23
+Uttar Pradesh,Bulandshahar,Siyana APMC,Onion,Other,FAQ,25/12/2025,1100,1120,1110.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Other,FAQ,25/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Raebarelli,Salon APMC,Onion,Other,FAQ,26/12/2025,1230,1240,1235.0,23
+Uttar Pradesh,Shravasti,Payagpur APMC,Onion,Other,FAQ,29/12/2025,1800,2000,1900.0,23
+Uttar Pradesh,Raebarelli,Salon APMC,Onion,Other,FAQ,29/12/2025,1260,1270,1265.0,23
+Uttar Pradesh,Bahraich,Naanpara APMC,Onion,Other,Medium,29/12/2025,1100,1160,1140.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,FAQ,01/12/2025,1040,1240,1140.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,01/12/2025,1030,1230,1130.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,01/12/2025,1220,1340,1285.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,01/12/2025,1100,1300,1210.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,01/12/2025,1000,1250,1120.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,01/12/2025,1150,1250,1200.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,01/12/2025,1100,1180,1140.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade B,01/12/2025,1120,1210,1170.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,01/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,01/12/2025,1125,1205,1165.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,01/12/2025,1185,1260,1220.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,02/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,01/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Red,Medium,01/12/2025,1020,1250,1130.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,01/12/2025,1220,1295,1260.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,02/12/2025,1085,1300,1200.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,02/12/2025,1250,1350,1300.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,02/12/2025,1180,1290,1200.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,FAQ,02/12/2025,1250,1250,1250.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,02/12/2025,1150,1250,1210.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,02/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Prayagraj,Jasra APMC,Onion,Red,FAQ,05/12/2025,1050,1190,1125.0,23
+Uttar Pradesh,Lucknow,Lucknow APMC,Onion,Red,FAQ,03/12/2025,1160,1260,1210.0,23
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Onion,Red,FAQ,05/12/2025,1100,1200,1150.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,03/12/2025,1050,1150,1100.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,FAQ,02/12/2025,1015,1215,1115.0,23
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Onion,Red,FAQ,29/12/2025,1400,1500,1440.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,FAQ,03/12/2025,960,1160,1060.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,03/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,04/12/2025,1100,1200,1150.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,02/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Red,Medium,03/12/2025,950,1180,1070.0,23
+Uttar Pradesh,Hamirpur,Muskara APMC,Onion,Red,FAQ,02/12/2025,1180,1380,1280.0,23
+Uttar Pradesh,Maharajganj,Partaval APMC,Onion,Red,FAQ,03/12/2025,1160,1300,1230.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,02/12/2025,1300,1300,1300.0,23
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Onion,Red,Local,05/12/2025,750,900,800.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,03/12/2025,1175,1250,1200.0,23
+Uttar Pradesh,Prayagraj,Jasra APMC,Onion,Red,FAQ,03/12/2025,1065,1230,1150.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,04/12/2025,1250,1320,1285.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,04/12/2025,1130,1130,1130.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,04/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,05/12/2025,1015,1190,1100.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,04/12/2025,1100,1200,1170.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,03/12/2025,1200,1260,1230.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,05/12/2025,1150,1250,1200.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,04/12/2025,1120,1220,1170.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,FAQ,04/12/2025,1150,1150,1150.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,04/12/2025,935,1125,1045.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,04/12/2025,975,1025,1000.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,09/12/2025,1110,1175,1130.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,09/12/2025,950,1145,1030.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,05/12/2025,920,1150,1020.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,FAQ,09/12/2025,1060,1220,1150.0,23
+Uttar Pradesh,Etawah,Jasvantnagar APMC,Onion,Red,Medium,10/12/2025,1020,1120,1070.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,09/12/2025,1100,1200,1140.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,04/12/2025,1170,1270,1220.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,05/12/2025,1120,1230,1150.0,23
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Onion,Red,FAQ,09/12/2025,1100,1275,1185.0,23
+Uttar Pradesh,Lucknow,Lucknow APMC,Onion,Red,FAQ,06/12/2025,1120,1220,1170.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,06/12/2025,1000,1050,1020.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Grade B,09/12/2025,1400,1400,1400.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,06/12/2025,1200,1320,1250.0,23
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Red,FAQ,09/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,06/12/2025,1040,1220,1130.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,06/12/2025,1100,1200,1150.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,06/12/2025,900,1000,960.0,23
+Uttar Pradesh,Banda,Banda APMC,Onion,Red,FAQ,05/12/2025,1120,1280,1200.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,07/12/2025,1030,1215,1120.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,06/12/2025,1100,1200,1150.0,23
+Uttar Pradesh,Agra,Khairagarh APMC,Onion,Red,FAQ,06/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade B,09/12/2025,1105,1190,1145.0,23
+Uttar Pradesh,Auraiya,Achalda APMC,Onion,Red,FAQ,06/12/2025,1000,1120,1030.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Red,FAQ,08/12/2025,2000,2000,2000.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,05/12/2025,1175,1215,1200.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,08/12/2025,1160,1240,1200.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,09/12/2025,1015,1015,1015.0,23
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Onion,Red,FAQ,06/12/2025,1115,1215,1165.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,09/12/2025,1160,1240,1220.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,09/12/2025,1090,1170,1130.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,10/12/2025,1100,1200,1150.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,09/12/2025,1115,1200,1160.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,10/12/2025,990,1190,1090.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,10/12/2025,1150,1250,1190.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,07/12/2025,900,1050,970.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,08/12/2025,950,1050,1000.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,07/12/2025,1120,1200,1160.0,23
+Uttar Pradesh,Badaun,Shahaswan APMC,Onion,Red,Medium,08/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Red,FAQ,07/12/2025,1050,1160,1100.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,08/12/2025,1100,1160,1125.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,08/12/2025,1080,1160,1120.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,07/12/2025,920,1150,1010.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,07/12/2025,1080,1080,1080.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,08/12/2025,1020,1020,1020.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,08/12/2025,1020,1200,1110.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,08/12/2025,1125,1170,1150.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,07/12/2025,900,1100,1000.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,07/12/2025,1075,1175,1115.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,09/12/2025,925,1050,975.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,11/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Red,FAQ,09/12/2025,900,1140,1020.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,10/12/2025,1100,1300,1200.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,10/12/2025,1100,1210,1160.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,10/12/2025,1090,1190,1140.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Red,FAQ,10/12/2025,2000,2000,2000.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,10/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,10/12/2025,1110,1165,1140.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,10/12/2025,920,1115,1030.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,10/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,10/12/2025,1100,1150,1125.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,11/12/2025,1000,1185,1088.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,11/12/2025,1100,1200,1180.0,23
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Onion,Red,FAQ,10/12/2025,1010,1030,1020.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,11/12/2025,1050,1150,1100.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,11/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,11/12/2025,1160,1180,1175.0,23
+Uttar Pradesh,Jaunpur,Shahganj APMC,Onion,Red,FAQ,11/12/2025,1100,1180,1140.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,Grade C,10/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,12/12/2025,1120,1230,1175.0,23
+Uttar Pradesh,Varanasi,Varanasi(F&V) APMC,Onion,Red,FAQ,11/12/2025,1050,1220,1130.0,23
+Uttar Pradesh,Hathras,Sikandraraau APMC,Onion,Red,FAQ,11/12/2025,1350,1500,1470.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade B,11/12/2025,1115,1185,1148.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,11/12/2025,900,1100,1015.0,23
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Red,FAQ,11/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,10/12/2025,1115,1180,1160.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,11/12/2025,1120,1220,1180.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,12/12/2025,1060,1170,1120.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,12/12/2025,980,1020,1000.0,23
+Uttar Pradesh,Lucknow,Lucknow APMC,Onion,Red,FAQ,12/12/2025,1070,1170,1120.0,23
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Red,FAQ,12/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,12/12/2025,1025,1025,1025.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,17/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,12/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Grade B,12/12/2025,1400,1400,1400.0,23
+Uttar Pradesh,Agra,Achnera APMC,Onion,Red,FAQ,11/12/2025,1050,1130,1090.0,23
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Onion,Red,Local,12/12/2025,950,1050,1000.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Red,FAQ,12/12/2025,2000,2000,2000.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,12/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Hathras,Haathras APMC,Onion,Red,FAQ,13/12/2025,1150,1300,1220.0,23
+Uttar Pradesh,Badaun,Shahaswan APMC,Onion,Red,Medium,13/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,15/12/2025,1180,1260,1225.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,14/12/2025,1060,1260,1175.0,23
+Uttar Pradesh,Unnao,Unnao APMC,Onion,Red,FAQ,14/12/2025,1050,1185,1125.0,23
+Uttar Pradesh,Hathras,Haathras APMC,Onion,Red,FAQ,17/12/2025,1350,1500,1400.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,13/12/2025,1100,1180,1140.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,15/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,15/12/2025,1225,1225,1225.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,15/12/2025,1100,1200,1170.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,15/12/2025,950,1150,1050.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,15/12/2025,1020,1020,1020.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,15/12/2025,1130,1210,1170.0,23
+Uttar Pradesh,Agra,Achnera APMC,Onion,Red,FAQ,15/12/2025,1190,1270,1230.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,15/12/2025,1120,1190,1150.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Red,FAQ,13/12/2025,900,1200,1000.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,15/12/2025,1100,1200,1150.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,15/12/2025,1100,1150,1140.0,23
+Uttar Pradesh,Agra,Fatehabad APMC,Onion,Red,Medium,15/12/2025,800,1200,1000.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,15/12/2025,1195,1195,1195.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,FAQ,16/12/2025,1100,1170,1135.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,14/12/2025,1120,1120,1120.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,Medium,15/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Onion,Red,FAQ,15/12/2025,1230,1300,1260.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,16/12/2025,1100,1200,1160.0,23
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Onion,Red,FAQ,16/12/2025,1330,1400,1360.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,16/12/2025,1200,1400,1300.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Grade B,15/12/2025,1700,1700,1700.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Red,FAQ,16/12/2025,1100,1400,1230.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,17/12/2025,1100,1200,1150.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,17/12/2025,1150,1250,1200.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,FAQ,17/12/2025,1300,1300,1300.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,18/12/2025,1100,1100,1100.0,23
+Uttar Pradesh,Hamirpur,Muskara APMC,Onion,Red,FAQ,21/12/2025,1250,1450,1350.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,17/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,22/12/2025,1630,1830,1730.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Grade B,17/12/2025,1600,1600,1600.0,23
+Uttar Pradesh,Maharajganj,Partaval APMC,Onion,Red,FAQ,16/12/2025,1085,1235,1160.0,23
+Uttar Pradesh,Badaun,Shahaswan APMC,Onion,Red,Medium,17/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,18/12/2025,1085,1180,1135.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,18/12/2025,1200,1450,1325.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,18/12/2025,1260,1460,1360.0,23
+Uttar Pradesh,Ballia,Rasda APMC,Onion,Red,Grade Range-3,17/12/2025,1080,1195,1125.0,23
+Uttar Pradesh,Mahoba,Mahoba APMC,Onion,Red,Medium,19/12/2025,1180,1280,1210.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,23/12/2025,1160,1260,1210.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,18/12/2025,1150,1195,1170.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,19/12/2025,1250,1400,1325.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,18/12/2025,1160,1220,1190.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,19/12/2025,1165,1265,1215.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,18/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi APMC,Onion,Red,FAQ,19/12/2025,1100,1210,1160.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,18/12/2025,1130,1210,1170.0,23
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Onion,Red,FAQ,23/12/2025,1350,1550,1465.0,23
+Uttar Pradesh,Lakhimpur,Paliakala APMC,Onion,Red,Grade B,18/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,19/12/2025,1170,1240,1210.0,23
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Red,FAQ,19/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,19/12/2025,1275,1485,1380.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade B,19/12/2025,1130,1210,1170.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,Grade B,18/12/2025,1200,1400,1320.0,23
+Uttar Pradesh,Varanasi,Varanasi(F&V) APMC,Onion,Red,FAQ,18/12/2025,1150,1300,1200.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,19/12/2025,1120,1230,1180.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,20/12/2025,1340,1420,1380.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,24/12/2025,1270,1270,1270.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,23/12/2025,1350,1450,1400.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,24/12/2025,1300,1450,1350.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,20/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,20/12/2025,1170,1350,1260.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,20/12/2025,1250,1390,1320.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,24/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Maharajganj,Partaval APMC,Onion,Red,FAQ,24/12/2025,1330,1475,1400.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,20/12/2025,1260,1455,1350.0,23
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Onion,Red,FAQ,20/12/2025,1275,1500,1375.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,23/12/2025,1220,1420,1320.0,23
+Uttar Pradesh,Sitapur,Viswan APMC,Onion,Red,FAQ,20/12/2025,1220,1260,1240.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Grade B,20/12/2025,1400,1400,1400.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,21/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Basti,Basti APMC,Onion,Red,FAQ,20/12/2025,1250,1350,1300.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,23/12/2025,1300,1400,1350.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,20/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,20/12/2025,1400,1580,1490.0,23
+Uttar Pradesh,Ballia,Rasda APMC,Onion,Red,Grade Range-3,20/12/2025,1150,1300,1230.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,20/12/2025,1300,1550,1400.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,FAQ,20/12/2025,1100,1280,1200.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,20/12/2025,1160,1250,1220.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,20/12/2025,1215,1300,1265.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,22/12/2025,1300,1400,1350.0,23
+Uttar Pradesh,Agra,Khairagarh APMC,Onion,Red,FAQ,22/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,21/12/2025,1180,1240,1225.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,21/12/2025,1300,1400,1360.0,23
+Uttar Pradesh,Pillibhit,Bishalpur APMC,Onion,Red,FAQ,22/12/2025,1200,1235,1220.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,21/12/2025,1350,1350,1350.0,23
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Onion,Red,FAQ,22/12/2025,1260,1460,1360.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,23/12/2025,1160,1230,1200.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,23/12/2025,1160,1250,1220.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,24/12/2025,1150,1230,1180.0,23
+Uttar Pradesh,Agra,Khairagarh APMC,Onion,Red,FAQ,24/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,21/12/2025,1620,1820,1720.0,23
+Uttar Pradesh,Etawah,Jasvantnagar APMC,Onion,Red,Medium,22/12/2025,1670,1770,1720.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,FAQ,20/12/2025,1250,1285,1265.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,22/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,22/12/2025,1210,1270,1240.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,24/12/2025,1300,1500,1400.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,22/12/2025,1265,1465,1363.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,24/12/2025,1350,1450,1400.0,23
+Uttar Pradesh,Sitapur,Viswan APMC,Onion,Red,FAQ,25/12/2025,1200,1240,1220.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,25/12/2025,1440,1620,1530.0,23
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Red,FAQ,21/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Baghpat,Khekda APMC,Onion,Red,FAQ,22/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,22/12/2025,1170,1250,1210.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,22/12/2025,1360,1360,1360.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,24/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Prayagraj,Jasra APMC,Onion,Red,FAQ,22/12/2025,1185,1330,1270.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,24/12/2025,1555,1555,1555.0,23
+Uttar Pradesh,Badaun,Shahaswan APMC,Onion,Red,Medium,24/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Pillibhit,Pilibhit APMC,Onion,Red,Grade B,24/12/2025,1180,1260,1220.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,26/12/2025,1400,1475,1450.0,23
+Uttar Pradesh,Kanpur Dehat,Rura APMC,Onion,Red,FAQ,26/12/2025,1425,1460,1450.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,25/12/2025,1325,1425,1385.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,25/12/2025,1410,1610,1510.0,23
+Uttar Pradesh,Badaun,Shahaswan APMC,Onion,Red,Medium,26/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,25/12/2025,1260,1260,1260.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,26/12/2025,1400,1500,1450.0,23
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Onion,Red,FAQ,25/12/2025,970,1030,1000.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,26/12/2025,1440,1640,1540.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,27/12/2025,1020,1020,1020.0,23
+Uttar Pradesh,Siddharth Nagar,Bansi APMC,Onion,Red,FAQ,26/12/2025,1365,1465,1415.0,23
+Uttar Pradesh,Shravasti,Bhinga APMC,Onion,Red,FAQ,25/12/2025,1300,1600,1480.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,27/12/2025,1450,1550,1500.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,27/12/2025,1350,1550,1450.0,23
+Uttar Pradesh,Baghpat,Khekda APMC,Onion,Red,FAQ,26/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,Medium,25/12/2025,1180,1260,1240.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,29/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Varanasi,Varanasi(F&V) APMC,Onion,Red,FAQ,29/12/2025,1335,1475,1400.0,23
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Onion,Red,FAQ,29/12/2025,1275,1500,1375.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,29/12/2025,1200,1300,1245.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,29/12/2025,1300,1600,1490.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,29/12/2025,1250,1350,1300.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,28/12/2025,1275,1350,1315.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Grade C,29/12/2025,1400,1550,1450.0,23
+Uttar Pradesh,Sitapur,Viswan APMC,Onion,Red,FAQ,29/12/2025,1195,1235,1215.0,23
+Uttar Pradesh,Etawah,Jasvantnagar APMC,Onion,Red,Medium,27/12/2025,1470,1570,1520.0,23
+Uttar Pradesh,Auraiya,Achalda APMC,Onion,Red,FAQ,26/12/2025,1300,1450,1400.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,27/12/2025,1160,1350,1255.0,23
+Uttar Pradesh,Hamirpur,Muskara APMC,Onion,Red,FAQ,28/12/2025,1150,1350,1250.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,28/12/2025,1300,1300,1300.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,29/12/2025,1300,1300,1300.0,23
+Uttar Pradesh,Hamirpur,Muskara APMC,Onion,Red,FAQ,29/12/2025,1350,1550,1450.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,27/12/2025,1350,1450,1400.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,27/12/2025,1277,1480,1375.0,23
+Uttar Pradesh,Pillibhit,Puranpur APMC,Onion,Red,Grade B,27/12/2025,1205,1265,1240.0,23
+Uttar Pradesh,Bahraich,Bahraich APMC,Onion,Red,FAQ,30/12/2025,1425,1580,1500.0,23
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Onion,Red,FAQ,28/12/2025,1400,1610,1500.0,23
+Uttar Pradesh,Aligarh,Khair APMC,Onion,Red,Grade C,28/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Onion,Red,FAQ,28/12/2025,1450,1475,1460.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,30/12/2025,1430,1490,1460.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Grade C,28/12/2025,1350,1500,1430.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,27/12/2025,1300,1500,1400.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,30/12/2025,1300,1470,1370.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,29/12/2025,1275,1460,1368.0,23
+Uttar Pradesh,Auraiya,Auraiya APMC,Onion,Red,FAQ,28/12/2025,1400,1590,1500.0,23
+Uttar Pradesh,Badaun,Shahaswan APMC,Onion,Red,Medium,29/12/2025,1200,1200,1200.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,29/12/2025,1400,1600,1520.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,30/12/2025,1400,1510,1460.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,FAQ,28/12/2025,1450,1450,1450.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Red,FAQ,29/12/2025,1400,1650,1525.0,23
+Uttar Pradesh,Sonbhadra,Robertsganj APMC,Onion,Red,FAQ,29/12/2025,1430,1610,1525.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,30/12/2025,1320,1440,1385.0,23
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Red,FAQ,29/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Shravasti,Bhinga APMC,Onion,Red,FAQ,29/12/2025,1480,1775,1620.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,30/12/2025,1200,1400,1300.0,23
+Uttar Pradesh,Gonda,Gonda APMC,Onion,Red,FAQ,29/12/2025,1450,1650,1500.0,23
+Uttar Pradesh,Ballia,Rasda APMC,Onion,Red,Grade Range-3,30/12/2025,1300,1425,1350.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Red,FAQ,30/12/2025,1800,1800,1800.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,29/12/2025,1030,1030,1030.0,23
+Uttar Pradesh,Kaushambi,Manjhanpur APMC,Onion,Red,FAQ,30/12/2025,1175,1365,1270.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,30/12/2025,1300,1475,1378.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,31/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,29/12/2025,1250,1300,1275.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,30/12/2025,1350,1550,1450.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,29/12/2025,1170,1230,1200.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Medium,31/12/2025,1200,1300,1260.0,23
+Uttar Pradesh,Lakhimpur,Golagokarnath APMC,Onion,Red,FAQ,30/12/2025,1180,1260,1220.0,23
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Onion,Red,FAQ,31/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Onion,Red,FAQ,31/12/2025,1285,1500,1385.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,FAQ,31/12/2025,1280,1440,1350.0,23
+Uttar Pradesh,Shravasti,Bhinga APMC,Onion,Red,FAQ,30/12/2025,1450,1725,1600.0,23
+Uttar Pradesh,Maharajganj,Anandnagar APMC,Onion,Red,FAQ,31/12/2025,1300,1500,1400.0,23
+Uttar Pradesh,Bulandshahar,Sikarpur APMC,Onion,Red,FAQ,31/12/2025,1000,1200,1100.0,23
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia APMC,Onion,Red,Local,31/12/2025,1230,1280,1250.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,31/12/2025,1220,1220,1220.0,23
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Onion,Red,FAQ,25/12/2025,1170,1230,1200.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Red,FAQ,25/12/2025,1410,1650,1530.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,23/12/2025,1150,1250,1200.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,24/12/2025,1180,1230,1200.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,06/12/2025,1600,1700,1650.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,07/12/2025,1000,1400,1200.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,15/12/2025,1100,1500,1300.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,18/12/2025,1600,1700,1650.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,21/12/2025,1600,1700,1650.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,24/12/2025,1100,1500,1300.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,25/12/2025,1600,1700,1650.0,23
+Uttar Pradesh,Amroha,Dhanaura APMC,Onion,Medium,Medium,01/12/2025,2000,2000,2000.0,23
+Uttar Pradesh,Etah,Awagarh APMC,Onion,Medium,FAQ,12/12/2025,1400,1500,1450.0,23
+Uttar Pradesh,Etah,Awagarh APMC,Onion,Medium,FAQ,17/12/2025,1300,1400,1350.0,23
+Uttar Pradesh,Amroha,Dhanaura APMC,Onion,Medium,Medium,18/12/2025,2000,2000,2000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Local,02/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Local,06/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Local,09/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Sitapur,Hargaon (Laharpur) APMC,Onion,Nasik,Grade C,17/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Onion,Grade B,02/12/2025,1160,1360,1260.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,02/12/2025,900,1100,1000.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,02/12/2025,1100,1150,1130.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,03/12/2025,1080,1160,1120.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,03/12/2025,800,1000,900.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Onion,FAQ,26/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Bareilly,Anwala APMC,Onion,Onion,FAQ,29/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Onion,FAQ,27/12/2025,900,1000,950.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,05/12/2025,1050,1150,1100.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,09/12/2025,800,1000,900.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Onion,FAQ,06/12/2025,1070,1270,1170.0,23
+Uttar Pradesh,Bareilly,Anwala APMC,Onion,Onion,FAQ,06/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,06/12/2025,1600,1800,1700.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,11/12/2025,1020,1080,1050.0,23
+Uttar Pradesh,Baghpat,Bagpat APMC,Onion,Onion,FAQ,11/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Onion,Grade B,12/12/2025,1100,1250,1150.0,23
+Uttar Pradesh,Sambhal,Sambhal APMC,Onion,Onion,FAQ,12/12/2025,1200,1500,1400.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,14/12/2025,1500,1700,1600.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,17/12/2025,1200,1300,1250.0,23
+Uttar Pradesh,Saharanpur,Gangoh APMC,Onion,Onion,FAQ,18/12/2025,900,1300,1100.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,27/12/2025,800,900,850.0,23
+Uttar Pradesh,Hathras,Shadabad APMC,Onion,Onion,Small,26/12/2025,700,800,750.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,24/12/2025,1500,1700,1600.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,25/12/2025,1400,1600,1500.0,23
+Uttar Pradesh,Bahraich,Bahraich APMC,Onion,Onion,FAQ,25/12/2025,1425,1580,1500.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,26/12/2025,1600,1700,1650.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,26/12/2025,1600,1800,1700.0,23
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Onion,Onion,Medium,26/12/2025,900,1300,1280.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,29/12/2025,1500,1700,1600.0,23
+Uttar Pradesh,Bareilly,Anwala APMC,Onion,Onion,FAQ,04/12/2025,1000,1000,1000.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Onion,FAQ,04/12/2025,1000,1100,1050.0,23
+Uttar Pradesh,Agra,Agra APMC,Onion,Onion,FAQ,06/12/2025,900,1150,1000.0,23
+Uttar Pradesh,Sambhal,Sambhal APMC,Onion,Onion,FAQ,08/12/2025,1000,1450,1200.0,23
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Onion,Onion,FAQ,10/12/2025,1040,1240,1140.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Onion,FAQ,10/12/2025,900,1100,1000.0,23
+Uttar Pradesh,Sambhal,Sambhal APMC,Onion,Onion,FAQ,11/12/2025,1200,1500,1400.0,23
+Uttar Pradesh,Kanpur,Varipaal APMC,Onion,Onion,FAQ,17/12/2025,1100,1120,1110.0,23
+Uttar Pradesh,Baghpat,Bagpat APMC,Onion,Onion,FAQ,19/12/2025,1100,1100,1100.0,23
+Uttar Pradesh,Balrampur,Tulsipur APMC,Onion,Onion,FAQ,17/12/2025,1020,1050,1050.0,23
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Onion,Onion,Local,29/12/2025,1800,2000,1900.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,30/12/2025,1400,1600,1500.0,23
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Onion,Onion,FAQ,30/12/2025,1450,1600,1550.0,23
+Uttar Pradesh,Bulandshahar,Gulavati APMC,Onion,Onion,FAQ,23/12/2025,1400,1600,1500.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,28/01/2026,1550,1780,1675.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,2nd Sort,FAQ,22/12/2025,1500,1500,1500.0,23
+Uttar Pradesh,Etah,Awagarh APMC,Onion,Medium,FAQ,19/01/2026,1400,1600,1500.0,23
+Uttar Pradesh,Bulandshahar,Sikanderabad APMC,Onion,Medium,Medium,27/01/2026,1600,1800,1700.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,05/01/2026,1200,1600,1400.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,04/01/2026,1600,1700,1650.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,07/01/2026,1600,1700,1650.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,09/01/2026,1100,1500,1300.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,16/01/2026,1400,1800,1600.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,13/01/2026,1600,1700,1650.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,23/01/2026,1600,1700,1650.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,22/01/2026,1600,1700,1650.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,28/01/2026,1600,2000,1800.0,23
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,Onion,Dry F.A.Q.,FAQ,10/02/2026,1600,2000,1800.0,23
+Uttar Pradesh,Aligarh,Charra APMC,Onion,Dry F.A.Q.,FAQ,08/02/2026,1600,1700,1650.0,23
+Uttar Pradesh,Prayagraj,Lediyari APMC,Onion,Local,FAQ,12/02/2026,1200,1380,1358.0,23
+Uttar Pradesh,Amroha,Dhanaura APMC,Onion,Medium,Medium,01/01/2026,1500,2000,1833.33,23
+Uttar Pradesh,Bulandshahar,Sikanderabad APMC,Onion,Medium,Medium,02/01/2026,1200,1400,1300.0,23
+Uttar Pradesh,Etah,Awagarh APMC,Onion,Medium,FAQ,13/02/2026,1900,2100,2000.0,23
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia APMC,Onion,Other,Local,13/02/2026,1450,1520,1480.0,23
+Uttar Pradesh,Hathras,Sikandraraau APMC,Onion,Other,FAQ,11/02/2026,1560,1800,1745.0,23
+Uttar Pradesh,Bahraich,Naanpara APMC,Onion,Other,Medium,12/02/2026,1200,1300,1256.0,23
+Uttar Pradesh,Bahraich,Naanpara APMC,Onion,Other,Medium,11/02/2026,1200,1300,1250.0,23
+Uttar Pradesh,Hardoi,Sandi APMC,Onion,Pusa-Red,FAQ,06/01/2026,1240,1300,1270.0,23
+Uttar Pradesh,Hardoi,Sandi APMC,Onion,Pusa-Red,FAQ,07/01/2026,1350,1430,1390.0,23
+Uttar Pradesh,Agra,Fatehabad APMC,Onion,Red,Medium,01/01/2026,1200,1600,1400.0,23
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad APMC,Onion,Red,FAQ,01/01/2026,1450,1450,1450.0,23
+Uttar Pradesh,Siddharth Nagar,Naugarh APMC,Onion,Red,Grade A,01/01/2026,1350,1350,1350.0,23
+Uttar Pradesh,Bulandshahar,Jahangirabad APMC,Onion,Red,FAQ,01/01/2026,1300,1475,1380.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Grade B,01/01/2026,1350,1500,1400.0,23
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Onion,Red,FAQ,01/01/2026,1340,1360,1350.0,23
+Uttar Pradesh,Shravasti,Bhinga APMC,Onion,Red,FAQ,01/01/2026,1500,1775,1640.0,23
+Uttar Pradesh,Etawah,Jasvantnagar APMC,Onion,Red,Medium,02/01/2026,1620,1720,1670.0,23
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Onion,Red,FAQ,01/01/2026,950,1020,980.0,23
+Uttar Pradesh,Baghpat,Khekda APMC,Onion,Red,FAQ,01/01/2026,1400,1400,1400.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,02/01/2026,1325,1415,1365.0,23
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Onion,Red,Local,01/01/2026,1200,1300,1250.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,09/01/2026,1445,1445,1445.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,13/01/2026,1500,1500,1500.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,FAQ,02/01/2026,1380,1430,1410.0,23
+Uttar Pradesh,Gonda,Gonda APMC,Onion,Red,FAQ,02/01/2026,1350,1500,1450.0,23
+Uttar Pradesh,Bulandshahar,Khurja APMC,Onion,Red,FAQ,02/01/2026,1300,1460,1380.0,23
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Onion,Red,FAQ,02/01/2026,1350,1470,1410.0,23
+Uttar Pradesh,Auraiya,Achalda APMC,Onion,Red,FAQ,01/01/2026,1400,1540,1480.0,23
+Uttar Pradesh,Agra,Achnera APMC,Onion,Red,FAQ,02/01/2026,1550,1650,1600.0,23
+Uttar Pradesh,Agra,Khairagarh APMC,Onion,Red,FAQ,03/01/2026,800,900,850.0,23
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Onion,Red,FAQ,13/01/2026,1380,1550,1485.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,01/01/2026,1270,1350,1320.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,02/01/2026,1280,1350,1300.0,23
+Uttar Pradesh,Etawah,Bharthna APMC,Onion,Red,FAQ,02/01/2026,1330,1530,1430.0,23
+Uttar Pradesh,Bahraich,Bahraich APMC,Onion,Red,FAQ,02/01/2026,1480,1650,1565.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,04/01/2026,1330,1330,1330.0,23
+Uttar Pradesh,Maharajganj,Partaval APMC,Onion,Red,FAQ,02/01/2026,1320,1465,1390.0,23
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia APMC,Onion,Red,Local,03/01/2026,1210,1250,1230.0,23
+Uttar Pradesh,Hamirpur,Muskara APMC,Onion,Red,FAQ,04/01/2026,1150,1350,1250.0,23
+Uttar Pradesh,Chitrakut,Karvi APMC,Onion,Red,FAQ,04/01/2026,880,880,880.0,23
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi APMC,Onion,Red,FAQ,03/01/2026,1200,1280,1240.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Onion,Red,FAQ,05/01/2026,1500,1500,1500.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,03/01/2026,1350,1550,1460.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,03/01/2026,1100,1300,1200.0,23
+Uttar Pradesh,Firozabad,Firozabad APMC,Onion,Red,FAQ,04/01/2026,1470,1720,1590.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,03/01/2026,1530,1580,1560.0,23
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Onion,Red,FAQ,04/01/2026,1315,1340,1330.0,23
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,Red,FAQ,03/01/2026,1400,1600,1500.0,23
+Uttar Pradesh,Mirzapur,Mirzapur APMC,Onion,Red,FAQ,05/01/2026,1474,1565,1515.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,05/01/2026,1350,1450,1400.0,23
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Onion,Red,FAQ,05/01/2026,1325,1525,1425.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,04/01/2026,1350,1450,1400.0,23
+Uttar Pradesh,Raebarelli,Jayas APMC,Onion,Red,FAQ,04/01/2026,1275,1340,1325.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,06/01/2026,1300,1420,1370.0,23
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Red,FAQ,06/01/2026,1450,1515,1475.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,13/01/2026,1500,1500,1500.0,23
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Onion,Red,FAQ,05/01/2026,1500,1680,1590.0,23
+Uttar Pradesh,Fatehpur,Khaga APMC,Onion,Red,FAQ,04/01/2026,1150,1350,1225.0,23
+Uttar Pradesh,Mau(Maunathbhanjan),Doharighat APMC,Onion,Red,FAQ,05/01/2026,1800,1800,1800.0,23
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi APMC,Onion,Red,FAQ,06/01/2026,1240,1325,1285.0,23
+Uttar Pradesh,Kanpur,Uttaripura APMC,Onion,Red,Local,06/01/2026,1350,1550,1450.0,23
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Onion,Red,FAQ,06/01/2026,1300,1300,1300.0,23
+Uttar Pradesh,Ballia,Chitwadagaon APMC,Onion,Red,FAQ,05/01/2026,1430,1510,1470.0,23
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Onion,Red,FAQ,06/01/2026,1600,1600,1600.0,23
+Uttar Pradesh,Hamirpur,Muskara APMC,Onion,Red,FAQ,05/01/2026,1400,1600,1500.0,23
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,Red,FAQ,07/01/2026,1600,1700,1650.0,23
+Uttar Pradesh,Balrampur,Balrampur APMC,Onion,Red,FAQ,05/01/2026,1350,1550,1450.0,23
+Uttar Pradesh,Ghazipur,Gazipur APMC,Onion,Red,Grade B,07/01/2026,1380,1550,1450.0,23
+Uttar Pradesh,Unnao,Unnao APMC,Onion,Red,FAQ,06/01/2026,1125,1275,1175.0,23
+Uttar Pradesh,Kannuj,Kannauj APMC,Onion,Red,FAQ,06/01/2026,1400,1500,1460.0,23
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Onion,Red,FAQ,05/01/2026,1370,1470,1420.0,23
+Uttar Pradesh,Raebarelli,Lalganj APMC,Onion,Red,FAQ,06/01/2026,1100,1300,1200.0,23
+Uttar Pradesh,Barabanki,Safdarganj APMC,Onion,Red,FAQ,09/01/2026,1240,1240,1240.0,23
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Onion,Red,Medium,07/01/2026,1360,1450,1400.0,23
+Uttar Pradesh,Kannuj,Chhibramau APMC,Onion,Red,FAQ,06/01/2026,1400,1550,1480.0,23
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Onion,Red,FAQ,12/01/2026,1400,1500,1485.0,23
+Uttar Pradesh,Baghpat,Khekda APMC,Onion,Red,FAQ,06/01/2026,1400,1400,1400.0,23

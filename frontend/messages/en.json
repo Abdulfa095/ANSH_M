@@ -1,0 +1,329 @@
+{
+  "Index": {
+    "title": "ANSH-M | Agri-Intelligence",
+    "description": "Advanced Neuro-Symbolic Hybrid Model for Agriculture",
+    "nav": {
+      "dashboard": "Dashboard",
+      "markets": "Markets",
+      "ai_insights": "AI Insights",
+      "live_data": "Live Data"
+    },
+    "hero": {
+      "platform": "🌿 Smart Agriculture Platform",
+      "title": "Intelligent Market Insights",
+      "subtitle": "For Every Farmer",
+      "description": "Get AI-powered mandi price predictions, profit optimisation, and 7-day commodity forecasts — all in one place.",
+      "explore": "Explore Markets",
+      "about": "About Platform"
+    },
+    "stats": {
+      "mandis": "Mandis Tracked",
+      "accuracy": "AI Accuracy",
+      "states": "States Covered"
+    },
+    "ticker": {
+      "loading": "Loading market data...",
+      "est": "(est.)",
+      "per_qtl": "/qtl"
+    },
+    "commodities": {
+      "Onion": "Onion",
+      "Tomato": "Tomato",
+      "Potato": "Potato",
+      "Wheat": "Wheat",
+      "Rice": "Rice",
+      "Cotton": "Cotton",
+      "Maize": "Maize",
+      "Apple": "Apple",
+      "Banana": "Banana"
+    },
+    "services": {
+      "tag": "Our Services",
+      "title": "What ANSH-M Platform Provides",
+      "forecast": {
+        "title": "AI Price Forecast",
+        "description": "7-day autoregressive commodity price projections powered by TFT & DeepExtrema models."
+      },
+      "optimizer": {
+        "title": "Profit Optimizer",
+        "description": "Instantly compute net profit after transport, taxes, and labour for any mandi near you."
+      },
+      "overview": {
+        "title": "Market Overview",
+        "description": "Live and AI-projected mandi prices on an interactive map, updated every market day."
+      }
+    },
+    "finder": {
+      "tag": "🔍 Find Best Price",
+      "title": "Locate the Best Mandi Near You",
+      "placeholder": "Search for your commodity above and select a Mandi from the results to view Cost Breakdown, Net Profit Margins, and AI Forecasts here."
+    },
+    "analysis": {
+      "title": "Detailed Analysis",
+      "ready": "Mandi Analysis Ready",
+      "loading": "Calculating..."
+    },
+    "footer": {
+      "tagline": "AI-powered market insights for sustainable farming. Data sourced from Agmarknet."
+    }
+  },
+  "MandiDetails": {
+    "volatility": {
+      "title": "Extreme Market Volatility Warning",
+      "description": "The DeepExtrema AI engine has detected a high probability of a market shock (crash or spike) within the next 7 days. Exercise caution when selling."
+    },
+    "forecast": {
+      "title": "AI 7-Day Precision Forecast",
+      "autoregressive": "Autoregressive",
+      "uncertainty": "Uncertainty Range",
+      "predicted": "Predicted Price",
+      "expected": "Expected Price (P50)",
+      "high": "High Est. (P90)",
+      "low": "Low Est. (P10)",
+      "analysis": "DeepExtrema Analysis"
+    },
+    "costs": {
+      "title": "Cost Breakdown",
+      "transport": "Transport",
+      "taxes": "Market Taxes",
+      "labor": "Labor & Loading",
+      "distance": "Total Distance",
+      "km": "km",
+      "per_qtl": "/qtl",
+      "unavailable": "No cost data available"
+    },
+    "financial": {
+      "title": "Revenue vs. Reality",
+      "revenue": "Revenue",
+      "total_cost": "Total Cost",
+      "net_profit": "Net Profit",
+      "amount": "Amount"
+    },
+    "intelligence": {
+      "title": "Retails & Margins Insight",
+      "urban_retail": "Urban Retail Avg",
+      "middleman": "Middleman Margin",
+      "farmer_share": "Farmer's Share",
+      "consumer_pay": "What end consumers pay",
+      "lost_value": "Value lost between farm & store",
+      "keep_percent": "Percentage of retail price you keep",
+      "na": "N/A"
+    }
+  },
+  "MandiFinder": {
+    "title": "Find Best Mandi",
+    "live_gps": "Use My Live GPS Location",
+    "or_select": "or select region",
+    "state": "State",
+    "district": "District",
+    "taluk": "Taluk (Sub-district)",
+    "select_state": "— Select State —",
+    "select_district": "— Select District —",
+    "select_taluk": "— Select Taluk —",
+    "commodity": "Commodity",
+    "variety": "Variety (Optional)",
+    "all_varieties": "All Varieties",
+    "quantity": "Quantity (Quintals)",
+    "date": "Date (Optional)",
+    "find_price": "Find Best Price",
+    "calculating": "Calculating...",
+    "map_title": "Market Map",
+    "no_live_data": "No Live Market Data Found",
+    "agmarknet_fail": "Agmarknet did not return recent data for {commodity} today. Try again tomorrow or select a different commodity.",
+    "select_hint": "Select your State → District, then click Find Best Price.",
+    "selected": "Selected",
+    "click_details": "Click for details",
+    "net_profit": "Net Profit",
+    "ai_projected": "✦ AI Projected",
+    "states": {
+      "Tamil_Nadu": "Tamil Nadu",
+      "Maharashtra": "Maharashtra",
+      "Andhra_Pradesh": "Andhra Pradesh",
+      "Karnataka": "Karnataka",
+      "Punjab": "Punjab",
+      "Uttar_Pradesh": "Uttar Pradesh",
+      "Madhya_Pradesh": "Madhya Pradesh",
+      "Rajasthan": "Rajasthan",
+      "Telangana": "Telangana",
+      "Gujarat": "Gujarat",
+      "GPS_Enabled": "GPS Enabled"
+    },
+    "districts": {
+      "Chennai": "Chennai",
+      "Coimbatore": "Coimbatore",
+      "Cuddalore": "Cuddalore",
+      "Dharmapuri": "Dharmapuri",
+      "Dindigul": "Dindigul",
+      "Erode": "Erode",
+      "Kanchipuram": "Kanchipuram",
+      "Kanniyakumari": "Kanniyakumari",
+      "Karur": "Karur",
+      "Madurai": "Madurai",
+      "Mayiladuthurai": "Mayiladuthurai",
+      "Nagapattinam": "Nagapattinam",
+      "Namakkal": "Namakkal",
+      "Nilgiris": "Nilgiris",
+      "Perambalur": "Perambalur",
+      "Pudukkottai": "Pudukkottai",
+      "Ramanathapuram": "Ramanathapuram",
+      "Ranipet": "Ranipet",
+      "Salem": "Salem",
+      "Sivaganga": "Sivaganga",
+      "Tenkasi": "Tenkasi",
+      "Thanjavur": "Thanjavur",
+      "Theni": "Theni",
+      "Thiruvallur": "Thiruvallur",
+      "Thiruvannamalai": "Thiruvannamalai",
+      "Thiruvarur": "Thiruvarur",
+      "Thoothukudi": "Thoothukudi",
+      "Tiruchirappalli": "Tiruchirappalli",
+      "Tirunelveli": "Tirunelveli",
+      "Tirupathur": "Tirupathur",
+      "Tiruppur": "Tiruppur",
+      "Vellore": "Vellore",
+      "Villupuram": "Villupuram",
+      "Virudhunagar": "Virudhunagar",
+      "Ariyalur": "Ariyalur",
+      "Kallakurichi": "Kallakurichi",
+      "Chengalpattu": "Chengalpattu",
+      "Krishnagiri": "Krishnagiri"
+    },
+    "commodities": {
+      "Onion": "Onion",
+      "Tomato": "Tomato",
+      "Potato": "Potato",
+      "Rice": "Rice",
+      "Wheat": "Wheat"
+    },
+    "varieties": {
+      "Red": "Red",
+      "White": "White",
+      "Bellari": "Bellari",
+      "Local": "Local",
+      "Nasik": "Nasik",
+      "Pusa_Red": "Pusa Red",
+      "Hybrid": "Hybrid",
+      "Deshi": "Deshi",
+      "Apple": "Apple",
+      "Jyoti": "Jyoti",
+      "Chandramukhi": "Chandramukhi",
+      "Hassan": "Hassan",
+      "Common": "Common",
+      "Fine": "Fine",
+      "Super_Fine": "Super Fine",
+      "IR-64": "IR-64",
+      "Sona_Masuri": "Sona Masuri",
+      "Basmati": "Basmati",
+      "Ponni": "Ponni",
+      "Sharbati": "Sharbati",
+      "Lokwan": "Lokwan",
+      "Mill_Quality": "Mill Quality"
+    },
+    "taluks": {
+      "Alandur": "Alandur",
+      "Ambattur": "Ambattur",
+      "Egmore": "Egmore",
+      "Guindy": "Guindy",
+      "Mambalam": "Mambalam",
+      "Mylapore": "Mylapore",
+      "Perambur": "Perambur",
+      "Velacherry": "Velacherry",
+      "Kallikudi": "Kallikudi",
+      "Madurai_(East)": "Madurai (East)",
+      "Madurai_(North)": "Madurai (North)",
+      "Madurai_(South)": "Madurai (South)",
+      "Madurai_(West)": "Madurai (West)",
+      "Melur": "Melur",
+      "Thirumangalam": "Thirumangalam",
+      "Thiruparankundram": "Thiruparankundram",
+      "Usilampatti": "Usilampatti",
+      "Vadipatti": "Vadipatti",
+      "Coimbatore(North)": "Coimbatore (North)",
+      "Coimbatore(South)": "Coimbatore (South)",
+      "Mettupalayam": "Mettupalayam",
+      "Pollachi": "Pollachi"
+    },
+    "mandis": {
+      "Kariyapatti_Uzhavar_Sandhai_APMC": "Kariyapatti (Uzhavar Sandhai) APMC",
+      "Madhuranthagam": "Madhuranthagam",
+      "RSPuram": "RSPuram",
+      "Singanallur": "Singanallur",
+      "Vadavalli": "Vadavalli",
+      "Vadalur": "Vadalur",
+      "Viruthachalam": "Viruthachalam",
+      "AJattihalli": "AJattihalli",
+      "Vedasanthur": "Vedasanthur",
+      "Periyar_Nagar": "Periyar Nagar",
+      "Sathiyamagalam": "Sathiyamagalam",
+      "Gandhigramam": "Gandhigramam",
+      "Pallapatti": "Pallapatti",
+      "Velayuthampalayam": "Velayuthampalayam",
+      "Vengamedu": "Vengamedu",
+      "Avallapalli": "Avallapalli",
+      "Denkanikottai": "Denkanikottai",
+      "Anaiyur": "Anaiyur",
+      "Anna_nagar": "Anna nagar",
+      "Chokkikulam": "Chokkikulam",
+      "Palanganatham": "Palanganatham",
+      "Myladi": "Myladi",
+      "Vadaseri": "Vadaseri",
+      "Nagercoil": "Nagercoil",
+      "Mohanur": "Mohanur",
+      "Paramathivelur": "Paramathivelur",
+      "Karambakkudi": "Karambakkudi",
+      "Ranipettai": "Ranipettai",
+      "Ammapet": "Ammapet",
+      "Athur": "Athur",
+      "Elampillai": "Elampillai",
+      "Hasthampatti": "Hasthampatti",
+      "Jalagandapuram": "Jalagandapuram",
+      "Mecheri": "Mecheri",
+      "Thammampatti": "Thammampatti",
+      "Thathakapatti": "Thathakapatti",
+      "Sankarankoil": "Sankarankoil",
+      "Udhagamandalam": "Udhagamandalam",
+      "Andipatti": "Andipatti",
+      "Chinnamanur": "Chinnamanur",
+      "Devaram": "Devaram",
+      "Kambam": "Kambam",
+      "Thiruverumbur": "Thiruverumbur",
+      "Kandiyaperi": "Kandiyaperi",
+      "Melapalayam": "Melapalayam",
+      "Thirupathur": "Thirupathur",
+      "Kangayam": "Kangayam",
+      "Tiruppur_South": "Tiruppur South",
+      "Arani": "Arani",
+      "Keelpennathur": "Keelpennathur",
+      "Tamarainagar": "Tamarainagar",
+      "Tiruvannamalai": "Tiruvannamalai",
+      "Mannargudi_I": "Mannargudi I",
+      "Tiruthuraipoondi": "Tiruthuraipoondi",
+      "Tuticorin": "Tuticorin",
+      "Kahithapattarai": "Kahithapattarai",
+      "Pallikonda": "Pallikonda",
+      "Perampet": "Perampet",
+      "Ulundurpettai": "Ulundurpettai",
+      "Viruthunagar": "Viruthunagar",
+      "Thalavaipuram": "Thalavaipuram"
+    }
+  },
+  "MarketOverview": {
+    "title": "Market Overview",
+    "demand": {
+      "title": "High Demand Alert",
+      "description": "Onions are currently seeing a 15% spike in demand across Tamil Nadu and Maharashtra mandis today. Excellent time to sell."
+    },
+    "weather": {
+      "title": "Weather Delay Risk",
+      "description": "Unexpected light showers predicted in southern districts. Consider covering transit vehicles or advancing your dispatch."
+    },
+    "stable": {
+      "title": "Stable Commodities",
+      "description": "Rice and Wheat prices are remaining stable this week. No immediate rush required to push stock."
+    },
+    "transport": {
+      "title": "Transport Rate Hike",
+      "description": "Local fuel adjustments have slightly impacted truck rates. The Mandi Finder is automatically factoring this into your Net Profit."
+    }
+  }
+}

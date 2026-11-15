@@ -1,0 +1,1001 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,12/11/2025,1400,1500,1435,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,21/11/2025,1450,1535,1500,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,14/11/2025,1425,1500,1465,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,24/11/2025,1400,1475,1435,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,16/11/2025,1425,1500,1465,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,03/11/2025,1400,1700,1600,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,04/11/2025,1400,1700,1600,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,17/11/2025,1400,1800,1600,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,20/11/2025,1400,1600,1500,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,27/11/2025,1335,1400,1370,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,01/11/2025,1300,1550,1400,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,16/11/2025,1400,1400,1400,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,22/11/2025,1600,2000,1800,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,23/11/2025,1600,1800,1700,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,21/11/2025,1600,2000,1800,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,09/11/2025,1800,1800,1800,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,10/11/2025,1800,1900,1850,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,01/11/2025,1800,1900,1850,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,17/11/2025,1800,1900,1850,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,18/11/2025,1800,1900,1850,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,22/11/2025,1500,1500,1500,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,25/11/2025,1700,1900,1800,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,07/11/2025,1800,1900,1850,23
+West Bengal,Nadia,Nadia APMC,Onion,Local,FAQ,11/11/2025,1450,1600,1500,23
+West Bengal,Nadia,Nadia APMC,Onion,Local,FAQ,20/11/2025,1400,1450,1450,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,23/11/2025,1700,1800,1750,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,FAQ,05/11/2025,1550,1650,1600,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,05/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,06/11/2025,1800,2050,1900,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,06/11/2025,1500,1600,1550,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,06/11/2025,1800,2000,1900,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,13/11/2025,1600,1600,1600,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Medium,14/11/2025,1200,1900,1800,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,15/11/2025,1200,1500,1300,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,15/11/2025,2800,3000,2900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,14/11/2025,1800,2000,1900,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,15/11/2025,1850,2000,1900,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,16/11/2025,1200,1900,1800,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,18/11/2025,1700,1900,1800,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,18/11/2025,1800,2000,1900,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,18/11/2025,1300,1500,1500,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,17/11/2025,2000,2200,2100,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,18/11/2025,1850,1850,1850,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,17/11/2025,2000,2200,2100,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,19/11/2025,1850,1850,1850,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,20/11/2025,1850,1950,1900,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,19/11/2025,1800,2000,1900,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,20/11/2025,1850,1900,1900,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,19/11/2025,2800,3000,2900,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,19/11/2025,1800,1900,1850,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,19/11/2025,1200,1600,1400,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,23/11/2025,1850,1950,1900,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,19/11/2025,1300,1500,1500,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,18/11/2025,1350,1550,1450,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,20/11/2025,1300,1500,1500,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,20/11/2025,1200,1900,1800,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,20/11/2025,1600,1800,1700,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,20/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,25/11/2025,1600,1850,1750,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,21/11/2025,1800,2000,1900,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,21/11/2025,1850,1850,1850,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,21/11/2025,1300,1500,1400,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,22/11/2025,1200,1600,1400,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,22/11/2025,1300,1500,1400,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,23/11/2025,1200,1600,1400,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,23/11/2025,1200,1900,1800,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,23/11/2025,1700,2000,1800,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,22/11/2025,1850,1950,1900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,25/11/2025,1800,2000,1900,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,25/11/2025,1800,1900,1900,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,24/11/2025,1850,1850,1850,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,26/11/2025,1800,2000,1900,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,25/11/2025,1500,1700,1600,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,27/11/2025,1100,1500,1300,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,28/11/2025,1750,1750,1750,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,27/11/2025,1500,1700,1600,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,28/11/2025,1700,1950,1800,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,28/11/2025,1200,2000,1800,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,28/11/2025,1300,1500,1400,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,28/11/2025,1800,1900,1850,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,27/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,27/11/2025,1700,1875,1800,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,30/11/2025,2800,3000,2900,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,29/11/2025,1500,1700,1600,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,07/11/2025,1400,1400,1400,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,29/11/2025,1300,1400,1400,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,29/11/2025,1400,1500,1500,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,30/11/2025,1100,1500,1300,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,02/11/2025,1300,1600,1400,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,15/11/2025,1800,1900,1850,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,29/11/2025,2000,2200,2100,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,30/11/2025,1300,1400,1400,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,09/11/2025,1500,1700,1600,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,10/11/2025,1800,2000,1900,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,11/11/2025,1500,1800,1700,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,11/11/2025,1600,1800,1700,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,11/11/2025,2800,3000,2900,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,09/11/2025,1600,2000,1800,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,14/11/2025,1800,2000,1900,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,13/11/2025,2800,3000,2900,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,18/11/2025,1200,1600,1400,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,13/11/2025,1800,2000,1900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,13/11/2025,1800,2000,1900,23
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,Nasik,FAQ,08/11/2025,1600,2000,1800,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,10/11/2025,1400,1800,1600,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,FAQ,01/11/2025,1700,1800,1750,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,02/11/2025,1200,1600,1400,23
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,Nasik,FAQ,02/11/2025,1500,1800,1600,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,03/11/2025,1450,1550,1500,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,03/11/2025,1200,1600,1400,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,03/11/2025,1700,1875,1800,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,Non-FAQ,03/11/2025,1250,1400,1300,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,04/11/2025,1200,1600,1400,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,04/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,04/11/2025,1750,2000,1875,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,13/11/2025,1700,1900,1800,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,14/11/2025,1400,1450,1420,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,14/11/2025,2100,2300,2200,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,01/11/2025,1400,1500,1450,23
+West Bengal,Malda,Samsi APMC,Onion,Onion,FAQ,02/11/2025,1200,1800,1500,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,03/11/2025,1200,1600,1400,23
+West Bengal,Nadia,Kalyani APMC,Onion,Onion,FAQ,03/11/2025,1500,1700,1600,23
+West Bengal,Medinipur(W),Ghatal APMC,Onion,Onion,FAQ,04/11/2025,1500,1600,1550,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,04/11/2025,1200,1600,1400,23
+West Bengal,Medinipur(W),Ghatal APMC,Onion,Onion,FAQ,06/11/2025,1450,1550,1500,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,06/11/2025,1900,2000,1950,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,14/11/2025,1400,1700,1500,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,18/11/2025,1450,1600,1550,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,16/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,16/11/2025,1200,1600,1400,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,17/11/2025,1500,1700,1600,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,16/11/2025,1500,1700,1600,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,16/11/2025,1400,1440,1420,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,16/11/2025,2100,2300,2200,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,18/11/2025,1900,2000,1950,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,17/11/2025,1900,2000,1950,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,18/11/2025,2100,2300,2200,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,20/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,19/11/2025,1410,1450,1420,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,25/11/2025,1500,1600,1550,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,21/11/2025,1850,2000,1900,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,21/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,21/11/2025,1200,1600,1400,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,22/11/2025,1500,1800,1600,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,21/11/2025,1400,1600,1500,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,23/11/2025,1500,1700,1600,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,25/11/2025,1250,1550,1450,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,25/11/2025,2000,2000,2000,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,24/11/2025,1800,1950,1900,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,24/11/2025,1500,1600,1550,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,06/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,11/11/2025,1200,1600,1400,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,12/11/2025,1450,1600,1550,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Red,FAQ,02/11/2025,1400,1475,1435,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,16/11/2025,1900,2000,1950,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Other,FAQ,24/11/2025,2200,2200,2200,23
+West Bengal,Howrah,Uluberia APMC,Onion,Other,Grade A,24/11/2025,1800,2500,2000,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,25/11/2025,1800,2100,1900,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,28/11/2025,2800,3000,2900,23
+West Bengal,Howrah,Uluberia APMC,Onion,Other,FAQ,26/11/2025,1600,2200,2000,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,27/11/2025,1400,1500,1450,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,27/11/2025,1600,1800,1700,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Local,30/11/2025,1600,1750,1700,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,28/11/2025,1800,2000,1900,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,30/11/2025,1600,1800,1700,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,30/11/2025,1500,1700,1600,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,30/11/2025,1800,2000,1900,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,30/11/2025,1350,1500,1400,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,18/11/2025,1900,2050,2000,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,16/11/2025,2000,2000,2000,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,18/11/2025,1625,1750,1700,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,18/11/2025,1350,1450,1400,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,18/11/2025,1400,1600,1500,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,18/11/2025,1700,2000,1800,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,23/11/2025,1900,2100,2000,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,19/11/2025,1700,2000,1800,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,19/11/2025,1520,1700,1600,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,20/11/2025,1400,1450,1400,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,20/11/2025,1800,2100,1900,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,21/11/2025,1400,1500,1450,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,24/11/2025,1800,2050,1900,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,21/11/2025,1800,1800,1800,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,22/11/2025,1600,1800,1700,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,25/11/2025,1320,1400,1340,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Other,Local,25/11/2025,1800,2200,2000,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,28/11/2025,2000,2000,2000,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,27/11/2025,1400,1450,1420,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,30/11/2025,1500,1800,1600,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,29/11/2025,1400,1400,1400,23
+West Bengal,Malda,Gajol APMC,Onion,Other,FAQ,02/11/2025,1200,1700,1500,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,02/11/2025,1800,2000,1900,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Other,FAQ,03/11/2025,2800,3000,2900,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,03/11/2025,2800,3000,2900,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,03/11/2025,1800,2000,1900,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,15/11/2025,1800,2500,2000,23
+West Bengal,Howrah,Uluberia APMC,Onion,Other,Medium,12/11/2025,1800,2200,2000,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,11/11/2025,2100,2300,2200,23
+West Bengal,Puruliya,Kasipur APMC,Onion,Other,FAQ,11/11/2025,1800,2000,1900,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Other,Grade A,09/11/2025,1800,2200,2000,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,10/11/2025,2000,2300,2100,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,11/11/2025,2050,2300,2200,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Local,12/11/2025,1500,1700,1600,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Other,FAQ,13/11/2025,1200,1600,1400,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,12/11/2025,2100,2300,2200,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,09/11/2025,2600,2800,2700,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,13/11/2025,1800,2200,2000,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Other,FAQ,01/11/2025,1500,1800,1600,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Other,FAQ,01/11/2025,2800,3000,2900,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Other,FAQ,01/11/2025,1800,2400,2000,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,03/11/2025,2100,2300,2200,23
+West Bengal,Malda,Gajol APMC,Onion,Other,FAQ,03/11/2025,1200,1700,1500,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,04/11/2025,2100,2300,2200,23
+West Bengal,Coochbehar,Coochbehar APMC,Onion,Other,FAQ,04/11/2025,1800,2000,1900,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Other,FAQ,04/11/2025,1500,1800,1600,23
+West Bengal,Malda,English Bazar APMC,Onion,Other,FAQ,04/11/2025,1200,1700,1500,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Other,FAQ,05/11/2025,2800,3000,2900,23
+West Bengal,Howrah,Uluberia APMC,Onion,Other,FAQ,05/11/2025,1800,2200,2000,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,24/11/2025,2200,2400,2300,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,25/11/2025,1800,1900,1850,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,26/11/2025,1700,1900,1800,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,28/11/2025,1450,1550,1500,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,28/11/2025,1200,1600,1400,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,27/11/2025,1700,1900,1800,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,29/11/2025,1600,1800,1750,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,12/12/2025,5000,6500,6000,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,17/12/2025,3200,3300,3200,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,19/12/2025,3200,3300,3200,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,01/12/2025,1400,1550,1500,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,02/12/2025,1700,1900,1800,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,01/12/2025,1500,1700,1600,23
+West Bengal,Puruliya,Kasipur APMC,Onion,Other,FAQ,01/12/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,01/12/2025,1250,1500,1400,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,04/12/2025,1700,1900,1800,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,05/12/2025,1420,1500,1460,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,31/12/2025,2000,2200,2100,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,31/12/2025,2600,2600,2600,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,04/12/2025,1490,1500,1500,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,08/12/2025,2500,2700,2600,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,05/12/2025,1500,1700,1600,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,06/12/2025,1500,1700,1600,23
+West Bengal,Puruliya,Kasipur APMC,Onion,Other,FAQ,05/12/2025,1700,1900,1800,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,10/12/2025,1400,1500,1450,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,07/12/2025,1700,2000,1800,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,11/12/2025,1500,1650,1600,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,10/12/2025,1500,1700,1600,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,12/12/2025,1300,1400,1340,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,12/12/2025,1700,1900,1800,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,12/12/2025,1700,1900,1800,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,14/12/2025,1600,1800,1700,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,14/12/2025,1700,1900,1800,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,14/12/2025,1800,1900,1800,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,16/12/2025,1700,2000,1800,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,16/12/2025,1700,2000,1800,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,17/12/2025,2200,2500,2300,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,17/12/2025,2500,2600,2500,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,17/12/2025,1900,2200,2000,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,17/12/2025,2500,2700,2600,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,23/12/2025,1800,2000,1850,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,23/12/2025,1800,2200,2000,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,18/12/2025,2300,2500,2400,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,19/12/2025,1500,2000,1700,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,19/12/2025,2000,2200,2100,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,23/12/2025,2300,2400,2300,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,22/12/2025,2800,3000,2900,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,20/12/2025,2100,2300,2200,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,22/12/2025,2100,2300,2200,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,21/12/2025,2100,2300,2200,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,22/12/2025,2100,2300,2200,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,25/12/2025,1800,2200,2000,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,23/12/2025,2600,2700,2600,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,26/12/2025,2500,2600,2500,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,26/12/2025,1600,1800,1700,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,29/12/2025,2800,3000,2900,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,29/12/2025,1800,2500,2000,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,05/12/2025,1700,1900,1800,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,13/12/2025,1800,2000,1900,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Red,FAQ,16/12/2025,2400,2700,2500,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Red,FAQ,23/12/2025,2600,2800,2700,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,18/12/2025,2900,3100,3000,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,19/12/2025,2900,3100,3000,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,21/12/2025,2800,3000,2900,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,22/12/2025,2500,2700,2600,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,24/12/2025,2600,2800,2700,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,25/12/2025,2600,2800,2700,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,31/12/2025,2800,3000,2900,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,25/12/2025,1350,1450,1400,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,31/12/2025,1500,1600,1550,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Local,FAQ,04/12/2025,1500,1600,1500,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,04/12/2025,1700,1800,1750,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,07/12/2025,1600,1800,1700,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Local,FAQ,11/12/2025,1700,1710,1700,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,09/12/2025,1500,1500,1500,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,08/12/2025,1300,1500,1400,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,12/12/2025,1650,1650,1650,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,16/12/2025,1850,1850,1850,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,18/12/2025,1850,1850,1850,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,24/12/2025,2400,2600,2500,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,26/12/2025,2000,2400,2200,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,29/12/2025,1800,1800,1800,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,29/12/2025,2400,2600,2500,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,27/12/2025,1825,1825,1825,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,30/12/2025,1800,1800,1800,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,23/12/2025,1300,1375,1335,23
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,Nasik,FAQ,01/12/2025,1400,1600,1500,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,02/12/2025,1850,1850,1850,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,02/12/2025,1900,2100,2000,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,01/12/2025,1850,1850,1850,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,02/12/2025,1400,1500,1450,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,01/12/2025,1450,1500,1500,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,01/12/2025,1600,1750,1700,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,02/12/2025,1600,2200,2000,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,03/12/2025,1600,2200,2000,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,01/12/2025,1300,1400,1300,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,02/12/2025,1300,1400,1300,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,03/12/2025,1850,2000,1950,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,03/12/2025,1300,1400,1350,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,04/12/2025,1200,1500,1300,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,09/12/2025,1350,1500,1450,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,03/12/2025,1300,1400,1360,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,03/12/2025,1850,1850,1850,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,04/12/2025,1300,1400,1350,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,05/12/2025,1600,2200,2000,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,04/12/2025,1850,1850,1850,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,05/12/2025,1800,2000,1900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,04/12/2025,1800,2000,1900,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,04/12/2025,1400,1500,1450,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,12/12/2025,1700,2000,1800,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,08/12/2025,2500,2700,2600,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,04/12/2025,1850,1950,1900,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,09/12/2025,1850,1850,1850,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,05/12/2025,1100,1300,1200,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,08/12/2025,1800,2000,1900,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,10/12/2025,2400,2600,2500,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,10/12/2025,1700,1875,1800,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,11/12/2025,1480,1520,1500,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,07/12/2025,1800,2000,1900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,06/12/2025,1800,2000,1900,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,07/12/2025,1800,1900,1850,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,08/12/2025,1800,1900,1850,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,07/12/2025,1850,1850,1850,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,08/12/2025,1800,1800,1800,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,06/12/2025,1600,2200,2000,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,08/12/2025,1800,2000,1900,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,10/12/2025,1700,1900,1800,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,18/12/2025,2400,2600,2500,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,11/12/2025,1500,1600,1600,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,11/12/2025,1800,2000,1900,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,12/12/2025,2150,2150,2150,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,12/12/2025,1460,1550,1500,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,12/12/2025,1200,1800,1700,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,12/12/2025,1600,1850,1750,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,12/12/2025,1650,1850,1750,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,13/12/2025,2100,2300,2200,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,12/12/2025,1500,2000,1800,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,15/12/2025,3200,3600,3400,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,14/12/2025,3200,3600,3400,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,15/12/2025,2400,2600,2500,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,15/12/2025,1850,1850,1850,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,16/12/2025,1800,2200,2000,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,16/12/2025,2000,2200,2100,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,16/12/2025,2300,2500,2400,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,17/12/2025,1800,1800,1800,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,17/12/2025,2300,2400,2400,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,20/12/2025,2000,2400,2200,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,16/12/2025,2400,2600,2500,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,18/12/2025,1700,2000,1800,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,18/12/2025,2800,3000,2900,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,18/12/2025,2200,2600,2400,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,18/12/2025,1700,1700,1700,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,22/12/2025,2300,2500,2400,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,18/12/2025,1900,2100,2000,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,23/12/2025,2000,2100,2000,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,19/12/2025,1200,1900,1800,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,19/12/2025,3200,3600,3400,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,19/12/2025,2100,2400,2250,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,19/12/2025,2200,2600,2400,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,23/12/2025,2800,3000,2900,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,21/12/2025,2000,2200,2100,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,20/12/2025,2200,2700,2500,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,19/12/2025,2400,2600,2500,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,20/12/2025,2800,3000,2900,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,19/12/2025,2000,2500,2200,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,18/12/2025,2400,2600,2500,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,20/12/2025,2200,2400,2350,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,21/12/2025,1800,2500,2200,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,20/12/2025,3200,3600,3400,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,22/12/2025,2100,2300,2200,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,23/12/2025,2300,2500,2400,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,22/12/2025,2400,2600,2500,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,23/12/2025,2050,2450,2250,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,26/12/2025,2300,2500,2400,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,22/12/2025,2050,2400,2250,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,22/12/2025,2000,2400,2200,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,24/12/2025,1600,2000,1800,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,25/12/2025,2800,3000,2900,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,25/12/2025,1400,2000,1600,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,27/12/2025,1700,1700,1700,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,28/12/2025,2100,2400,2250,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,28/12/2025,1400,1800,1600,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,26/12/2025,2000,2500,2200,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,27/12/2025,2300,2500,2400,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,27/12/2025,2200,2400,2300,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,27/12/2025,2200,2500,2400,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,26/12/2025,1400,1800,1600,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,30/12/2025,2600,3500,3000,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,29/12/2025,2300,2500,2400,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,29/12/2025,2400,2700,2500,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,27/12/2025,2200,2800,2500,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,29/12/2025,2400,3200,2800,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,31/12/2025,1800,2200,2000,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,31/12/2025,2100,2400,2200,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,31/12/2025,2600,3500,3000,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,31/12/2025,2400,2600,2500,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,31/12/2025,1800,2200,2000,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,01/12/2025,1200,1600,1400,23
+West Bengal,Nadia,Kalyani APMC,Onion,Onion,Local,02/12/2025,1500,1700,1600,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,02/12/2025,1400,1400,1400,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,02/12/2025,1500,1700,1600,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,03/12/2025,1250,1600,1450,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,28/12/2025,1800,2000,1900,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,30/12/2025,2000,2200,2100,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,04/12/2025,1700,1900,1800,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,04/12/2025,1700,1900,1800,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,03/12/2025,1200,1500,1300,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,05/12/2025,1400,1500,1400,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,07/12/2025,1500,1700,1600,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,10/12/2025,1700,1900,1800,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,07/12/2025,1200,1600,1400,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,10/12/2025,1500,1600,1550,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,06/12/2025,1400,1440,1420,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,08/12/2025,1400,1450,1420,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,14/12/2025,1550,1650,1600,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,15/12/2025,1500,1850,1750,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,14/12/2025,1400,1800,1700,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,15/12/2025,1550,1650,1600,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,17/12/2025,1650,1750,1700,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,23/12/2025,2100,2300,2200,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,23/12/2025,2100,2300,2200,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,19/12/2025,1600,1850,1750,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,19/12/2025,1800,2200,2000,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,23/12/2025,2000,2400,2200,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,21/12/2025,2000,2400,2200,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,24/12/2025,2000,2400,2200,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,24/12/2025,2700,2800,2800,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,25/12/2025,2700,2800,2700,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,26/12/2025,2600,2800,2700,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,26/12/2025,2000,2400,2200,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,29/12/2025,2600,2800,2700,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,27/12/2025,1800,2000,1900,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,29/12/2025,1700,1800,1750,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,04/12/2025,1400,1500,1400,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,04/12/2025,1200,1600,1400,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,05/12/2025,1500,1700,1600,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,06/12/2025,1500,1700,1600,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,06/12/2025,1600,1800,1700,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,10/12/2025,1250,1600,1450,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,08/12/2025,1200,1600,1400,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,11/12/2025,1700,1900,1800,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,12/12/2025,1550,1650,1600,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,14/12/2025,1500,1700,1600,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,12/12/2025,1500,2200,1800,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,14/12/2025,2000,2200,2100,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,16/12/2025,1700,1900,1800,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,16/12/2025,1400,1800,1600,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,20/12/2025,1700,1800,1750,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,30/12/2025,2400,2500,2400,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,31/12/2025,2000,2200,2100,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,20/12/2025,2100,2200,2150,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,01/12/2025,1400,1700,1600,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,03/12/2025,1400,1600,1500,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,07/12/2025,1400,1600,1500,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,11/12/2025,1800,2300,2200,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,18/12/2025,1800,2200,2000,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,17/12/2025,1800,2200,2000,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,24/12/2025,1800,2200,2000,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,25/12/2025,1800,2400,2000,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,29/12/2025,1800,2200,2000,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,05/12/2025,1275,1345,1300,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,09/12/2025,1200,1265,1235,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,10/12/2025,1200,1275,1235,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,13/12/2025,1200,1275,1225,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,29/01/2026,1750,1825,1785,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,01/02/2026,1750,1850,1800,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,05/02/2026,1750,1850,1800,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,12/02/2026,1800,1900,1850,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,16/01/2026,1650,1750,1700,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,05/01/2026,2000,2600,2400,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,07/01/2026,2000,2400,2200,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,15/01/2026,2000,2500,2200,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,20/01/2026,2000,2500,2300,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,28/01/2026,2000,2500,2300,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,30/01/2026,2000,2500,2300,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,31/01/2026,1800,2400,2000,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,03/02/2026,1800,2400,2000,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,06/02/2026,1800,2400,2200,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,11/02/2026,1800,2400,2200,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,13/02/2026,1700,2100,2000,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,06/01/2026,1600,1700,1650,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,05/01/2026,1625,1725,1675,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,01/01/2026,2400,2600,2500,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,19/12/2025,2000,2000,2000,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,20/12/2025,1950,1950,1950,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,28/12/2025,1750,1750,1750,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,01/01/2026,1500,2000,1700,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,02/01/2026,2700,2900,2800,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,01/01/2026,2400,2600,2500,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,03/01/2026,2400,2600,2500,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,02/01/2026,1800,2200,2000,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,03/01/2026,1800,2200,2000,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,03/01/2026,2700,2900,2800,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,04/01/2026,2100,2450,2300,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,06/01/2026,1800,2200,2000,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,09/01/2026,2500,2700,2600,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,05/01/2026,2400,2650,2500,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,08/01/2026,2000,2200,2100,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,06/01/2026,2150,2400,2200,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,06/01/2026,2350,2600,2500,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,06/01/2026,2700,2900,2800,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,10/01/2026,1800,2200,2000,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,11/01/2026,1800,2200,2000,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,10/01/2026,1500,2200,2000,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,11/01/2026,1500,2200,2000,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,08/01/2026,2600,3400,3000,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,14/01/2026,2500,2600,2550,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,13/01/2026,1800,2200,2000,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,13/01/2026,2200,2500,2400,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,10/01/2026,2400,3000,2600,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,12/01/2026,1800,2200,2000,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,12/01/2026,2700,2800,2800,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,12/01/2026,2300,2600,2500,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,15/01/2026,2100,2200,2150,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,15/01/2026,2150,2450,2350,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,16/01/2026,2400,2600,2500,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,21/01/2026,2100,2300,2200,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,16/01/2026,1600,1700,1700,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,16/01/2026,2200,2200,2200,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,16/01/2026,2000,2250,2150,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,16/01/2026,1900,2100,2000,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,17/01/2026,3300,3500,3400,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,19/01/2026,1600,1800,1700,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,19/01/2026,2100,2300,2200,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,23/01/2026,2100,2100,2100,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,25/01/2026,1600,1800,1700,23
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,Other,FAQ,27/01/2026,2200,2400,2300,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,27/01/2026,1500,1800,1600,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,24/01/2026,2000,2200,2100,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,26/01/2026,2000,2200,2100,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,28/01/2026,1500,1700,1600,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,26/01/2026,1800,1900,1850,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,27/01/2026,2000,2200,2150,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,07/01/2026,1650,1750,1700,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,08/01/2026,1700,1800,1750,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,10/01/2026,2120,2135,2130,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,10/01/2026,2000,2400,2200,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,09/01/2026,2000,2200,2100,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,11/01/2026,1650,1750,1700,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,16/01/2026,2100,2300,2200,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,20/01/2026,2100,2300,2200,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,17/01/2026,2120,2140,2130,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,20/01/2026,2200,2300,2200,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,18/01/2026,1700,1800,1750,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,14/01/2026,2500,2700,2600,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,17/01/2026,2300,2500,2400,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,22/01/2026,2400,2600,2500,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,23/01/2026,2400,2600,2500,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,16/01/2026,1900,2150,2050,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,16/01/2026,2000,2100,2050,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,16/01/2026,2000,2500,2300,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,16/01/2026,2200,2300,2200,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,17/01/2026,2000,2200,2100,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,18/01/2026,2300,2400,2350,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,17/01/2026,1950,2100,2000,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,17/01/2026,2200,2600,2500,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,20/01/2026,2100,2200,2100,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,20/01/2026,3300,3500,3400,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,19/01/2026,2000,2200,2100,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,18/01/2026,2000,2200,2100,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,20/01/2026,2100,2700,2400,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,19/01/2026,2300,2400,2350,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,22/01/2026,2200,2200,2200,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,23/01/2026,1700,2000,1800,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,22/01/2026,1600,2000,1800,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,21/01/2026,2000,2375,2250,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,21/01/2026,1700,1780,1740,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,02/01/2026,1800,2200,2100,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,02/01/2026,2400,2600,2500,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,24/01/2026,3300,3500,3400,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,27/01/2026,2400,3000,2700,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,30/01/2026,2200,2200,2200,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,30/01/2026,1600,1800,1700,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,01/02/2026,1900,2100,2000,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,02/02/2026,1900,2100,2000,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,03/02/2026,2000,2100,2000,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,03/02/2026,1300,1500,1400,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,05/02/2026,2000,2100,2000,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,04/02/2026,2200,2200,2200,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,05/02/2026,1500,1600,1550,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,04/02/2026,3300,3500,3400,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,05/02/2026,1900,2000,1900,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,06/02/2026,1400,1550,1500,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,11/02/2026,2100,2100,2100,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,06/02/2026,1600,1800,1700,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,07/02/2026,1800,2000,1900,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,09/02/2026,1400,1600,1450,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,09/02/2026,2000,2000,2000,23
+West Bengal,Alipurduar,Falakata APMC,Onion,Other,FAQ,08/02/2026,2500,2800,2600,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,08/02/2026,1900,2000,1900,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,10/02/2026,1900,2000,1900,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,10/02/2026,2000,2000,2000,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,11/02/2026,1600,1800,1700,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,12/02/2026,1450,1550,1500,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,12/02/2026,2000,2000,2000,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,11/02/2026,1400,1500,1400,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,12/02/2026,1600,1800,1700,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,13/02/2026,1600,2000,1800,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,02/01/2026,2600,2800,2700,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,30/01/2026,2300,2500,2400,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,01/02/2026,3300,3500,3400,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,01/02/2026,2100,2100,2100,23
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Onion,Nasik,Non-FAQ,03/02/2026,1500,2200,2000,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,02/02/2026,1500,2000,1800,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,02/02/2026,2100,2100,2100,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,03/02/2026,2300,2500,2400,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,03/02/2026,1750,1875,1820,23
+West Bengal,Malda,English Bazar APMC,Onion,Nasik,FAQ,03/02/2026,1900,1900,1900,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,03/02/2026,2300,2500,2400,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,05/02/2026,1750,1875,1820,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,02/02/2026,1700,1900,1800,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,05/02/2026,2200,2450,2350,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,06/02/2026,1500,2000,1800,23
+West Bengal,Malda,English Bazar APMC,Onion,Nasik,FAQ,05/02/2026,1900,1900,1900,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,03/02/2026,1500,1700,1600,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,03/02/2026,2000,2400,2200,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,04/02/2026,3300,3500,3400,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,04/02/2026,1500,2000,1800,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,04/02/2026,2200,2400,2300,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,07/02/2026,2200,2400,2300,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,06/02/2026,2150,2450,2250,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,06/02/2026,1800,2500,2200,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,08/02/2026,1800,2000,1900,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,06/02/2026,2100,2300,2200,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,06/02/2026,1750,1880,1820,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,07/02/2026,1800,2000,1900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,07/02/2026,2200,2400,2300,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,07/02/2026,1800,2000,1900,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,07/02/2026,1600,1800,1700,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,11/02/2026,2100,2350,2285,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,09/02/2026,1800,2500,2200,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,10/02/2026,1700,1900,1800,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,07/02/2026,1500,2000,1800,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,07/02/2026,1800,2400,2200,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,09/02/2026,2150,2400,2200,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,09/02/2026,3000,3200,3100,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,09/02/2026,1600,1800,1700,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,12/02/2026,1700,1900,1800,23
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,Nasik,FAQ,13/02/2026,2100,2300,2200,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,12/02/2026,1800,2400,2200,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,11/02/2026,1600,1800,1700,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,12/02/2026,3000,3200,3100,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,10/02/2026,1850,1910,1900,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,11/02/2026,2200,2350,2300,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,12/02/2026,1750,1900,1850,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,13/02/2026,1800,2500,2200,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,01/01/2026,2000,2200,2100,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,02/01/2026,1900,2100,2000,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,04/01/2026,2100,2300,2200,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,03/01/2026,1700,1800,1750,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,05/01/2026,1700,1800,1750,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,03/01/2026,1600,1800,1750,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,06/01/2026,2100,2300,2200,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,06/01/2026,1800,2200,2000,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,11/01/2026,1700,1800,1750,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,14/01/2026,2000,2400,2200,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,15/01/2026,2100,2300,2200,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,15/01/2026,2000,2100,2050,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,15/01/2026,2130,2160,2140,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,21/01/2026,2300,2500,2400,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,21/01/2026,1700,1750,1720,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,16/01/2026,2200,2300,2200,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,16/01/2026,2000,2400,2200,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,19/01/2026,2000,2400,2200,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,19/01/2026,2110,2145,2140,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,14/01/2026,2000,2500,2200,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,16/01/2026,2000,2300,2200,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,01/02/2026,1800,2100,2000,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,07/02/2026,1800,2400,2200,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,01/01/2026,1500,1600,1550,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,04/01/2026,1600,1700,1650,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,13/01/2026,1650,1725,1685,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,15/01/2026,1650,1750,1700,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,14/01/2026,1650,1750,1700,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,04/01/2026,2300,2500,2400,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,07/01/2026,2200,2400,2300,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,31/01/2026,2200,2400,2300,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,02/02/2026,1800,1800,1800,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,06/02/2026,1750,2000,1850,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,07/02/2026,1750,2000,1850,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,10/02/2026,2200,2400,2300,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,13/02/2026,2100,2300,2200,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,26/01/2026,1700,1775,1745,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,27/01/2026,1700,1785,1745,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,02/02/2026,1800,1900,1850,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,13/02/2026,2100,2300,2200,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,01/01/2026,2000,2400,2200,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,01/01/2026,2400,2650,2550,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,13/01/2026,3300,3500,3400,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,02/01/2026,2400,2800,2600,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,05/01/2026,1950,2150,2000,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,04/01/2026,1800,2000,1900,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Other,FAQ,03/01/2026,2600,2600,2600,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,03/01/2026,2400,2400,2400,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,03/01/2026,1900,2100,2000,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Other,FAQ,05/01/2026,2800,2900,2800,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,05/01/2026,2300,2550,2450,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,06/01/2026,1900,2100,2000,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,06/01/2026,2000,2200,2100,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,08/01/2026,2600,2700,2600,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,12/01/2026,2200,2300,2200,23
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,13/01/2026,2200,2300,2200,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,09/01/2026,3400,3600,3500,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Other,FAQ,12/01/2026,1900,2250,2100,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,12/01/2026,2000,2200,2100,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,14/01/2026,3300,3500,3400,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Other,FAQ,12/01/2026,2400,2500,2450,23
+West Bengal,Nadia,Chakdah APMC,Onion,Other,FAQ,12/01/2026,2000,2200,2100,23
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,15/01/2026,1800,2500,2000,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,14/01/2026,2100,2300,2200,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,15/01/2026,2000,2200,2100,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,15/01/2026,3300,3500,3400,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Medium,20/01/2026,2000,2200,2100,23
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,20/01/2026,2100,2300,2200,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,23/01/2026,2000,2100,2000,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,26/01/2026,2400,2600,2500,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,27/01/2026,1800,2000,1900,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,23/01/2026,1700,1800,1750,23
+West Bengal,Nadia,Kalyani APMC,Onion,Onion,Medium,30/01/2026,2000,2200,2100,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,29/01/2026,2200,2400,2300,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,30/01/2026,2200,2400,2300,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,01/02/2026,1650,1750,1700,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,04/02/2026,2200,2400,2300,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,01/02/2026,2200,2500,2400,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,04/02/2026,1800,1900,1800,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,03/02/2026,2100,2150,2120,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,03/02/2026,2100,2300,2200,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,05/02/2026,2100,2125,2110,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,05/02/2026,2100,2300,2200,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,05/02/2026,1400,1800,1600,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,06/02/2026,1650,1700,1680,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,07/02/2026,1700,1780,1750,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,10/02/2026,2000,2200,2100,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,07/02/2026,2200,2400,2300,23
+West Bengal,Medinipur(W),Ghatal APMC,Onion,Onion,Local,10/02/2026,1700,1770,1750,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,07/02/2026,1700,1800,1750,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,09/02/2026,1200,1600,1400,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,10/02/2026,2100,2120,2110,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,22/01/2026,1800,2000,1900,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,24/01/2026,2000,2100,2000,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,23/01/2026,2400,2600,2500,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,22/01/2026,1400,1800,1600,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,24/01/2026,1700,1900,1800,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,24/01/2026,1700,1750,1720,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,25/01/2026,2100,2200,2100,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,26/01/2026,1700,1800,1750,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,22/01/2026,1700,1800,1750,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,26/01/2026,1800,2000,1900,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,27/01/2026,2100,2300,2200,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,28/01/2026,1400,1800,1600,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,31/01/2026,1800,2000,1900,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,13/01/2026,2200,2300,2200,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,02/01/2026,2000,2000,2000,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,02/01/2026,1700,1700,1700,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,04/01/2026,2000,2200,2200,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,04/01/2026,1800,1800,1800,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,03/01/2026,1200,1800,1750,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,03/01/2026,2600,3500,3000,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,04/01/2026,2000,2400,2200,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,05/01/2026,1800,2400,2000,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,05/01/2026,2100,2450,2300,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,06/01/2026,2000,2200,2100,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,07/01/2026,1800,1800,1800,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,13/01/2026,2400,2600,2500,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,07/01/2026,2300,2500,2400,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,08/01/2026,2150,2450,2300,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,09/01/2026,1800,2000,1800,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,09/01/2026,1800,2200,2000,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,11/01/2026,2300,2600,2500,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,14/01/2026,2150,2350,2275,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,09/01/2026,2100,2100,2100,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,09/01/2026,2100,2300,2250,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,10/01/2026,2150,2450,2300,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,16/01/2026,2000,2200,2100,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,12/01/2026,2200,3000,2500,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,12/01/2026,1500,2200,2000,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,10/01/2026,2200,3000,2600,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,12/01/2026,2600,2800,2700,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,12/01/2026,2150,2450,2350,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,15/01/2026,2500,2700,2600,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,14/01/2026,1600,1800,1700,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,16/01/2026,2300,2500,2400,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,14/01/2026,2150,2450,2400,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,14/01/2026,2150,2500,2450,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,16/01/2026,2000,3000,2500,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,17/01/2026,2300,2500,2400,23
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Onion,Nasik,FAQ,20/01/2026,2000,2600,2200,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,20/01/2026,2000,2100,2050,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,19/01/2026,2200,2450,2350,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,20/01/2026,2400,2600,2500,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,19/01/2026,2000,2200,2100,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,19/01/2026,2150,2150,2150,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,18/01/2026,2200,2450,2350,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,20/01/2026,2100,2375,2250,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,21/01/2026,1800,1800,1800,23
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Onion,Nasik,Non-FAQ,23/01/2026,1500,2200,2000,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,23/01/2026,3300,3500,3400,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,22/01/2026,2400,2600,2500,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,24/01/2026,3300,3500,3400,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,24/01/2026,1600,2100,1800,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,28/01/2026,2300,2500,2400,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,28/01/2026,2300,2500,2400,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,28/01/2026,1600,2000,1800,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,29/01/2026,2300,2500,2400,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,27/01/2026,2300,2500,2400,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,26/01/2026,2300,2500,2400,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,29/01/2026,1700,1900,1850,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,27/01/2026,3300,3500,3400,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,26/01/2026,1900,2100,2000,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,29/01/2026,2300,2500,2400,23
+West Bengal,Howrah,Uluberia APMC,Onion,Nasik,FAQ,28/01/2026,1800,2500,2200,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,28/01/2026,1700,1900,1800,23
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Onion,Nasik,Non-FAQ,29/01/2026,1500,2200,2000,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,31/01/2026,2250,2450,2350,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,30/01/2026,1600,2000,1800,23
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Onion,Nasik,Non-FAQ,30/01/2026,1500,2200,2000,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,29/01/2026,1600,2000,1800,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,30/01/2026,2300,2500,2400,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,29/01/2026,2200,2450,2350,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,30/01/2026,2300,2500,2400,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,12/11/2025,1400,1500,1435,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,21/11/2025,1450,1535,1500,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,14/11/2025,1425,1500,1465,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,24/11/2025,1400,1475,1435,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,16/11/2025,1425,1500,1465,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,03/11/2025,1400,1700,1600,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,04/11/2025,1400,1700,1600,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,17/11/2025,1400,1800,1600,23
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,Onion,1st Sort,FAQ,20/11/2025,1400,1600,1500,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,27/11/2025,1335,1400,1370,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,01/11/2025,1300,1550,1400,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,16/11/2025,1400,1400,1400,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,22/11/2025,1600,2000,1800,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,23/11/2025,1600,1800,1700,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,21/11/2025,1600,2000,1800,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,09/11/2025,1800,1800,1800,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,10/11/2025,1800,1900,1850,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,01/11/2025,1800,1900,1850,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,17/11/2025,1800,1900,1850,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,18/11/2025,1800,1900,1850,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,22/11/2025,1500,1500,1500,23
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,25/11/2025,1700,1900,1800,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,07/11/2025,1800,1900,1850,23
+West Bengal,Nadia,Nadia APMC,Onion,Local,FAQ,11/11/2025,1450,1600,1500,23
+West Bengal,Nadia,Nadia APMC,Onion,Local,FAQ,20/11/2025,1400,1450,1450,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,23/11/2025,1700,1800,1750,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,FAQ,05/11/2025,1550,1650,1600,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,05/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,06/11/2025,1800,2050,1900,23
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,06/11/2025,1500,1600,1550,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,06/11/2025,1800,2000,1900,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,13/11/2025,1600,1600,1600,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Medium,14/11/2025,1200,1900,1800,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,15/11/2025,1200,1500,1300,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,15/11/2025,2800,3000,2900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,14/11/2025,1800,2000,1900,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,15/11/2025,1850,2000,1900,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,16/11/2025,1200,1900,1800,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,18/11/2025,1700,1900,1800,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,18/11/2025,1800,2000,1900,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,18/11/2025,1300,1500,1500,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,17/11/2025,2000,2200,2100,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,18/11/2025,1850,1850,1850,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,17/11/2025,2000,2200,2100,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,19/11/2025,1850,1850,1850,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,20/11/2025,1850,1950,1900,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,19/11/2025,1800,2000,1900,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,20/11/2025,1850,1900,1900,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,19/11/2025,2800,3000,2900,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,19/11/2025,1800,1900,1850,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,19/11/2025,1200,1600,1400,23
+West Bengal,Jalpaiguri,Belacoba APMC,Onion,Nasik,FAQ,23/11/2025,1850,1950,1900,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,19/11/2025,1300,1500,1500,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,18/11/2025,1350,1550,1450,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,20/11/2025,1300,1500,1500,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,20/11/2025,1200,1900,1800,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,20/11/2025,1600,1800,1700,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,20/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,25/11/2025,1600,1850,1750,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,21/11/2025,1800,2000,1900,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,21/11/2025,1850,1850,1850,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,21/11/2025,1300,1500,1400,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,22/11/2025,1200,1600,1400,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,22/11/2025,1300,1500,1400,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,23/11/2025,1200,1600,1400,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,23/11/2025,1200,1900,1800,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,23/11/2025,1700,2000,1800,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,22/11/2025,1850,1950,1900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,25/11/2025,1800,2000,1900,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,25/11/2025,1800,1900,1900,23
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,24/11/2025,1850,1850,1850,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,26/11/2025,1800,2000,1900,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,25/11/2025,1500,1700,1600,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,27/11/2025,1100,1500,1300,23
+West Bengal,Malda,Gajol APMC,Onion,Nasik,FAQ,28/11/2025,1750,1750,1750,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,27/11/2025,1500,1700,1600,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,28/11/2025,1700,1950,1800,23
+West Bengal,Birbhum,Bishnupur APMC,Onion,Nasik,Non-FAQ,28/11/2025,1200,2000,1800,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,28/11/2025,1300,1500,1400,23
+West Bengal,Jalpaiguri,Moynaguri APMC,Onion,Nasik,FAQ,28/11/2025,1800,1900,1850,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,27/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,27/11/2025,1700,1875,1800,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,30/11/2025,2800,3000,2900,23
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,29/11/2025,1500,1700,1600,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,07/11/2025,1400,1400,1400,23
+West Bengal,Hooghly,Kalipur APMC,Onion,Nasik,FAQ,29/11/2025,1300,1400,1400,23
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,29/11/2025,1400,1500,1500,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,30/11/2025,1100,1500,1300,23
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,02/11/2025,1300,1600,1400,23
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,15/11/2025,1800,1900,1850,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,29/11/2025,2000,2200,2100,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,30/11/2025,1300,1400,1400,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,09/11/2025,1500,1700,1600,23
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,10/11/2025,1800,2000,1900,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,11/11/2025,1500,1800,1700,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,Grade A,11/11/2025,1600,1800,1700,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,11/11/2025,2800,3000,2900,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,09/11/2025,1600,2000,1800,23
+West Bengal,Nadia,Karimpur APMC,Onion,Nasik,Grade A,14/11/2025,1800,2000,1900,23
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,13/11/2025,2800,3000,2900,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,18/11/2025,1200,1600,1400,23
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Nasik,FAQ,13/11/2025,1800,2000,1900,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,13/11/2025,1800,2000,1900,23
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,Nasik,FAQ,08/11/2025,1600,2000,1800,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,10/11/2025,1400,1800,1600,23
+West Bengal,Nadia,Bethuadahari APMC,Onion,Nasik,FAQ,01/11/2025,1700,1800,1750,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,02/11/2025,1200,1600,1400,23
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,Nasik,FAQ,02/11/2025,1500,1800,1600,23
+West Bengal,Hooghly,Champadanga APMC,Onion,Nasik,FAQ,03/11/2025,1450,1550,1500,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,03/11/2025,1200,1600,1400,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,03/11/2025,1700,1875,1800,23
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,Non-FAQ,03/11/2025,1250,1400,1300,23
+West Bengal,Hooghly,Sheoraphuly APMC,Onion,Nasik,FAQ,04/11/2025,1200,1600,1400,23
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Onion,Nasik,FAQ,04/11/2025,1800,2000,1900,23
+West Bengal,Kolkata,Bara Bazar (Posta Bazar) APMC,Onion,Nasik,FAQ,04/11/2025,1750,2000,1875,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,13/11/2025,1700,1900,1800,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,14/11/2025,1400,1450,1420,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,14/11/2025,2100,2300,2200,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,01/11/2025,1400,1500,1450,23
+West Bengal,Malda,Samsi APMC,Onion,Onion,FAQ,02/11/2025,1200,1800,1500,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,03/11/2025,1200,1600,1400,23
+West Bengal,Nadia,Kalyani APMC,Onion,Onion,FAQ,03/11/2025,1500,1700,1600,23
+West Bengal,Medinipur(W),Ghatal APMC,Onion,Onion,FAQ,04/11/2025,1500,1600,1550,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,04/11/2025,1200,1600,1400,23
+West Bengal,Medinipur(W),Ghatal APMC,Onion,Onion,FAQ,06/11/2025,1450,1550,1500,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,06/11/2025,1900,2000,1950,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,14/11/2025,1400,1700,1500,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,18/11/2025,1450,1600,1550,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,16/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,16/11/2025,1200,1600,1400,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,17/11/2025,1500,1700,1600,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,16/11/2025,1500,1700,1600,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,16/11/2025,1400,1440,1420,23
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,16/11/2025,2100,2300,2200,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,18/11/2025,1900,2000,1950,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,17/11/2025,1900,2000,1950,23
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,18/11/2025,2100,2300,2200,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,20/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,19/11/2025,1410,1450,1420,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,25/11/2025,1500,1600,1550,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,21/11/2025,1850,2000,1900,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,21/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,21/11/2025,1200,1600,1400,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,22/11/2025,1500,1800,1600,23
+West Bengal,Alipurduar,Alipurduar APMC,Onion,Onion,FAQ,21/11/2025,1400,1600,1500,23
+West Bengal,Purba Bardhaman,Katwa APMC,Onion,Onion,FAQ,23/11/2025,1500,1700,1600,23
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,Onion,Onion,FAQ,25/11/2025,1250,1550,1450,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Onion,FAQ,25/11/2025,2000,2000,2000,23
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Onion,FAQ,24/11/2025,1800,1950,1900,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,24/11/2025,1500,1600,1550,23
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,06/11/2025,1500,1800,1600,23
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,11/11/2025,1200,1600,1400,23
+West Bengal,Medinipur(E),Egra/contai APMC,Onion,Onion,FAQ,12/11/2025,1450,1600,1550,23
+West Bengal,Murshidabad,Jangipur APMC,Onion,Red,FAQ,02/11/2025,1400,1475,1435,23
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,Red,FAQ,16/11/2025,1900,2000,1950,23
+West Bengal,North 24 Parganas,Habra APMC,Onion,Other,FAQ,24/11/2025,2200,2200,2200,23
+West Bengal,Howrah,Uluberia APMC,Onion,Other,Grade A,24/11/2025,1800,2500,2000,23
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,25/11/2025,1800,2100,1900,23
+West Bengal,Darjeeling,Darjeeling APMC,Onion,Other,FAQ,28/11/2025,2800,3000,2900,23
+West Bengal,Howrah,Uluberia APMC,Onion,Other,FAQ,26/11/2025,1600,2200,2000,23
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,27/11/2025,1400,1500,1450,23
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,27/11/2025,1600,1800,1700,23
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Local,30/11/2025,1600,1750,1700,23

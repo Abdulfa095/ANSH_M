@@ -1,0 +1,501 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,12/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,15/11/2025,2550,2650,2600,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,02/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,07/12/2025,2650,2900,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,13/12/2025,2700,2900,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,21/12/2025,2675,2850,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,23/12/2025,2700,2850,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,28/12/2025,2675,2800,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,31/12/2025,2650,2800,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,07/12/2025,2800,2900,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,11/12/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,14/12/2025,2850,3000,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,17/12/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,19/12/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,22/12/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,27/12/2025,2900,3100,3000,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,02/12/2025,2700,2900,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,10/12/2025,2700,2915,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,18/12/2025,2700,2900,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,24/12/2025,2700,2850,2800,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,22/12/2025,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,28/12/2025,2650,2850,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,05/12/2025,2800,3000,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,30/12/2025,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,13/12/2025,3000,3200,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,01/12/2025,2550,2650,2600,1
+West Bengal,Malda,Gajol APMC,Wheat,Other,FAQ,04/12/2025,2700,2700,2700,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,04/12/2025,2900,3300,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,09/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,19/12/2025,2600,2700,2650,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,20/12/2025,2900,3200,3100,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,28/12/2025,2900,3200,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,07/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,09/12/2025,2600,2700,2650,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,06/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,08/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,08/12/2025,2650,2750,2700,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,12/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,12/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,12/12/2025,2900,3200,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,17/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,14/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,15/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,15/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,15/12/2025,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,16/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,23/12/2025,2900,3250,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,20/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,26/12/2025,2600,2700,2650,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,27/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,31/12/2025,2900,3200,3100,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,20/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,21/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,26/11/2025,2550,2650,2600,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,25/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,28/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,16/11/2025,2550,2650,2600,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,17/11/2025,2600,2650,2630,1
+West Bengal,Malda,Gajol APMC,Wheat,Other,FAQ,21/11/2025,2700,2700,2700,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,13/11/2025,2600,2620,2610,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,01/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,02/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,03/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,05/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Sonalika,FAQ,06/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,12/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,14/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,14/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Local,15/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,20/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,25/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,26/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,27/11/2025,2900,3300,3100,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,28/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,01/11/2025,2600,2620,2610,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,03/11/2025,2600,2620,2610,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,10/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Local,14/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,19/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,22/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,26/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,27/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,27/11/2025,2500,2600,2550,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,11/11/2025,2650,3050,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,Non-FAQ,01/11/2025,2550,2750,2600,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,Non-FAQ,04/11/2025,2550,2750,2600,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,14/11/2025,2650,3050,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,27/11/2025,2650,2900,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,14/11/2025,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,13/11/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,16/11/2025,3200,3350,3300,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,18/11/2025,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,28/11/2025,3000,3200,3100,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,02/11/2025,2750,3050,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,Non-FAQ,03/11/2025,2650,2750,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,05/11/2025,2700,3050,2875,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,05/11/2025,2750,3065,2800,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,06/11/2025,2750,3050,2800,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,12/11/2025,2650,3050,2750,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,12/12/2025,2900,3250,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,15/12/2025,2600,2650,2630,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,18/12/2025,2900,3200,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,18/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,26/12/2025,2500,2600,2550,1
+West Bengal,Malda,Gajol APMC,Wheat,Other,FAQ,29/12/2025,2800,2800,2800,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,01/01/2026,2600,2800,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,02/01/2026,2650,2800,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,13/01/2026,2600,2800,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,07/01/2026,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,08/01/2026,2650,2825,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,10/01/2026,2650,2825,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,10/01/2026,2600,2800,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,12/01/2026,2650,2800,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,11/01/2026,2600,2825,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,15/01/2026,2600,2850,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,20/01/2026,2575,2850,2650,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,31/01/2026,2600,2865,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,30/01/2026,2600,2800,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,03/02/2026,2650,2850,2765,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,06/02/2026,2600,2865,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,08/02/2026,2600,2850,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,07/02/2026,2600,2850,2725,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,10/02/2026,2500,2825,2650,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,12/02/2026,2600,2850,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,16/02/2026,2600,2850,2750,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,01/01/2026,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,06/01/2026,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,05/01/2026,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,07/01/2026,3000,3100,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,09/01/2026,2800,2900,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,20/01/2026,2800,3000,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,26/01/2026,2600,2800,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,10/02/2026,2500,2700,2600,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,09/02/2026,2600,2800,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,16/02/2026,2700,2900,2800,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,11/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,06/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,15/02/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,01/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,13/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,05/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,06/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,06/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,08/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,08/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,09/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,10/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,12/01/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,16/01/2026,2900,3200,3100,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,17/01/2026,2900,3200,3100,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,17/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,17/01/2026,2500,2600,2550,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,20/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,21/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,19/01/2026,2600,2700,2650,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,19/01/2026,2500,2600,2550,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,25/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,28/01/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,28/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,02/02/2026,2500,2600,2550,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,01/02/2026,2900,3200,3100,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,03/02/2026,2900,3200,3000,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,02/02/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,03/02/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,03/02/2026,2900,3200,3050,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,03/02/2026,2600,2700,2650,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,08/02/2026,2600,2700,2650,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,07/02/2026,2600,2700,2650,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,08/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,09/02/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,09/02/2026,2600,2700,2650,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,13/02/2026,2900,3200,3100,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,10/02/2026,2900,3200,3000,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,14/02/2026,2900,3200,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,15/02/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,14/02/2026,2600,2700,2650,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,14/02/2026,2600,2700,2650,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,13/02/2026,2600,2700,2650,1
+West Bengal,Birbhum,Birbhum APMC,Wheat,Sonalika,FAQ,16/02/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,16/02/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,16/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Birbhum APMC,Wheat,Other,FAQ,09/02/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,13/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,07/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,08/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,07/01/2026,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,15/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,20/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,16/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,19/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,25/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,02/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,04/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,03/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,09/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,05/01/2026,2500,2600,2550,1
+West Bengal,Malda,Gajol APMC,Wheat,Other,FAQ,07/01/2026,2800,2800,2800,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,05/01/2026,2550,2600,2570,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,01/11/2025,2750,3050,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,02/11/2025,2700,3050,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,03/11/2025,2750,3050,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,16/11/2025,2675,2865,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,19/11/2025,2650,2865,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,20/11/2025,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,23/11/2025,2650,2825,2765,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,17/11/2025,3100,3300,3200,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,23/11/2025,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,27/11/2025,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,30/11/2025,2900,3100,3000,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,12/11/2025,2750,3000,2800,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,03/11/2025,2700,3025,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,Non-FAQ,05/11/2025,2550,2750,2600,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,15/11/2025,2650,2950,2765,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,19/11/2025,2675,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,24/11/2025,2675,2850,2700,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,30/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,29/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Local,16/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,18/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,18/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,21/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,23/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,07/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,13/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,04/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,06/11/2025,2600,2620,2610,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,18/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,17/11/2025,2600,2620,2610,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,21/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,24/11/2025,2600,2620,2610,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,27/11/2025,2650,2750,2700,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,28/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,30/11/2025,2500,2550,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,14/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Local,15/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,13/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,28/11/2025,2550,2650,2600,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,27/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,12/11/2025,2550,2650,2600,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Other,FAQ,04/11/2025,3250,3450,3300,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,22/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Other,FAQ,01/11/2025,2500,2600,2550,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Other,FAQ,05/11/2025,3200,3400,3300,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,14/11/2025,2600,2650,2630,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,15/11/2025,2600,2650,2630,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,23/11/2025,2600,2650,2638,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,24/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,11/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,04/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,04/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,04/11/2025,2600,2620,2610,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,10/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,18/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,22/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,21/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,25/11/2025,2600,2620,2610,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,25/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,20/12/2025,2600,2700,2650,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,27/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,21/12/2025,2600,2700,2650,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,23/12/2025,2550,2650,2600,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,28/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,26/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,31/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,03/12/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,05/12/2025,2650,2750,2700,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,05/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,07/12/2025,2650,2750,2700,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,06/12/2025,2900,3200,3100,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,07/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,08/12/2025,2900,3200,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,11/12/2025,2600,2700,2650,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,12/12/2025,2600,2700,2650,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,14/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,13/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,17/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,23/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,18/12/2025,2600,2700,2650,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,18/12/2025,2900,3250,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,21/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,21/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,24/12/2025,2900,3250,3100,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,24/12/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,25/12/2025,2900,3200,3100,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,26/12/2025,2900,3200,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,30/12/2025,2600,2700,2650,1
+West Bengal,Birbhum,Birbhum APMC,Wheat,Sonalika,FAQ,31/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,31/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,31/12/2025,2600,2700,2650,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,08/12/2025,2700,2900,2850,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,10/12/2025,2800,3000,2900,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,02/12/2025,2600,2650,2630,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,03/12/2025,2600,2650,2630,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,04/12/2025,2600,2650,2620,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,09/12/2025,2900,3300,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,05/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,09/12/2025,2620,2670,2650,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,08/12/2025,2900,3200,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,07/12/2025,2620,2650,2630,1
+West Bengal,Malda,Gajol APMC,Wheat,Other,FAQ,08/12/2025,2800,2800,2800,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,10/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,12/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,11/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,14/12/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,14/12/2025,2600,2650,2630,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,09/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,06/12/2025,2650,2900,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,14/12/2025,2700,2900,2865,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,17/12/2025,2675,2875,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,19/12/2025,2700,2900,2825,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,20/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,22/12/2025,2650,2850,2750,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,02/12/2025,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,01/12/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,18/12/2025,2800,3000,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,23/12/2025,3000,3200,3100,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,16/12/2025,2900,3250,3100,1
+West Bengal,Malda,Gajol APMC,Wheat,Other,FAQ,18/12/2025,2800,2800,2800,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,01/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,23/01/2026,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,24/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,26/01/2026,2550,2650,2600,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,27/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,01/02/2026,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,07/02/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,08/02/2026,2550,2650,2600,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,03/01/2026,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,04/01/2026,2650,2850,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,04/01/2026,2665,2850,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,06/01/2026,2650,2825,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,09/01/2026,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,12/01/2026,2650,2800,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,14/01/2026,2600,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,14/01/2026,2600,2850,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,19/01/2026,2600,2850,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,22/01/2026,2600,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,18/01/2026,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,21/01/2026,2600,2850,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,28/01/2026,2600,2865,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,28/01/2026,2600,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,25/01/2026,2600,2850,2765,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,01/02/2026,2600,2865,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,01/02/2026,2650,2850,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,02/02/2026,2600,2835,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,02/02/2026,2650,2850,2765,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,04/02/2026,2650,2850,2800,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,04/02/2026,2600,2850,2750,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,07/02/2026,2650,2845,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,09/02/2026,2600,2850,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,09/02/2026,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,10/02/2026,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,14/02/2026,2600,2850,2750,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,03/01/2026,2850,2950,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,13/01/2026,2700,2900,2800,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,10/01/2026,2750,2850,2800,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,23/01/2026,2700,2900,2800,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,22/01/2026,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,28/01/2026,2600,2800,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,29/01/2026,2600,2800,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,30/01/2026,2650,2800,2750,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,11/02/2026,2600,2800,2700,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,09/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,09/01/2026,2550,2650,2600,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,08/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,10/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,11/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,13/01/2026,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,14/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,02/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,03/01/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,03/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,04/01/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,10/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,13/01/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,14/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,15/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,14/01/2026,2600,2700,2650,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,21/01/2026,2900,3200,3100,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,15/01/2026,2900,3200,3100,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,18/01/2026,2900,3200,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,19/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,20/01/2026,2600,2700,2650,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,22/01/2026,2500,2650,2550,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,23/01/2026,2900,3200,3100,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,26/01/2026,2900,3200,3100,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,27/01/2026,2900,3200,3100,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,29/01/2026,2550,2700,2600,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,30/01/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,01/02/2026,2550,2700,2650,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,05/02/2026,2600,2700,2650,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,05/02/2026,2900,3200,3100,1
+West Bengal,Birbhum,Birbhum APMC,Wheat,Sonalika,FAQ,06/02/2026,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,06/02/2026,2900,3200,3100,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,09/02/2026,2900,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,06/02/2026,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,10/02/2026,2600,2700,2650,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,17/02/2026,2600,2700,2650,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,14/02/2026,2900,3200,3100,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,13/02/2026,2600,2700,2650,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,17/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,14/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,15/02/2026,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,16/02/2026,2500,2600,2550,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,17/02/2026,2900,3200,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,28/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,11/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,20/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,24/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,22/11/2025,2600,2650,2630,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,23/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,26/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,16/11/2025,2600,2650,2620,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Local,17/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,18/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,19/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Local,21/11/2025,2900,3300,3200,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Local,13/11/2025,2900,3250,3100,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Other,FAQ,06/11/2025,2500,2600,2550,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,09/11/2025,2750,3050,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,01/11/2025,2700,3050,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,Non-FAQ,02/11/2025,2550,2750,2600,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,04/11/2025,2765,3050,2800,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,06/11/2025,2750,3050,2800,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,Non-FAQ,06/11/2025,2550,2750,2600,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,13/11/2025,2700,3000,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,13/11/2025,2700,3050,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,17/11/2025,2650,2850,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,17/11/2025,2650,2850,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,23/11/2025,2650,2865,2725,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,24/11/2025,2650,2850,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,20/11/2025,2650,2865,2750,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,25/11/2025,2650,2800,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,26/11/2025,2650,2865,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,29/11/2025,2650,2900,2775,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,10/11/2025,3000,3200,3100,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,29/11/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,11/11/2025,3000,3200,3100,1
+West Bengal,Uttar Dinajpur,Kaliaganj APMC,Wheat,Local,FAQ,03/11/2025,3100,3300,3200,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,24/11/2025,3100,3200,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,10/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,11/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,Sonalika,Non-FAQ,02/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,03/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,04/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,05/11/2025,2600,2620,2610,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,06/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,17/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,19/11/2025,2600,2620,2610,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,18/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,24/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,22/11/2025,2600,2620,2610,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,24/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,29/11/2025,2900,3300,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Sonalika,FAQ,01/11/2025,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Sonalika,FAQ,02/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Sonalika,FAQ,03/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Sonalika,FAQ,04/11/2025,2550,2650,2600,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,06/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,14/11/2025,2600,2620,2610,1
+West Bengal,Birbhum,Sainthia APMC,Wheat,Sonalika,FAQ,17/11/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,23/11/2025,2500,2600,2550,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,19/11/2025,2900,3300,3100,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,20/11/2025,2600,2620,2610,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,09/12/2025,2700,2900,2865,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,04/12/2025,2700,2900,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,04/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,13/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,17/12/2025,2675,2825,2700,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,20/12/2025,2700,2850,2800,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,26/12/2025,2650,2800,2765,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,27/12/2025,2600,2800,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,08/12/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,16/12/2025,2800,3000,2900,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,28/12/2025,2900,3100,3000,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,31/12/2025,3100,3200,3100,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,01/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,03/12/2025,2700,2900,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,05/12/2025,2675,2900,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,11/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,14/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,16/12/2025,2700,2900,2865,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,23/12/2025,2700,2900,2850,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,24/12/2025,2650,2850,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,27/12/2025,2650,2850,2765,1
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,31/12/2025,2650,2800,2700,1
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,30/12/2025,2650,2800,2700,1
+West Bengal,Nadia,Karimpur APMC,Wheat,Local,Grade Range-1,04/12/2025,3000,3200,3100,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,15/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,22/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,02/12/2025,2900,3300,3100,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,10/12/2025,2900,3200,3100,1
+West Bengal,Malda,Gajol APMC,Wheat,Other,FAQ,22/12/2025,2700,2700,2700,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,25/12/2025,2550,2600,2570,1
+West Bengal,Birbhum,Rampurhat APMC,Wheat,Other,FAQ,25/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Beldanga APMC,Wheat,Other,FAQ,29/12/2025,2500,2600,2550,1
+West Bengal,Birbhum,Bishnupur APMC,Wheat,Other,Non-FAQ,31/12/2025,2900,3300,3100,1
+West Bengal,Birbhum,Bolpur APMC,Wheat,Sonalika,FAQ,02/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Kandi APMC,Wheat,Sonalika,FAQ,02/12/2025,2500,2600,2550,1
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,Sonalika,FAQ,04/12/2025,2650,2750,2700,1
+West Bengal,Bankura,Khatra APMC,Wheat,Sonalika,Non-FAQ,10/12/2025,2900,3250,3100,1

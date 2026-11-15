@@ -1,0 +1,241 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,date,_synthetic,max_temp,min_temp,precipitation,soil_moisture,ndvi,mandi_name,lat,lon
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,6000,5500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,5000,5000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,4000,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,3800,3650,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2200,2500,2350,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3300,3150,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,5000,4500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,6000,5500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4500,5000,4750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3200,4000,3600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4500,4250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,3500,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,4000,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4800,6000,5400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3000,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3300,3500,3400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4500,6000,5250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,4000,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2600,3000,2800,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4200,4600,4400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,5000,5000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3400,3600,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3100,3600,3350,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,5000,5000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Udumalpet APMC,Onion Green,Onion Green,Local,21/02/2026,3300,4000,3650,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3600,3300,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,4000,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2800,3500,3150,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,4000,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,4000,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion Green,Onion Green,Local,21/02/2026,3500,3500,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3000,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3200,3400,3300,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Pallapatti (Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3800,4000,3900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3800,4000,3900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3800,4000,3900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5500,6000,5750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4200,4500,4350,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4200,4100,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3800,3400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3400,3400,3400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3200,3200,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirunelveli,Ambasamudram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,6000,5500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,5000,5000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3000,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,5000,5000,5000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4500,5000,4750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirunelveli,Kandiyaperi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3200,4000,3600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Periyar Nagar(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2000,2600,2300,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2400,2800,2600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Vengamedu(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3800,4000,3900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4500,4250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,1500,2000,1750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2800,3000,2900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Vellore,Thirupathur APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4200,4100,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3200,4000,3600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,4000,4500,4250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3400,3400,3400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,2500,3600,3050,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,3500,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3000,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,1500,2000,1750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3200,3800,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3200,3200,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion Green,Onion Green,Local,21/02/2026,2600,3000,2800,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3800,3400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,2600,2600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3800,3800,3800,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3500,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,2500,2500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3300,2900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Vellore,Thirupathur APMC,Onion,Bellary,Local,21/02/2026,3400,3400,3400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2200,2400,2300,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2600,2300,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2400,3000,2700,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,3000,2800,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2400,3000,2700,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3600,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Udumalpet APMC,Onion,Bellary,Local,21/02/2026,3000,3300,3150,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,2800,2650,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2400,3000,2700,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,Onion Green,Onion Green,Local,21/02/2026,4500,5000,4750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3200,3100,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,4000,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3000,2900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,3000,2800,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,2600,2600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,2600,2600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3500,3500,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,2800,2650,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3000,2900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,3000,2500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,2800,2700,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Ulundurpettai APMC,Onion,Bellary,Local,21/02/2026,3500,3500,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2400,2200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,3200,2900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3600,3600,3600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3000,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,2500,2500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,3000,2500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,3500,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3200,3200,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3200,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,4000,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,2600,2600,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3200,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3500,3500,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3500,3500,3500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,2500,2500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2200,2600,2400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Tindivanam APMC,Onion,Bellary,Local,21/02/2026,4000,4000,4000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2200,2500,2350,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2400,2600,2500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3000,2900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2400,3000,2700,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2400,3000,2700,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3000,2900,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2600,3000,2800,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2800,3500,3150,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2400,2600,2500,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2500,2250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3000,3000,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,3000,3500,3250,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2500,3000,2750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,2000,2800,2400,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,Onion,Bellary,Local,21/02/2026,1500,2000,1750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Namakkal,Tiruchengode APMC,Onion,Bellary,Local,21/02/2026,2500,2800,2650,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3000,3400,3200,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,Onion Green,Onion Green,Local,21/02/2026,3500,4000,3750,2026-02-21,False,34.5,24.0,29.6,0.14,0.7672810517178481,Vadaseri APMC,8.1955,77.43

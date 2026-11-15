@@ -1,0 +1,501 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+Odisha,Nuapada,Khariar APMC,Onion,Dry F.A.Q.,Non-FAQ,04/11/2025,2000,2500,2000,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Local,Grade B,19/11/2025,2000,2600,2300,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,19/11/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,25/11/2025,2000,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,24/11/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,FAQ,10/11/2025,5000,5000,5000,23
+Odisha,Nuapada,Khariar APMC,Onion,Dry F.A.Q.,Non-FAQ,05/11/2025,2000,2500,2000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,26/11/2025,2400,2400,2400,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Non-FAQ,02/11/2025,1900,2200,2000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,18/11/2025,4000,4000,4000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,18/11/2025,1900,2100,2000,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade A,19/11/2025,1200,1800,1500,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,21/11/2025,1200,1800,1500,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,19/11/2025,2000,2300,2200,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,21/11/2025,2300,2300,2300,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,23/11/2025,2500,2500,2500,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,25/11/2025,2500,2500,2500,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,25/11/2025,4000,4000,4000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,25/11/2025,1900,2100,2000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,23/11/2025,4000,4000,4000,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,22/11/2025,2200,2400,2300,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,09/11/2025,2300,2300,2300,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,25/11/2025,1700,1900,1800,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,26/11/2025,1500,2500,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,26/11/2025,2270,2270,2270,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,27/11/2025,1700,2000,1900,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,27/11/2025,1800,2200,2000,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,30/11/2025,1500,2500,2000,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,29/11/2025,1500,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,29/11/2025,1800,2200,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,29/11/2025,2280,2280,2280,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,17/11/2025,1800,2000,1900,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,19/11/2025,2500,2500,2500,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,21/11/2025,2170,2170,2170,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,19/11/2025,1600,2000,1800,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,21/11/2025,1800,2000,1900,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,26/11/2025,1900,2050,2000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,30/11/2025,1800,2000,1900,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,FAQ,03/11/2025,2200,2500,2380,23
+Odisha,Bargarh,Bargarh APMC,Onion,Other,Grade C,13/11/2025,1900,2100,2000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Other,FAQ,06/11/2025,2100,2300,2200,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,15/11/2025,1500,2000,1800,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,10/11/2025,1500,3000,2500,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,12/11/2025,1500,2000,1800,23
+Odisha,Ganjam,Hinjilicut APMC,Onion,Other,FAQ,09/11/2025,1600,2600,2200,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,13/11/2025,2400,2400,2400,23
+Odisha,Balasore,Jaleswar APMC,Onion,Other,FAQ,01/11/2025,1500,1900,1700,23
+Odisha,Boudh,Boudh APMC,Onion,Other,FAQ,02/11/2025,2000,3000,2500,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Non-FAQ,02/11/2025,1200,1800,1500,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Non-FAQ,02/11/2025,3000,3000,3000,23
+Odisha,Khurda,Balugaon APMC,Onion,Other,Non-FAQ,02/11/2025,1500,1700,1600,23
+Odisha,Khurda,Balugaon APMC,Onion,Other,Non-FAQ,03/11/2025,1700,1850,1800,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,FAQ,04/11/2025,2200,2500,2370,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,Non-FAQ,04/11/2025,1500,2000,1700,23
+Odisha,Sonepur,Dungurapalli APMC,Onion,Other,Non-FAQ,05/11/2025,2450,2500,2500,23
+Odisha,Sonepur,Pandkital APMC,Onion,Other,Non-FAQ,03/11/2025,2400,2500,2500,23
+Odisha,Boudh,Boudh APMC,Onion,Other,FAQ,06/11/2025,2200,3000,2500,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Other,FAQ,06/11/2025,3000,3000,3000,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,26/11/2025,2300,2500,2400,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,27/11/2025,2400,2600,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,27/11/2025,2300,2500,2400,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,26/11/2025,2500,2500,2500,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,29/11/2025,2500,2500,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,29/11/2025,2600,2800,2700,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,29/11/2025,2300,2500,2400,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,02/12/2025,2240,2240,2240,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,03/12/2025,1500,1700,1600,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,04/12/2025,1800,2200,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,08/12/2025,2230,2230,2230,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,09/12/2025,2220,2220,2220,23
+Odisha,Keonjhar,Saharpada APMC,Onion,Other,Medium,08/12/2025,2000,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,10/12/2025,1800,2200,2000,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,10/12/2025,3000,3000,3000,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,18/12/2025,2300,2700,2500,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,20/12/2025,2320,2320,2320,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,24/12/2025,1800,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,28/12/2025,1700,2000,1800,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,05/12/2025,1500,1900,1700,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,06/12/2025,1500,1900,1700,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,10/12/2025,1600,2000,1800,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,31/12/2025,2200,2600,2400,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,01/12/2025,1500,2500,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,07/12/2025,2400,2400,2400,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,11/12/2025,1900,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,16/12/2025,1900,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,22/12/2025,1900,2000,2000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,01/12/2025,1950,2000,2000,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,01/12/2025,1000,2000,1500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,01/12/2025,2400,2600,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,01/12/2025,2400,2600,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade B,02/12/2025,3100,3300,3200,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,03/12/2025,4000,4000,4000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,05/12/2025,1800,1800,1800,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,09/12/2025,2400,2600,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,09/12/2025,3000,3200,3100,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,06/12/2025,5000,5000,5000,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,08/12/2025,1000,1800,1500,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,07/12/2025,2500,2500,2500,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,16/12/2025,2500,2500,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,17/12/2025,2400,2800,2600,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,18/12/2025,1200,1800,1500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,19/12/2025,2700,3100,2900,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,22/12/2025,2700,2900,2800,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,25/12/2025,2700,2700,2700,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,24/12/2025,2700,3200,2900,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,24/12/2025,1900,1950,1950,23
+Odisha,Sambalpur,Kuchinda APMC,Onion,Onion,Medium,25/12/2025,1800,1800,1800,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,26/12/2025,1000,1500,1200,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,06/12/2025,3300,3500,3400,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,05/12/2025,2500,2500,2500,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,09/12/2025,1000,1500,1200,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,10/12/2025,1900,1980,1950,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,11/12/2025,1950,2050,2000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,10/12/2025,2000,2000,2000,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,11/12/2025,2000,2000,2000,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,14/12/2025,2500,2500,2500,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,15/12/2025,6000,6000,6000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,21/12/2025,1900,1950,1900,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,21/12/2025,3100,3600,3500,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,28/12/2025,2700,2700,2700,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,29/12/2025,2700,2700,2700,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,20/12/2025,2500,2900,2800,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,23/12/2025,6000,6000,6000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,20/12/2025,2700,2700,2700,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,22/12/2025,2700,2700,2700,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,03/01/2026,2000,2100,2100,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,05/01/2026,2000,2100,2100,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,07/01/2026,2000,2100,2100,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,12/01/2026,2400,2400,2400,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,15/01/2026,2400,2400,2400,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,17/01/2026,2000,2100,2100,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Local,Grade B,08/01/2026,2200,2600,2400,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Local,Grade B,13/01/2026,1800,2200,2000,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Local,Grade B,21/01/2026,1800,2200,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,08/01/2026,2000,2100,2100,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,15/01/2026,2000,2100,2100,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,16/01/2026,2000,2100,2100,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,21/01/2026,2100,2200,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,11/02/2026,1500,2500,2000,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,10/01/2026,2400,2600,2500,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,12/01/2026,1200,1500,1300,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,17/01/2026,2300,2500,2400,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,21/01/2026,2200,2500,2400,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,24/01/2026,2200,2500,2300,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,25/01/2026,2100,2500,2300,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,31/01/2026,2100,2200,2200,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,04/02/2026,2100,2200,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,04/02/2026,2200,2200,2200,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Local,06/02/2026,2100,2200,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,09/02/2026,2000,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,08/02/2026,2000,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,12/02/2026,2100,2200,2200,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,01/01/2026,2600,2600,2600,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,02/01/2026,3000,3000,3000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,03/01/2026,1900,2000,1950,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,03/01/2026,3000,3000,3000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,05/01/2026,2600,2600,2600,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,07/01/2026,2400,2900,2800,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,13/01/2026,2000,2150,2100,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,08/01/2026,2000,2100,2050,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,06/01/2026,5000,5000,5000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,17/01/2026,2340,2340,2340,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,25/01/2026,2000,3000,2500,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,25/01/2026,1800,2200,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,29/01/2026,2000,2500,2200,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,31/01/2026,2270,2270,2270,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,30/01/2026,2000,2500,2200,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,01/02/2026,1800,2000,1900,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Grade A,02/02/2026,1500,2500,2000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,29/01/2026,2000,2100,2100,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,28/01/2026,5000,5000,5000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,29/01/2026,6000,6000,6000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,30/01/2026,2000,2000,2000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,31/01/2026,2100,2100,2100,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,01/02/2026,2300,2800,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,02/02/2026,2500,3100,2800,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,03/02/2026,1600,1600,1600,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,04/02/2026,2400,2900,2800,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,04/02/2026,2000,2000,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,16/01/2026,2280,2280,2280,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,17/01/2026,1500,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,20/01/2026,2000,2500,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,31/01/2026,1500,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,27/01/2026,1800,2200,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,28/01/2026,2000,2500,2200,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,06/02/2026,2000,2500,2200,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,04/02/2026,2000,2500,2200,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Grade A,04/02/2026,1500,2000,2000,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Grade A,05/02/2026,1500,2000,1800,23
+Odisha,Kalahandi,Bhawanipatna APMC,Onion,Other,FAQ,06/02/2026,3600,3700,3600,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,08/02/2026,1800,2000,1900,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Grade A,07/02/2026,1500,2000,2000,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,09/02/2026,2200,2500,2400,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,10/02/2026,2200,2500,2400,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,10/02/2026,1800,2200,2000,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,07/01/2026,1000,1600,1200,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,08/01/2026,2600,2600,2600,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,04/02/2026,5000,5000,5000,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,11/02/2026,2500,2500,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Medium,09/02/2026,2300,2900,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,08/02/2026,2600,3100,2800,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Medium,09/02/2026,2600,2900,2800,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,09/02/2026,1200,2000,1500,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,10/02/2026,1600,1600,1600,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,13/02/2026,1600,1600,1600,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,13/02/2026,2000,2100,2050,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,12/02/2026,2200,2800,2600,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,01/01/2026,1500,2500,2000,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,02/01/2026,1500,2500,2000,23
+Odisha,Keonjhar,Keonjhar(Dhekikote) APMC,Onion,Other,Non-FAQ,03/01/2026,2000,2300,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,05/01/2026,1500,2500,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,07/01/2026,3220,3220,3220,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,11/01/2026,2000,2500,2200,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,13/01/2026,2000,2500,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,11/01/2026,1500,2500,2000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,13/01/2026,2600,2600,2600,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,15/01/2026,2050,2150,2100,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,16/01/2026,2000,2100,2100,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,15/01/2026,2300,2800,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,17/01/2026,2200,2700,2400,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,19/01/2026,2600,2600,2600,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,20/01/2026,2300,2300,2300,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,20/01/2026,1200,1800,1500,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,19/01/2026,2000,2000,2000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,18/01/2026,3600,3600,3600,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,18/01/2026,2600,2600,2600,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,21/01/2026,2000,2100,2050,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,24/01/2026,2200,2900,2600,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,22/01/2026,2000,2000,2000,23
+Odisha,Puri,Nimapara APMC,Onion,Onion,Grade A,30/01/2026,2500,2500,2500,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,31/01/2026,2000,2100,2050,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,04/02/2026,2200,2600,2300,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Local,Grade B,17/11/2025,1500,2000,1800,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Large,05/11/2025,2200,2200,2200,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,06/11/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,FAQ,11/11/2025,2000,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,12/11/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,13/11/2025,2000,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,20/11/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,19/11/2025,2000,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,24/11/2025,2000,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,28/11/2025,1900,2000,2000,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,29/11/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,12/11/2025,5500,5500,5500,23
+Odisha,Nuapada,Khariar APMC,Onion,Dry F.A.Q.,Non-FAQ,03/11/2025,2000,2100,2000,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,26/11/2025,2500,2500,2500,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,26/11/2025,1700,1900,1800,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,28/11/2025,2260,2260,2260,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,28/11/2025,1500,2500,2000,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Non-FAQ,03/11/2025,2500,3000,3000,23
+Odisha,Khurda,Balugaon APMC,Onion,Other,FAQ,03/11/2025,2000,2200,2100,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Non-FAQ,04/11/2025,1800,2200,2000,23
+Odisha,Ganjam,Hinjilicut APMC,Onion,Other,FAQ,04/11/2025,1600,2500,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Other,FAQ,04/11/2025,2000,2300,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Other,Non-FAQ,04/11/2025,1800,2100,2000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Other,FAQ,03/11/2025,2100,2300,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Non-FAQ,06/11/2025,1500,2000,1800,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Other,FAQ,04/11/2025,2000,2200,2100,23
+Odisha,Boudh,Khunthabandha APMC,Onion,Other,FAQ,04/11/2025,1800,2500,2000,23
+Odisha,Sonepur,Pandkital APMC,Onion,Other,Non-FAQ,04/11/2025,2150,2200,2200,23
+Odisha,Bargarh,Bargarh APMC,Onion,Other,Local,15/11/2025,1900,2100,2000,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,16/11/2025,2000,3000,2500,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,18/11/2025,2500,2500,2500,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,22/11/2025,2000,2500,2200,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,20/11/2025,1700,2000,1800,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,24/11/2025,2500,2500,2500,23
+Odisha,Bolangir,Tusura APMC,Onion,Other,Grade A,25/11/2025,2500,2500,2500,23
+Odisha,Sonepur,Pandkital APMC,Onion,Other,Non-FAQ,02/11/2025,2200,2450,2400,23
+Odisha,Bargarh,Bargarh APMC,Onion,Other,FAQ,05/11/2025,2000,2200,2100,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Non-FAQ,05/11/2025,2500,2500,2500,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,13/11/2025,5000,5000,5000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,16/11/2025,5000,5000,5000,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,08/11/2025,2000,2000,2000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,13/11/2025,2400,2400,2400,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,18/11/2025,1500,1700,1600,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,15/11/2025,2400,2400,2400,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,17/11/2025,4000,4000,4000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,16/11/2025,2400,2400,2400,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,19/11/2025,2000,2000,2000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,18/11/2025,2300,2300,2300,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,20/11/2025,1000,1500,1200,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,25/11/2025,1200,2000,1500,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,27/11/2025,4000,4000,4000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,28/11/2025,4000,4000,4000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,30/11/2025,4000,4000,4000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,30/11/2025,2600,2800,2700,23
+Odisha,Ganjam,Hinjilicut APMC,Onion,Other,FAQ,07/11/2025,2400,2400,2400,23
+Odisha,Bargarh,Bargarh APMC,Onion,Other,Grade B,11/11/2025,2100,2300,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,12/11/2025,1500,2500,2000,23
+Odisha,Keonjhar,Keonjhar APMC,Onion,Other,Medium,07/11/2025,1600,1800,1800,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,13/11/2025,1800,2000,1900,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Non-FAQ,01/11/2025,2500,3000,2500,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Other,Non-FAQ,01/11/2025,2000,2200,2200,23
+Odisha,Rayagada,Rayagada APMC,Onion,Other,FAQ,01/11/2025,2200,2300,2300,23
+Odisha,Balasore,Jaleswar APMC,Onion,Other,FAQ,02/11/2025,1500,1900,1700,23
+Odisha,Bargarh,Bargarh APMC,Onion,Other,FAQ,02/11/2025,2100,2300,2200,23
+Odisha,Ganjam,Hinjilicut APMC,Onion,Other,FAQ,02/11/2025,1400,2400,2000,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,01/12/2025,2500,2500,2500,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,01/12/2025,4000,4000,4000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,01/12/2025,1900,1900,1900,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,02/12/2025,1800,1800,1800,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,03/12/2025,3100,3300,3200,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,02/12/2025,2500,2500,2500,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,04/12/2025,1950,2050,2000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,04/12/2025,4000,4000,4000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,11/12/2025,2400,2600,2500,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,12/12/2025,1900,1900,1900,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade C,15/12/2025,1000,1500,1200,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,17/12/2025,2700,2700,2700,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,17/12/2025,1900,2000,1950,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,04/12/2025,2500,2500,2500,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,05/12/2025,1000,1800,1500,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,05/12/2025,5000,5000,5000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,10/12/2025,4000,4000,4000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,07/12/2025,2400,2600,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,10/12/2025,2200,2400,2300,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,11/12/2025,2100,2300,2200,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,13/12/2025,2000,2000,2000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,15/12/2025,2500,2700,2600,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,18/12/2025,1900,2000,1950,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,20/12/2025,2700,3100,2900,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,23/12/2025,1000,1800,1500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade B,25/12/2025,2200,2800,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Medium,25/12/2025,2400,2800,2600,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Local,22/12/2025,1000,2000,1500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,24/12/2025,2100,2800,2400,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,25/12/2025,3000,3000,3000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,25/12/2025,6000,6000,6000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,26/12/2025,2500,2900,2800,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,26/12/2025,2000,2200,2200,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,28/12/2025,2500,3000,2800,23
+Odisha,Puri,Nimapara APMC,Onion,Onion,Grade A,28/12/2025,2500,2500,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Medium,30/12/2025,2400,2800,2600,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,30/12/2025,2600,2600,2600,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,29/12/2025,6000,6000,6000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,31/12/2025,6000,6000,6000,23
+Odisha,Bolangir,Tusura APMC,Onion,Other,Grade A,04/12/2025,2500,2500,2500,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,06/12/2025,2160,2160,2160,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,08/12/2025,3000,3000,3000,23
+Odisha,Bolangir,Tusura APMC,Onion,Other,Grade A,08/12/2025,2400,2400,2400,23
+Odisha,Bolangir,Tusura APMC,Onion,Other,Grade A,09/12/2025,3000,3000,3000,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,07/12/2025,1500,2500,2000,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,12/12/2025,1500,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,14/12/2025,2000,2500,2200,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,01/12/2025,1500,1700,1600,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,16/12/2025,1800,2200,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,18/12/2025,2240,2240,2240,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,23/12/2025,2500,3000,2800,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,23/12/2025,2200,2600,2400,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,22/12/2025,1500,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,25/12/2025,2000,2500,2200,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,24/12/2025,1800,2200,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,24/12/2025,2150,2150,2150,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,29/12/2025,1500,2500,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,28/12/2025,2270,2270,2270,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,30/12/2025,1500,2500,2000,23
+Odisha,Keonjhar,Keonjhar APMC,Onion,Other,Non-FAQ,29/12/2025,2000,2200,2200,23
+Odisha,Keonjhar,Saharpada APMC,Onion,Other,Local,28/12/2025,2000,2200,2200,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,30/12/2025,2280,2280,2280,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,31/12/2025,1800,2200,2000,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,27/12/2025,2200,2600,2400,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,15/12/2025,2000,2500,2200,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,16/12/2025,2000,2400,2200,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,17/12/2025,2300,2700,2500,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Local,Grade B,24/12/2025,1800,2200,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,04/12/2025,2200,2200,2200,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,09/12/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,09/12/2025,2400,2400,2400,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,08/12/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,08/12/2025,2400,2400,2400,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,11/12/2025,2400,2400,2400,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,14/12/2025,2200,2200,2200,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,15/12/2025,1900,2000,2000,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,17/12/2025,2400,2400,2400,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,20/12/2025,2400,2400,2400,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,29/12/2025,1900,2000,2000,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Local,Grade B,17/12/2025,1500,2000,1800,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Local,Grade B,26/12/2025,1600,2000,1800,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,02/01/2026,2200,2200,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,05/01/2026,2400,2400,2400,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,09/01/2026,2000,2100,2100,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,13/01/2026,2000,2100,2100,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,13/01/2026,2400,2400,2400,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,24/01/2026,1800,2200,2000,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Other,FAQ,27/01/2026,2000,2000,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,29/01/2026,2260,2260,2260,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,12/02/2026,2000,3000,2500,23
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,FAQ,12/02/2026,1500,2000,1800,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,11/02/2026,1800,2200,2000,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,07/01/2026,2100,2800,2500,23
+Odisha,Puri,Nimapara APMC,Onion,Onion,Grade A,11/01/2026,2500,2500,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,10/01/2026,2500,2900,2700,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,12/01/2026,2400,3000,2800,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,20/01/2026,2000,2000,2000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,16/01/2026,2200,2800,2400,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,16/01/2026,1000,1500,1200,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,16/01/2026,2200,2500,2300,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,23/01/2026,2200,2500,2300,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,16/01/2026,1500,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,26/01/2026,1800,2200,2000,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,27/01/2026,2280,2280,2280,23
+Odisha,Bolangir,Tusura APMC,Onion,Other,Grade A,30/01/2026,2500,2500,2500,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,02/02/2026,2170,2170,2170,23
+Odisha,Keonjhar,Saharpada APMC,Onion,Other,Local,01/02/2026,2200,2400,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,03/02/2026,2000,3000,2500,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,04/02/2026,2500,2500,2500,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,04/02/2026,1500,2500,2000,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,05/02/2026,1500,2500,2000,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,13/02/2026,2100,2400,2200,23
+Odisha,Kalahandi,Bhawanipatna APMC,Onion,Other,FAQ,10/02/2026,3600,3600,3600,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,13/02/2026,1800,2200,2000,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,02/01/2026,2200,2700,2400,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,02/02/2026,2100,2200,2200,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,11/02/2026,2100,2200,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,07/02/2026,2000,2000,2000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,01/01/2026,5000,5000,5000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,03/01/2026,5000,5000,5000,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,01/01/2026,3000,3000,3000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Medium,09/01/2026,2100,2900,2800,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,04/01/2026,2000,2150,2100,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,04/01/2026,3000,3000,3000,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,05/01/2026,1000,1500,1200,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,06/01/2026,1000,1500,1200,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,11/01/2026,3000,3000,3000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,14/01/2026,2600,2600,2600,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,17/01/2026,1000,1500,1200,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,21/01/2026,1200,1600,1400,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,28/01/2026,2200,2500,2300,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,30/01/2026,2000,2500,2200,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,02/02/2026,2100,2500,2200,23
+Odisha,Sundergarh,Sargipali APMC,Onion,Red,FAQ,06/02/2026,2200,2500,2300,23
+Odisha,Kalahandi,Kesinga APMC,Onion,Local,Grade B,02/01/2026,1600,2000,1800,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,11/02/2026,1200,2000,1500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,13/02/2026,2200,2900,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Medium,13/02/2026,2200,2600,2400,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,12/02/2026,2200,2800,2500,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,08/01/2026,2000,2400,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,14/01/2026,1500,2500,2000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,14/01/2026,1800,2200,2000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,28/01/2026,2200,2900,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Grade C,30/01/2026,2200,2900,2500,23
+Odisha,Ganjam,Bhanjanagar APMC,Onion,Onion,FAQ,29/01/2026,1600,1800,1700,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,30/01/2026,2000,2100,2050,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Medium,01/02/2026,2300,2800,2500,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,03/02/2026,2000,2100,2100,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,03/02/2026,5000,5000,5000,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,04/02/2026,2100,2700,2300,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,06/02/2026,2000,2000,2000,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,04/02/2026,1500,2000,1800,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,06/02/2026,1700,1700,1700,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,04/02/2026,2000,2100,2100,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,10/02/2026,2500,2500,2500,23
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade B,13/02/2026,1500,2200,1800,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Local,23/01/2026,2300,2900,2500,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,27/01/2026,2200,2900,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,29/01/2026,2100,2900,2400,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,30/01/2026,2000,2000,2000,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,02/02/2026,2050,2100,2100,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,09/01/2026,2400,2400,2400,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,16/01/2026,2400,2400,2400,23
+Odisha,Rayagada,Rayagada APMC,Onion,Nasik,Medium,29/01/2026,2100,2200,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,26/01/2026,2200,2200,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,30/01/2026,2200,2200,2200,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,27/11/2025,1500,2500,2000,23
+Odisha,Keonjhar,Keonjhar(Dhekikote) APMC,Onion,Other,Local,29/11/2025,2200,2500,2500,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,10/11/2025,2300,2300,2300,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,03/11/2025,2300,2500,2400,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,25/11/2025,2300,2300,2300,23
+Odisha,Bargarh,Bargarh(Barapalli) APMC,Onion,Onion,Grade C,28/11/2025,2200,2400,2300,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Onion,FAQ,27/11/2025,2500,2500,2500,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,30/11/2025,2700,2900,2800,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,29/11/2025,4000,4000,4000,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,28/11/2025,1800,1800,1800,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,14/11/2025,5000,5000,5000,23
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,24/11/2025,40,40,40,23
+Odisha,Bargarh,Bargarh APMC,Onion,Other,FAQ,01/11/2025,2100,2300,2200,23
+Odisha,Khurda,Balugaon APMC,Onion,Other,FAQ,01/11/2025,1800,2000,1850,23
+Odisha,Khurda,Balugaon APMC,Onion,Other,Non-FAQ,01/11/2025,1500,1650,1600,23
+Odisha,Sonepur,Dungurapalli APMC,Onion,Other,Non-FAQ,01/11/2025,2200,2200,2200,23
+Odisha,Sonepur,Dungurapalli APMC,Onion,Other,Non-FAQ,02/11/2025,2100,2150,2150,23
+Odisha,Bargarh,Attabira APMC,Onion,Other,FAQ,03/11/2025,2000,2500,2200,23
+Odisha,Ganjam,Hinjilicut APMC,Onion,Other,FAQ,03/11/2025,2000,2600,2400,23
+Odisha,Keonjhar,Keonjhar APMC,Onion,Other,Non-FAQ,03/11/2025,2800,3000,3000,23
+Odisha,Sonepur,Dungurapalli APMC,Onion,Other,Non-FAQ,03/11/2025,2000,2000,2000,23
+Odisha,Sonepur,Pandkital APMC,Onion,Other,Non-FAQ,01/11/2025,2200,2500,2400,23
+Odisha,Nuapada,Khariar Road APMC,Onion,Other,Non-FAQ,04/11/2025,2000,2500,2500,23
+Odisha,Keonjhar,Saharpada APMC,Onion,Other,Non-FAQ,02/11/2025,3500,4000,4000,23
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Non-FAQ,05/11/2025,1800,2200,2000,23
+Odisha,Ganjam,Hinjilicut APMC,Onion,Other,FAQ,05/11/2025,1800,2500,2000,23
+Odisha,Sonepur,Dungurapalli APMC,Onion,Other,Non-FAQ,06/11/2025,2100,2400,2300,23
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,17/11/2025,2000,3000,2500,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,19/11/2025,2060,2060,2060,23
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,20/11/2025,2270,2270,2270,23
+Odisha,Sonepur,Pandkital APMC,Onion,Other,Non-FAQ,06/11/2025,2350,2500,2400,23
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Grade A,14/11/2025,2400,2400,2400,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Medium,17/11/2025,1500,1700,1600,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,16/11/2025,1500,1700,1600,23
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,16/11/2025,2400,2500,2400,23
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,17/11/2025,2400,2400,2400,23
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Local,19/11/2025,1600,1800,1700,23

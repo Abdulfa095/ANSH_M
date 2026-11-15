@@ -1,0 +1,258 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,commodity_code
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,04/11/2025,1200,1900,1650,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,25/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,26/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,16/11/2025,1000,1800,1450,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,17/11/2025,1000,1600,1300,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,20/11/2025,1000,1400,1300,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,23/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,11/11/2025,1000,1600,1350,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,02/11/2025,1000,1600,1350,23
+NCT of Delhi,Delhi,Shahdara APMC,Onion,Other,FAQ,01/11/2025,1100,1600,1300,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,01/12/2025,800,1200,1000,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,05/12/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,09/12/2025,700,1500,1200,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,16/12/2025,500,2500,1786,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,22/12/2025,500,2250,1461,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,26/12/2025,1000,2200,1700,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,30/12/2025,2400,2800,2600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,04/12/2025,800,1400,1200,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,03/12/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,11/12/2025,1000,2500,2000,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,15/12/2025,2800,3200,3000,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,13/01/2026,1600,2000,1800,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,16/01/2026,1600,2000,1800,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,21/01/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,05/02/2026,1200,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,09/02/2026,1400,1700,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,08/02/2026,1000,1700,1400,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,10/02/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,29/01/2026,500,2125,1500,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,01/02/2026,1400,2000,1800,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,03/02/2026,1400,2000,1700,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,09/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,17/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,16/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,15/01/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,19/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,20/01/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,06/11/2025,500,1500,1063,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,14/11/2025,1000,1600,1300,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,01/11/2025,1200,1600,1400,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,01/11/2025,500,1500,1063,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,03/11/2025,500,1500,1063,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,15/11/2025,1000,1500,1300,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,21/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,09/11/2025,1100,1600,1450,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,10/11/2025,1000,1600,1350,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,28/11/2025,1000,1400,1200,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,27/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,23/12/2025,1800,2200,2000,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,27/12/2025,500,2250,1461,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,26/12/2025,500,2250,1461,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,25/12/2025,1600,2000,1800,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,18/12/2025,1000,1400,1200,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,31/12/2025,500,2250,1429,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,02/12/2025,750,2250,1719,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,10/12/2025,1800,2200,2000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,12/12/2025,1500,2600,2350,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,17/12/2025,1800,2200,2000,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,12/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,20/01/2026,500,2125,1386,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,17/01/2026,1600,2000,1800,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,17/01/2026,1200,2000,1750,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,19/01/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,20/01/2026,1200,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,22/01/2026,1200,2000,1700,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,24/01/2026,500,2125,1500,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,28/01/2026,1600,2000,1800,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,11/02/2026,750,1875,1396,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,13/02/2026,1400,2000,1750,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,13/02/2026,750,2000,1388,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,01/01/2026,1200,2200,1850,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,03/01/2026,1200,2500,2150,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,07/01/2026,2000,2400,2200,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,08/01/2026,750,2250,1679,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,02/02/2026,500,1875,1357,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,01/02/2026,1200,1600,1400,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,02/02/2026,1200,1600,1400,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,05/02/2026,500,1875,1357,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,10/02/2026,750,1875,1396,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,13/11/2025,1000,1600,1300,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,28/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,08/11/2025,1300,1800,1600,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,16/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,30/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,04/11/2025,500,1500,1068,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,05/11/2025,500,1500,1063,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,11/12/2025,1600,2000,1800,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,15/12/2025,1500,2600,2250,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,18/12/2025,500,2500,1786,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,24/12/2025,500,2250,1461,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,21/12/2025,1400,2000,1750,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,02/01/2026,1400,2200,1950,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,05/01/2026,1600,2500,2150,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,04/01/2026,1800,2000,1900,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,06/01/2026,1600,1800,1700,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,13/01/2026,1500,2000,1800,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,08/01/2026,1500,2500,2150,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,04/02/2026,500,1875,1357,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,06/02/2026,1400,2000,1750,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,04/02/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,07/02/2026,1500,2300,1800,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,07/02/2026,625,1875,1396,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,10/02/2026,1200,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,19/01/2026,1300,1700,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,21/01/2026,500,2125,1386,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,30/01/2026,500,2125,1500,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,11/01/2026,1600,2600,2250,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,14/01/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,22/01/2026,500,2125,1482,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,28/01/2026,500,2125,1500,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,30/01/2026,1400,2000,1700,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,31/01/2026,500,2125,1500,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,06/02/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,24/11/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,27/11/2025,1000,1600,1250,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,10/11/2025,500,1500,1063,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,02/12/2025,700,1500,1250,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,01/12/2025,500,1750,1225,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,02/12/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,05/12/2025,800,1400,1200,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,04/12/2025,750,2250,1719,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,06/12/2025,375,1750,984,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,09/12/2025,1200,1600,1400,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,07/12/2025,1200,1600,1400,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,19/12/2025,1600,2000,1800,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,20/12/2025,500,2250,1786,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,19/12/2025,500,2500,1786,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,22/12/2025,1000,2000,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,29/12/2025,500,2250,1461,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,26/12/2025,1400,1800,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,05/12/2025,750,2375,1719,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,04/12/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,10/12/2025,375,1750,1054,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,11/12/2025,375,1750,1054,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,14/12/2025,1600,2700,2300,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,16/12/2025,1500,2500,2300,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,23/12/2025,800,1600,1300,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,19/12/2025,1200,1800,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,30/12/2025,500,2250,1429,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,11/02/2026,1600,2000,1800,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,18/01/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,23/01/2026,1600,2100,2000,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,24/01/2026,1200,1800,1650,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,01/01/2026,2400,2800,2600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,01/01/2026,500,2250,1429,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,02/01/2026,1600,2000,1800,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,04/01/2026,1500,2500,2200,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,06/01/2026,1200,2200,1950,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,05/01/2026,1200,1600,1400,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,13/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,12/01/2026,1500,2200,1950,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,14/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,30/01/2026,1400,1800,1600,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,02/02/2026,1200,1800,1600,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,03/02/2026,500,1875,1357,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,06/02/2026,500,1875,1357,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,09/02/2026,625,1875,1396,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,12/02/2026,750,2000,1388,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,29/01/2026,1800,2000,1900,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,16/01/2026,1500,2200,1900,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,23/01/2026,500,2125,1482,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,30/11/2025,800,1400,1200,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,18/11/2025,1000,1400,1200,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,23/11/2025,800,1800,1300,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,03/11/2025,1200,1800,1600,23
+NCT of Delhi,Delhi,Shahdara APMC,Onion,Nasik,FAQ,01/11/2025,1100,1600,1300,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,01/12/2025,800,1200,1000,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,03/12/2025,750,2375,1719,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,09/12/2025,375,1750,1054,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,07/12/2025,700,1500,1200,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,15/12/2025,375,1750,1054,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,06/12/2025,700,1400,1200,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,08/12/2025,375,1750,984,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,08/12/2025,1000,1600,1300,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,14/12/2025,1800,2200,2000,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,17/12/2025,500,2500,1786,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,22/12/2025,2000,2400,2200,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,18/12/2025,1200,2400,1950,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,25/12/2025,500,2250,1461,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,23/12/2025,500,2250,1461,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,27/12/2025,1200,2200,1850,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,20/12/2025,1200,2200,1950,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,12/02/2026,1400,2200,1900,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,15/01/2026,500,2125,1393,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,29/01/2026,1400,2000,1700,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,31/01/2026,1200,1800,1600,23
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Onion,Onion,FAQ,03/02/2026,1200,1600,1400,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,02/01/2026,750,2250,1661,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,03/01/2026,750,2250,1643,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,06/01/2026,750,2250,1643,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,05/01/2026,750,2250,1643,23
+NCT of Delhi,Delhi,Keshopur APMC,Onion,Onion,FAQ,15/01/2026,1500,2200,2000,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,27/01/2026,500,2125,1500,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion,Onion,FAQ,07/01/2026,750,2250,1679,23
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,05/11/2025,2000,3000,2500,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,19/12/2025,1500,3000,2300,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,22/12/2025,1000,3000,2000,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,23/12/2025,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,29/12/2025,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,10/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,04/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,09/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,15/12/2025,1500,3000,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,24/12/2025,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,02/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,05/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,07/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,12/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,09/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,13/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,16/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,23/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,24/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,01/11/2025,2000,3000,2500,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,03/11/2025,2000,3000,2500,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,26/12/2025,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,27/12/2025,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,13/01/2026,1000,2500,2000,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,20/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,19/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,22/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,28/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,29/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,03/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,11/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,06/01/2026,1000,2500,2000,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,09/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,06/11/2025,2000,3000,2500,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,03/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,06/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,08/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,17/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,04/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,12/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,01/01/2026,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,08/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,30/12/2025,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,17/12/2025,1500,3000,2300,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,03/01/2026,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,05/01/2026,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,07/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,14/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,15/01/2026,1000,2500,2100,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,21/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,27/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,30/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,31/01/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,10/02/2026,1500,2500,2200,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,04/11/2025,2000,3000,2500,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,11/12/2025,1500,3000,2300,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,18/12/2025,1500,3000,2300,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,20/12/2025,1500,3000,2350,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,25/12/2025,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,01/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,02/12/2025,1000,2500,1700,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,02/01/2026,1000,2500,1850,358
+NCT of Delhi,Delhi,Azadpur APMC,Onion Green,Onion Green,FAQ,06/02/2026,1500,2500,2200,358
